@@ -5,7 +5,7 @@ require_relative "../core/solve_time"
 class BestResultOffPodium < GroupedStatistic
   def initialize
     @title = "Best result not providing a podium"
-    @note = "Only finals are taken into account."
+    @note = "Only finals at Polish competitions are taken into account."
     @table_header = { "Person" => :left, "Single" => :right, "Average" => :right, "Competition" => :left, "Place" => :center }
   end
 
@@ -22,10 +22,10 @@ class BestResultOffPodium < GroupedStatistic
         pos place
       FROM Results
       JOIN Persons person ON person.wca_id = personId AND person.subId = 1
-      JOIN Competitions competition ON competition.id = competitionId
+      JOIN Competitions competition ON competition.id = competitionId AND competition.countryId = 'Poland'
       JOIN preferred_formats preferred_format ON preferred_format.event_id = eventId AND ranking = 1
       JOIN Formats format ON format.id = preferred_format.format_id
-      WHERE roundTypeId IN ('c', 'f') AND pos > 3 AND countryId='Poland'
+      WHERE roundTypeId IN ('c', 'f') AND pos > 3
     SQL
   end
 

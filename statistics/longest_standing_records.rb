@@ -21,33 +21,22 @@ class LongestStandingRecords < GroupedStatistic
         eventId event_id,
         continent.name continent
       FROM Results result
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1 AND person.countryId = 'Poland'
       JOIN Competitions competition ON competition.id = competitionId
       JOIN Countries country ON country.id = result.countryId
       JOIN Continents continent ON continent.id = country.continentId
-      WHERE regionalSingleRecord IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
-         OR regionalAverageRecord IN ('AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR', 'WR')
+      WHERE regionalSingleRecord = 'NR'
+         OR regionalAverageRecord = 'NR'
       ORDER BY competition_date
     SQL
   end
 
   def transform(query_results)
     {
-      "World" => %w(WR),
-      "Africa" => %w(AfR WR),
-      "Asia" => %w(AsR WR),
-      "Europe" => %w(ER WR),
-      "North America" => %w(NAR WR),
-      "Oceania" => %w(OcR WR),
-      "South America" => %w(SAR WR)
+      "Poland" => %w(NR)
     }.map do |region, record_ids|
       results = %w(single average).flat_map do |type|
         query_results
-          .select do |result|
-            record_ids.include?(result["regional_#{type}_record"]) &&
-            (region == "World" || region == result["continent"]) &&
-            Events::OFFICIAL.has_key?(result["event_id"])
-          end
           .group_by { |result| result["event_id"] }
           .flat_map do |event_id, results|
             results.each do |result_1|
@@ -64,7 +53,7 @@ class LongestStandingRecords < GroupedStatistic
           end
         end
         .sort_by! { |event, type, days, *rest| -days }
-        .take(10)
+        .take(20)
         .map! { |event, type, days, *rest| [event, type, "**#{days}**", *rest] }
       [region, results]
     end

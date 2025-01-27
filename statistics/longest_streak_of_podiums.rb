@@ -20,10 +20,9 @@ class LongestStreakOfPodiums < Statistic
         best single
       FROM Results
       JOIN Events event ON event.id = eventId
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1 AND person.countryId = 'Poland'
       JOIN Competitions competition ON competition.id = competitionId
       JOIN RoundTypes round_type ON round_type.id = roundTypeId
-      WHERE countryId = 'Poland'
       ORDER BY competition.start_date, round_type.rank
     SQL
   end

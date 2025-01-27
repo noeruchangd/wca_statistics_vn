@@ -20,11 +20,10 @@ class CompetitionsPerYearByPerson < Statistic
             personId wca_id
           FROM Results result
           JOIN Competitions competition ON competition.id = competitionId
-          WHERE countryId = 'Poland'
           GROUP BY personId
           HAVING years >= 1
       ) AS data_by_person
-      JOIN Persons person ON person.wca_id = data_by_person.wca_id
+      JOIN Persons person ON person.wca_id = data_by_person.wca_id AND person.countryId = 'Poland'
       ORDER BY competitions_per_year DESC
       LIMIT 100
     SQL

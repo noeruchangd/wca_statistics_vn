@@ -12,5 +12,5 @@ list = STATISTICS
   .join
 
 destination_path = File.join(build_path, "README.md")
-File.write(destination_path, list)
+File.write(destination_path, ("All statistics are computed only for competitors from Poland/Polish competitions.\n\n" + list))
 puts "File generated at #{destination_path}"

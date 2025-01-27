@@ -1,22 +1,22 @@
 require_relative "../core/statistic"
 
-class WorldChampionshipPodiumsByCountry < Statistic
+class PolishChampionshipPodiumsByPerson < Statistic
   def initialize
-    @title = "World Championship podiums by country"
-    @table_header = { "Country" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
+    @title = "Polish Championship podiums by person"
+    @table_header = { "Person" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
   end
 
   def query
     <<-SQL
       SELECT
-        country.name,
+        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('**', gold_medals, '**'),
         silver_medals,
         bronze_medals,
         gold_medals + silver_medals + bronze_medals total
       FROM (
         SELECT
-          result.countryId,
+          personId,
           SUM(IF(pos = 1, 1, 0)) gold_medals,
           SUM(IF(pos = 2, 1, 0)) silver_medals,
           SUM(IF(pos = 3, 1, 0)) bronze_medals
@@ -27,12 +27,12 @@ class WorldChampionshipPodiumsByCountry < Statistic
           AND roundTypeId IN ('c', 'f')
           AND best > 0
           AND result.countryId = 'Poland'
-          AND championship_type = 'world'
-        GROUP BY result.countryId
+          AND championship_type = 'PL'
+        GROUP BY personId
       ) AS medals_by_country
-      JOIN Countries country ON country.id = countryId
+      JOIN Persons person ON person.wca_id = personId AND subId = 1
       WHERE gold_medals + silver_medals + bronze_medals > 0
-      ORDER BY gold_medals DESC, silver_medals DESC, bronze_medals DESC, country.name
+      ORDER BY gold_medals DESC, silver_medals DESC, bronze_medals DESC, person.name
     SQL
   end
 end

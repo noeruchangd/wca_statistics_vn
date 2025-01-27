@@ -30,8 +30,6 @@ class MostCompletedSolves < GroupedStatistic
     {
       "Competition" => "competition_link",
       "Person" => "person_link",
-      "Country" => "country",
-      "Continent" => "continent",
       "Year" => "year",
       "Event" => "event"
     }.map do |group_name, group_field|
