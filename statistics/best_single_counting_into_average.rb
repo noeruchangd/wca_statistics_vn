@@ -18,7 +18,7 @@ class BestSingleCountingIntoAverage < GroupedStatistic
       FROM Results
       JOIN Persons person ON person.wca_id = personId AND person.subId = 1
       JOIN Competitions competition ON competition.id = competitionId
-      WHERE formatId = 'a'
+      WHERE formatId = 'a' AND countryId = 'Poland'
     SQL
   end
 

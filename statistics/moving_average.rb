@@ -25,7 +25,7 @@ class MovingAverage < GroupedStatistic
         eventId event_id,
         average
       FROM Results result
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1 AND person.countryId = 'Poland'
       JOIN Competitions competition ON competition.id = competitionId
       JOIN RoundTypes round_type ON round_type.id = roundTypeId
       WHERE average > 0 AND eventId NOT IN ('333bf', '333mbf', '333mbo', '444bf', '555bf')

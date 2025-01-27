@@ -38,7 +38,7 @@ class ShortestTimeToGetAllSinglesAndAverages < Statistic
         HAVING COUNT(eventId) = #{NUM_EVENTS_WITH_AVERAGES}
       ) AS all_average_people ON all_average_people.personId = all_events_people.personId
       JOIN Results result ON result.personId = all_events_people.personId
-      JOIN Persons person ON person.wca_id = result.personId and person.subId = 1
+      JOIN Persons person ON person.wca_id = result.personId and person.subId = 1 AND person.countryId = 'Poland'
       JOIN Competitions competition ON competition.id = competitionId
       ORDER BY start_date
     SQL

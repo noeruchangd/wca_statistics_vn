@@ -33,7 +33,7 @@ class MostAttendedCompetitionsInSingleMonth < Statistic
         GROUP BY personId, YEAR(competition.start_date), month_name
         HAVING attended_within_month >= 4
       ) AS comps_within_single_month_by_person
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
+      JOIN Persons person ON person.wca_id = personId AND subId = 1 AND person.countryId = 'Poland'
       ORDER BY attended_within_month DESC, person.name
     SQL
   end

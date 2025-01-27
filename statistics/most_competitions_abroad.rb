@@ -25,7 +25,7 @@ class MostCompetitionsAbroad < Statistic
         ORDER BY competitions_abroad DESC
         LIMIT 100
       ) AS person_ids_with_competitions_abroad
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1 AND person.countryId = 'Poland'
       ORDER BY competitions_abroad DESC
     SQL
   end

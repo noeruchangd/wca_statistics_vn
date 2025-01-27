@@ -16,6 +16,7 @@ class FewestCompetitorsContest < Statistic
           COUNT(DISTINCT personId) competitors_count,
           competitionId
         FROM Results
+        WHERE countryId = 'Poland'
         GROUP BY competitionId
         HAVING competitors_count <= 15
       ) AS competitors_count_by_competition

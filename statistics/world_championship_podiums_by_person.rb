@@ -26,6 +26,7 @@ class WorldChampionshipPodiumsByPerson < Statistic
         WHERE 1
           AND roundTypeId IN ('c', 'f')
           AND best > 0
+          AND result.countryId = 'Poland'
           AND championship_type = 'world'
         GROUP BY personId
       ) AS medals_by_country

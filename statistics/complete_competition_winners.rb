@@ -27,6 +27,7 @@ class CompleteCompetitionWinners < Statistic
       JOIN Persons person ON person.wca_id = personId AND subId = 1
       JOIN Competitions competition ON competition.id = competitionId
       JOIN Countries country ON country.id = person.countryId
+      WHERE person.countryId = 'Poland'
       ORDER BY events_count DESC, person.name
     SQL
   end

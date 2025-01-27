@@ -29,7 +29,7 @@ class LongestTimeToSub10 < Statistic
         WHERE eventId = '333' AND average > 0 AND average < 1000
         GROUP BY personId
       ) AS first_sub_10_competition ON first_sub_10_competition.personId = sub_10_person.personId
-      JOIN Persons person ON person.wca_id = sub_10_person.personId AND subId = 1
+      JOIN Persons person ON person.wca_id = sub_10_person.personId AND subId = 1 AND person.countryId = 'Poland'
       ORDER BY years DESC
       LIMIT 100
     SQL

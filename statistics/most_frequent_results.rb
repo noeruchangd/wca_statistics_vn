@@ -17,7 +17,7 @@ class MostFrequentResults < GroupedStatistic
         value4,
         value5
       FROM Results
-      WHERE eventId != '333mbo'
+      WHERE eventId != '333mbo' AND countryId = 'Poland'
     SQL
   end
 

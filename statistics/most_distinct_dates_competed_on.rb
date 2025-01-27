@@ -35,7 +35,7 @@ class MostDistinctDatesCompetedOn < Statistic
         GROUP BY personId
         HAVING attended_dates >= 100
       ) AS comp_dates_by_person
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
+      JOIN Persons person ON person.wca_id = personId AND subId = 1 AND person.countryId = 'Poland'
       ORDER BY attended_dates DESC, person.name
     SQL
   end

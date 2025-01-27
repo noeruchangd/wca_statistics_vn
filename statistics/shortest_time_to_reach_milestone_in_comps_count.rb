@@ -19,7 +19,7 @@ class ShortestTimeToReachMilestoneInCompsCount < GroupedStatistic
         FROM Results
         JOIN Competitions competition ON competition.id = competitionId
       ) AS competition_dates_with_people
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
+      JOIN Persons person ON person.wca_id = personId AND subId = 1 AND person.countryId = 'Poland'
       ORDER BY start_date
     SQL
   end

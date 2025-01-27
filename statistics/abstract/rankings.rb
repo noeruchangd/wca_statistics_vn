@@ -22,7 +22,7 @@ class Rankings < GroupedStatistic
         CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         country.name country
       FROM Results
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1 AND person.countryId = 'Poland'
       JOIN Countries country ON country.id = person.countryId
       JOIN Competitions competition ON competition.id = competitionId
       #{@condition}

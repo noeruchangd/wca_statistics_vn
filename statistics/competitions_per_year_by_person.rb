@@ -20,6 +20,7 @@ class CompetitionsPerYearByPerson < Statistic
             personId wca_id
           FROM Results result
           JOIN Competitions competition ON competition.id = competitionId
+          WHERE countryId = 'Poland'
           GROUP BY personId
           HAVING years >= 1
       ) AS data_by_person

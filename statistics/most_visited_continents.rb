@@ -22,7 +22,7 @@ class MostVisitedContinents < Statistic
         GROUP BY personId
         HAVING visited_continents >= 4
       ) AS people_with_visited_continents
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
+      JOIN Persons person ON person.wca_id = personId AND subId = 1 AND person.countryId = 'Poland'
       ORDER BY visited_continents DESC
     SQL
   end

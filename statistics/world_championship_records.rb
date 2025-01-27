@@ -19,7 +19,7 @@ class WorldChampionshipRecords < GroupedStatistic
         best single,
         average
       FROM Results
-      JOIN Persons person ON person.wca_id = personId AND person.subId = 1
+      JOIN Persons person ON person.wca_id = personId AND person.subId = 1 AND person.countryId = 'Poland'
       JOIN Competitions competition ON competition.id = competitionId
       JOIN Countries country ON country.id = person.countryId
       JOIN championships ON championships.competition_id = competitionId

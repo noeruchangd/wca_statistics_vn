@@ -25,7 +25,7 @@ class BestResultOffPodium < GroupedStatistic
       JOIN Competitions competition ON competition.id = competitionId
       JOIN preferred_formats preferred_format ON preferred_format.event_id = eventId AND ranking = 1
       JOIN Formats format ON format.id = preferred_format.format_id
-      WHERE roundTypeId IN ('c', 'f') AND pos > 3
+      WHERE roundTypeId IN ('c', 'f') AND pos > 3 AND countryId='Poland'
     SQL
   end
 

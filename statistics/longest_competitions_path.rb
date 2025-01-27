@@ -17,7 +17,7 @@ class LongestCompetitionsPath < Statistic
         SELECT DISTINCT personId, competitionId
         FROM Results
       ) AS people_with_competitions
-      JOIN Persons person ON person.wca_id = personId AND subId = 1
+      JOIN Persons person ON person.wca_id = personId AND subId = 1 AND person.countryId = 'Poland'
       JOIN Competitions competition ON competition.id = competitionId
       WHERE competition.countryId -- Ignore Multiple Countries used for continental FMC competitions.
         NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')

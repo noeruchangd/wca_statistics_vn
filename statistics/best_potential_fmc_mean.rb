@@ -21,7 +21,7 @@ class BestPotentialFmcMean < Statistic
           competitionId,
           roundTypeId
         FROM Results
-        WHERE eventId = '333fm'
+        WHERE eventId = '333fm' AND countryId='Poland'
         GROUP BY competitionId, roundTypeId
       ) AS best_attempts_by_competition_and_round
       JOIN Competitions competition ON competition.id = competitionId

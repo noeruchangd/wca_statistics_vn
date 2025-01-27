@@ -28,7 +28,7 @@ class AverageOfX < GroupedStatistic
       JOIN RoundTypes round_type ON round_type.id = roundTypeId
       JOIN RanksSingle ranks_single ON ranks_single.eventId = result.eventId AND ranks_single.personId = result.personId
       -- Take people from top 200 single for optimization reasons.
-      WHERE ranks_single.worldRank <= 200 AND result.eventId NOT IN ('333mbf', '333mbo')
+      WHERE ranks_single.worldRank <= 200 AND result.eventId NOT IN ('333mbf', '333mbo') AND result.countryId='Poland'
       ORDER BY competition.start_date, round_type.rank
     SQL
   end

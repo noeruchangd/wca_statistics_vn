@@ -22,7 +22,7 @@ class MostDelegatedCompetitions < Statistic
         GROUP BY delegate_id
       ) AS delegated_count_by_user
       JOIN users user ON user.id = delegate_id
-      JOIN Persons person ON person.wca_id = user.wca_id AND person.subId = 1
+      JOIN Persons person ON person.wca_id = user.wca_id AND person.subId = 1 AND person.countryId = 'Poland'
       ORDER BY delegated_count DESC
     SQL
   end
