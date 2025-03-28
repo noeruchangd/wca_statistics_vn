@@ -2,17 +2,16 @@ require_relative "../core/statistic"
 
 class LongestStreakOfCompetitionsInOwnCountry < Statistic
   def initialize
-    @title = "Longest streak of competitions in own country"
-    @note = "The streak ends whenever the person doesn't participate in a competition in own country."
-    @table_header = { "Competitions" => :right, "Person" => :left, "Country" => :left, "Started at" => :left, "Missed" => :left }
+    @title = "Longest streak of competitions in Poland"
+    @note = "The streak ends whenever the person doesn't participate in a competition in Poland."
+    @table_header = { "Competitions" => :right, "Person" => :left, "Started at" => :left, "Missed" => :left }
   end
 
   def query
     <<-SQL
       SELECT
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
-        country.name country
+        CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link
       FROM (
         SELECT DISTINCT personId, competitionId
         FROM Results
@@ -51,7 +50,7 @@ class LongestStreakOfCompetitionsInOwnCountry < Statistic
       end
       .sort_by! { |person_link, longest_streak| -longest_streak[:count] }
       .map! do |person_link, longest_streak|
-        [longest_streak[:count], person_link, longest_streak[:country], longest_streak[:first_competition], longest_streak[:last_competition]]
+        [longest_streak[:count], person_link, longest_streak[:first_competition], longest_streak[:last_competition]]
       end
       .first(100)
   end

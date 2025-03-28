@@ -4,7 +4,7 @@ class AverageEventCountByCompetition < Statistic
   def initialize
     @title = "Average event count by competition"
     @note = "In other words, average number of events competitors participated in."
-    @table_header = { "Competition" => :left, "Average event count" => :right, "Competitors" => :right, "Country" => :left }
+    @table_header = { "Competition" => :left, "Average event count" => :right, "Competitors" => :right }
   end
 
   def query
@@ -12,8 +12,7 @@ class AverageEventCountByCompetition < Statistic
       SELECT
         CONCAT('[', competition.cellName, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         AVG(event_count) average_event_count,
-        COUNT(*) competitors,
-        country.name country
+        COUNT(*) competitors
       FROM (
         SELECT
           competitionId,

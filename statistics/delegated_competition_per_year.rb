@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class DelegatedCompetitionPerYear < Statistic
   def initialize
     @title = "Delegated competitions per year"
-    @note = "Only delegates with at least 5 competitions are taken into account.
+    @note = "Only delegates with at least 3 competitions are taken into account.
              Delegate period is calculated as the difference between first and last delegated competition."
     @table_header = { "Delegated per year" => :right, "Delegated" => :right, "Years" => :right, "Person" => :left, "List on WCA" => :center }
   end
@@ -28,7 +28,7 @@ class DelegatedCompetitionPerYear < Statistic
       ) AS delegated_count_by_user
       JOIN users user ON user.id = delegate_id
       JOIN Persons person ON person.wca_id = user.wca_id AND person.subId = 1 AND person.countryId = 'Poland'
-      WHERE delegated_count >= 5
+      WHERE delegated_count >= 3
       ORDER BY delegated_per_year DESC
     SQL
   end
