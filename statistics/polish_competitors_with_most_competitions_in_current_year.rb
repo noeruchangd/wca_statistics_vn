@@ -9,12 +9,12 @@ class PolishCompetitorsWithMostCompetitionsInCurrentYear < Statistic
   def query
     <<-SQL
       SELECT 
-        COUNT(DISTINCT competitionId) AS c, 
-        CONCAT('[', personName, '](https://www.worldcubeassociation.org/persons/', personId, ')') person_link
-      FROM Results 
-      WHERE competitionId LIKE CONCAT('%', YEAR(CURDATE())) 
-            AND countryId="Poland" 
-      GROUP BY personId, personName
+        COUNT(DISTINCT competition_id) AS c, 
+        CONCAT('[', person_name, '](https://www.worldcubeassociation.org/persons/', person_id, ')') person_link
+      FROM results 
+      WHERE competition_id LIKE CONCAT('%', YEAR(CURDATE())) 
+            AND country_id="Poland" 
+      GROUP BY person_id, person_name
       ORDER BY c DESC
     SQL
   end  

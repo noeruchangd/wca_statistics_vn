@@ -13,13 +13,13 @@ class NationalRecordsByPerson < Statistic
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
       FROM (
         SELECT
-          personId,
-          SUM((IF(regionalSingleRecord = 'NR', 1, 0) + IF(regionalAverageRecord = 'NR', 1, 0))) wrs_count
-        FROM Results
-        GROUP BY personId
+          person_id,
+          SUM((IF(regional_single_record = 'NR', 1, 0) + IF(regional_average_record = 'NR', 1, 0))) wrs_count
+        FROM results
+        GROUP BY person_id
         HAVING wrs_count > 0
       ) AS wrs_count_by_person
-      JOIN Persons person ON person.wca_id = personId AND subId = 1 AND person.countryId = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Poland'
       ORDER BY wrs_count DESC, person.name
     SQL
   end
