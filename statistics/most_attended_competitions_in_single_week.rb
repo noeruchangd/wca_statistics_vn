@@ -26,7 +26,7 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
             SEPARATOR ', '
           ) competition_links
         FROM (
-          SELECT DISTINCT competition_id person_id
+          SELECT DISTINCT competition_id, person_id
           FROM results
         ) AS results
         JOIN competitions competition ON competition.id = competition_id
