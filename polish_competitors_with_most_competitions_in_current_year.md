@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 22 April 2025*
+*Updated on 25 April 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -85,6 +85,7 @@
 | 5 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
 | 5 | [Sebastian Kierznikiewicz](https://www.worldcubeassociation.org/persons/2023KIER02) |
 | 5 | [Dawid Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA07) |
+| 5 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) |
 | 5 | [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) |
 | 5 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 5 | [Tomasz Darłak](https://www.worldcubeassociation.org/persons/2024DARL01) |
@@ -139,7 +140,6 @@
 | 4 | [Mikołaj Seelieb](https://www.worldcubeassociation.org/persons/2023SEEL04) |
 | 4 | [Michał Selwesiuk](https://www.worldcubeassociation.org/persons/2023SELW01) |
 | 4 | [Paweł Stolarski](https://www.worldcubeassociation.org/persons/2023STOL04) |
-| 4 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) |
 | 4 | [Julia Dąbrowska](https://www.worldcubeassociation.org/persons/2024DABR01) |
 | 4 | [Gustaw Gabor](https://www.worldcubeassociation.org/persons/2024GABO01) |
 | 4 | [Mateusz Korolkiewicz](https://www.worldcubeassociation.org/persons/2024KORO03) |
@@ -301,6 +301,7 @@
 | 2 | [Nikodem Zawierucha](https://www.worldcubeassociation.org/persons/2022ZAWI01) |
 | 2 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
 | 2 | [Michał Adamczyk](https://www.worldcubeassociation.org/persons/2023ADAM21) |
+| 2 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 2 | [Borys Barański](https://www.worldcubeassociation.org/persons/2023BARA08) |
 | 2 | [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) |
 | 2 | [Błażej Chrząstek](https://www.worldcubeassociation.org/persons/2023CHRZ01) |
@@ -552,7 +553,6 @@
 | 1 | [Adam Zakrzewski](https://www.worldcubeassociation.org/persons/2022ZAKR02) |
 | 1 | [Wiktor Żurowski](https://www.worldcubeassociation.org/persons/2022ZURO01) |
 | 1 | [Bartosz Adamowski](https://www.worldcubeassociation.org/persons/2023ADAM01) |
-| 1 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 1 | [Szymon Andrzejewski](https://www.worldcubeassociation.org/persons/2023ANDR05) |
 | 1 | [Piotr Angrot](https://www.worldcubeassociation.org/persons/2023ANGR01) |
 | 1 | [Leon Bajer](https://www.worldcubeassociation.org/persons/2023BAJE02) |
@@ -593,6 +593,7 @@
 | 1 | [Sebastian Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA09) |
 | 1 | [Szymon Kulpa](https://www.worldcubeassociation.org/persons/2023KULP02) |
 | 1 | [Jan Lis](https://www.worldcubeassociation.org/persons/2023LISJ01) |
+| 1 | [Leon Lubocki](https://www.worldcubeassociation.org/persons/2023LUBO02) |
 | 1 | [Antoni Ługom](https://www.worldcubeassociation.org/persons/2023LUGO03) |
 | 1 | [Wojciech Mazurek](https://www.worldcubeassociation.org/persons/2023MAZU02) |
 | 1 | [Gracjan Morski](https://www.worldcubeassociation.org/persons/2023MORS02) |

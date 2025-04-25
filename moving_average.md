@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 22 April 2025*
+*Updated on 25 April 2025*
 
 
 ### Rubik's Cube
@@ -650,8 +650,8 @@
 | 4.14 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 4.17 | [Nikodem Biernacki](https://www.worldcubeassociation.org/persons/2024BIER01) |
 | 4.20 | [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) |
+| 4.20 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) |
 | 4.24 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
-| 4.27 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) |
 | 4.31 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
 | 4.32 | [Bartłomiej Sordyl](https://www.worldcubeassociation.org/persons/2014SORD01) |
 | 4.38 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) |
