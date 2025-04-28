@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 April 2025*
+*Updated on 28 April 2025*
 
 
 ### Rubik's Cube
@@ -121,8 +121,8 @@
 | 0.13 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 22.82 | 22.95 | [III Project Warszawa 2019](https://www.worldcubeassociation.org/competitions/IIIProjectWarszawa2019/results/by_person#2016SALA18) |
 | 0.14 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 19.25 | 19.39 | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015/results/by_person#2006HALC01) |
 | 0.15 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 23.67 | 23.82 | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2020DWOR01) |
+| 0.16 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 14.95 | 15.11 | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025/results/by_person#2021KULA02) |
 | 0.17 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 15.64 | 15.81 | [Czech Open 2016](https://www.worldcubeassociation.org/competitions/CzechOpen2016/results/by_person#2013BURL01) |
-| 0.17 | [Radosław Smędzik](https://www.worldcubeassociation.org/persons/2022SMED01) | 16.55 | 16.72 | [Cube4fun Wisła Masters 2024](https://www.worldcubeassociation.org/competitions/Cube4funWislaMasters2024/results/by_person#2022SMED01) |
 
 ### Megaminx
 
