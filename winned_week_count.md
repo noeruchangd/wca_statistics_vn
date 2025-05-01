@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 28 April 2025*
+*Updated on  1 May 2025*
 
 
 ### Rubik's Cube
@@ -223,9 +223,9 @@
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 8 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5 |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 4 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2 |
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 2 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2 |
 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) | 1 |
 | [Bartłomiej Lewandowski](https://www.worldcubeassociation.org/persons/2013LEWA01) | 1 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 1 |

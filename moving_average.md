@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 28 April 2025*
+*Updated on  1 May 2025*
 
 
 ### Rubik's Cube
@@ -542,13 +542,13 @@
 | 3.73 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 3.77 | [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) |
 | 3.83 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) |
+| 3.86 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 3.88 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 3.89 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 | 3.91 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 3.99 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 4.00 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 4.01 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
-| 4.02 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 4.03 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
 | 4.05 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 4.10 | [Franciszek Kłos](https://www.worldcubeassociation.org/persons/2021KLOS02) |
@@ -611,8 +611,8 @@
 | 6.12 | [Sebastian Nitka](https://www.worldcubeassociation.org/persons/2022NITK01) |
 | 6.17 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 6.19 | [Bartosz Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR07) |
-| 6.22 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 6.23 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) |
+| 6.25 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 6.27 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
 
 ### Skewb
@@ -624,8 +624,8 @@
 | 2.45 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 2.53 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 2.64 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) |
-| 2.86 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 2.88 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
+| 2.95 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 3.06 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 3.14 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 3.22 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |

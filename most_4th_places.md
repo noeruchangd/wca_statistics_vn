@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 28 April 2025*
+*Updated on  1 May 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -75,8 +75,8 @@
 | 19 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 18 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 18 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) |
-| 17 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 17 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
+| 17 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 17 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 17 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 17 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
@@ -89,11 +89,12 @@
 | 15 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 15 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 15 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) |
-| 14 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
-| 14 | [Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02) |
-| 14 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
-| 14 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
 | 14 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
+| 14 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
+| 14 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
+| 14 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
+| 14 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
+| 14 | [Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02) |
 | 14 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 13 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) |
 | 13 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
@@ -103,7 +104,6 @@
 | 12 | [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) |
 | 12 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) |
 | 12 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
-| 12 | [Adam Czech](https://www.worldcubeassociation.org/persons/2013CZEC01) |
 | 12 | [Filip Pasławski](https://www.worldcubeassociation.org/persons/2013PASA01) |
 
 
