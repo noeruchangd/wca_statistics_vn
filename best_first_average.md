@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  1 May 2025*
+*Updated on  4 May 2025*
 
 
 ### Rubik's Cube
@@ -30,8 +30,8 @@
 | 3.54 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 3.60 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 3.65 | [Miłosz Jaśkiewicz](https://www.worldcubeassociation.org/persons/2022JASK01) |
-| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 | 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
+| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 | 3.74 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 
 ### 4x4x4 Cube
@@ -162,8 +162,8 @@
 | 5.66 | [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) |
 | 5.66 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2022WOJC02) |
 | 5.78 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
+| 5.79 | [Kajetan Stefanek](https://www.worldcubeassociation.org/persons/2025STEF01) |
 | 5.87 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
-| 5.92 | [Grzegorz Wysopal](https://www.worldcubeassociation.org/persons/2009WYSO01) |
 
 ### Rubik's Clock
 

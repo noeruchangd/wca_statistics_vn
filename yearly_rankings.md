@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 May 2025*
+*Updated on  4 May 2025*
 
 
 ### Rubik's Cube - Single
@@ -30,9 +30,9 @@
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | **5.77** |  | [Cube4fun in Tylmanowa 2025](https://www.worldcubeassociation.org/competitions/Cube4funinTylmanowa2025) | 5.47, 5.43, 7.13, 6.41, 5.10 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | **6.53** |  | [Cube4fun Warsaw Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funWarsawSaturday2025) | 5.78, 6.73, 6.08, 6.77, 6.79 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **6.56** |  | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025) | 10.92, 6.45, 6.60, 5.85, 6.64 |
+| [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | **6.81** |  | [Cube4fun Lublin Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSpring2025) | 7.08, 6.76, 7.94, 6.58, 6.47 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **6.87** |  | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025) | 7.29, 10.75, 5.33, 6.52, 6.81 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | **6.94** |  | [Gdańsk Cubing Day 2025](https://www.worldcubeassociation.org/competitions/GdanskCubingDay2025) | 5.03, 7.96, 7.40, 7.39, 6.02 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **7.03** |  | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025) | 8.46, 6.84, 6.60, 6.46, 7.66 |
 
 ### 2x2x2 Cube - Single
 
@@ -47,7 +47,7 @@
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | **0.92** |  | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025) | 1.56, 1.20, 0.92, 1.84, 2.63 |
 | [Antoni Polityło](https://www.worldcubeassociation.org/persons/2023POLI06) | **0.92** |  | [Piła Open 2025](https://www.worldcubeassociation.org/competitions/PilaOpen2025) | 2.10, 2.00, 0.92, 2.29, 1.56 |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | **0.99** |  | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025) | 1.32, 0.99, 1.34, 1.49, DNF |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | **1.04** |  | [Silesian Cubing Mysłowice 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingMyslowice2025) | 1.04, 1.27, 2.43, 1.32, 2.30 |
+| [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) | **1.01** |  | [Cube4fun Lublin Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSpring2025) | 1.42, 2.38, 1.01, 6.27, 2.02 |
 
 ### 2x2x2 Cube - Average
 
@@ -362,7 +362,7 @@
 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | **3.59** |  | [Silesian Cubing Mysłowice 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingMyslowice2025) | 3.65, 2.89, DNF, 4.23, 2.60 |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | **3.71** |  | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025) | 3.82, 4.71, 3.44, 3.88, 3.41 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **3.77** |  | [Mallorca Open 2025](https://www.worldcubeassociation.org/competitions/MallorcaOpen2025) | 3.97, 3.55, 4.37, 3.79, 3.32 |
-| [Mikołaj Świątek](https://www.worldcubeassociation.org/persons/2023SWIA01) | **3.84** |  | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025) | 3.47, 4.10, 3.43, 3.95, 7.19 |
+| [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | **3.77** |  | [Cube4fun Lublin Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSpring2025) | 3.62, 3.41, 3.45, DNF, 4.25 |
 
 ### Skewb - Single
 
