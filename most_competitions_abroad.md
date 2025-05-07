@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 May 2025*
+*Updated on  7 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -11,7 +11,7 @@
 | 32 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
 | 28 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 27 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
-| 24 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
+| 25 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 23 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 18 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
@@ -59,6 +59,7 @@
 | 8 | [Mateusz Nowak](https://www.worldcubeassociation.org/persons/2022NOWA05) |
 | 8 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
 | 8 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
+| 8 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 7 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
 | 7 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 7 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
@@ -73,7 +74,6 @@
 | 7 | [Adam Steuer](https://www.worldcubeassociation.org/persons/2023STEU01) |
 | 7 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
 | 7 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
-| 7 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 6 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
 | 6 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
 | 6 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |

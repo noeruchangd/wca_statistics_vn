@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 May 2025*
+*Updated on  7 May 2025*
 
 
 ### Rubik's Cube
@@ -206,13 +206,13 @@
 | 5.89 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 2:09.42 | 2:15.31 | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/by_person#2017DEBS01) |
 | 6.13 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 1:57.03 | 2:03.16 | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023/results/by_person#2021MORA01) |
 | 8.10 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 2:09.65 | 2:17.75 | [Project Radom 2018](https://www.worldcubeassociation.org/competitions/ProjectRadom2018/results/by_person#2017DEBS01) |
+| 10.59 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 2:02.48 | 2:13.07 | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025/results/by_person#2017DEBS01) |
 | 10.71 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 1:36.14 | 1:46.85 | [Bishop's Stortford Spring 2023](https://www.worldcubeassociation.org/competitions/BishopsStortfordSpringBBO2023/results/by_person#2017DEBS01) |
 | 10.83 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 6:58.68 | 7:09.51 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2018ZYNE01) |
 | 11.37 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 1:50.54 | 2:01.91 | [Warm Up Portugalete 2024](https://www.worldcubeassociation.org/competitions/WarmUpPortugalete2024/results/by_person#2021PISK01) |
 | 16.50 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 2:38.07 | 2:54.57 | [Kiev Super Blind 2020](https://www.worldcubeassociation.org/competitions/KievSuperBlind2020/results/by_person#2016PRZY01) |
 | 16.51 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 2:41.30 | 2:57.81 | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014/results/by_person#2012JALO01) |
 | 16.79 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 2:26.90 | 2:43.69 | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023/results/by_person#2021PISK01) |
-| 16.92 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 7:46.67 | 8:03.59 | [Vienna Autumn 2024](https://www.worldcubeassociation.org/competitions/ViennaAutumn2024/results/by_person#2020DWOR01) |
 
 ### 5x5x5 Blindfolded
 
