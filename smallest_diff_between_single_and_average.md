@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 May 2025*
+*Updated on 10 May 2025*
 
 
 ### Rubik's Cube
@@ -53,6 +53,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.18 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 36.50 | 36.68 | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025/results/by_person#2016KOLA02) |
 | 0.24 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) | 2:19.45 | 2:19.69 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2022SYRY01) |
 | 0.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 39.89 | 40.20 | [Stevenage July 2023](https://www.worldcubeassociation.org/competitions/StevenageJuly2023/results/by_person#2016KOLA02) |
 | 0.33 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 54.06 | 54.39 | [Cube4fun in Dębica 2022](https://www.worldcubeassociation.org/competitions/Cube4funDebica2022/results/by_person#2017PABI01) |
@@ -62,7 +63,6 @@
 | 0.44 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 1:08.53 | 1:08.97 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017/results/by_person#2011KNOT01) |
 | 0.46 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:01.95 | 1:02.41 | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/by_person#2021PIET01) |
 | 0.50 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 49.18 | 49.68 | [Silesian Cubing Pawłowice 2024](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2024/results/by_person#2017SZUL01) |
-| 0.51 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 50.65 | 51.16 | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/by_person#2023ZAST01) |
 
 ### 6x6x6 Cube
 

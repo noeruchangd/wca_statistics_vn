@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  7 May 2025*
+*Updated on 10 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -53,6 +53,7 @@
 | 7 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 6 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 6 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) |
+| 6 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 6 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
 | 6 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 6 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
@@ -79,7 +80,6 @@
 | 5 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 5 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 5 | [Hubert Firek](https://www.worldcubeassociation.org/persons/2015FIRE01) |
-| 5 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 5 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 5 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 5 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
