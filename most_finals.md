@@ -1,13 +1,13 @@
 ## Most finals
 
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | Finals | Person |
 | ---: | :--- |
-| 1304 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 1310 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 1200 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 1107 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
-| 1094 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 1099 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 983 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 925 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 857 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |

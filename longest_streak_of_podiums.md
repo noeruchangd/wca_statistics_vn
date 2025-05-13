@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 May 2025*
+*Updated on 13 May 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -83,6 +83,7 @@
 | 18 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 3x3x3 Blindfolded | [GLS Cup V 2016](https://www.worldcubeassociation.org/competitions/GLSCupV2016) | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017) |
 | 18 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 3x3x3 One-Handed | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024) |  |
 | 18 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | Skewb | [Ice Cubing Szczecinek 2023](https://www.worldcubeassociation.org/competitions/IceCubingSzczecinek2023) | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024) |
+| 18 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 3x3x3 Cube | [Summer Vibe Puck 2024](https://www.worldcubeassociation.org/competitions/SummerVibePuck2024) |  |
 | 17 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) | 3x3x3 One-Handed | [Wroclaw Open 2008](https://www.worldcubeassociation.org/competitions/WroclawOpen2008) | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) |
 | 17 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 Cube | [Rybnik Open 2013](https://www.worldcubeassociation.org/competitions/RybnikOpen2013) | [Poznan Open 2014](https://www.worldcubeassociation.org/competitions/PoznanOpen2014) |
 | 17 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3x3x3 Cube | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) | [WLS Lato 2016](https://www.worldcubeassociation.org/competitions/WLSLato2016) |
@@ -90,7 +91,6 @@
 | 17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6x6x6 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [Poznań Summer Side Open 2022](https://www.worldcubeassociation.org/competitions/PoznanSummerSideOpen2022) |
 | 17 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | Megaminx | [Cube4fun Bełżyce 2022](https://www.worldcubeassociation.org/competitions/Cube4funBelzyce2022) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 17 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 3x3x3 Fewest Moves | [Imagine FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/ImagineFMCinRzeszow2023) | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) |
-| 17 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 3x3x3 Cube | [Summer Vibe Puck 2024](https://www.worldcubeassociation.org/competitions/SummerVibePuck2024) |  |
 | 16 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 Cube | [Lodz Open 2011](https://www.worldcubeassociation.org/competitions/LodzOpen2011) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 | 16 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 3x3x3 One-Handed | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) | [Rumia Open 2014](https://www.worldcubeassociation.org/competitions/RumiaOpen2014) |
 | 16 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded | [Szczecin Summer 2023](https://www.worldcubeassociation.org/competitions/SzczecinSummer2023) | [CFL Brzeziny Spring Open 2024](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpringOpen2024) |
