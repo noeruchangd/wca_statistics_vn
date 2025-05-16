@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 13 May 2025*
+*Updated on 16 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -34,6 +34,7 @@
 | 11 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 11 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 11 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
+| 11 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 11 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) |
 | 11 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 11 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
@@ -43,7 +44,6 @@
 | 10 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 10 | [Adelina Ilnicki](https://www.worldcubeassociation.org/persons/2020ILNI01) |
 | 10 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
-| 10 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 10 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
 | 10 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 9 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |

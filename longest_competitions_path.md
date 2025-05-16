@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 13 May 2025*
+*Updated on 16 May 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -337,6 +337,7 @@
 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) | 4 700 km |
 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) | 4 671 km |
 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) | 4 610 km |
+| [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) | 4 579 km |
 | [Felix Rejent](https://www.worldcubeassociation.org/persons/2022REJE01) | 4 574 km |
 | [Gustaw Rejent](https://www.worldcubeassociation.org/persons/2022REJE02) | 4 574 km |
 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) | 4 573 km |
@@ -360,7 +361,6 @@
 | [Radosław Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO03) | 4 169 km |
 | [Kacper Pawlaczyk](https://www.worldcubeassociation.org/persons/2005PAWL01) | 4 149 km |
 | [Radosław Michałek](https://www.worldcubeassociation.org/persons/2021MICH03) | 4 137 km |
-| [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) | 4 108 km |
 | [Mikołaj Rydlewski](https://www.worldcubeassociation.org/persons/2019RYDL01) | 4 100 km |
 | [Michał Matczak](https://www.worldcubeassociation.org/persons/2009MATC01) | 4 087 km |
 | [Krzysztof Górka](https://www.worldcubeassociation.org/persons/2010GORK01) | 4 078 km |

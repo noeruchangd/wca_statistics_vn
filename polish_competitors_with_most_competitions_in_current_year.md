@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 13 May 2025*
+*Updated on 16 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -151,6 +151,7 @@
 | 4 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 4 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) |
 | 4 | [Łukasz Pawłowski](https://www.worldcubeassociation.org/persons/2020PAWL01) |
+| 4 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 4 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 4 | [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) |
 | 4 | [Zuzanna Kozicka](https://www.worldcubeassociation.org/persons/2021KOZI01) |
@@ -226,7 +227,6 @@
 | 3 | [Ignacy Ostas](https://www.worldcubeassociation.org/persons/2019OSTA01) |
 | 3 | [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) |
 | 3 | [Aleksandra Bystrova](https://www.worldcubeassociation.org/persons/2021BYST01) |
-| 3 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 3 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 | 3 | [Kazimierz Cywiński](https://www.worldcubeassociation.org/persons/2022CYWI01) |
 | 3 | [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) |
