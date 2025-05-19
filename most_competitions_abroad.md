@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -29,6 +29,7 @@
 | 12 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 12 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 12 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) |
+| 12 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 12 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 11 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 11 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
@@ -36,7 +37,6 @@
 | 11 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 11 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 11 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) |
-| 11 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 11 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 10 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 10 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |

@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 
 ### Rubik's Cube
@@ -15,9 +15,9 @@
 | 10.06 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
 | 10.10 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
 | 10.37 | [Igor Wawrzeńczak](https://www.worldcubeassociation.org/persons/2024WAWR01) |
+| 10.75 | [Mateusz Galiński](https://www.worldcubeassociation.org/persons/2025GALI04) |
 | 10.77 | [Aleksander Kołodziński](https://www.worldcubeassociation.org/persons/2021KOLO01) |
 | 10.78 | [Daniel Rolek](https://www.worldcubeassociation.org/persons/2022ROLE01) |
-| 10.87 | [Tomasz Czerny](https://www.worldcubeassociation.org/persons/2024CZER01) |
 
 ### 2x2x2 Cube
 
@@ -32,7 +32,7 @@
 | 3.65 | [Miłosz Jaśkiewicz](https://www.worldcubeassociation.org/persons/2022JASK01) |
 | 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
 | 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
-| 3.74 | [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) |
+| 3.74 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 
 ### 4x4x4 Cube
 

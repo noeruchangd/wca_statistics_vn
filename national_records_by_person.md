@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -62,6 +62,7 @@
 | 2 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) |
 | 2 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 2 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
+| 2 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 2 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 2 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) |
 | 2 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
@@ -72,7 +73,6 @@
 | 1 | [Cezary Rokita](https://www.worldcubeassociation.org/persons/2011ROKI01) |
 | 1 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |
 | 1 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
-| 1 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 1 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
 | 1 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 1 | [Jakub Kubiak](https://www.worldcubeassociation.org/persons/2014KUBI02) |

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 
 ### Rubik's Cube
@@ -9,6 +9,7 @@
 | First single | Person |
 | ---: | :--- |
 | 7.30 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
+| 8.66 | [Adrian Pokojowczyk](https://www.worldcubeassociation.org/persons/2025POKO01) |
 | 9.62 | [Denys Shkarupa](https://www.worldcubeassociation.org/persons/2023SHKA01) |
 | 9.74 | [Damian Kraiński](https://www.worldcubeassociation.org/persons/2024KRAI01) |
 | 9.87 | [Tomasz Czerny](https://www.worldcubeassociation.org/persons/2024CZER01) |
@@ -17,7 +18,6 @@
 | 10.41 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
 | 10.49 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
 | 10.53 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
-| 10.60 | [Ignacy Tomczak](https://www.worldcubeassociation.org/persons/2022TOMC01) |
 
 ### 2x2x2 Cube
 

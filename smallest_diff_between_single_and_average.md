@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 
 ### Rubik's Cube
@@ -9,6 +9,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.03 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.72 | 5.75 | [Capelle Cubing 2023](https://www.worldcubeassociation.org/competitions/CapelleCubing2023/results/by_person#2016KOLA02) |
+| 0.03 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 6.86 | 6.89 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2020REJD01) |
 | 0.05 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 7.51 | 7.56 | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/by_person#2021PIET01) |
 | 0.06 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 9.66 | 9.72 | [Cubers Eve 2014](https://www.worldcubeassociation.org/competitions/CubersEve2014/results/by_person#2012KALE01) |
 | 0.06 | [Paweł Tomal](https://www.worldcubeassociation.org/persons/2013TOMA01) | 12.27 | 12.33 | [Krakow Cubing Spree 2014](https://www.worldcubeassociation.org/competitions/KrakowCubingSpree2014/results/by_person#2013TOMA01) |
@@ -17,7 +18,6 @@
 | 0.07 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 10.61 | 10.68 | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2022SOLO01) |
 | 0.07 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 10.69 | 10.76 | [Project Radom 2018](https://www.worldcubeassociation.org/competitions/ProjectRadom2018/results/by_person#2013WARY01) |
 | 0.07 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 11.21 | 11.28 | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022/results/by_person#2020DOZA01) |
-| 0.07 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) | 11.99 | 12.06 | [GLS Cup I 2018](https://www.worldcubeassociation.org/competitions/GLSCupI2018/results/by_person#2006FRAN01) |
 
 ### 2x2x2 Cube
 
@@ -30,9 +30,9 @@
 | 0.04 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.64 | 2.68 | [Silesian Cubing Pszczyna 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPszczyna2023/results/by_person#2018KUZM02) |
 | 0.04 | [Anonymous](https://www.worldcubeassociation.org/persons/2020ANON03) | 2.84 | 2.88 | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/by_person#2020ANON03) |
 | 0.04 | [Wojciech Kozłowski](https://www.worldcubeassociation.org/persons/2023KOZL04) | 4.08 | 4.12 | [Cube Factory Brzeziny 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2024/results/by_person#2023KOZL04) |
+| 0.05 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.13 | 1.18 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2021ZAJD03) |
 | 0.05 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.14 | 1.19 | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024/results/by_person#2021ZAJD03) |
 | 0.05 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 1.52 | 1.57 | [Winter Vibe Wrocław 2024](https://www.worldcubeassociation.org/competitions/WinterVibeWroclaw2024/results/by_person#2022GLAD01) |
-| 0.05 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 3.14 | 3.19 | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/by_person#2021GORE01) |
 
 ### 4x4x4 Cube
 
@@ -60,9 +60,9 @@
 | 0.36 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 1:35.09 | 1:35.45 | [Archena 24 Horas 2022](https://www.worldcubeassociation.org/competitions/Archena24Horas2022/results/by_person#2020DWOR01) |
 | 0.41 | [Szymon Mazur](https://www.worldcubeassociation.org/persons/2010MAZU02) | 1:31.59 | 1:32.00 | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013/results/by_person#2010MAZU02) |
 | 0.43 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 1:46.38 | 1:46.81 | [Santa Claus Cube Race 2014](https://www.worldcubeassociation.org/competitions/SantaClausRace2014/results/by_person#2005ZOLN01) |
+| 0.44 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 35.94 | 36.38 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2016KOLA02) |
 | 0.44 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 1:08.53 | 1:08.97 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017/results/by_person#2011KNOT01) |
 | 0.46 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:01.95 | 1:02.41 | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/by_person#2021PIET01) |
-| 0.50 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 49.18 | 49.68 | [Silesian Cubing Pawłowice 2024](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2024/results/by_person#2017SZUL01) |
 
 ### 6x6x6 Cube
 
@@ -145,6 +145,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.04 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.96 | 3.00 | [GLS II 2024](https://www.worldcubeassociation.org/competitions/GLSII2024/results/by_person#2018KUZM02) |
 | 0.04 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 21.21 | 21.25 | [III Masovian Open 2019](https://www.worldcubeassociation.org/competitions/IIIMasovianOpen2019/results/by_person#2016SALA18) |
+| 0.05 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.94 | 1.99 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2023ROMA10) |
 | 0.05 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 3.03 | 3.08 | [LLS VI 2018](https://www.worldcubeassociation.org/competitions/LLSVI2018/results/by_person#2013WARY01) |
 | 0.05 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 4.04 | 4.09 | [Cube4fun in Jarosław 2023](https://www.worldcubeassociation.org/competitions/Cube4funinJaroslaw2023/results/by_person#2013TOKA01) |
 | 0.06 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 2.23 | 2.29 | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2019KEDZ01) |
@@ -152,7 +153,6 @@
 | 0.07 | [Mikołaj Tyra](https://www.worldcubeassociation.org/persons/2016TYRA02) | 4.30 | 4.37 | [LLS IV 2019](https://www.worldcubeassociation.org/competitions/LubelskaLigaSpeedcubinguIV2019/results/by_person#2016TYRA02) |
 | 0.07 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 5.96 | 6.03 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2019HEBE01) |
 | 0.08 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 1.74 | 1.82 | [Cube4fun Kędzierzyn-Koźle 2022](https://www.worldcubeassociation.org/competitions/Cube4funKedzierzynKozle2022/results/by_person#2018HIBS01) |
-| 0.08 | [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) | 4.85 | 4.93 | [GLS Cup V 2016](https://www.worldcubeassociation.org/competitions/GLSCupV2016/results/by_person#2015SAMO01) |
 
 ### Rubik's Clock
 

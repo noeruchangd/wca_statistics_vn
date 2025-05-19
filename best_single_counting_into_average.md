@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 May 2025*
+*Updated on 19 May 2025*
 
 
 ### Rubik's Cube
@@ -54,6 +54,7 @@
 | ---: | :--- | :--- |
 | 33.28 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025/results/by_person#2016KOLA02) |
 | 34.11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
+| 34.21 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2016KOLA02) |
 | 34.33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 34.65 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025/results/by_person#2016KOLA02) |
 | 34.76 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024/results/by_person#2016KOLA02) |
@@ -61,7 +62,6 @@
 | 34.98 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [PBs in Palisades Winter 2025](https://www.worldcubeassociation.org/competitions/PBsinPalisadesWinter2025/results/by_person#2016KOLA02) |
 | 35.05 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 | 35.20 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
-| 35.45 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2016KOLA02) |
 
 ### 3x3x3 One-Handed
 
@@ -102,11 +102,11 @@
 | 1.40 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Minxing in Bratislava 2024](https://www.worldcubeassociation.org/competitions/MinxinginBratislava2024/results/by_person#2018HIBS01) |
 | 1.41 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/by_person#2020DOZA01) |
 | 1.46 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023/results/by_person#2018HIBS01) |
+| 1.47 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2021MAJC01) |
 | 1.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016KOLA02) |
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
 | 1.51 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [Cube4fun in Warsaw 2024](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2024/results/by_person#2016WOJC04) |
 | 1.51 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024/results/by_person#2020DOZA01) |
-| 1.52 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018/results/by_person#2016KOLA02) |
 
 ### Rubik's Clock
 
