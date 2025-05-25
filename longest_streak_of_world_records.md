@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 22 May 2025*
+*Updated on 25 May 2025*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -25,7 +25,7 @@
 | 2 | 3x3x3 Fewest Moves | Average | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |  | 0.50 |
 | 2 | Pyraminx | Single | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) | 1.44 |
 | 2 | Pyraminx | Single | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS IV 2018](https://www.worldcubeassociation.org/competitions/LLSIV2018) |  | 7.09 |
-| 2 | Rubik's Clock | Single | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024) |  | 1.09 |
+| 2 | Rubik's Clock | Single | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024) |  | 1.10 |
 | 2 | Skewb | Single | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) | [Masovian Open 2015](https://www.worldcubeassociation.org/competitions/MasovianOpen2015) | 1.17 |
 | 2 | Skewb | Average | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | [GLS Cup II 2016](https://www.worldcubeassociation.org/competitions/GLSCupII2016) | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) | 0.48 |
 | 2 | Square-1 | Average | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Bialystok Open 2010](https://www.worldcubeassociation.org/competitions/BialystokOpen2010) | 2.89 |

@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 22 May 2025*
+*Updated on 25 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
