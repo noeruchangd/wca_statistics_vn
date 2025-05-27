@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 May 2025*
+*Updated on 26 May 2025*
 
 
 ### Rubik's Cube
@@ -16,8 +16,8 @@
 | 5.64 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 5.36, 5.73, 5.60, 5.75, 5.58 |
 | 6.44 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | DNF, 5.82, 5.43, 6.16, 7.34 |
 | 6.49 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 5.08, 7.62, 6.95, 5.63, 6.90 |
+| 6.56 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 6.20, 6.67, 8.05, 6.26, 6.76 |
 | 6.57 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 7.49, 8.79, 5.61, 6.11, 6.10 |
-| 6.58 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 6.89, 6.51, 6.35, 7.71, 5.40 |
 
 ### 2x2x2 Cube
 
@@ -57,10 +57,10 @@
 | 46.28 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 43.63, 48.92, 40.74, 47.19, 48.03 |
 | 46.97 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 43.89, 45.56, 51.47, 54.70, 43.89 |
 | 47.82 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 50.69, 49.26, 47.29, 46.87, 46.90 |
+| 48.99 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 49.16, 47.46, 54.39, 50.22, 47.59 |
 | 49.01 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 48.49, 49.77, 46.58, 48.88, 49.65 |
 | 49.18 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 47.72, 44.54, 1:01.04, 47.35, 52.46 |
 | 49.68 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 54.78, 49.18, 49.61, 50.18, 49.26 |
-| 49.75 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 47.28, 52.04, 49.10, 50.94, 49.21 |
 | 50.09 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 47.63, 50.84, 49.40, 52.96, 50.03 |
 | 51.74 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 59.95, 57.05, 44.96, 45.74, 52.44 |
 

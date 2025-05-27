@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 25 May 2025*
+*Updated on 26 May 2025*
 
 
 ### Rubik's Cube
@@ -136,8 +136,8 @@
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 10.41 | **11.99** | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/all#e333oh_f) | 4 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 9.81 | **12.00** | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024/results/all#e333oh_f) | 4 |
 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | 10.77 | **12.01** | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/all#e333oh_f) | 5 |
+| [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 11.08 | **12.06** | [Cube4fun Tylmanowa Spring 2025](https://www.worldcubeassociation.org/competitions/Cube4funTylmanowaSpring2025/results/all#e333oh_f) | 4 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 10.94 | **12.14** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333oh_f) | 6 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 8.81 | **12.18** | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/all#e333oh_f) | 6 |
 
 ### Megaminx
 
