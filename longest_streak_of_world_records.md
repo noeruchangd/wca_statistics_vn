@@ -1,6 +1,6 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 26 May 2025*
+*Updated on 28 May 2025*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -12,7 +12,7 @@
 | 4 | 2x2x2 Cube | Average | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018) | 11.44 |
 | 4 | 3x3x3 Blindfolded | Average | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013) |  | 11.55 |
 | 4 | 3x3x3 One-Handed | Average | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | [World Championship 2011](https://www.worldcubeassociation.org/competitions/WC2011) | [Masterpress Summer 2014](https://www.worldcubeassociation.org/competitions/MasterpressSummer2014) | 2.70 |
-| 4 | Pyraminx | Average | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017) |  | 7.46 |
+| 4 | Pyraminx | Average | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017) |  | 7.47 |
 | 3 | Rubik's Clock | Average | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | [Mielec Cube Day 2016](https://www.worldcubeassociation.org/competitions/MielecCubeDay2016) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024) | 7.86 |
 | 3 | Skewb | Average | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | [ŚLS Sosnowiec 2015](https://www.worldcubeassociation.org/competitions/SLSSosnowiec2015) | 1.40 |
 | 3 | Square-1 | Single | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) | 2.03 |

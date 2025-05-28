@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 26 May 2025*
+*Updated on 28 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -319,6 +319,7 @@
 | 3 | [Jędrzej Topolski](https://www.worldcubeassociation.org/persons/2024TOPO01) |
 | 3 | [Michał Trychta](https://www.worldcubeassociation.org/persons/2024TRYC01) |
 | 3 | [Jan Wierzchoń](https://www.worldcubeassociation.org/persons/2024WIER02) |
+| 3 | [Oskar Wojtyna](https://www.worldcubeassociation.org/persons/2024WOJT03) |
 | 3 | [Paweł Zok](https://www.worldcubeassociation.org/persons/2024ZOKP01) |
 | 3 | [Marcin Żuprański](https://www.worldcubeassociation.org/persons/2024ZUPR01) |
 | 3 | [Michał Bednarczyk](https://www.worldcubeassociation.org/persons/2025BEDN01) |
@@ -468,7 +469,6 @@
 | 2 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) |
 | 2 | [Remigiusz Wingert](https://www.worldcubeassociation.org/persons/2024WING03) |
 | 2 | [Michał Wójcicki](https://www.worldcubeassociation.org/persons/2024WOJC01) |
-| 2 | [Oskar Wojtyna](https://www.worldcubeassociation.org/persons/2024WOJT03) |
 | 2 | [Kajetan Wojtaszek](https://www.worldcubeassociation.org/persons/2024WOJT06) |
 | 2 | [Szymon Zdun](https://www.worldcubeassociation.org/persons/2024ZDUN01) |
 | 2 | [Michał Antczak](https://www.worldcubeassociation.org/persons/2025ANTC01) |
@@ -946,6 +946,7 @@
 | 1 | [Piotr Marciniak](https://www.worldcubeassociation.org/persons/2025MARC07) |
 | 1 | [Kacper Matysek](https://www.worldcubeassociation.org/persons/2025MATY01) |
 | 1 | [Igor Merker](https://www.worldcubeassociation.org/persons/2025MERK01) |
+| 1 | [Adam Michalik](https://www.worldcubeassociation.org/persons/2025MICH06) |
 | 1 | [Kazimierz Mielczarek](https://www.worldcubeassociation.org/persons/2025MIEL01) |
 | 1 | [Karol Morcinek](https://www.worldcubeassociation.org/persons/2025MORC01) |
 | 1 | [Aleksander Mucha](https://www.worldcubeassociation.org/persons/2025MUCH01) |
