@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 May 2025*
+*Updated on 29 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -57,6 +57,7 @@
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 8 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 8 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
+| 8 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 8 | [Mateusz Nowak](https://www.worldcubeassociation.org/persons/2022NOWA05) |
 | 8 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
 | 8 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
@@ -69,7 +70,6 @@
 | 7 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) |
 | 7 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 7 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
-| 7 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 7 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
 | 7 | [Adam Steuer](https://www.worldcubeassociation.org/persons/2023STEU01) |
 | 7 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |

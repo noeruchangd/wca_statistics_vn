@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 28 May 2025*
+*Updated on 29 May 2025*
 
 
 ### Rubik's Cube

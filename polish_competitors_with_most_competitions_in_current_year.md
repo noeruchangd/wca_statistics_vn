@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 28 May 2025*
+*Updated on 29 May 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -372,6 +372,7 @@
 | 2 | [Marcin Chudy](https://www.worldcubeassociation.org/persons/2022CHUD03) |
 | 2 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) |
 | 2 | [Łukasz Kubica](https://www.worldcubeassociation.org/persons/2022KUBI04) |
+| 2 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 2 | [Tymoteusz Orzechowski](https://www.worldcubeassociation.org/persons/2022ORZE01) |
 | 2 | [Sebastian Pałka](https://www.worldcubeassociation.org/persons/2022PALK01) |
 | 2 | [Nikodem Pieprzyk](https://www.worldcubeassociation.org/persons/2022PIEP02) |
@@ -643,7 +644,6 @@
 | 1 | [Radosz Mitas](https://www.worldcubeassociation.org/persons/2022MITA02) |
 | 1 | [Luu Hathi Julia Nguyen](https://www.worldcubeassociation.org/persons/2022NGUY52) |
 | 1 | [Tymon Filar Notecki](https://www.worldcubeassociation.org/persons/2022NOTE01) |
-| 1 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 1 | [Igor Osiadacz](https://www.worldcubeassociation.org/persons/2022OSIA01) |
 | 1 | [Leon Pawłowski](https://www.worldcubeassociation.org/persons/2022PAWL01) |
 | 1 | [Michał Picz](https://www.worldcubeassociation.org/persons/2022PICZ01) |

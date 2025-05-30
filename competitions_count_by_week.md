@@ -1,7 +1,7 @@
 ## Competitions count by week
 
 *Note: Week is considered to start on Monday and end on Sunday.*
-*Updated on 28 May 2025*
+*Updated on 29 May 2025*
 
 | Competitions | Week start | Week end | List on WCA |
 | :--: | ---: | ---: | :--: |
@@ -93,6 +93,7 @@
 | 2 |  9 Jan 2017 | 15 Jan 2017 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2017-01-14&to_date=2017-01-14) |
 | 2 |  3 Oct 2016 |  9 Oct 2016 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2016-10-08&to_date=2016-10-08) |
 | 2 |  1 Sep 2014 |  7 Sep 2014 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2014-09-06&to_date=2014-09-07) |
+| 1 | 23 Jun 2025 | 29 Jun 2025 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2025-06-28&to_date=2025-06-29) |
 | 1 | 16 Jun 2025 | 22 Jun 2025 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2025-06-21&to_date=2025-06-22) |
 | 1 | 28 Apr 2025 |  4 May 2025 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2025-05-01&to_date=2025-05-04) |
 | 1 | 10 Mar 2025 | 16 Mar 2025 | [List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=2025-03-15&to_date=2025-03-16) |
