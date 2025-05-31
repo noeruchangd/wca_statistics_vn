@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 
 ### Rubik's Cube
@@ -118,11 +118,11 @@
 | 32 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019) |
 | 22 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) |
 | 22 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [CFL Goes Sideways 2019](https://www.worldcubeassociation.org/competitions/CFLGoesSideways2019) |
+| 19 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025) |
 | 15 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012) |
 | 15 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018) |
 | 15 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | [Poznań MBLD Cup 2023](https://www.worldcubeassociation.org/competitions/PoznanMBLDCup2023) |
 | 14 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | [Estonian Open 2017](https://www.worldcubeassociation.org/competitions/EstonianOpen2017) |
-| 12 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | [GLS Cup IV 2018](https://www.worldcubeassociation.org/competitions/GLSCupIV2018) |
 
 ### 3x3x3 One-Handed
 
@@ -236,8 +236,8 @@
 | 24 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Try to Get a Mean Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryToGetAMeanRzeszow2023) |
 | 5 | [Piotr Janecki](https://www.worldcubeassociation.org/persons/2014JANE01) | [ŚLS Zawiercie 2017](https://www.worldcubeassociation.org/competitions/SLSZawiercie2017) |
 | 5 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | [Italian Championship 2017](https://www.worldcubeassociation.org/competitions/ItalianChampionship2017) |
-| 5 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022) |
 | 5 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
+| 5 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | [Poznań Mental Breakdown 2022](https://www.worldcubeassociation.org/competitions/PoznanMentalBreakdown2022) |
 | 4 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) |
 | 4 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) | [Latvian Championship 2022](https://www.worldcubeassociation.org/competitions/LatvianChampionship2022) |
 | 3 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | [Mental Breakdown II Rzeszów 2024](https://www.worldcubeassociation.org/competitions/MentalBreakdownIIRzeszow2024) |

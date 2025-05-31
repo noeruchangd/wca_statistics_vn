@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 
 ### Rubik's Cube
@@ -26,13 +26,13 @@
 | 0.03 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2.49 | 2.52 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2013OWCZ01) |
 | 0.04 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 1.28 | 1.32 | [Gdańsk Cubing Day 2025](https://www.worldcubeassociation.org/competitions/GdanskCubingDay2025/results/by_person#2018KUZM02) |
 | 0.04 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.40 | 1.44 | [Beskid Cubing 2023](https://www.worldcubeassociation.org/competitions/BeskidCubing2023/results/by_person#2021PIET01) |
+| 0.04 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 1.50 | 1.54 | [CFL Koluszki 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueKoluszki2025/results/by_person#2022SAMS03) |
 | 0.04 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 2.43 | 2.47 | [Cube Factory Brzeziny 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2024/results/by_person#2014SZWU01) |
 | 0.04 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.64 | 2.68 | [Silesian Cubing Pszczyna 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPszczyna2023/results/by_person#2018KUZM02) |
 | 0.04 | [Anonymous](https://www.worldcubeassociation.org/persons/2020ANON03) | 2.84 | 2.88 | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/by_person#2020ANON03) |
 | 0.04 | [Wojciech Kozłowski](https://www.worldcubeassociation.org/persons/2023KOZL04) | 4.08 | 4.12 | [Cube Factory Brzeziny 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2024/results/by_person#2023KOZL04) |
 | 0.05 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.13 | 1.18 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2021ZAJD03) |
 | 0.05 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1.14 | 1.19 | [Energy Cube Tomaszów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2024/results/by_person#2021ZAJD03) |
-| 0.05 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 1.52 | 1.57 | [Winter Vibe Wrocław 2024](https://www.worldcubeassociation.org/competitions/WinterVibeWroclaw2024/results/by_person#2022GLAD01) |
 
 ### 4x4x4 Cube
 

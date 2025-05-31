@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -36,8 +36,8 @@
 | [Fryderyk Janiak](https://www.worldcubeassociation.org/persons/2016JANI03) | 5.50 |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 5.48 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 5.48 |
-| [Piotr Kogut](https://www.worldcubeassociation.org/persons/2016KOGU01) | 5.42 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5.42 |
+| [Piotr Kogut](https://www.worldcubeassociation.org/persons/2016KOGU01) | 5.42 |
 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) | 5.40 |
 | [Szymon Juroszek](https://www.worldcubeassociation.org/persons/2017JURO01) | 5.35 |
 | [Mateusz Gabzdyl](https://www.worldcubeassociation.org/persons/2018GABZ01) | 5.29 |
@@ -51,13 +51,13 @@
 | [Weronika Rogulska](https://www.worldcubeassociation.org/persons/2017ROGU01) | 4.89 |
 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 4.87 |
 | [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) | 4.85 |
-| [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 4.83 |
 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 4.83 |
+| [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 4.83 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 4.75 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 4.75 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 4.69 |
-| [Jan Koziarski](https://www.worldcubeassociation.org/persons/2019KOZI01) | 4.66 |
 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | 4.66 |
+| [Jan Koziarski](https://www.worldcubeassociation.org/persons/2019KOZI01) | 4.66 |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 4.60 |
 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 4.58 |
 | [Adam Pietrzak](https://www.worldcubeassociation.org/persons/2018PIET03) | 4.52 |
@@ -77,8 +77,8 @@
 | [Łukasz Pielczyk](https://www.worldcubeassociation.org/persons/2017PIEL01) | 3.95 |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 3.85 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3.83 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3.76 |
 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3.76 |
 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 3.70 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 3.70 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 3.62 |
@@ -88,21 +88,21 @@
 | [Wojciech Weremczuk](https://www.worldcubeassociation.org/persons/2014WERE01) | 3.53 |
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 3.51 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 3.49 |
-| [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 3.45 |
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 3.45 |
+| [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 3.45 |
 | [Aleksandra Bystrova](https://www.worldcubeassociation.org/persons/2021BYST01) | 3.39 |
 | [Kuba Adamczyk](https://www.worldcubeassociation.org/persons/2021ADAM03) | 3.30 |
 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 3.26 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 3.26 |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 3.24 |
-| [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) | 3.22 |
 | [Gracjan Paciorkowski](https://www.worldcubeassociation.org/persons/2021PACI01) | 3.22 |
+| [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) | 3.22 |
 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 3.09 |
 | [Krzysztof Bloch](https://www.worldcubeassociation.org/persons/2019BLOC02) | 3.05 |
-| [Mateusz Bednarczyk](https://www.worldcubeassociation.org/persons/2018BEDN03) | 2.95 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2.95 |
-| [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) | 2.91 |
+| [Mateusz Bednarczyk](https://www.worldcubeassociation.org/persons/2018BEDN03) | 2.95 |
 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 2.91 |
+| [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) | 2.91 |
 | [Tobiasz Rychlik](https://www.worldcubeassociation.org/persons/2016RYCH01) | 2.87 |
 
 

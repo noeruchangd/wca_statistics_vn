@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 
 ### 300 Competitions
@@ -38,6 +38,7 @@
 | 3697 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 3725 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 3823 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 4782 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 5013 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 5881 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 

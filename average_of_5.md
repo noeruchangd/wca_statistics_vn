@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 
 ### Rubik's Cube
@@ -181,8 +181,8 @@
 | 3.30 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 3.61, 3.25, 3.04, 3.80, 2.95 |
 | 3.31 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 3.83, 3.22, 3.46, 3.25, 3.02 |
 | 3.41 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 2.89, DNF, 4.23, 2.60, 3.10 |
+| 3.42 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | 2.87, 4.25, 3.75, 3.32, 3.20 |
 | 3.47 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 3.32, 3.35, 3.73, 4.01, 2.91 |
-| 3.48 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | 3.05, 3.53, 3.72, 3.45, 3.45 |
 
 ### Skewb
 
@@ -205,8 +205,8 @@
 | ---: | :--- | :--- |
 | 5.64 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.38, 5.34, 11.36, 5.06, 5.20 |
 | 6.51 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 11.19, 6.16, 6.69, 5.44, 6.69 |
+| 6.51 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 9.34, 6.27, 7.41, 5.43, 5.85 |
 | 6.82 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.71, 6.82, 6.40, 8.79, 6.94 |
-| 7.10 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 7.58, 6.56, 8.54, 6.16, 7.15 |
 | 7.22 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 7.27, 14.95, 6.89, 6.99, 7.39 |
 | 7.52 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 7.37, 7.71, 7.49, 8.75, 6.89 |
 | 7.55 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 7.67, 8.90, 6.98, 8.00, 6.95 |

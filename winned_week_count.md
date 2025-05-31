@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 29 May 2025*
+*Updated on 31 May 2025*
 
 
 ### Rubik's Cube
@@ -31,7 +31,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 8 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 9 |
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 7 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 6 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 5 |
@@ -85,7 +85,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 42 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 28 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 29 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 3 |
 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) | 1 |
 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | 1 |
@@ -221,7 +221,7 @@
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 32 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 10 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 10 |
-| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 10 |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 9 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5 |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 4 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2 |
