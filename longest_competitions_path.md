@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 31 May 2025*
+*Updated on  1 June 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -585,6 +585,7 @@
 | [Weronika Krzakiewicz](https://www.worldcubeassociation.org/persons/2013KRZA01) | 2 024 km |
 | [Kamil Chorzelewski](https://www.worldcubeassociation.org/persons/2021CHOR01) | 2 016 km |
 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 2 016 km |
+| [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | 2 011 km |
 | [Dominika Dziczek](https://www.worldcubeassociation.org/persons/2019DZIC01) | 2 009 km |
 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | 2 001 km |
 | [Jan Hetman](https://www.worldcubeassociation.org/persons/2012HETM01) | 1 996 km |
@@ -647,6 +648,7 @@
 | [Mateusz Gołaś](https://www.worldcubeassociation.org/persons/2021GOLA01) | 1 792 km |
 | [Michał Machała](https://www.worldcubeassociation.org/persons/2009MACH01) | 1 791 km |
 | [Marta Chwarścianek](https://www.worldcubeassociation.org/persons/2021CHWA02) | 1 770 km |
+| [Marcin Chudy](https://www.worldcubeassociation.org/persons/2022CHUD03) | 1 770 km |
 | [Kacper Szeląg](https://www.worldcubeassociation.org/persons/2015SZEL01) | 1 763 km |
 | [Wojciech Burda](https://www.worldcubeassociation.org/persons/2013BURD02) | 1 762 km |
 | [Kasia Stawiarz](https://www.worldcubeassociation.org/persons/2013STAW01) | 1 759 km |
@@ -658,7 +660,6 @@
 | [Sebastian Owieczko](https://www.worldcubeassociation.org/persons/2018OWIE01) | 1 719 km |
 | [Marek Szymański](https://www.worldcubeassociation.org/persons/2019SZYM02) | 1 714 km |
 | [Hubert Ordylowski](https://www.worldcubeassociation.org/persons/2008ORDY01) | 1 704 km |
-| [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | 1 700 km |
 | [Jan Kutela](https://www.worldcubeassociation.org/persons/2023KUTE01) | 1 698 km |
 | [Adrian Radziewicz](https://www.worldcubeassociation.org/persons/2020RADZ01) | 1 696 km |
 | [Filip Nowak](https://www.worldcubeassociation.org/persons/2022NOWA02) | 1 695 km |
@@ -724,7 +725,6 @@
 | [Aleksander Iżowski](https://www.worldcubeassociation.org/persons/2022IZOW01) | 1 463 km |
 | [Franciszek Domagała](https://www.worldcubeassociation.org/persons/2023DOMA02) | 1 462 km |
 | [Bartosz Jasiewicz](https://www.worldcubeassociation.org/persons/2013JASI05) | 1 460 km |
-| [Marcin Chudy](https://www.worldcubeassociation.org/persons/2022CHUD03) | 1 459 km |
 | [Jakub Murawski](https://www.worldcubeassociation.org/persons/2019MURA08) | 1 453 km |
 | [Jakub Jaskulski](https://www.worldcubeassociation.org/persons/2013JASK02) | 1 447 km |
 | [Artur Giża](https://www.worldcubeassociation.org/persons/2023GIZA01) | 1 444 km |

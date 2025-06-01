@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 31 May 2025*
+*Updated on  1 June 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -73,10 +73,10 @@
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **1** | 3 | 4 | 8 |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | **1** | 3 | 2 | 6 |
 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) | **1** | 2 | 2 | 5 |
+| [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | **1** | 2 | 0 | 3 |
 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | **1** | 1 | 2 | 4 |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | **1** | 1 | 0 | 2 |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | **1** | 1 | 0 | 2 |
-| [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | **1** | 1 | 0 | 2 |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **1** | 1 | 0 | 2 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | **1** | 1 | 0 | 2 |
 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) | **1** | 1 | 0 | 2 |

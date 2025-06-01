@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 31 May 2025*
+*Updated on  1 June 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -261,6 +261,8 @@
 | 3 | [Tomasz Larysz](https://www.worldcubeassociation.org/persons/2020LARY01) |
 | 3 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
 | 3 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
+| 3 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
+| 3 | [Marcin Chudy](https://www.worldcubeassociation.org/persons/2022CHUD03) |
 | 3 | [Kazimierz Cywiński](https://www.worldcubeassociation.org/persons/2022CYWI01) |
 | 3 | [Sebastian Fornal](https://www.worldcubeassociation.org/persons/2022FORN02) |
 | 3 | [Witold Grzesiak](https://www.worldcubeassociation.org/persons/2022GRZE02) |
@@ -375,8 +377,6 @@
 | 2 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) |
 | 2 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 2 | [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) |
-| 2 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
-| 2 | [Marcin Chudy](https://www.worldcubeassociation.org/persons/2022CHUD03) |
 | 2 | [Adam Janiszewski](https://www.worldcubeassociation.org/persons/2022JANI01) |
 | 2 | [Łukasz Kubica](https://www.worldcubeassociation.org/persons/2022KUBI04) |
 | 2 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |

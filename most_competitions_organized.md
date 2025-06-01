@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on 31 May 2025*
+*Updated on  1 June 2025*
 
 | Organized | Person |
 | ---: | :--- |
@@ -15,17 +15,17 @@
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
 | 21 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 21 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
+| 21 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 20 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) |
-| 20 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 19 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
+| 16 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 15 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 15 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
-| 15 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
-| 14 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 12 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 12 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
-| 10 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
-| 10 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
+| 11 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 10 | [Krzysztof Kasprzak](https://www.worldcubeassociation.org/persons/2015KASP01) |
 | 10 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 10 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
@@ -61,6 +61,7 @@
 | 4 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
 | 4 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
 | 4 | [Szymon Juroszek](https://www.worldcubeassociation.org/persons/2017JURO01) |
+| 4 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 4 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
 | 4 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) |
 | 4 | [Hubert Firek](https://www.worldcubeassociation.org/persons/2015FIRE01) |
@@ -80,7 +81,6 @@
 | 3 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 3 | [Nikodem Tomaszuk](https://www.worldcubeassociation.org/persons/2018TOMA03) |
 | 3 | [Oliwia Jaworska](https://www.worldcubeassociation.org/persons/2017JAWO02) |
-| 3 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 3 | [Mateusz Staniszewski](https://www.worldcubeassociation.org/persons/2018STAN03) |
 | 3 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 3 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) |
