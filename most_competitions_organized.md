@@ -4,7 +4,7 @@
 
 | Organized | Person |
 | ---: | :--- |
-| 122 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 123 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 74 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 55 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 47 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
