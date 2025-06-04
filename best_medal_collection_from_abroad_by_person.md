@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -19,6 +19,7 @@
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | **12** | 4 | 8 | 24 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **11** | 19 | 10 | 40 |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | **11** | 3 | 0 | 14 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **10** | 3 | 4 | 17 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **9** | 11 | 11 | 31 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **9** | 3 | 3 | 15 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | **9** | 3 | 2 | 14 |
@@ -33,7 +34,6 @@
 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | **7** | 6 | 5 | 18 |
 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | **7** | 3 | 9 | 19 |
 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | **7** | 3 | 2 | 12 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **7** | 2 | 2 | 11 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | **7** | 2 | 1 | 10 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | **7** | 2 | 0 | 9 |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | **5** | 11 | 9 | 25 |
@@ -100,7 +100,7 @@
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **1** | 0 | 0 | 1 |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | **1** | 0 | 0 | 1 |
 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) | **1** | 0 | 0 | 1 |
-| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **0** | 4 | 5 | 9 |
+| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **0** | 5 | 5 | 10 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | **0** | 4 | 4 | 8 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | **0** | 3 | 0 | 3 |
 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | **0** | 2 | 1 | 3 |

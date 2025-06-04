@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### Rubik's Cube
@@ -124,8 +124,8 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 16 |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 11 |
+| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 17 |
+| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 12 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 7 |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 6 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 5 |
@@ -200,10 +200,10 @@
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 8 |
 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 8 |
 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) | 7 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 6 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 6 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 5 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 5 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 5 |
 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 4 |
 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | 3 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 2 |
@@ -221,7 +221,7 @@
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 32 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 10 |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 10 |
-| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 9 |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 10 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5 |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 4 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2 |

@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -69,6 +69,7 @@
 | 2 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 2 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 2 | [Tomasz Seweryn](https://www.worldcubeassociation.org/persons/2006SEWE01) |
+| 1 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 1 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) |
 | 1 | [Cezary Rokita](https://www.worldcubeassociation.org/persons/2011ROKI01) |
 | 1 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) |

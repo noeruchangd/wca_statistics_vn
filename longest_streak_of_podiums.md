@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -59,14 +59,14 @@
 | 21 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | Pyraminx | [Rybnik Open 2013](https://www.worldcubeassociation.org/competitions/RybnikOpen2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 21 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | Megaminx | [SLS Gliwice 2014](https://www.worldcubeassociation.org/competitions/SLSGliwice2014) | [Tuwim Cube Race 2016](https://www.worldcubeassociation.org/competitions/TuwimCubeRace2016) |
 | 21 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb | [ŚLS Wodzisław Śląski 2015](https://www.worldcubeassociation.org/competitions/SLSWodzislawSlaski2015) | [Speed Days Kielce 2017](https://www.worldcubeassociation.org/competitions/SpeedDaysKielce2017) |
+| 21 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 3x3x3 One-Handed | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024) |  |
+| 21 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 3x3x3 Fewest Moves | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024) |  |
 | 20 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 2x2x2 Cube | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) |
 | 20 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3x3x3 Multi-Blind | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) |  |
 | 20 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018) | [PST CFL Częstochowa 2019](https://www.worldcubeassociation.org/competitions/PSTCFLCzestochowa2019) |
 | 20 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Multi-Blind | [Szansa Cubing Open Warsaw 2021](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2021) | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023) |
 | 20 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded | [BrizZon Side Open III 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2024) | [Big Side & Blind Olsztyn 2025](https://www.worldcubeassociation.org/competitions/BigSideBlindOlsztyn2025) |
 | 20 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | Skewb | [LLS V 2018](https://www.worldcubeassociation.org/competitions/LLSV2018) | [WCA World Championship 2019](https://www.worldcubeassociation.org/competitions/WC2019) |
-| 20 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 3x3x3 One-Handed | [Dębica Cubing Summer 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingSummer2024) |  |
-| 20 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 3x3x3 Fewest Moves | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024) |  |
 | 20 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 3x3x3 Cube | [Summer Vibe Puck 2024](https://www.worldcubeassociation.org/competitions/SummerVibePuck2024) |  |
 | 19 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 3x3x3 Cube | [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) | [Euro 2010](https://www.worldcubeassociation.org/competitions/Euro2010) |
 | 19 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 3x3x3 With Feet | [Warsaw Open 2014](https://www.worldcubeassociation.org/competitions/WarsawOpen2014) | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015) |
@@ -103,7 +103,7 @@
 | 15 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 4x4x4 Cube | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 15 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 5x5x5 Cube | [ŚLS Wodzisław Śląski 2015](https://www.worldcubeassociation.org/competitions/SLSWodzislawSlaski2015) | [World Championship 2017](https://www.worldcubeassociation.org/competitions/WC2017) |
 | 15 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 5x5x5 Cube | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016) |
-| 15 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2x2x2 Cube | [Żmigród Open 2024](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2024) |  |
+| 15 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2x2x2 Cube | [Żmigród Open 2024](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2024) | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025) |
 | 15 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | Clock | [Cube4fun in Jarosław 2023](https://www.worldcubeassociation.org/competitions/Cube4funinJaroslaw2023) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024) |
 
 

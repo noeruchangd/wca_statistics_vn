@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### Rubik's Cube
@@ -62,7 +62,7 @@
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 48.17 | **54.25** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 10 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 50.87 | **54.26** | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/all#e555_c) | 4 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 51.86 | **54.37** | [Silesian Cubing Pawłowice 2023](https://www.worldcubeassociation.org/competitions/SilesianCubingPawlowice2023/results/all#e555_f) | 4 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 52.08 | **54.59** | [Silesian Cubing Mysłowice 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingMyslowice2025/results/all#e555_f) | 4 |
+| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 51.08 | **54.48** | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/all#e555_f) | 4 |
 
 ### 6x6x6 Cube
 
@@ -158,6 +158,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 1.26 | **2.04** | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/all#epyram_f) | 4 |
 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) | 1.88 | **2.25** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#epyram_f) | 4 |
 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 1.88 | **2.32** | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025/results/all#epyram_f) | 4 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2.07 | **2.34** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#epyram_f) | 4 |
@@ -167,7 +168,6 @@
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 2.11 | **2.39** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#epyram_f) | 5 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 2.04 | **2.40** | [Cube4fun Dąbrowa Górnicza 2022](https://www.worldcubeassociation.org/competitions/Cube4funDabrowaGornicza2022/results/all#epyram_f) | 4 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 1.41 | **2.44** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#epyram_f) | 4 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 1.63 | **2.44** | [Cube Factory League Jeżów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2025/results/all#epyram_f) | 4 |
 
 ### Rubik's Clock
 

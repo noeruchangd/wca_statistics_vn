@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 
 ### Rubik's Cube
@@ -74,9 +74,9 @@
 | 8.54 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/by_person#2022SZUB01) |
 | 8.64 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/by_person#2019KARP03) |
 | 8.65 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [SLS Grudzień 2023](https://www.worldcubeassociation.org/competitions/SLSGrudzien2023/results/by_person#2019KARP03) |
+| 8.65 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/by_person#2022GLAD01) |
 | 8.71 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025/results/by_person#2019KARP03) |
 | 8.74 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Biała Podlaska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaPodlaska2025/results/by_person#2019KARP03) |
-| 8.88 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2014ZAKR01) |
 
 ### Megaminx
 
@@ -101,12 +101,12 @@
 | 1.39 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021/results/by_person#2015GORN01) |
 | 1.40 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Minxing in Bratislava 2024](https://www.worldcubeassociation.org/competitions/MinxinginBratislava2024/results/by_person#2018HIBS01) |
 | 1.41 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | [Chorzów Open 2024](https://www.worldcubeassociation.org/competitions/ChorzowOpen2024/results/by_person#2020DOZA01) |
+| 1.45 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/by_person#2022SOLO01) |
 | 1.46 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023/results/by_person#2018HIBS01) |
 | 1.47 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2021MAJC01) |
 | 1.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016KOLA02) |
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
 | 1.51 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [Cube4fun in Warsaw 2024](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2024/results/by_person#2016WOJC04) |
-| 1.51 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024/results/by_person#2020DOZA01) |
 
 ### Rubik's Clock
 
@@ -121,7 +121,7 @@
 | 2.56 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube4fun Biała Rawska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaRawska2025/results/by_person#2022STOJ03) |
 | 2.59 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024/results/by_person#2021KASP01) |
 | 2.60 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2021KASP01) |
-| 2.60 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2022STOJ03) |
+| 2.60 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin Summer 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSummer2025/results/by_person#2021KASP01) |
 
 ### Skewb
 

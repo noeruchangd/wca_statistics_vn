@@ -1,55 +1,55 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 June 2025*
+*Updated on  4 June 2025*
 
 | Person | Distance |
 | :--- | ---: |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 277 582 km |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 277 718 km |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 272 866 km |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 124 412 km |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 124 768 km |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 118 018 km |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 101 110 km |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 98 691 km |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 98 848 km |
 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | 98 389 km |
 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) | 97 368 km |
 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 82 130 km |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 79 129 km |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 77 897 km |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 77 887 km |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 77 740 km |
 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 72 750 km |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 71 957 km |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 70 681 km |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 63 202 km |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 62 994 km |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 61 735 km |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 63 167 km |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 61 743 km |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 60 650 km |
 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) | 59 328 km |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 57 404 km |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 57 849 km |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 55 513 km |
 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) | 54 110 km |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 53 920 km |
-| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 52 091 km |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 49 285 km |
+| [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | 52 236 km |
+| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 49 458 km |
 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) | 47 853 km |
 | [Jarosław Chodyniecki](https://www.worldcubeassociation.org/persons/2018CHOD01) | 46 669 km |
-| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 46 423 km |
+| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 46 668 km |
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | 43 891 km |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | 43 771 km |
-| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 43 109 km |
+| [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | 43 266 km |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 42 815 km |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 41 256 km |
 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) | 41 086 km |
 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) | 40 295 km |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 39 706 km |
 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 39 182 km |
-| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 38 906 km |
+| [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | 39 100 km |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 36 896 km |
-| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 35 906 km |
-| [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) | 34 996 km |
+| [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) | 36 083 km |
+| [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) | 35 190 km |
 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) | 34 488 km |
 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) | 34 420 km |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 34 166 km |
-| [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) | 33 761 km |
+| [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) | 33 955 km |
 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) | 32 898 km |
 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 32 105 km |
 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 32 026 km |
@@ -67,17 +67,17 @@
 | [Tymon Sozański](https://www.worldcubeassociation.org/persons/2022SOZA01) | 27 104 km |
 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) | 26 989 km |
 | [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | 26 846 km |
-| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 26 383 km |
-| [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 26 091 km |
-| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 25 950 km |
+| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 26 391 km |
+| [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 26 337 km |
+| [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 25 958 km |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 25 928 km |
+| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 24 912 km |
 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 24 754 km |
-| [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 24 667 km |
-| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 24 399 km |
+| [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 24 593 km |
 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 23 864 km |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 23 613 km |
+| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 23 513 km |
 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) | 23 368 km |
-| [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) | 23 340 km |
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 23 157 km |
 | [Ernest Zakrzewski](https://www.worldcubeassociation.org/persons/2011ZAKR01) | 23 057 km |
 | [Patrycja Michalska](https://www.worldcubeassociation.org/persons/2013MICH02) | 22 316 km |
@@ -87,7 +87,7 @@
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 21 592 km |
 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 21 224 km |
 | [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 21 205 km |
-| [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 20 903 km |
+| [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 20 911 km |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 20 471 km |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | 20 427 km |
 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 20 382 km |
@@ -109,13 +109,13 @@
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 17 594 km |
 | [Hubert Firek](https://www.worldcubeassociation.org/persons/2015FIRE01) | 17 531 km |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 17 520 km |
+| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 17 464 km |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 17 372 km |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 17 291 km |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | 17 286 km |
-| [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 17 143 km |
+| [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 17 231 km |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 17 123 km |
+| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 17 097 km |
 | [Wiktoria Waryszak](https://www.worldcubeassociation.org/persons/2018WARY01) | 17 089 km |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 17 063 km |
 | [Jan Jędrzej Kasprzak](https://www.worldcubeassociation.org/persons/2022KASP03) | 17 057 km |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 17 040 km |
 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 16 260 km |
@@ -124,15 +124,15 @@
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 16 078 km |
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 15 531 km |
 | [Michał Kopeć](https://www.worldcubeassociation.org/persons/2020KOPE01) | 15 515 km |
+| [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) | 15 494 km |
 | [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 15 340 km |
-| [Jakub Bartos](https://www.worldcubeassociation.org/persons/2014BART06) | 15 249 km |
 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 15 188 km |
 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | 15 178 km |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 14 933 km |
 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 14 657 km |
 | [Stanisław Dworak](https://www.worldcubeassociation.org/persons/2021DWOR01) | 14 633 km |
 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 14 493 km |
-| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 14 457 km |
+| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 14 476 km |
 | [Ada Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD01) | 14 398 km |
 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) | 14 198 km |
 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) | 13 975 km |
@@ -143,14 +143,14 @@
 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) | 13 393 km |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | 13 389 km |
 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) | 13 381 km |
+| [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 13 220 km |
 | [Ignacy Wesołowski](https://www.worldcubeassociation.org/persons/2021WESO01) | 13 074 km |
-| [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 13 001 km |
 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | 12 908 km |
 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) | 12 842 km |
 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) | 12 504 km |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 12 475 km |
+| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | 12 436 km |
 | [Stanisław Pelczar](https://www.worldcubeassociation.org/persons/2023PELC01) | 12 294 km |
-| [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) | 12 264 km |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2020ANON03) | 12 191 km |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 12 016 km |
 | [Krystian Węgrzyn](https://www.worldcubeassociation.org/persons/2021WEGR01) | 11 914 km |
@@ -163,38 +163,39 @@
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 11 185 km |
 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | 11 010 km |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 10 934 km |
+| [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 10 884 km |
+| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 10 833 km |
 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 10 810 km |
 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) | 10 803 km |
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 10 723 km |
-| [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) | 10 711 km |
 | [Piotr Kuchta](https://www.worldcubeassociation.org/persons/2012KUCH01) | 10 687 km |
-| [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 10 675 km |
+| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 10 566 km |
 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) | 10 457 km |
-| [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 10 430 km |
 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 10 206 km |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 10 130 km |
+| [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 10 126 km |
 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) | 10 120 km |
-| [Marcel Nycz](https://www.worldcubeassociation.org/persons/2016NYCZ01) | 10 107 km |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 9 936 km |
 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) | 9 916 km |
 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | 9 912 km |
 | [Robert Cegiel](https://www.worldcubeassociation.org/persons/2017CEGI01) | 9 905 km |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2022ANON03) | 9 879 km |
 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 9 785 km |
+| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 9 665 km |
 | [Klaudia Grabowska](https://www.worldcubeassociation.org/persons/2007GRAB01) | 9 609 km |
 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) | 9 439 km |
-| [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 9 420 km |
 | [Aleks Dawidek](https://www.worldcubeassociation.org/persons/2022DAWI01) | 9 415 km |
 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 9 317 km |
 | [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) | 9 135 km |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 9 035 km |
+| [Tomasz Darłak](https://www.worldcubeassociation.org/persons/2024DARL01) | 8 738 km |
+| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | 8 728 km |
 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) | 8 708 km |
 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) | 8 660 km |
-| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | 8 634 km |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 8 614 km |
 | [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 8 588 km |
-| [Tomasz Darłak](https://www.worldcubeassociation.org/persons/2024DARL01) | 8 565 km |
 | [Marcin Popławski](https://www.worldcubeassociation.org/persons/2014POPA01) | 8 526 km |
 | [Zuzanna Bogusz](https://www.worldcubeassociation.org/persons/2022BOGU01) | 8 450 km |
+| [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 8 446 km |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 8 443 km |
 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) | 8 435 km |
 | [Jan Gnoiński](https://www.worldcubeassociation.org/persons/2008GNOI01) | 8 400 km |
@@ -203,16 +204,15 @@
 | [Maja Turczyk](https://www.worldcubeassociation.org/persons/2022TURC05) | 8 312 km |
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 8 312 km |
 | [Błażej Cichy](https://www.worldcubeassociation.org/persons/2012CICH01) | 8 239 km |
-| [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 8 201 km |
 | [Przemysław Piątek](https://www.worldcubeassociation.org/persons/2013PITE01) | 8 051 km |
 | [Marek Padlewski](https://www.worldcubeassociation.org/persons/2009PADL01) | 8 045 km |
 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 7 951 km |
+| [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) | 7 837 km |
 | [Joanna Kierznikiewicz](https://www.worldcubeassociation.org/persons/2022KIER01) | 7 832 km |
 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) | 7 795 km |
 | [Michał Nikiel](https://www.worldcubeassociation.org/persons/2011NIKI01) | 7 749 km |
 | [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) | 7 712 km |
 | [Krystian Załuski](https://www.worldcubeassociation.org/persons/2014ZAUS01) | 7 686 km |
-| [Marta Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ07) | 7 664 km |
 | [Patryk Zawieja](https://www.worldcubeassociation.org/persons/2014ZAWI02) | 7 625 km |
 | [Marta Sandra Duraj](https://www.worldcubeassociation.org/persons/2018CHOR02) | 7 614 km |
 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) | 7 514 km |
@@ -231,6 +231,7 @@
 | [Aleksy Stojek](https://www.worldcubeassociation.org/persons/2023STOJ04) | 7 176 km |
 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) | 7 164 km |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 7 164 km |
+| [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 7 129 km |
 | [Antoni Rumowski](https://www.worldcubeassociation.org/persons/2014RUMO01) | 7 122 km |
 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | 7 068 km |
 | [Filip Szostak](https://www.worldcubeassociation.org/persons/2018SZOS01) | 7 067 km |
@@ -242,7 +243,6 @@
 | [Mateusz Adamczyk](https://www.worldcubeassociation.org/persons/2011ADAM03) | 6 965 km |
 | [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 6 930 km |
 | [Adam Joks](https://www.worldcubeassociation.org/persons/2005JOKS01) | 6 919 km |
-| [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 6 890 km |
 | [Dominik Czechowski](https://www.worldcubeassociation.org/persons/2013CZEC02) | 6 865 km |
 | [Krzysztof Szwarc](https://www.worldcubeassociation.org/persons/2006SZWA01) | 6 862 km |
 | [Magda Gancarz](https://www.worldcubeassociation.org/persons/2007GANC01) | 6 832 km |
@@ -251,7 +251,7 @@
 | [Grzegorz Dzikiewicz](https://www.worldcubeassociation.org/persons/2008DZIK01) | 6 698 km |
 | [Karol Cudzich](https://www.worldcubeassociation.org/persons/2006CUDZ01) | 6 677 km |
 | [Krzysztof Żerucha](https://www.worldcubeassociation.org/persons/2008ZERU01) | 6 670 km |
-| [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) | 6 462 km |
+| [Daniel Samoszyn](https://www.worldcubeassociation.org/persons/2015SAMO01) | 6 496 km |
 | [Aleksander Dryjański](https://www.worldcubeassociation.org/persons/2023DRYJ01) | 6 459 km |
 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) | 6 453 km |
 | [Wiktor Smorąg](https://www.worldcubeassociation.org/persons/2015SMOR01) | 6 408 km |
@@ -260,12 +260,12 @@
 | [Damian Malinowski](https://www.worldcubeassociation.org/persons/2015MALI01) | 6 378 km |
 | [Mateusz Cukier](https://www.worldcubeassociation.org/persons/2023CUKI01) | 6 365 km |
 | [Mateusz Zajder](https://www.worldcubeassociation.org/persons/2024ZAJD01) | 6 289 km |
+| [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 6 266 km |
 | [Adrian Rodziewicz](https://www.worldcubeassociation.org/persons/2023RODZ01) | 6 228 km |
 | [Michał Cukier](https://www.worldcubeassociation.org/persons/2023CUKI02) | 6 228 km |
 | [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) | 6 165 km |
 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) | 6 151 km |
 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) | 6 135 km |
-| [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 6 130 km |
 | [Szymon Mazur](https://www.worldcubeassociation.org/persons/2010MAZU02) | 6 123 km |
 | [Konrad Leśniak](https://www.worldcubeassociation.org/persons/2014LENI02) | 6 046 km |
 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) | 5 835 km |
@@ -275,35 +275,36 @@
 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | 5 688 km |
 | [Mateusz Burnicki](https://www.worldcubeassociation.org/persons/2006BURN01) | 5 687 km |
 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 5 673 km |
+| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 5 630 km |
 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) | 5 626 km |
 | [Michał Pawlak](https://www.worldcubeassociation.org/persons/2008PAWL03) | 5 618 km |
 | [Franciszek Dębkowski](https://www.worldcubeassociation.org/persons/2013DBKO01) | 5 599 km |
 | [Cezary Rokita](https://www.worldcubeassociation.org/persons/2011ROKI01) | 5 544 km |
 | [Filip Kopeć](https://www.worldcubeassociation.org/persons/2013KOPE03) | 5 528 km |
 | [Tomasz Waryszak](https://www.worldcubeassociation.org/persons/2017WARY01) | 5 501 km |
+| [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) | 5 500 km |
 | [Krzysztof Cabaj](https://www.worldcubeassociation.org/persons/2010CABA01) | 5 493 km |
 | [Marta Żywicka](https://www.worldcubeassociation.org/persons/2013YWIC01) | 5 486 km |
 | [Ignacy Chodarcewicz](https://www.worldcubeassociation.org/persons/2023CHOD04) | 5 486 km |
 | [Artur Kubicki](https://www.worldcubeassociation.org/persons/2023KUBI02) | 5 484 km |
-| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 5 473 km |
 | [Anna Kogut](https://www.worldcubeassociation.org/persons/2019KOGU01) | 5 472 km |
-| [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) | 5 467 km |
 | [Dominik Wojciechowski](https://www.worldcubeassociation.org/persons/2013WOJC01) | 5 446 km |
+| [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | 5 441 km |
+| [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 5 433 km |
 | [Sebastian Kierznikiewicz](https://www.worldcubeassociation.org/persons/2023KIER02) | 5 432 km |
-| [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 5 425 km |
 | [Jeremi Niedziela](https://www.worldcubeassociation.org/persons/2008NIED01) | 5 398 km |
 | [Bartosz Kramkowski](https://www.worldcubeassociation.org/persons/2023KRAM02) | 5 386 km |
 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) | 5 373 km |
+| [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) | 5 355 km |
 | [Adrian Walkowiak](https://www.worldcubeassociation.org/persons/2011WALK02) | 5 349 km |
-| [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) | 5 336 km |
 | [Tomasz Larysz](https://www.worldcubeassociation.org/persons/2020LARY01) | 5 331 km |
 | [Anna Prabucka](https://www.worldcubeassociation.org/persons/2010PRAB01) | 5 316 km |
-| [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) | 5 305 km |
 | [Krystian Święch](https://www.worldcubeassociation.org/persons/2016SWIE02) | 5 293 km |
 | [Piotr Bzinkowski](https://www.worldcubeassociation.org/persons/2023BZIN01) | 5 239 km |
 | [Maksymilian Kutyła](https://www.worldcubeassociation.org/persons/2011KUTY01) | 5 233 km |
 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | 5 215 km |
 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 5 208 km |
+| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | 5 195 km |
 | [Adrian Dudek](https://www.worldcubeassociation.org/persons/2014DUDE01) | 5 170 km |
 | [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) | 5 169 km |
 | [Dominik Unijewski](https://www.worldcubeassociation.org/persons/2017UNIJ01) | 5 159 km |
@@ -321,7 +322,6 @@
 | [Łukasz Herman](https://www.worldcubeassociation.org/persons/2011HERM02) | 4 926 km |
 | [Michał Marszałek](https://www.worldcubeassociation.org/persons/2013MARS02) | 4 926 km |
 | [Bartosz Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR07) | 4 920 km |
-| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | 4 918 km |
 | [Kacper Stacha](https://www.worldcubeassociation.org/persons/2013STAC01) | 4 912 km |
 | [Tomasz Seweryn](https://www.worldcubeassociation.org/persons/2006SEWE01) | 4 904 km |
 | [Adam Gottscholl](https://www.worldcubeassociation.org/persons/2013GOTT01) | 4 901 km |
@@ -333,10 +333,11 @@
 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) | 4 766 km |
 | [Filip Błaszkowicz](https://www.worldcubeassociation.org/persons/2022BLAS03) | 4 758 km |
 | [Korneliusz Tombarkiewicz](https://www.worldcubeassociation.org/persons/2009TOMB01) | 4 745 km |
+| [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) | 4 740 km |
 | [Anna Łebkowska](https://www.worldcubeassociation.org/persons/2023LEBK04) | 4 737 km |
+| [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | 4 734 km |
 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) | 4 725 km |
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 4 709 km |
-| [Magnus Miłosz Birecki](https://www.worldcubeassociation.org/persons/2022BIRE01) | 4 671 km |
 | [Paweł Malinowski](https://www.worldcubeassociation.org/persons/2021MALI03) | 4 640 km |
 | [Felix Rejent](https://www.worldcubeassociation.org/persons/2022REJE01) | 4 618 km |
 | [Gustaw Rejent](https://www.worldcubeassociation.org/persons/2022REJE02) | 4 618 km |
@@ -346,13 +347,12 @@
 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) | 4 573 km |
 | [Patryk Kozieł](https://www.worldcubeassociation.org/persons/2014KOZI01) | 4 561 km |
 | [Piotr Chodera](https://www.worldcubeassociation.org/persons/2011CHOD01) | 4 544 km |
-| [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) | 4 540 km |
 | [Mateusz Zieliński](https://www.worldcubeassociation.org/persons/2013ZIEL02) | 4 505 km |
 | [Piotr Pojda](https://www.worldcubeassociation.org/persons/2012POJD01) | 4 500 km |
 | [Mateusz Kurek](https://www.worldcubeassociation.org/persons/2008KURE01) | 4 485 km |
 | [Edyta Kopeć](https://www.worldcubeassociation.org/persons/2022KOPE04) | 4 470 km |
 | [Paweł Murawski](https://www.worldcubeassociation.org/persons/2015MURA05) | 4 324 km |
-| [Łukasz Kubica](https://www.worldcubeassociation.org/persons/2022KUBI04) | 4 301 km |
+| [Łukasz Kubica](https://www.worldcubeassociation.org/persons/2022KUBI04) | 4 315 km |
 | [Piotr Zygmunt](https://www.worldcubeassociation.org/persons/2013ZYGM01) | 4 297 km |
 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) | 4 278 km |
 | [Paweł Stolarski](https://www.worldcubeassociation.org/persons/2023STOL04) | 4 264 km |
@@ -373,26 +373,27 @@
 | [Michał Mendocha](https://www.worldcubeassociation.org/persons/2008MEND02) | 4 047 km |
 | [Nikodem Tomaszuk](https://www.worldcubeassociation.org/persons/2018TOMA03) | 4 031 km |
 | [Jakub Kubiak](https://www.worldcubeassociation.org/persons/2014KUBI02) | 4 001 km |
+| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 3 993 km |
 | [Jakub Tkaczyk](https://www.worldcubeassociation.org/persons/2015TKAC02) | 3 962 km |
+| [Karolina Put](https://www.worldcubeassociation.org/persons/2022PUTK01) | 3 956 km |
 | [Łukasz Kozioł](https://www.worldcubeassociation.org/persons/2011KOZI01) | 3 922 km |
-| [Karolina Put](https://www.worldcubeassociation.org/persons/2022PUTK01) | 3 922 km |
 | [Wiktor Kowalski](https://www.worldcubeassociation.org/persons/2019KOWA02) | 3 910 km |
 | [Michał Roszak](https://www.worldcubeassociation.org/persons/2016ROSZ02) | 3 860 km |
 | [Jakub Ryba](https://www.worldcubeassociation.org/persons/2023RYBA03) | 3 858 km |
 | [Kamil Ziółkowski](https://www.worldcubeassociation.org/persons/2023ZIOL01) | 3 858 km |
-| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 3 857 km |
 | [Łukasz Gębicz](https://www.worldcubeassociation.org/persons/2013GBIC01) | 3 843 km |
 | [Antoni Deja](https://www.worldcubeassociation.org/persons/2018DEJA01) | 3 832 km |
 | [Filip Klonowski](https://www.worldcubeassociation.org/persons/2022KLON01) | 3 821 km |
+| [Kuba Adamczyk](https://www.worldcubeassociation.org/persons/2021ADAM03) | 3 816 km |
 | [Jakub Zarębski](https://www.worldcubeassociation.org/persons/2015ZARB01) | 3 815 km |
 | [Marcin Szczepaniak](https://www.worldcubeassociation.org/persons/2013SZCZ03) | 3 804 km |
+| [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | 3 804 km |
 | [Szymon Gabara](https://www.worldcubeassociation.org/persons/2023GABA01) | 3 757 km |
 | [Piotr Kogut](https://www.worldcubeassociation.org/persons/2016KOGU01) | 3 726 km |
 | [Nikodem Pieprzyk](https://www.worldcubeassociation.org/persons/2022PIEP02) | 3 701 km |
 | [Mateusz Mączka](https://www.worldcubeassociation.org/persons/2016MACZ01) | 3 691 km |
 | [Daniel Stempin](https://www.worldcubeassociation.org/persons/2023STEM03) | 3 685 km |
 | [Mikołaj Molski](https://www.worldcubeassociation.org/persons/2015MOLS01) | 3 679 km |
-| [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | 3 667 km |
 | [Tomasz Burliga](https://www.worldcubeassociation.org/persons/2015BURL01) | 3 663 km |
 | [Borys Barański](https://www.worldcubeassociation.org/persons/2023BARA08) | 3 656 km |
 | [Filip Rudnicki](https://www.worldcubeassociation.org/persons/2021RUDN01) | 3 623 km |
@@ -403,11 +404,12 @@
 | [Adam Blicharski](https://www.worldcubeassociation.org/persons/2013BLIC01) | 3 542 km |
 | [Michał Dębski](https://www.worldcubeassociation.org/persons/2012DEBS01) | 3 533 km |
 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) | 3 529 km |
-| [Kuba Adamczyk](https://www.worldcubeassociation.org/persons/2021ADAM03) | 3 501 km |
 | [Bartłomiej Gołda](https://www.worldcubeassociation.org/persons/2015GODA01) | 3 499 km |
 | [Jarosław Kogut](https://www.worldcubeassociation.org/persons/2022KOGU01) | 3 487 km |
 | [Bartłomiej Lewandowski](https://www.worldcubeassociation.org/persons/2013LEWA01) | 3 472 km |
+| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 3 469 km |
 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | 3 466 km |
+| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 3 464 km |
 | [Adrian Alankiewicz](https://www.worldcubeassociation.org/persons/2016ALAN02) | 3 454 km |
 | [Cezary Chełkowski](https://www.worldcubeassociation.org/persons/2012CHEK01) | 3 444 km |
 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) | 3 429 km |
@@ -421,7 +423,6 @@
 | [Patryk Szewczyk](https://www.worldcubeassociation.org/persons/2012SZEW01) | 3 324 km |
 | [Ewa Wójcik](https://www.worldcubeassociation.org/persons/2015WOJC01) | 3 324 km |
 | [Franek Saliński](https://www.worldcubeassociation.org/persons/2015SALI02) | 3 314 km |
-| [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | 3 311 km |
 | [Jakub Lorens](https://www.worldcubeassociation.org/persons/2018LORE01) | 3 310 km |
 | [Grzegorz Łucki](https://www.worldcubeassociation.org/persons/2013UCKI01) | 3 291 km |
 | [Jakub Kuderski](https://www.worldcubeassociation.org/persons/2011KUDE01) | 3 290 km |
@@ -432,7 +433,6 @@
 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 3 276 km |
 | [Oskar Karwot](https://www.worldcubeassociation.org/persons/2020KARW01) | 3 276 km |
 | [Maciej Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK03) | 3 275 km |
-| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 3 270 km |
 | [Witold Waszkiewicz](https://www.worldcubeassociation.org/persons/2021WASZ01) | 3 255 km |
 | [Adam Steuer](https://www.worldcubeassociation.org/persons/2023STEU01) | 3 255 km |
 | [Patryk Skrzyński](https://www.worldcubeassociation.org/persons/2017SKRZ01) | 3 216 km |
@@ -500,6 +500,7 @@
 | [Juliusz Czakon](https://www.worldcubeassociation.org/persons/2012CZAK01) | 2 598 km |
 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 2 598 km |
 | [Łukasz Pawłowski](https://www.worldcubeassociation.org/persons/2020PAWL01) | 2 594 km |
+| [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | 2 583 km |
 | [Daniel Mazurek](https://www.worldcubeassociation.org/persons/2010MAZU01) | 2 580 km |
 | [Bartosz Krogul](https://www.worldcubeassociation.org/persons/2021KROG03) | 2 574 km |
 | [Adam Zakrzewski](https://www.worldcubeassociation.org/persons/2022ZAKR02) | 2 567 km |
@@ -510,9 +511,8 @@
 | [Maciej Jagiełło](https://www.worldcubeassociation.org/persons/2009JAGI01) | 2 533 km |
 | [Karolina Matczak](https://www.worldcubeassociation.org/persons/2013UREK01) | 2 527 km |
 | [Aleksander Skrzypczak](https://www.worldcubeassociation.org/persons/2024SKRZ01) | 2 523 km |
-| [Wiktor Świstowski](https://www.worldcubeassociation.org/persons/2024SWIS01) | 2 502 km |
+| [Wiktor Świstowski](https://www.worldcubeassociation.org/persons/2024SWIS01) | 2 521 km |
 | [Michał Żarnicki](https://www.worldcubeassociation.org/persons/2022ZARN01) | 2 489 km |
-| [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | 2 487 km |
 | [Cezary Gajzler](https://www.worldcubeassociation.org/persons/2022GAJZ01) | 2 466 km |
 | [Manuela Pilch](https://www.worldcubeassociation.org/persons/2022PILC01) | 2 461 km |
 | [Jakub Kaszuba](https://www.worldcubeassociation.org/persons/2014KASZ01) | 2 447 km |
@@ -557,6 +557,7 @@
 | [Jakub Dłużak](https://www.worldcubeassociation.org/persons/2021DLUZ01) | 2 146 km |
 | [Ksawier Kuźniar](https://www.worldcubeassociation.org/persons/2021KUZN01) | 2 141 km |
 | [Kacper Kozak](https://www.worldcubeassociation.org/persons/2023KOZA05) | 2 133 km |
+| [Maksymilian Sysak](https://www.worldcubeassociation.org/persons/2024SYSA01) | 2 133 km |
 | [Stefan Pokrycki](https://www.worldcubeassociation.org/persons/2024POKR01) | 2 131 km |
 | [Bartosz Pawlik](https://www.worldcubeassociation.org/persons/2014PAWL02) | 2 126 km |
 | [Michał Korbacz](https://www.worldcubeassociation.org/persons/2008KORB01) | 2 116 km |
@@ -589,7 +590,6 @@
 | [Dominika Dziczek](https://www.worldcubeassociation.org/persons/2019DZIC01) | 2 009 km |
 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) | 2 001 km |
 | [Jan Hetman](https://www.worldcubeassociation.org/persons/2012HETM01) | 1 996 km |
-| [Maksymilian Sysak](https://www.worldcubeassociation.org/persons/2024SYSA01) | 1 996 km |
 | [Barbara Olbromska](https://www.worldcubeassociation.org/persons/2006OLBR01) | 1 993 km |
 | [Kamil Fus](https://www.worldcubeassociation.org/persons/2008FUSK01) | 1 988 km |
 | [Stanisław Tochowicz](https://www.worldcubeassociation.org/persons/2023TOCH01) | 1 984 km |
@@ -669,6 +669,7 @@
 | [Jan Wierzchoń](https://www.worldcubeassociation.org/persons/2024WIER02) | 1 681 km |
 | [Weronika Marczyk](https://www.worldcubeassociation.org/persons/2012MARC03) | 1 678 km |
 | [Andrzej Jamrozik](https://www.worldcubeassociation.org/persons/2013JAMR01) | 1 676 km |
+| [Dawid Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA07) | 1 675 km |
 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) | 1 675 km |
 | [Michał Orylski](https://www.worldcubeassociation.org/persons/2009ORYL01) | 1 674 km |
 | [Mikołaj Kuzia](https://www.worldcubeassociation.org/persons/2019KUZI02) | 1 663 km |
@@ -718,6 +719,7 @@
 | [Miłosz Gdula](https://www.worldcubeassociation.org/persons/2013GDUL01) | 1 483 km |
 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 1 480 km |
 | [Antoni Krzywdziński](https://www.worldcubeassociation.org/persons/2016KRZY01) | 1 478 km |
+| [Daniel Nocoń](https://www.worldcubeassociation.org/persons/2021NOCO01) | 1 478 km |
 | [Klaudiusz Cieszyński](https://www.worldcubeassociation.org/persons/2014CIES01) | 1 474 km |
 | [Antonina Bieryt](https://www.worldcubeassociation.org/persons/2019BIER01) | 1 470 km |
 | [Mariusz Wiśniewski](https://www.worldcubeassociation.org/persons/2011WISN03) | 1 467 km |
@@ -737,16 +739,16 @@
 | [Konstanty Kuźnik](https://www.worldcubeassociation.org/persons/2023KUZN01) | 1 427 km |
 | [Antoni Zając](https://www.worldcubeassociation.org/persons/2014ZAJC01) | 1 426 km |
 | [Tomek Gamlij](https://www.worldcubeassociation.org/persons/2021GAML01) | 1 424 km |
+| [Daniel Śliwa](https://www.worldcubeassociation.org/persons/2024SLIW01) | 1 424 km |
 | [Mateusz Kozioł](https://www.worldcubeassociation.org/persons/2017KOZI01) | 1 422 km |
 | [Adrianna Felczerek](https://www.worldcubeassociation.org/persons/2015FELC02) | 1 420 km |
 | [Adam Czarnecki](https://www.worldcubeassociation.org/persons/2017CZAR01) | 1 415 km |
-| [Dawid Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA07) | 1 411 km |
 | [Kacper Kuźniak](https://www.worldcubeassociation.org/persons/2018KUZN11) | 1 410 km |
 | [Piotr Dryla](https://www.worldcubeassociation.org/persons/2015DRYL01) | 1 409 km |
 | [Antoni Polityło](https://www.worldcubeassociation.org/persons/2023POLI06) | 1 403 km |
 | [Michał Jakubowski](https://www.worldcubeassociation.org/persons/2021JAKU01) | 1 401 km |
-| [Daniel Śliwa](https://www.worldcubeassociation.org/persons/2024SLIW01) | 1 391 km |
 | [Agata Szczepaniuk](https://www.worldcubeassociation.org/persons/2015SZCZ02) | 1 386 km |
+| [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) | 1 385 km |
 | [Łukasz Drozd](https://www.worldcubeassociation.org/persons/2014DROZ01) | 1 383 km |
 | [Krzysztof Bloch](https://www.worldcubeassociation.org/persons/2019BLOC02) | 1 380 km |
 | [Miłosz Łaskawiec](https://www.worldcubeassociation.org/persons/2022LASK01) | 1 378 km |
@@ -784,6 +786,7 @@
 | [Michał Kawa](https://www.worldcubeassociation.org/persons/2014KAWA03) | 1 306 km |
 | [Marcin Warkocz](https://www.worldcubeassociation.org/persons/2022WARK01) | 1 300 km |
 | [Adrian Nowikiewicz](https://www.worldcubeassociation.org/persons/2011NOWI01) | 1 298 km |
+| [Wojciech Tyła](https://www.worldcubeassociation.org/persons/2022TYLA02) | 1 298 km |
 | [Blanka Kozak](https://www.worldcubeassociation.org/persons/2023KOZA01) | 1 293 km |
 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) | 1 293 km |
 | [Dawid Barański](https://www.worldcubeassociation.org/persons/2014BARA01) | 1 291 km |
@@ -801,6 +804,7 @@
 | [Monika Szachniewicz](https://www.worldcubeassociation.org/persons/2018SZAC01) | 1 262 km |
 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2024RAFA06) | 1 262 km |
 | [Dawid Pelko](https://www.worldcubeassociation.org/persons/2024PELK01) | 1 258 km |
+| [Kacper Wandoch](https://www.worldcubeassociation.org/persons/2024WAND01) | 1 253 km |
 | [Aleksander Wojciechowski](https://www.worldcubeassociation.org/persons/2024WOJC02) | 1 252 km |
 | [Mateusz Jelonek](https://www.worldcubeassociation.org/persons/2017JELO01) | 1 250 km |
 | [Piotr Cymbała](https://www.worldcubeassociation.org/persons/2022CYMB01) | 1 247 km |
@@ -813,12 +817,12 @@
 | [Igor Osiadacz](https://www.worldcubeassociation.org/persons/2022OSIA01) | 1 241 km |
 | [Karolina Jewiarz](https://www.worldcubeassociation.org/persons/2014JEWI01) | 1 232 km |
 | [Szczepan Łągiewka](https://www.worldcubeassociation.org/persons/2007LAGI01) | 1 231 km |
+| [Michał Luchowski](https://www.worldcubeassociation.org/persons/2024LUCH01) | 1 231 km |
 | [Adam Juszczyński](https://www.worldcubeassociation.org/persons/2018JUSZ01) | 1 229 km |
 | [Nikodem Paluczek](https://www.worldcubeassociation.org/persons/2019PALU02) | 1 225 km |
 | [Zygmunt Małkiewicz](https://www.worldcubeassociation.org/persons/2024MALK02) | 1 224 km |
 | [Aleksander Szymkowicz](https://www.worldcubeassociation.org/persons/2023SZYM02) | 1 221 km |
 | [Nikodem Biernacki](https://www.worldcubeassociation.org/persons/2024BIER01) | 1 221 km |
-| [Kacper Wandoch](https://www.worldcubeassociation.org/persons/2024WAND01) | 1 220 km |
 | [Filip Jurczak](https://www.worldcubeassociation.org/persons/2013JURC02) | 1 210 km |
 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) | 1 210 km |
 | [Jakub Waliszewski](https://www.worldcubeassociation.org/persons/2019WALI04) | 1 208 km |
@@ -827,11 +831,11 @@
 | [Oskar Kaźmierowicz](https://www.worldcubeassociation.org/persons/2023KAZM02) | 1 205 km |
 | [Michał Wójtowicz](https://www.worldcubeassociation.org/persons/2022WOJT02) | 1 204 km |
 | [Kamil Kiełkowski](https://www.worldcubeassociation.org/persons/2023KIEL02) | 1 199 km |
-| [Michał Luchowski](https://www.worldcubeassociation.org/persons/2024LUCH01) | 1 198 km |
 | [Franciszek Jaskulski](https://www.worldcubeassociation.org/persons/2013JASK01) | 1 197 km |
 | [Bartłomiej Górny](https://www.worldcubeassociation.org/persons/2018GORN01) | 1 193 km |
 | [Jakub Ogrodowczyk](https://www.worldcubeassociation.org/persons/2022OGRO01) | 1 191 km |
 | [Paweł Szmalc](https://www.worldcubeassociation.org/persons/2012SZMA01) | 1 189 km |
+| [Antoni Orłowski](https://www.worldcubeassociation.org/persons/2024ORLO02) | 1 189 km |
 | [Kajetan Maślak](https://www.worldcubeassociation.org/persons/2013MALA02) | 1 187 km |
 | [Mateusz Bednarczyk](https://www.worldcubeassociation.org/persons/2018BEDN03) | 1 187 km |
 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) | 1 187 km |
@@ -840,10 +844,10 @@
 | [Tymon Kochanowski](https://www.worldcubeassociation.org/persons/2024KOCH01) | 1 185 km |
 | [Adrian Reinert](https://www.worldcubeassociation.org/persons/2013REIN01) | 1 178 km |
 | [Norbert Ciurysek](https://www.worldcubeassociation.org/persons/2019CIUR01) | 1 178 km |
-| [Daniel Nocoń](https://www.worldcubeassociation.org/persons/2021NOCO01) | 1 174 km |
 | [Oliwier Szklarz](https://www.worldcubeassociation.org/persons/2023SZKL01) | 1 170 km |
 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2009TOMC01) | 1 169 km |
 | [Sławomir Kapka](https://www.worldcubeassociation.org/persons/2010KAPK01) | 1 161 km |
+| [Franciszek Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR03) | 1 161 km |
 | [Tymoteusz Kazimierczak](https://www.worldcubeassociation.org/persons/2023KAZI01) | 1 160 km |
 | [Łukasz Kurowski](https://www.worldcubeassociation.org/persons/2022KURO01) | 1 158 km |
 | [Piotr Stachurski](https://www.worldcubeassociation.org/persons/2018STAC06) | 1 157 km |
@@ -853,11 +857,11 @@
 | [Adam Kiecoń](https://www.worldcubeassociation.org/persons/2023KIEC01) | 1 143 km |
 | [Oskar Osiński](https://www.worldcubeassociation.org/persons/2015OSIN01) | 1 142 km |
 | [Ksawery Beniuk](https://www.worldcubeassociation.org/persons/2022BENI04) | 1 142 km |
-| [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) | 1 140 km |
 | [Luu Hathi Julia Nguyen](https://www.worldcubeassociation.org/persons/2022NGUY52) | 1 138 km |
 | [Sonia Reinert](https://www.worldcubeassociation.org/persons/2013REIN02) | 1 135 km |
 | [Damian Skrzypiec](https://www.worldcubeassociation.org/persons/2009SKRZ01) | 1 133 km |
 | [Gabriel Radosz](https://www.worldcubeassociation.org/persons/2022RADO03) | 1 132 km |
+| [Jan Szerzyna](https://www.worldcubeassociation.org/persons/2024SZER01) | 1 130 km |
 | [Piotr Wacławski](https://www.worldcubeassociation.org/persons/2007WACL01) | 1 127 km |
 | [Patryk Wawrzyniak](https://www.worldcubeassociation.org/persons/2015WAWR01) | 1 127 km |
 | [Wojciech Kotulski](https://www.worldcubeassociation.org/persons/2015KOTU01) | 1 124 km |
@@ -885,6 +889,7 @@
 | [Kacper Pyciński](https://www.worldcubeassociation.org/persons/2023PYCI01) | 1 080 km |
 | [Marcin Mroskowiak](https://www.worldcubeassociation.org/persons/2013MROS01) | 1 078 km |
 | [Sebastian Pałka](https://www.worldcubeassociation.org/persons/2022PALK01) | 1 078 km |
+| [Michał Adamczyk](https://www.worldcubeassociation.org/persons/2023ADAM21) | 1 078 km |
 | [Mateusz Tomaszek](https://www.worldcubeassociation.org/persons/2015TOMA02) | 1 074 km |
 | [Zuzanna Kozicka](https://www.worldcubeassociation.org/persons/2021KOZI01) | 1 074 km |
 | [Michał Stachurski](https://www.worldcubeassociation.org/persons/2018STAC01) | 1 070 km |
@@ -897,6 +902,7 @@
 | [Maciej Baraniecki](https://www.worldcubeassociation.org/persons/2023BARA07) | 1 060 km |
 | [Szymon Łuszczek](https://www.worldcubeassociation.org/persons/2023LUSZ01) | 1 058 km |
 | [Kinga Wiśniewska](https://www.worldcubeassociation.org/persons/2011WISN02) | 1 056 km |
+| [Tyberiusz Wandoch](https://www.worldcubeassociation.org/persons/2024WAND03) | 1 055 km |
 | [Wojciech Paluch](https://www.worldcubeassociation.org/persons/2011PALU01) | 1 054 km |
 | [Alan Dygutowicz](https://www.worldcubeassociation.org/persons/2024DYGU01) | 1 054 km |
 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) | 1 053 km |
@@ -905,6 +911,7 @@
 | [Kamil Wroński](https://www.worldcubeassociation.org/persons/2019WRON01) | 1 049 km |
 | [Damian Brzozowski](https://www.worldcubeassociation.org/persons/2024BRZO01) | 1 049 km |
 | [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 1 048 km |
+| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 1 047 km |
 | [Kacper Karpierz](https://www.worldcubeassociation.org/persons/2023KARP06) | 1 044 km |
 | [Patryk Bola](https://www.worldcubeassociation.org/persons/2013BOLA02) | 1 042 km |
 | [Sebastian Kaźmierski](https://www.worldcubeassociation.org/persons/2005KAZM01) | 1 041 km |
@@ -915,14 +922,12 @@
 | [Mikołaj Zembrowski](https://www.worldcubeassociation.org/persons/2024ZEMB01) | 1 033 km |
 | [Michał Gmyrek](https://www.worldcubeassociation.org/persons/2008GMYR01) | 1 032 km |
 | [Julek Kawczyński](https://www.worldcubeassociation.org/persons/2022KAWC01) | 1 032 km |
-| [Antoni Orłowski](https://www.worldcubeassociation.org/persons/2024ORLO02) | 1 032 km |
 | [Szymon Bajor](https://www.worldcubeassociation.org/persons/2017BAJO01) | 1 031 km |
 | [Kacper Borkowski](https://www.worldcubeassociation.org/persons/2023BORK03) | 1 028 km |
 | [Bartosz Sawczuk](https://www.worldcubeassociation.org/persons/2019SAWC01) | 1 027 km |
 | [Feliks Majchrzak](https://www.worldcubeassociation.org/persons/2023MAJC01) | 1 027 km |
 | [Aleksander Parasion](https://www.worldcubeassociation.org/persons/2016PARA04) | 1 026 km |
 | [Mateusz Wcisło](https://www.worldcubeassociation.org/persons/2021WCIS01) | 1 023 km |
-| [Tyberiusz Wandoch](https://www.worldcubeassociation.org/persons/2024WAND03) | 1 022 km |
 | [Adam Czekaj](https://www.worldcubeassociation.org/persons/2024CZEK01) | 1 017 km |
 | [Franciszek Skóra](https://www.worldcubeassociation.org/persons/2024SKOR04) | 1 016 km |
 | [Tymon Choroszucha](https://www.worldcubeassociation.org/persons/2013CHOR01) | 1 013 km |
@@ -940,6 +945,7 @@
 | [Ludwik Staniszewski](https://www.worldcubeassociation.org/persons/2017STAN06) | 994 km |
 | [Bartosz Ingram](https://www.worldcubeassociation.org/persons/2021INGR01) | 993 km |
 | [Antoni Kingston](https://www.worldcubeassociation.org/persons/2021KING03) | 991 km |
+| [Franciszek Frankowski](https://www.worldcubeassociation.org/persons/2024FRAN51) | 990 km |
 | [Rafał Świstowski](https://www.worldcubeassociation.org/persons/2024SWIS04) | 987 km |
 | [Sławomir Wolanin](https://www.worldcubeassociation.org/persons/2005WOLA01) | 979 km |
 | [Paulina Jaskulska](https://www.worldcubeassociation.org/persons/2013JASK03) | 979 km |
@@ -949,7 +955,6 @@
 | [Jan Cichowlas](https://www.worldcubeassociation.org/persons/2014CICH02) | 972 km |
 | [Filip Sowa](https://www.worldcubeassociation.org/persons/2024SOWA01) | 972 km |
 | [Dominik Pasztetnik](https://www.worldcubeassociation.org/persons/2013PASZ01) | 967 km |
-| [Franciszek Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR03) | 966 km |
 | [Jakub Zapart](https://www.worldcubeassociation.org/persons/2023ZAPA02) | 959 km |
 | [Piotr Brodacki](https://www.worldcubeassociation.org/persons/2014BROD01) | 956 km |
 | [Sebastian Chojniak](https://www.worldcubeassociation.org/persons/2006CHOJ01) | 955 km |
@@ -962,10 +967,8 @@
 | [Jan Milewski](https://www.worldcubeassociation.org/persons/2024MILE01) | 941 km |
 | [Kacper Szumigaj](https://www.worldcubeassociation.org/persons/2012SZUM01) | 940 km |
 | [Szymon Salabura](https://www.worldcubeassociation.org/persons/2013SALA06) | 940 km |
-| [Jan Szerzyna](https://www.worldcubeassociation.org/persons/2024SZER01) | 936 km |
 | [Dawid Tyszer](https://www.worldcubeassociation.org/persons/2021TYSZ02) | 935 km |
 | [Jakub Jakowienko](https://www.worldcubeassociation.org/persons/2022JAKO01) | 935 km |
-| [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) | 935 km |
 | [Tadeusz Libiszewski](https://www.worldcubeassociation.org/persons/2022LIBI01) | 930 km |
 | [Michał Mielniczek](https://www.worldcubeassociation.org/persons/2009MIEL01) | 928 km |
 | [Szymon Grudny](https://www.worldcubeassociation.org/persons/2014GRUD01) | 928 km |
@@ -1000,11 +1003,8 @@
 | [Agata Honisz](https://www.worldcubeassociation.org/persons/2014HONI01) | 892 km |
 | [Julian Lorenc](https://www.worldcubeassociation.org/persons/2019LORE03) | 891 km |
 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | 890 km |
+| [Jacek Jaworski](https://www.worldcubeassociation.org/persons/2023JAWO04) | 889 km |
 | [Bruno Fromm](https://www.worldcubeassociation.org/persons/2023FROM01) | 886 km |
-| [Wojciech Kuszyński](https://www.worldcubeassociation.org/persons/2014KUSZ01) | 884 km |
-| [Adam Pietrzak](https://www.worldcubeassociation.org/persons/2018PIET03) | 883 km |
-| [Michał Woliński](https://www.worldcubeassociation.org/persons/2019WOLI01) | 883 km |
-| [Gabriel Kopciuch](https://www.worldcubeassociation.org/persons/2023KOPC01) | 883 km |
 
 
 <a href="https://github.com/noeruchangd/wca_statistics_vn" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
