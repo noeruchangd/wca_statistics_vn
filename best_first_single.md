@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 
 ### Rubik's Cube
@@ -76,8 +76,8 @@
 | 2:35.89 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 2:36.55 | [Jan Zachwatowicz](https://www.worldcubeassociation.org/persons/2022ZACH01) |
 | 2:38.08 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
+| 2:38.18 | [Krzysztof Grabowski](https://www.worldcubeassociation.org/persons/2021GRAB01) |
 | 2:38.58 | [Marcin Wawiórko](https://www.worldcubeassociation.org/persons/2023WAWI01) |
-| 2:39.86 | [Sebastian Owieczko](https://www.worldcubeassociation.org/persons/2018OWIE01) |
 
 ### 7x7x7 Cube
 

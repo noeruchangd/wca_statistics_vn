@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 
 ### Rubik's Cube
@@ -47,7 +47,7 @@
 | 27.72 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 29.74, 27.98, 26.00, 30.64, 29.24, 28.51, 28.15, 28.25, 24.69, 25.73, 27.22, 26.40 |
 | 27.72 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 27.40, 28.06, 29.86, 21.51, 30.21, 27.99, 28.10, 26.93, 26.02, 28.96, 27.58, 26.27 |
 | 27.73 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 28.18, 25.80, 23.37, 25.23, 30.75, 27.75, 33.72, 28.18, 27.39, 28.25, 25.20, 30.61 |
-| 28.51 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 27.71, 28.36, 29.91, 29.99, 25.30, 29.73, 26.52, 28.98, 31.91, 31.13, 22.17, 27.46 |
+| 28.49 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 33.91, 33.68, 24.80, 32.54, 26.90, 28.39, 22.39, 28.08, 25.32, 33.44, 26.72, 24.98 |
 
 ### 5x5x5 Cube
 
@@ -151,8 +151,8 @@
 | 37.78 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 40.29, 39.26, 37.33, 35.67, 37.96, 39.57, 36.22, 34.25, 42.97, 39.57, 34.47, 37.49 |
 | 39.17 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 35.91, 42.23, 37.66, 37.79, 40.17, 37.64, 38.36, 38.61, 40.15, 42.67, 40.78, 38.33 |
 | 39.37 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.81, 38.02, 42.81, 39.14, 38.04, 44.32, 36.33, 40.89, 40.63, 42.46, 38.61, 34.10 |
+| 40.36 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 37.73, 39.27, 39.73, 37.68, 44.76, 43.90, 39.75, 38.72, 44.18, 37.87, 45.80, 35.19 |
 | 40.43 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 39.60, 40.20, 41.24, 44.46, 41.54, 38.73, 46.72, 40.19, 37.97, 40.11, 36.71, 40.28 |
-| 40.87 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 40.88, 43.27, 38.73, 39.09, 36.95, 40.66, 42.99, 44.70, 43.05, 40.82, 37.54, 41.65 |
 
 ### Pyraminx
 

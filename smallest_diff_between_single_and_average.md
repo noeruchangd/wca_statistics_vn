@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 
 ### Rubik's Cube
@@ -195,9 +195,9 @@
 | 0.15 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.86 | 7.01 | [BrizZon Side Open V 2022](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenV2022/results/by_person#2013KRAS02) |
 | 0.16 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.79 | 6.95 | [Schnelle Solves Siegen 2025](https://www.worldcubeassociation.org/competitions/SchnelleSolvesSiegen2025/results/by_person#2018DUBI01) |
 | 0.17 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.56 | 5.73 | [Cube4fun Siedlce Autumn 2023](https://www.worldcubeassociation.org/competitions/Cube4funSiedlceAutumn2023/results/by_person#2013KRAS02) |
+| 0.17 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 9.48 | 9.65 | [Siedlce Open 2025](https://www.worldcubeassociation.org/competitions/SiedlceOpen2025/results/by_person#2022STOJ03) |
 | 0.17 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 33.88 | 34.05 | [Cube Factory League Jeżów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2025/results/by_person#2014SZWU01) |
 | 0.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 7.77 | 7.98 | [LLS II 2019](https://www.worldcubeassociation.org/competitions/LLSII2019/results/by_person#2013KRAS02) |
-| 0.21 | [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | 17.49 | 17.70 | [LLS IV Świdnik 2021](https://www.worldcubeassociation.org/competitions/LLSIVSwidnik2021/results/by_person#2019MIDU01) |
 
 ### 4x4x4 Blindfolded
 

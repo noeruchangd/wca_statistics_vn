@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  8 June 2025*
+*Updated on 10 June 2025*
 
 
 ### Competition
@@ -32,17 +32,17 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **17161** | 17802 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **17250** | 17893 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **13997** | 14560 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **12324** | 12663 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **11496** | 11950 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **12394** | 12734 |
+| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **11577** | 12031 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **11353** | 12194 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **10432** | 10771 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **9674** | 10199 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **9750** | 10275 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **8990** | 9538 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **8734** | 8937 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **8511** | 8835 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **8578** | 8903 |
 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **8441** | 8904 |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **7958** | 8118 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
@@ -60,7 +60,7 @@
 | 2024 | **224448** | 235988 |
 | 2023 | **188135** | 198537 |
 | 2022 | **116333** | 123548 |
-| 2025 | **96687** | 101940 |
+| 2025 | **99868** | 105215 |
 | 2019 | **91348** | 95930 |
 | 2014 | **76324** | 80953 |
 | 2018 | **72278** | 75262 |
@@ -82,19 +82,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **311779** | 318135 |
-| 2x2x2 Cube | **204564** | 210134 |
+| 3x3x3 Cube | **312675** | 319042 |
+| 2x2x2 Cube | **205204** | 210788 |
 | Pyraminx | **157393** | 161522 |
-| Skewb | **105848** | 108600 |
-| 4x4x4 Cube | **105093** | 108786 |
+| Skewb | **106323** | 109083 |
+| 4x4x4 Cube | **105546** | 109253 |
 | 3x3x3 One-Handed | **84499** | 87206 |
 | Clock | **57929** | 67067 |
-| 5x5x5 Cube | **49606** | 51478 |
-| Megaminx | **47839** | 49914 |
-| Square-1 | **42599** | 44317 |
-| 6x6x6 Cube | **10872** | 11317 |
+| 5x5x5 Cube | **49813** | 51698 |
+| Megaminx | **48041** | 50128 |
+| Square-1 | **42765** | 44496 |
+| 6x6x6 Cube | **10949** | 11401 |
 | 3x3x3 Blindfolded | **10568** | 27654 |
-| 7x7x7 Cube | **9182** | 9615 |
+| 7x7x7 Cube | **9247** | 9682 |
 | 3x3x3 Fewest Moves | **5877** | 7845 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |
