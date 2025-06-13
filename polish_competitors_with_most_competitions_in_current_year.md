@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 10 June 2025*
+*Updated on 13 June 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -297,6 +297,9 @@
 | 3 | [Wojciech Szymański](https://www.worldcubeassociation.org/persons/2022SZYM05) |
 | 3 | [Nikodem Zawierucha](https://www.worldcubeassociation.org/persons/2022ZAWI01) |
 | 3 | [Michał Adamczyk](https://www.worldcubeassociation.org/persons/2023ADAM21) |
+| 3 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
+| 3 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
+| 3 | [Kacper Borkowski](https://www.worldcubeassociation.org/persons/2023BORK03) |
 | 3 | [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) |
 | 3 | [Tomasz Fromm](https://www.worldcubeassociation.org/persons/2023FROM02) |
 | 3 | [Mateusz Fulla](https://www.worldcubeassociation.org/persons/2023FULL09) |
@@ -431,12 +434,9 @@
 | 2 | [Stanisław Wąsewicz](https://www.worldcubeassociation.org/persons/2022WASE02) |
 | 2 | [Kamil Wyrostkiewicz](https://www.worldcubeassociation.org/persons/2022WYRO01) |
 | 2 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
-| 2 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 2 | [Leon Bajer](https://www.worldcubeassociation.org/persons/2023BAJE02) |
 | 2 | [Jan Bajon](https://www.worldcubeassociation.org/persons/2023BAJO03) |
 | 2 | [Ludwik Bawor](https://www.worldcubeassociation.org/persons/2023BAWO01) |
-| 2 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
-| 2 | [Kacper Borkowski](https://www.worldcubeassociation.org/persons/2023BORK03) |
 | 2 | [Błażej Chrząstek](https://www.worldcubeassociation.org/persons/2023CHRZ01) |
 | 2 | [Jan Dróżdż](https://www.worldcubeassociation.org/persons/2023DROZ01) |
 | 2 | [Aleksander Dryjański](https://www.worldcubeassociation.org/persons/2023DRYJ01) |
@@ -466,6 +466,7 @@
 | 2 | [Michał Badura](https://www.worldcubeassociation.org/persons/2024BADU01) |
 | 2 | [Agata Badura](https://www.worldcubeassociation.org/persons/2024BADU02) |
 | 2 | [Antoni Bagiński](https://www.worldcubeassociation.org/persons/2024BAGI05) |
+| 2 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 2 | [Błażej Bogucki](https://www.worldcubeassociation.org/persons/2024BOGU02) |
 | 2 | [Piotr Bortko](https://www.worldcubeassociation.org/persons/2024BORT04) |
 | 2 | [Antoni Chawrilski](https://www.worldcubeassociation.org/persons/2024CHAW03) |
@@ -796,7 +797,6 @@
 | 1 | [Paweł Żyłka](https://www.worldcubeassociation.org/persons/2023ZYLK01) |
 | 1 | [Adam Andruszkiewicz](https://www.worldcubeassociation.org/persons/2024ANDR21) |
 | 1 | [Piotr Augustyn](https://www.worldcubeassociation.org/persons/2024AUGU03) |
-| 1 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 1 | [Tomasz Białorucki](https://www.worldcubeassociation.org/persons/2024BIAL01) |
 | 1 | [Nikodem Biernacki](https://www.worldcubeassociation.org/persons/2024BIER01) |
 | 1 | [Ignacy Błoch](https://www.worldcubeassociation.org/persons/2024BLOC06) |
@@ -805,6 +805,7 @@
 | 1 | [Jakub Burlikowski](https://www.worldcubeassociation.org/persons/2024BURL02) |
 | 1 | [Filip Ciećwierz](https://www.worldcubeassociation.org/persons/2024CIEC01) |
 | 1 | [Bartosz Derejsabicz](https://www.worldcubeassociation.org/persons/2024DERE02) |
+| 1 | [Hugo Dziemiach](https://www.worldcubeassociation.org/persons/2024DZIE02) |
 | 1 | [Maksymilian Formela](https://www.worldcubeassociation.org/persons/2024FORM01) |
 | 1 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 1 | [Leon Gajdowski](https://www.worldcubeassociation.org/persons/2024GAJD01) |
@@ -906,6 +907,7 @@
 | 1 | [Piotr Chruszczewski](https://www.worldcubeassociation.org/persons/2025CHRU01) |
 | 1 | [Wiktor Chrzanowski](https://www.worldcubeassociation.org/persons/2025CHRZ01) |
 | 1 | [Tadeusz Czachor](https://www.worldcubeassociation.org/persons/2025CZAC01) |
+| 1 | [Jan Czapiewski](https://www.worldcubeassociation.org/persons/2025CZAP02) |
 | 1 | [Maksymilian Czoprowski](https://www.worldcubeassociation.org/persons/2025CZOP01) |
 | 1 | [Kajetan Dacka](https://www.worldcubeassociation.org/persons/2025DACK01) |
 | 1 | [Marcel Danek](https://www.worldcubeassociation.org/persons/2025DANE04) |
