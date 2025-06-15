@@ -6,18 +6,18 @@
 | ---: | :--- |
 | 124 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 74 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 55 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 47 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 56 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 48 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 36 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 33 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 30 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 28 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
+| 22 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 22 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
-| 21 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 21 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 20 | [Sylwester Jaroszewski](https://www.worldcubeassociation.org/persons/2014JARO01) |
-| 19 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
+| 20 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 16 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 15 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 15 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
@@ -26,8 +26,8 @@
 | 12 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 11 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 11 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 10 | [Krzysztof Kasprzak](https://www.worldcubeassociation.org/persons/2015KASP01) |
-| 10 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 10 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 10 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
 | 9 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
@@ -38,9 +38,9 @@
 | 8 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 8 | [Karol Kantor](https://www.worldcubeassociation.org/persons/2021KANT01) |
 | 8 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 8 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 7 | [Przemysław Piątek](https://www.worldcubeassociation.org/persons/2013PITE01) |
 | 7 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| 7 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |
 | 6 | [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) |
 | 6 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) |
 | 6 | [Artur Rapiński](https://www.worldcubeassociation.org/persons/2016RAPI01) |
@@ -61,6 +61,7 @@
 | 5 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 4 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) |
 | 4 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
+| 4 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 4 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
 | 4 | [Szymon Juroszek](https://www.worldcubeassociation.org/persons/2017JURO01) |
 | 4 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
@@ -80,7 +81,6 @@
 | 3 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
 | 3 | [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) |
 | 3 | [Weronika Marczyk](https://www.worldcubeassociation.org/persons/2012MARC03) |
-| 3 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 3 | [Nikodem Tomaszuk](https://www.worldcubeassociation.org/persons/2018TOMA03) |
 | 3 | [Oliwia Jaworska](https://www.worldcubeassociation.org/persons/2017JAWO02) |
 | 3 | [Mateusz Staniszewski](https://www.worldcubeassociation.org/persons/2018STAN03) |
