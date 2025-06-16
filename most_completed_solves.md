@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 
 ### Competition
@@ -32,26 +32,26 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **17250** | 17893 |
-| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **13997** | 14560 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **12394** | 12734 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **17309** | 17954 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **14134** | 14702 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **12466** | 12810 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **11577** | 12031 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **11353** | 12194 |
-| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **10432** | 10771 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **11443** | 12286 |
+| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **10473** | 10812 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **9750** | 10275 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | **8990** | 9538 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **8734** | 8937 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **8584** | 9052 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | **8578** | 8903 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | **8441** | 8904 |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **7958** | 8118 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | **8005** | 8165 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **7960** | 9108 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **7956** | 8230 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | **7871** | 9007 |
-| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **7224** | 7820 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **7190** | 7339 |
+| [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | **7267** | 7866 |
+| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | **7225** | 7374 |
+| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **7209** | 7653 |
 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | **7158** | 7288 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | **7036** | 7471 |
-| [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | **6953** | 7261 |
+| [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) | **7034** | 7343 |
 
 ### Year
 
@@ -60,7 +60,7 @@
 | 2024 | **224448** | 235988 |
 | 2023 | **188135** | 198537 |
 | 2022 | **116333** | 123548 |
-| 2025 | **100146** | 105506 |
+| 2025 | **111176** | 117120 |
 | 2019 | **91348** | 95930 |
 | 2014 | **76324** | 80953 |
 | 2018 | **72278** | 75262 |
@@ -82,19 +82,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **312730** | 319097 |
-| 2x2x2 Cube | **205264** | 210848 |
-| Pyraminx | **157428** | 161557 |
-| Skewb | **106343** | 109103 |
-| 4x4x4 Cube | **105565** | 109274 |
-| 3x3x3 One-Handed | **84524** | 87232 |
-| Clock | **57946** | 67087 |
-| 5x5x5 Cube | **49826** | 51712 |
-| Megaminx | **48055** | 50143 |
-| Square-1 | **42781** | 44513 |
-| 6x6x6 Cube | **10949** | 11401 |
-| 3x3x3 Blindfolded | **10572** | 27661 |
-| 7x7x7 Cube | **9247** | 9682 |
+| 3x3x3 Cube | **315576** | 322007 |
+| 2x2x2 Cube | **207010** | 212643 |
+| Pyraminx | **158761** | 162926 |
+| Skewb | **107259** | 110051 |
+| 4x4x4 Cube | **106429** | 110169 |
+| 3x3x3 One-Handed | **85589** | 88337 |
+| Clock | **58660** | 67927 |
+| 5x5x5 Cube | **50558** | 52463 |
+| Megaminx | **48227** | 50319 |
+| Square-1 | **43013** | 44758 |
+| 6x6x6 Cube | **11071** | 11525 |
+| 3x3x3 Blindfolded | **10654** | 27900 |
+| 7x7x7 Cube | **9453** | 9899 |
 | 3x3x3 Fewest Moves | **5877** | 7846 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |

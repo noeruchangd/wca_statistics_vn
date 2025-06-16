@@ -1,6 +1,6 @@
 ## World records count by person
 
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -27,6 +27,7 @@
 | 2 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) |
 | 2 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 1 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 1 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 1 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) |
 | 1 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 1 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) |

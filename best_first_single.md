@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 
 ### Rubik's Cube
@@ -40,6 +40,7 @@
 | ---: | :--- |
 | 33.26 | [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) |
 | 41.43 | [Dominik Smagowski](https://www.worldcubeassociation.org/persons/2023SMAG02) |
+| 41.82 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
 | 42.37 | [Dominik Stryczek](https://www.worldcubeassociation.org/persons/2023STRY01) |
 | 42.87 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 42.99 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
@@ -47,7 +48,6 @@
 | 43.83 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) |
 | 44.14 | [Jakub Łój](https://www.worldcubeassociation.org/persons/2023LOJJ01) |
 | 44.18 | [Gabriel Kopciuch](https://www.worldcubeassociation.org/persons/2023KOPC01) |
-| 44.70 | [Krzysztof Wyrzykowski](https://www.worldcubeassociation.org/persons/2021WYRZ01) |
 
 ### 5x5x5 Cube
 
@@ -102,12 +102,12 @@
 | 43.36 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 45.42 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 1:04.11 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
+| 1:06.03 | [Kamil Miński](https://www.worldcubeassociation.org/persons/2023MINS01) |
 | 1:09.27 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) |
 | 1:12.00 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) |
 | 1:31.86 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 1:33.16 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) |
 | 1:40.92 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
-| 1:55.30 | [Tomasz Milewski](https://www.worldcubeassociation.org/persons/2019MILE03) |
 
 ### 3x3x3 Fewest Moves
 

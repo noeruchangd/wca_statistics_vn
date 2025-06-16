@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 13 June 2025*
+*Updated on 16 June 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -51,8 +51,8 @@
 | [Weronika Rogulska](https://www.worldcubeassociation.org/persons/2017ROGU01) | 4.89 |
 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 4.87 |
 | [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) | 4.85 |
-| [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 4.83 |
 | [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 4.83 |
+| [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 4.83 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 4.75 |
 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 4.75 |
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 4.69 |
@@ -94,11 +94,11 @@
 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 3.45 |
 | [Aleksandra Bystrova](https://www.worldcubeassociation.org/persons/2021BYST01) | 3.39 |
 | [Kuba Adamczyk](https://www.worldcubeassociation.org/persons/2021ADAM03) | 3.30 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 3.26 |
 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 3.26 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 3.26 |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 3.24 |
-| [Gracjan Paciorkowski](https://www.worldcubeassociation.org/persons/2021PACI01) | 3.22 |
 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) | 3.22 |
+| [Gracjan Paciorkowski](https://www.worldcubeassociation.org/persons/2021PACI01) | 3.22 |
 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 3.09 |
 | [Krzysztof Bloch](https://www.worldcubeassociation.org/persons/2019BLOC02) | 3.05 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 2.95 |
