@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 16 June 2025*
+*Updated on 19 June 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -15,8 +15,8 @@
 | 23 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 18 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
+| 17 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 17 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
-| 16 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 16 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 15 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 15 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
@@ -62,6 +62,7 @@
 | 8 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 8 | [Mateusz Nowak](https://www.worldcubeassociation.org/persons/2022NOWA05) |
 | 8 | [Kacper Borkowski](https://www.worldcubeassociation.org/persons/2023BORK03) |
+| 8 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 8 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 7 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
 | 7 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
@@ -75,7 +76,6 @@
 | 7 | [Adam Steuer](https://www.worldcubeassociation.org/persons/2023STEU01) |
 | 7 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
 | 7 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
-| 7 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 6 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
 | 6 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
 | 6 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
