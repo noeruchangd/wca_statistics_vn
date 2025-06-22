@@ -1,25 +1,25 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 19 June 2025*
+*Updated on 22 June 2025*
 
 | Competitions | Person |
 | ---: | :--- |
-| 28 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 29 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 26 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 26 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| 23 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 24 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 20 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 18 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 17 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
-| 17 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 16 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
+| 15 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) |
 | 15 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 15 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) |
 | 14 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 14 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
-| 14 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) |
 | 14 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
+| 14 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 13 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
-| 13 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 13 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 13 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
 | 13 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
@@ -108,6 +108,7 @@
 | 7 | [Kinga Bednarska](https://www.worldcubeassociation.org/persons/2021BEDN01) |
 | 7 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 | 7 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) |
+| 7 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 7 | [Paweł Urbański](https://www.worldcubeassociation.org/persons/2022URBA02) |
 | 7 | [Kazimierz Cieślak](https://www.worldcubeassociation.org/persons/2023CIES01) |
 | 7 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) |
@@ -136,7 +137,6 @@
 | 6 | [Jarosław Kogut](https://www.worldcubeassociation.org/persons/2022KOGU01) |
 | 6 | [Janusz Łebkowski](https://www.worldcubeassociation.org/persons/2022LEBK01) |
 | 6 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
-| 6 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 6 | [Dominik Żabiński](https://www.worldcubeassociation.org/persons/2022ZABI01) |
 | 6 | [Aleksandra Bury](https://www.worldcubeassociation.org/persons/2023BURY01) |
 | 6 | [Piotr Bzinkowski](https://www.worldcubeassociation.org/persons/2023BZIN01) |
