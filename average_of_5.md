@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### Rubik's Cube
@@ -55,7 +55,7 @@
 | ---: | :--- | :--- |
 | 34.40 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 35.56, 34.96, 34.14, 34.11, 33.03 |
 | 46.28 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 43.63, 48.92, 40.74, 47.19, 48.03 |
-| 46.97 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 43.89, 45.56, 51.47, 54.70, 43.89 |
+| 46.61 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 46.36, 49.03, 46.12, 47.34, 43.23 |
 | 47.82 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 50.69, 49.26, 47.29, 46.87, 46.90 |
 | 48.07 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 46.36, 51.33, 46.53, 52.19, 45.91 |
 | 48.99 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 49.16, 47.46, 54.39, 50.22, 47.59 |
@@ -70,7 +70,7 @@
 | ---: | :--- | :--- |
 | 1:11.33 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:05.42, 1:15.77, 1:18.06, 1:08.52, 1:09.69 |
 | 1:28.48 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1:30.44, 1:26.02, 1:36.10, 1:26.64, 1:28.37 |
-| 1:29.07 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:27.97, 1:34.87, 1:31.88, 1:27.36, 1:21.18 |
+| 1:28.82 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:30.07, 1:34.41, 1:24.95, 1:28.28, 1:28.11 |
 | 1:30.29 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:28.26, 1:28.71, 1:36.35, 1:31.27, 1:30.90 |
 | 1:33.20 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 1:30.37, 1:38.59, 1:31.77, 1:37.45, 1:19.03 |
 | 1:35.50 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 1:37.35, 1:33.44, 1:39.40, 1:35.49, 1:33.67 |
@@ -102,7 +102,7 @@
 | 20.06 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 19.22, 20.65, 20.75, 15.40, 20.30 |
 | 20.22 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 18.54, DNF, 19.59, 22.12, 18.96 |
 | 20.80 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | DNF, 19.61, 16.55, 22.87, 19.92 |
-| 21.34 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 20.15, 19.21, DNF, 20.45, 23.42 |
+| 21.33 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 20.56, 21.52, 27.07, 21.68, 20.80 |
 | 21.67 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 22.26, 21.54, 22.19, 21.29, 20.98 |
 | 21.71 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 19.97, 23.42, DNF, 21.05, 20.66 |
 | 22.34 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 20.92, 21.24, 21.71, DNF, 24.08 |

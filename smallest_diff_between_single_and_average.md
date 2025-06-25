@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### Rubik's Cube
@@ -180,9 +180,9 @@
 | 0.05 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 3.88 | 3.93 | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/by_person#2013BARC03) |
 | 0.05 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5.21 | 5.26 | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016WOJC04) |
 | 0.06 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.67 | 1.73 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/by_person#2018HANU02) |
+| 0.06 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.23 | 2.29 | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2021GORE01) |
 | 0.06 | [Stefan Pokrycki](https://www.worldcubeassociation.org/persons/2024POKR01) | 3.61 | 3.67 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/by_person#2024POKR01) |
 | 0.06 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | 5.73 | 5.79 | [Elektryk Cube Race 2022](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2022/results/by_person#2019MATY01) |
-| 0.07 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2.28 | 2.35 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/by_person#2021DENK01) |
 
 ### Square-1
 

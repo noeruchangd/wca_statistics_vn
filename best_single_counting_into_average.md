@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 
 ### Rubik's Cube
@@ -40,13 +40,13 @@
 | 17.62 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
 | 18.87 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025/results/by_person#2016KOLA02) |
 | 18.95 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025/results/by_person#2016KOLA02) |
+| 18.99 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Oslo Open 2025](https://www.worldcubeassociation.org/competitions/OsloOpen2025/results/by_person#2016KOLA02) |
 | 19.01 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025/results/by_person#2016KOLA02) |
 | 19.13 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2016KOLA02) |
+| 19.20 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Oslo Open 2025](https://www.worldcubeassociation.org/competitions/OsloOpen2025/results/by_person#2016KOLA02) |
 | 19.34 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [NAC 2024](https://www.worldcubeassociation.org/competitions/NAC2024/results/by_person#2016KOLA02) |
 | 19.46 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Tuam Winter 2023](https://www.worldcubeassociation.org/competitions/TuamWinter2023/results/by_person#2016KOLA02) |
 | 19.50 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024/results/by_person#2016KOLA02) |
-| 19.54 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Stevenage December 2024](https://www.worldcubeassociation.org/competitions/StevenageDecember2024/results/by_person#2016KOLA02) |
-| 19.55 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025/results/by_person#2016KOLA02) |
 
 ### 5x5x5 Cube
 

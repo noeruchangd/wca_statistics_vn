@@ -1,13 +1,13 @@
 ## Longest streak of competitions in Poland
 
 *Note: The streak ends whenever the person doesn't participate in a competition in Poland.*
-*Updated on 22 June 2025*
+*Updated on 25 June 2025*
 
 | Competitions | Person | Started at | Missed |
 | ---: | :--- | :--- | :--- |
 | 44 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | [PST Biłgoraj 2020](https://www.worldcubeassociation.org/competitions/PSTBilgoraj2020) | [RYL Wrocław 2022](https://www.worldcubeassociation.org/competitions/ReachYourLimitsWroclaw2022) |
 | 39 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
-| 33 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [SLS Styczeń 2024](https://www.worldcubeassociation.org/competitions/SLSStyczen2024) | [Gniezno Open 2024](https://www.worldcubeassociation.org/competitions/GnieznoOpen2024) |
+| 32 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [SLS Styczeń 2024](https://www.worldcubeassociation.org/competitions/SLSStyczen2024) | [Gniezno Open 2024](https://www.worldcubeassociation.org/competitions/GnieznoOpen2024) |
 | 24 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Kociewie Open 2010](https://www.worldcubeassociation.org/competitions/KociewieOpen2010) |
 | 24 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | [SLS Swierklany 2013](https://www.worldcubeassociation.org/competitions/SLSSwierklany2013) | [Art Rubik 2014](https://www.worldcubeassociation.org/competitions/ArtCubing2014) |
 | 24 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013) | [PLS Sopot 2014](https://www.worldcubeassociation.org/competitions/PLSSopot2014) |
@@ -57,7 +57,7 @@
 | 6 | [Magdalena Burnicka](https://www.worldcubeassociation.org/persons/2009BURN01) | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010) | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) |
 | 6 | [Anna Prabucka](https://www.worldcubeassociation.org/persons/2010PRAB01) | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010) | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010) |
 | 6 | [Krzysztof Cabaj](https://www.worldcubeassociation.org/persons/2010CABA01) | [Cube Factory 2011](https://www.worldcubeassociation.org/competitions/CubeFactory2011) | [Industrial Cube 2012](https://www.worldcubeassociation.org/competitions/IndustrialCube2012) |
-| 6 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) |
+| 6 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | [Cube4fun Lublin Winter 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinWinter2025) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025) |
 | 6 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) | [GLS Cup III 2016](https://www.worldcubeassociation.org/competitions/GLSCupIII2016) | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) |
 | 6 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | [BrizZon Side Open III 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenIII2021) | [Cube4fun League Koło 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueKolo2022) |
 | 5 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | [Polish Open 2005](https://www.worldcubeassociation.org/competitions/PolishOpen2005) | [WSTIH Open 2008](https://www.worldcubeassociation.org/competitions/WSTIHOpen2008) |
