@@ -7,8 +7,8 @@
 | 124 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 74 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 57 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 48 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 36 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 49 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 37 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 33 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 30 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 28 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
@@ -23,10 +23,10 @@
 | 15 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 12 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
+| 12 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 12 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 12 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
-| 11 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 10 | [Krzysztof Kasprzak](https://www.worldcubeassociation.org/persons/2015KASP01) |
 | 10 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 10 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
@@ -88,6 +88,7 @@
 | 3 | [Błażej Cichy](https://www.worldcubeassociation.org/persons/2012CICH01) |
 | 3 | [Marta Sandra Duraj](https://www.worldcubeassociation.org/persons/2018CHOR02) |
 | 3 | [Kamil Więcławek](https://www.worldcubeassociation.org/persons/2014WICA01) |
+| 3 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) |
 | 3 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
 | 3 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
 | 3 | [Roksana Porucznik](https://www.worldcubeassociation.org/persons/2024PORU01) |
