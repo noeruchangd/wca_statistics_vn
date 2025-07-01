@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### Rubik's Cube
@@ -149,10 +149,10 @@
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 36.39 | **38.89** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eminx_f) | 6 |
 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 37.07 | **40.38** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eminx_f) | 7 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 37.67 | **40.50** | [Dębica Cubing Winter 2024](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2024/results/all#eminx_f) | 4 |
+| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 40.12 | **40.53** | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/all#eminx_f) | 4 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 35.94 | **40.67** | [Nowy Sącz Open 2025](https://www.worldcubeassociation.org/competitions/NowySaczOpen2025/results/all#eminx_c) | 4 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 40.01 | **40.84** | [Dragon Cubing II 2024](https://www.worldcubeassociation.org/competitions/DragonCubingII2024/results/all#eminx_f) | 5 |
 | [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 36.83 | **41.65** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#eminx_f) | 4 |
-| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 40.49 | **41.65** | [Silesian Cubing Mysłowice 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingMyslowice2025/results/all#eminx_c) | 4 |
 
 ### Pyraminx
 

@@ -1,13 +1,14 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### Rubik's Cube
 
 | First average | Person |
 | ---: | :--- |
+| 7.56 | [Szymon Kasprzycki](https://www.worldcubeassociation.org/persons/2025KASP02) |
 | 8.58 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 9.06 | [Denys Shkarupa](https://www.worldcubeassociation.org/persons/2023SHKA01) |
 | 9.36 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
@@ -17,28 +18,28 @@
 | 10.37 | [Igor Wawrzeńczak](https://www.worldcubeassociation.org/persons/2024WAWR01) |
 | 10.75 | [Mateusz Galiński](https://www.worldcubeassociation.org/persons/2025GALI04) |
 | 10.77 | [Aleksander Kołodziński](https://www.worldcubeassociation.org/persons/2021KOLO01) |
-| 10.78 | [Daniel Rolek](https://www.worldcubeassociation.org/persons/2022ROLE01) |
 
 ### 2x2x2 Cube
 
 | First average | Person |
 | ---: | :--- |
 | 2.63 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
+| 2.76 | [Szymon Kasprzycki](https://www.worldcubeassociation.org/persons/2025KASP02) |
 | 3.20 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
 | 3.29 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 3.43 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
 | 3.54 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 3.60 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 3.65 | [Miłosz Jaśkiewicz](https://www.worldcubeassociation.org/persons/2022JASK01) |
-| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 | 3.68 | [Matviy Berestovskyy](https://www.worldcubeassociation.org/persons/2022BERE02) |
-| 3.74 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
+| 3.68 | [Ksawier Kozak](https://www.worldcubeassociation.org/persons/2023KOZA02) |
 
 ### 4x4x4 Cube
 
 | First average | Person |
 | ---: | :--- |
 | 35.02 | [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) |
+| 36.33 | [Szymon Kasprzycki](https://www.worldcubeassociation.org/persons/2025KASP02) |
 | 38.37 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 42.79 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 43.77 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
@@ -47,7 +48,6 @@
 | 44.48 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
 | 45.70 | [Jan Pietralski](https://www.worldcubeassociation.org/persons/2024PIET02) |
 | 46.14 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
-| 46.21 | [Dawid Centkowski](https://www.worldcubeassociation.org/persons/2022CENT03) |
 
 ### 5x5x5 Cube
 
@@ -131,9 +131,9 @@
 | 17.86 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
 | 18.56 | [Aleksander Iżowski](https://www.worldcubeassociation.org/persons/2022IZOW01) |
 | 19.14 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 19.20 | [Krzysztof Więcław](https://www.worldcubeassociation.org/persons/2025WIEC05) |
+| 19.48 | [Szymon Kasprzycki](https://www.worldcubeassociation.org/persons/2025KASP02) |
 | 19.72 | [Tomasz Kisała](https://www.worldcubeassociation.org/persons/2020KISA01) |
-| 19.98 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
-| 20.03 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
 
 ### Megaminx
 
@@ -190,10 +190,10 @@
 | 4.65 | [Zuzanna Kozicka](https://www.worldcubeassociation.org/persons/2021KOZI01) |
 | 4.71 | [Krzysztof Dybich](https://www.worldcubeassociation.org/persons/2019DYBI01) |
 | 4.82 | [Dawid Pendulak](https://www.worldcubeassociation.org/persons/2024PEND01) |
+| 5.17 | [Krzysztof Więcław](https://www.worldcubeassociation.org/persons/2025WIEC05) |
 | 5.19 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
 | 5.36 | [Tobiasz Urbanowicz](https://www.worldcubeassociation.org/persons/2019URBA01) |
 | 5.36 | [Jakub Trzop](https://www.worldcubeassociation.org/persons/2022TRZO02) |
-| 5.51 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 
 ### Square-1
 

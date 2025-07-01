@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### Rubik's Cube
@@ -206,10 +206,10 @@
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | 5 |
 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) | 4 |
 | [Adam Jagła](https://www.worldcubeassociation.org/persons/2017JAGL01) | 3 |
+| [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 3 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 2 |
 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | 2 |
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 2 |
-| [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 2 |
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | 1 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 1 |

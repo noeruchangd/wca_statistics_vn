@@ -1,13 +1,14 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### Rubik's Cube
 
 | First single | Person |
 | ---: | :--- |
+| 6.96 | [Szymon Kasprzycki](https://www.worldcubeassociation.org/persons/2025KASP02) |
 | 7.30 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 8.66 | [Adrian Pokojowczyk](https://www.worldcubeassociation.org/persons/2025POKO01) |
 | 9.62 | [Denys Shkarupa](https://www.worldcubeassociation.org/persons/2023SHKA01) |
@@ -15,9 +16,8 @@
 | 9.87 | [Tomasz Czerny](https://www.worldcubeassociation.org/persons/2024CZER01) |
 | 9.89 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 9.93 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
+| 10.21 | [Krzysztof Więcław](https://www.worldcubeassociation.org/persons/2025WIEC05) |
 | 10.41 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
-| 10.49 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
-| 10.53 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 
 ### 2x2x2 Cube
 
@@ -39,6 +39,7 @@
 | First single | Person |
 | ---: | :--- |
 | 33.26 | [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) |
+| 37.83 | [Szymon Kasprzycki](https://www.worldcubeassociation.org/persons/2025KASP02) |
 | 41.43 | [Dominik Smagowski](https://www.worldcubeassociation.org/persons/2023SMAG02) |
 | 41.82 | [Mikołaj Wróbel](https://www.worldcubeassociation.org/persons/2025WROB01) |
 | 42.37 | [Dominik Stryczek](https://www.worldcubeassociation.org/persons/2023STRY01) |
@@ -47,7 +48,6 @@
 | 43.24 | [Ignacy Tomczak](https://www.worldcubeassociation.org/persons/2022TOMC01) |
 | 43.83 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) |
 | 44.14 | [Jakub Łój](https://www.worldcubeassociation.org/persons/2023LOJJ01) |
-| 44.18 | [Gabriel Kopciuch](https://www.worldcubeassociation.org/persons/2023KOPC01) |
 
 ### 5x5x5 Cube
 

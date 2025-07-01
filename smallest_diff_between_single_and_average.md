@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### Rubik's Cube
@@ -129,6 +129,7 @@
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
 | 0.30 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 37.64 | 37.94 | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024/results/by_person#2013MALI03) |
+| 0.41 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 40.12 | 40.53 | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2022SLIW01) |
 | 0.41 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 1:25.11 | 1:25.52 | [BrizZon Side Open II 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2024/results/by_person#2019ROGO04) |
 | 0.44 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) | 42.19 | 42.63 | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/by_person#2019BOGU01) |
 | 0.49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 1:01.48 | 1:01.97 | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015/results/by_person#2011MAJC01) |
@@ -137,7 +138,6 @@
 | 0.51 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 47.28 | 47.79 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/by_person#2015SOLT03) |
 | 0.53 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 54.36 | 54.89 | [GLS Cup Final 2018](https://www.worldcubeassociation.org/competitions/GLSCupFinal2018/results/by_person#2012KRIS12) |
 | 0.54 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 1:01.84 | 1:02.38 | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2018MACH04) |
-| 0.54 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 1:08.86 | 1:09.40 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/by_person#2021GORE01) |
 
 ### Pyraminx
 

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### Rubik's Cube
@@ -69,29 +69,29 @@
 | ---: | :--- | :--- |
 | 8.19 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/by_person#2019KARP03) |
 | 8.29 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025/results/by_person#2022SZUB01) |
+| 8.34 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2022MARC05) |
 | 8.36 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [No Triangle in Rzeszów 2024](https://www.worldcubeassociation.org/competitions/NoTriangleinRzeszow2024/results/by_person#2022MARC05) |
 | 8.46 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024/results/by_person#2019KARP03) |
+| 8.52 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2022MARC05) |
 | 8.54 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/by_person#2022SZUB01) |
 | 8.64 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/by_person#2019KARP03) |
 | 8.65 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [SLS Grudzień 2023](https://www.worldcubeassociation.org/competitions/SLSGrudzien2023/results/by_person#2019KARP03) |
 | 8.65 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/by_person#2022GLAD01) |
-| 8.71 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025/results/by_person#2019KARP03) |
-| 8.74 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | [Cube4fun Biała Podlaska 2025](https://www.worldcubeassociation.org/competitions/Cube4funBialaPodlaska2025/results/by_person#2019KARP03) |
 
 ### Megaminx
 
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 29.83 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Nowy Sącz Open 2025](https://www.worldcubeassociation.org/competitions/NowySaczOpen2025/results/by_person#2017PABI01) |
+| 30.19 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2017PABI01) |
 | 30.33 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Beskidy Side Days 2024](https://www.worldcubeassociation.org/competitions/BeskidySideDays2024/results/by_person#2014ZYCH01) |
 | 30.40 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [SLS Maj 2024](https://www.worldcubeassociation.org/competitions/SLSMaj2024/results/by_person#2017PABI01) |
 | 30.63 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024/results/by_person#2014ZYCH01) |
 | 30.70 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023/results/by_person#2014ZYCH01) |
+| 30.72 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2017PABI01) |
 | 30.78 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [SLS Maj 2024](https://www.worldcubeassociation.org/competitions/SLSMaj2024/results/by_person#2017PABI01) |
 | 30.86 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024/results/by_person#2014ZYCH01) |
 | 30.90 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024/results/by_person#2017PABI01) |
-| 31.01 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Castle Mania Niepołomice 2024](https://www.worldcubeassociation.org/competitions/CastleManiaNiepolomice2024/results/by_person#2014ZYCH01) |
-| 31.03 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024/results/by_person#2014ZYCH01) |
 
 ### Pyraminx
 
@@ -104,9 +104,9 @@
 | 1.45 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | [Silesian Cubing Chorzów 2025](https://www.worldcubeassociation.org/competitions/SilesianCubingChorzow2025/results/by_person#2022SOLO01) |
 | 1.46 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) | [Cube4fun in Gorlice 2023](https://www.worldcubeassociation.org/competitions/Cube4funinGorlice2023/results/by_person#2018HIBS01) |
 | 1.47 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2021MAJC01) |
+| 1.47 | [Adam Romanowski](https://www.worldcubeassociation.org/persons/2023ROMA10) | [Warm-Up Warsaw 2025](https://www.worldcubeassociation.org/competitions/WarmUpWarsaw2025/results/by_person#2023ROMA10) |
 | 1.49 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cube4fun Zawiercie 2022](https://www.worldcubeassociation.org/competitions/Cube4funZawiercie2022/results/by_person#2016KOLA02) |
 | 1.51 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Grudziądz Open 2019](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2019/results/by_person#2016KOLA02) |
-| 1.51 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | [Cube4fun in Warsaw 2024](https://www.worldcubeassociation.org/competitions/Cube4funinWarsaw2024/results/by_person#2016WOJC04) |
 
 ### Rubik's Clock
 

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### Rubik's Cube
@@ -150,9 +150,9 @@
 | 34.72 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.69, 35.98, 36.48, 42.45, 31.41 |
 | 36.62 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 35.67, 37.96, 39.57, 36.22, 34.25 |
 | 37.94 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 37.66, 37.79, 40.17, 37.64, 38.36 |
+| 38.26 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 41.95, 38.41, 37.77, 38.48, 37.89 |
 | 38.40 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.81, 38.02, 42.81, 39.14, 38.04 |
 | 38.91 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 44.51, 37.73, 39.27, 39.73, 37.68 |
-| 39.01 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 41.48, 38.51, 42.90, 37.05, 36.10 |
 
 ### Pyraminx
 

@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -48,13 +48,13 @@
 | 10 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 10 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
 | 10 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
+| 10 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 9 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
 | 9 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
 | 9 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 9 | [Patryk Pałka](https://www.worldcubeassociation.org/persons/2017PALK01) |
 | 9 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 9 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
-| 9 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 9 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 8 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
@@ -96,6 +96,7 @@
 | 6 | [Tymon Filar Notecki](https://www.worldcubeassociation.org/persons/2022NOTE01) |
 | 6 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 6 | [Patryk Kluk](https://www.worldcubeassociation.org/persons/2023KLUK01) |
+| 6 | [Nathan Truś](https://www.worldcubeassociation.org/persons/2023TRUS01) |
 | 6 | [Leon Wrzos](https://www.worldcubeassociation.org/persons/2023WRZO01) |
 | 6 | [Oskar Wojtyna](https://www.worldcubeassociation.org/persons/2024WOJT03) |
 | 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
@@ -124,7 +125,6 @@
 | 5 | [Marceli Wieczorek](https://www.worldcubeassociation.org/persons/2022WIEC03) |
 | 5 | [Jakub Pietroń](https://www.worldcubeassociation.org/persons/2023PIET02) |
 | 5 | [Hubert Darłak](https://www.worldcubeassociation.org/persons/2023DARL03) |
-| 5 | [Nathan Truś](https://www.worldcubeassociation.org/persons/2023TRUS01) |
 | 5 | [Maksymilian Kurowski](https://www.worldcubeassociation.org/persons/2023KURO03) |
 | 5 | [Wojciech Bauer](https://www.worldcubeassociation.org/persons/2023BAUE04) |
 | 5 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |

@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -91,13 +91,13 @@
 | 17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 6x6x6 Cube | [Cubing in Cill Chainnigh 2019](https://www.worldcubeassociation.org/competitions/CubinginCillChainnigh2019) | [Poznań Summer Side Open 2022](https://www.worldcubeassociation.org/competitions/PoznanSummerSideOpen2022) |
 | 17 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | Megaminx | [Cube4fun Bełżyce 2022](https://www.worldcubeassociation.org/competitions/Cube4funBelzyce2022) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
 | 17 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 3x3x3 Fewest Moves | [Imagine FMC in Rzeszów 2023](https://www.worldcubeassociation.org/competitions/ImagineFMCinRzeszow2023) | [FMC 2024](https://www.worldcubeassociation.org/competitions/FMC2024) |
+| 17 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | Clock | [Żory Cubing Mansion 2024](https://www.worldcubeassociation.org/competitions/ZoryCubingMansion2024) |  |
 | 16 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 3x3x3 Cube | [Lodz Open 2011](https://www.worldcubeassociation.org/competitions/LodzOpen2011) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 | 16 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 3x3x3 One-Handed | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) | [Rumia Open 2014](https://www.worldcubeassociation.org/competitions/RumiaOpen2014) |
 | 16 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 3x3x3 Blindfolded | [Szczecin Summer 2023](https://www.worldcubeassociation.org/competitions/SzczecinSummer2023) | [CFL Brzeziny Spring Open 2024](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpringOpen2024) |
 | 16 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | Pyraminx | [Cube4fun Kluczbork 2022](https://www.worldcubeassociation.org/competitions/Cube4funLeagueIIKluczbork2022) |  |
 | 16 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 2x2x2 Cube | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024) | [GLS II 2025](https://www.worldcubeassociation.org/competitions/GLSII2025) |
 | 16 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | Skewb | [Warsaw Cube Masters 2023](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2023) | [Cube4fun Lublin Saturday 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinSaturday2025) |
-| 16 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | Clock | [Żory Cubing Mansion 2024](https://www.worldcubeassociation.org/competitions/ZoryCubingMansion2024) |  |
 | 15 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | Pyraminx | [Wroclaw Open 2009](https://www.worldcubeassociation.org/competitions/WroclawOpen2009) | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012) |
 | 15 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | Pyraminx | [Kociewie Open 2010](https://www.worldcubeassociation.org/competitions/KociewieOpen2010) | [Euro 2012](https://www.worldcubeassociation.org/competitions/Euro2012) |
 | 15 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | Pyraminx | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013) | [Manhattan Gdańsk Open 2015](https://www.worldcubeassociation.org/competitions/ManhattanGdanskOpen2015) |

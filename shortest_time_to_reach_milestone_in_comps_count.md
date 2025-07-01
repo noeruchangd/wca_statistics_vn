@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### 300 Competitions
@@ -106,6 +106,7 @@
 | 455 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 463 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 477 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |
+| 477 | [Tomasz Darłak](https://www.worldcubeassociation.org/persons/2024DARL01) |
 | 484 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) |
 | 484 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
 | 491 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) |
@@ -115,7 +116,6 @@
 | 526 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 547 | [Zuzanna Bogusz](https://www.worldcubeassociation.org/persons/2022BOGU01) |
 | 554 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
-| 554 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 
 ### 10 Competitions
 

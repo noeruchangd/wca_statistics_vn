@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 June 2025*
+*Updated on  1 July 2025*
 
 
 ### Rubik's Cube
@@ -143,16 +143,16 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
+| 32.17 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 30.46, 33.62, 31.87, 34.13, 30.19, 29.52, 30.72, 35.31, 34.61, 33.71, 30.14, 32.29 |
 | 32.20 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 30.34, 30.86, 31.76, 33.91, 39.54, 32.38, 30.92, 36.83, 28.40, 30.63, 31.27, 33.13 |
-| 32.64 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 32.46, 30.40, 30.10, 30.78, 38.49, 30.90, 34.86, 33.90, 30.52, 40.43, 32.73, 31.38 |
 | 33.78 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 31.00, 31.80, 36.86, 35.12, 34.94, 33.09, 29.67, 33.26, 38.14, 33.78, 35.53, 32.38 |
 | 36.20 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 37.82, 34.07, 34.57, 34.62, 34.60, 40.20, 39.85, 36.93, 32.21, 35.54, 41.54, 33.76 |
 | 37.44 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 37.86, 40.77, 34.05, 46.32, 40.09, 38.88, 31.69, 35.98, 36.48, 42.45, 31.41, 36.15 |
 | 37.78 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 40.29, 39.26, 37.33, 35.67, 37.96, 39.57, 36.22, 34.25, 42.97, 39.57, 34.47, 37.49 |
 | 39.17 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 35.91, 42.23, 37.66, 37.79, 40.17, 37.64, 38.36, 38.61, 40.15, 42.67, 40.78, 38.33 |
 | 39.37 | [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 36.81, 38.02, 42.81, 39.14, 38.04, 44.32, 36.33, 40.89, 40.63, 42.46, 38.61, 34.10 |
+| 39.72 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 37.54, 41.65, 45.20, 38.64, 41.13, 41.95, 38.41, 37.77, 38.48, 37.89, 41.23, 40.01 |
 | 40.36 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 37.73, 39.27, 39.73, 37.68, 44.76, 43.90, 39.75, 38.72, 44.18, 37.87, 45.80, 35.19 |
-| 40.43 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 39.60, 40.20, 41.24, 44.46, 41.54, 38.73, 46.72, 40.19, 37.97, 40.11, 36.71, 40.28 |
 
 ### Pyraminx
 
