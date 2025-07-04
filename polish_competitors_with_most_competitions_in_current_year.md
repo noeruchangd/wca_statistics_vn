@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -135,6 +135,7 @@
 | 6 | [Igor Ośmiałowski](https://www.worldcubeassociation.org/persons/2014OMIA01) |
 | 6 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) |
 | 6 | [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) |
+| 6 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
 | 6 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) |
 | 6 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) |
 | 6 | [Maksymilian Jedynak](https://www.worldcubeassociation.org/persons/2019JEDY01) |
@@ -167,7 +168,6 @@
 | 5 | [Franek Saliński](https://www.worldcubeassociation.org/persons/2015SALI02) |
 | 5 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
 | 5 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
-| 5 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
 | 5 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 5 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) |
 | 5 | [Łukasz Pawłowski](https://www.worldcubeassociation.org/persons/2020PAWL01) |

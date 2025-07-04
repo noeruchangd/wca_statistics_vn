@@ -1,7 +1,7 @@
 ## Longest streak of competitions in Poland
 
 *Note: The streak ends whenever the person doesn't participate in a competition in Poland.*
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Competitions | Person | Started at | Missed |
 | ---: | :--- | :--- | :--- |

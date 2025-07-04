@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -8,7 +8,7 @@
 | 61 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 54 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 36 | [Igor Wojciech Wawrzynski](https://www.worldcubeassociation.org/persons/2019WAWR01) |
-| 34 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
+| 35 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
 | 28 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 27 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 26 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |

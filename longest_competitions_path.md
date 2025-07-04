@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  1 July 2025*
+*Updated on  4 July 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -585,11 +585,11 @@
 | [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 2 053 km |
 | [Jakub Seiffert](https://www.worldcubeassociation.org/persons/2013SEIF01) | 2 049 km |
 | [Kamil Ugorek](https://www.worldcubeassociation.org/persons/2023UGOR01) | 2 049 km |
+| [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) | 2 045 km |
 | [Nikodem Ciepłucha](https://www.worldcubeassociation.org/persons/2021CIEP01) | 2 042 km |
 | [Agnieszka Kozieł](https://www.worldcubeassociation.org/persons/2007KOZI01) | 2 038 km |
 | [Szymon Kornatowski](https://www.worldcubeassociation.org/persons/2017KORN03) | 2 035 km |
 | [Igor Gołębowski](https://www.worldcubeassociation.org/persons/2023GOLE04) | 2 034 km |
-| [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) | 2 033 km |
 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) | 2 032 km |
 | [Piotr Tomczyk](https://www.worldcubeassociation.org/persons/2016TOMC01) | 2 028 km |
 | [Weronika Krzakiewicz](https://www.worldcubeassociation.org/persons/2013KRZA01) | 2 024 km |
