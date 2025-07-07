@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  4 July 2025*
+*Updated on  7 July 2025*
 
 
 ### Rubik's Cube
@@ -87,11 +87,11 @@
 | 30.33 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Beskidy Side Days 2024](https://www.worldcubeassociation.org/competitions/BeskidySideDays2024/results/by_person#2014ZYCH01) |
 | 30.40 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [SLS Maj 2024](https://www.worldcubeassociation.org/competitions/SLSMaj2024/results/by_person#2017PABI01) |
 | 30.63 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024/results/by_person#2014ZYCH01) |
+| 30.67 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/by_person#2017PABI01) |
 | 30.70 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023/results/by_person#2014ZYCH01) |
 | 30.72 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Pilzno Cubing Holiday 2025](https://www.worldcubeassociation.org/competitions/PilznoCubingHoliday2025/results/by_person#2017PABI01) |
 | 30.78 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [SLS Maj 2024](https://www.worldcubeassociation.org/competitions/SLSMaj2024/results/by_person#2017PABI01) |
 | 30.86 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [Pilzno in the Mirror 2024](https://www.worldcubeassociation.org/competitions/PilznointheMirror2024/results/by_person#2014ZYCH01) |
-| 30.90 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Dragon Cubing I 2024](https://www.worldcubeassociation.org/competitions/DragonCubingI2024/results/by_person#2017PABI01) |
 
 ### Pyraminx
 

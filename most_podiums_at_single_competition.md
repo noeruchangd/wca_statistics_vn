@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on  4 July 2025*
+*Updated on  7 July 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -17,6 +17,7 @@
 | 11 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | [Icelandic Nationals 2021](https://www.worldcubeassociation.org/competitions/IcelandicNationals2021/results/podiums) |
 | 12 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/podiums) |
 | 11 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Cube4fun in Biała Podlaska 2023](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2023/results/podiums) |
+| 11 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/podiums) |
 | 12 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | [Cube4fun Bełżyce Autumn 2024](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceAutumn2024/results/podiums) |
 
 

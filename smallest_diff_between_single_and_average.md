@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 July 2025*
+*Updated on  7 July 2025*
 
 
 ### Rubik's Cube
@@ -14,10 +14,10 @@
 | 0.06 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 9.66 | 9.72 | [Cubers Eve 2014](https://www.worldcubeassociation.org/competitions/CubersEve2014/results/by_person#2012KALE01) |
 | 0.06 | [Paweł Tomal](https://www.worldcubeassociation.org/persons/2013TOMA01) | 12.27 | 12.33 | [Krakow Cubing Spree 2014](https://www.worldcubeassociation.org/competitions/KrakowCubingSpree2014/results/by_person#2013TOMA01) |
 | 0.07 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.26 | 5.33 | [Stevenage May 2024](https://www.worldcubeassociation.org/competitions/StevenageMay2024/results/by_person#2016KOLA02) |
+| 0.07 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 7.14 | 7.21 | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/by_person#2013BURL01) |
 | 0.07 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) | 8.13 | 8.20 | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021/results/by_person#2015ZUBO01) |
 | 0.07 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 10.61 | 10.68 | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2022SOLO01) |
 | 0.07 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 10.69 | 10.76 | [Project Radom 2018](https://www.worldcubeassociation.org/competitions/ProjectRadom2018/results/by_person#2013WARY01) |
-| 0.07 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 11.21 | 11.28 | [Cubing Rising Stars Olesno 2022](https://www.worldcubeassociation.org/competitions/CubingRisingStarsOlesno2022/results/by_person#2020DOZA01) |
 
 ### 2x2x2 Cube
 
@@ -113,6 +113,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.10 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 15.89 | 15.99 | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/by_person#2015SOLT03) |
 | 0.10 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 15.93 | 16.03 | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017/results/by_person#2011KNOT01) |
 | 0.11 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 15.35 | 15.46 | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015/results/by_person#2013KOWA04) |
 | 0.12 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 14.27 | 14.39 | [Mysłowice Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/MyslowiceBigCubeOpen2022/results/by_person#2017SZUL01) |
@@ -122,7 +123,6 @@
 | 0.14 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 19.25 | 19.39 | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015/results/by_person#2006HALC01) |
 | 0.15 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 23.67 | 23.82 | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2020DWOR01) |
 | 0.16 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 14.95 | 15.11 | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025/results/by_person#2021KULA02) |
-| 0.17 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 15.64 | 15.81 | [Czech Open 2016](https://www.worldcubeassociation.org/competitions/CzechOpen2016/results/by_person#2013BURL01) |
 
 ### Megaminx
 

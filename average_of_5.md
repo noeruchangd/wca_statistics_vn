@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 July 2025*
+*Updated on  7 July 2025*
 
 
 ### Rubik's Cube
@@ -39,6 +39,7 @@
 | Ao5 | Person | Times |
 | ---: | :--- | :--- |
 | 19.17 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 22.21, 19.55, 18.95, 17.84, 19.01 |
+| 25.02 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 24.15, 30.14, 25.39, 25.52, 21.39 |
 | 25.30 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 29.89, 23.73, 24.57, 27.60, 23.12 |
 | 25.53 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 24.82, 24.84, 26.47, 28.76, 25.28 |
 | 25.55 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 26.67, 24.08, 24.20, 28.46, 25.79 |
@@ -47,7 +48,6 @@
 | 26.33 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 25.33, 26.12, 28.42, 26.78, 26.09 |
 | 26.45 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 28.25, 24.69, 25.73, 27.22, 26.40 |
 | 26.46 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 25.73, 26.80, 24.62, 31.21, 26.85 |
-| 26.49 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 27.46, 27.00, 24.05, 25.71, 26.75 |
 
 ### 5x5x5 Cube
 
@@ -146,7 +146,7 @@
 | 30.69 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 30.40, 30.10, 30.78, 38.49, 30.90 |
 | 30.94 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 30.92, 36.83, 28.40, 30.63, 31.27 |
 | 32.94 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 32.35, 39.06, 34.90, 31.57, 31.45 |
-| 34.60 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 37.82, 34.07, 34.57, 34.62, 34.60 |
+| 34.22 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 34.21, 34.18, 34.26, 36.46, 33.58 |
 | 34.72 | [Przemysław Rudziak](https://www.worldcubeassociation.org/persons/2020RUDZ02) | 31.69, 35.98, 36.48, 42.45, 31.41 |
 | 36.62 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 35.67, 37.96, 39.57, 36.22, 34.25 |
 | 37.94 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 37.66, 37.79, 40.17, 37.64, 38.36 |
