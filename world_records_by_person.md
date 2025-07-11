@@ -1,12 +1,12 @@
 ## World records count by person
 
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 | WRs | Person |
 | ---: | :--- |
 | 20 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 14 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) |
-| 10 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 11 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
 | 9 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 5 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 5 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |

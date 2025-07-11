@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 
 ### Rubik's Cube
@@ -106,8 +106,8 @@
 | 0.36 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 25.15 | 25.51 | [BrizZon Side Open II 2024](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2024/results/by_person#2020BARA02) |
 | 0.37 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 20.92 | 21.29 | [Santa Claus Mysłowice 2024](https://www.worldcubeassociation.org/competitions/SantaClausCubeRaceMyslowice2024/results/by_person#2018CEPI01) |
 | 0.38 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 50.57 | 50.95 | [BrizZon Side Open II 2022](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2022/results/by_person#2018ZYNE01) |
+| 0.42 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 19.28 | 19.70 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2013BOBE01) |
 | 0.42 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 42.66 | 43.08 | [GLS Final 2017](https://www.worldcubeassociation.org/competitions/GLSFinal2017/results/by_person#2015BUAT01) |
-| 0.47 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 18.97 | 19.44 | [GLS IV 2023](https://www.worldcubeassociation.org/competitions/GLSIV2023/results/by_person#2013BOBE01) |
 
 ### 3x3x3 One-Handed
 
@@ -197,7 +197,7 @@
 | 0.17 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 5.56 | 5.73 | [Cube4fun Siedlce Autumn 2023](https://www.worldcubeassociation.org/competitions/Cube4funSiedlceAutumn2023/results/by_person#2013KRAS02) |
 | 0.17 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 9.48 | 9.65 | [Siedlce Open 2025](https://www.worldcubeassociation.org/competitions/SiedlceOpen2025/results/by_person#2022STOJ03) |
 | 0.17 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 33.88 | 34.05 | [Cube Factory League Jeżów 2025](https://www.worldcubeassociation.org/competitions/CubeFactoryLeagueJezow2025/results/by_person#2014SZWU01) |
-| 0.21 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 7.77 | 7.98 | [LLS II 2019](https://www.worldcubeassociation.org/competitions/LLSII2019/results/by_person#2013KRAS02) |
+| 0.19 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 15.11 | 15.30 | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2013OLSZ02) |
 
 ### 4x4x4 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -61,11 +61,11 @@
 | 24 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
 | 24 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
 | 23 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) |
+| 23 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 23 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 23 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 22 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
 | 22 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
-| 22 | [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) |
 | 21 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 20 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) |
 | 20 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |

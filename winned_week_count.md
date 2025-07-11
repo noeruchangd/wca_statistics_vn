@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  7 July 2025*
+*Updated on 10 July 2025*
 
 
 ### Rubik's Cube
@@ -43,7 +43,6 @@
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 2 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 2 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2 |
-| [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 2 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1 |
 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | 1 |
 | [Tomasz Kaczorowski](https://www.worldcubeassociation.org/persons/2008KACZ01) | 1 |
@@ -51,12 +50,13 @@
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 1 |
 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1 |
 | [Karol Stacha](https://www.worldcubeassociation.org/persons/2013STAC02) | 1 |
+| [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 1 |
 
 ### 4x4x4 Cube
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 46 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 47 |
 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 6 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 5 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 5 |
@@ -66,13 +66,12 @@
 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) | 1 |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1 |
-| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1 |
 
 ### 5x5x5 Cube
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 42 |
+| [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 43 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 35 |
 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 4 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 2 |
@@ -119,7 +118,6 @@
 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | 1 |
 | [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) | 1 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 1 |
-| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | 1 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 1 |
 
 ### 3x3x3 Fewest Moves
@@ -179,7 +177,7 @@
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 6 |
 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | 5 |
 | [Krzysztof Natusiewicz](https://www.worldcubeassociation.org/persons/2011NATU01) | 5 |
-| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 5 |
+| [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 4 |
 | [Ernest Seroczyński](https://www.worldcubeassociation.org/persons/2015SERO02) | 2 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
 | [Stefan Łapicki](https://www.worldcubeassociation.org/persons/2006LAPI01) | 1 |
@@ -236,7 +234,6 @@
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 1 |
 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 1 |
 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 1 |
-| [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 1 |
 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 1 |
 
 ### Skewb
@@ -248,14 +245,14 @@
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 12 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 8 |
 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 4 |
+| [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 4 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 3 |
-| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 3 |
-| [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 3 |
 | [Filip Pasławski](https://www.worldcubeassociation.org/persons/2013PASA01) | 2 |
 | [Bartłomiej Sordyl](https://www.worldcubeassociation.org/persons/2014SORD01) | 2 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 2 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 2 |
 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2 |
+| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 2 |
 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 1 |
 | [Patryk Szewczyk](https://www.worldcubeassociation.org/persons/2012SZEW01) | 1 |
 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 1 |
@@ -281,7 +278,6 @@
 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1 |
 | [Oliver Sherlock](https://www.worldcubeassociation.org/persons/2019SHER13) | 1 |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 1 |
-| [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 1 |
 | [Szymon Knapek](https://www.worldcubeassociation.org/persons/2023KNAP01) | 1 |
 
 ### 4x4x4 Blindfolded
@@ -295,8 +291,9 @@
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 4 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 4 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 4 |
-| [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 2 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 2 |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 1 |
+| [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 1 |
 
 ### 5x5x5 Blindfolded
 
@@ -310,7 +307,6 @@
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3 |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 3 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 2 |
-| [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 1 |
 
 ### 3x3x3 Multi-Blind
 
@@ -329,7 +325,6 @@
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 1 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 1 |
 | [Tomasz Tokarski](https://www.worldcubeassociation.org/persons/2012TOKA02) | 1 |
-| [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | 1 |
 
 ### 3x3x3 With Feet
 
