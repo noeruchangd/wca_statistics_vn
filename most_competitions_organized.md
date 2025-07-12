@@ -7,7 +7,7 @@
 | 124 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 74 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 57 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 50 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 51 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 37 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 33 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 30 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
@@ -90,6 +90,7 @@
 | 3 | [Kamil Więcławek](https://www.worldcubeassociation.org/persons/2014WICA01) |
 | 3 | [Krystian Fiołek](https://www.worldcubeassociation.org/persons/2022FIOL01) |
 | 3 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
+| 3 | [Kajetan Kwiatkowski](https://www.worldcubeassociation.org/persons/2023KWIA01) |
 | 3 | [Mateusz Ziemba](https://www.worldcubeassociation.org/persons/2022ZIEM01) |
 | 3 | [Roksana Porucznik](https://www.worldcubeassociation.org/persons/2024PORU01) |
 
