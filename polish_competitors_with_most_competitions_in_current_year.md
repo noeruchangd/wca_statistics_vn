@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 10 July 2025*
+*Updated on 13 July 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -10,16 +10,16 @@
 | 26 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 22 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 20 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
+| 20 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 20 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 18 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
-| 18 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 16 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 16 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) |
+| 16 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 16 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) |
 | 16 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 15 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 15 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
-| 15 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |
 | 15 | [Idan Bolesto](https://www.worldcubeassociation.org/persons/2022BOLE01) |
 | 15 | [Antoni Szcześniak](https://www.worldcubeassociation.org/persons/2023SZCZ04) |
 | 14 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |

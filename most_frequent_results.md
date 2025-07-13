@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Updated on 10 July 2025*
+*Updated on 13 July 2025*
 
 
 ### Rubik's Cube
@@ -194,9 +194,9 @@
 | 146 | 4.96 |
 | 146 | 5.99 |
 | 144 | 6.72 |
+| 144 | 5.35 |
 | 143 | 4.53 |
 | 143 | 6.56 |
-| 143 | 5.35 |
 
 ### Square-1
 
