@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -279,6 +279,7 @@
 | [Oliver Sherlock](https://www.worldcubeassociation.org/persons/2019SHER13) | 1 |
 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 1 |
 | [Szymon Knapek](https://www.worldcubeassociation.org/persons/2023KNAP01) | 1 |
+| [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 1 |
 
 ### 4x4x4 Blindfolded
 

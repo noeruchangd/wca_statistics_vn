@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -211,8 +211,8 @@
 | 7.52 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 7.37, 7.71, 7.49, 8.75, 6.89 |
 | 7.55 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 7.67, 8.90, 6.98, 8.00, 6.95 |
 | 7.61 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 8.46, 6.66, 7.99, 6.92, 7.91 |
+| 7.65 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 7.33, 8.26, 8.40, 7.26, 7.35 |
 | 7.96 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 13.83, 7.71, 6.92, 8.21, 7.96 |
-| 8.17 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 7.01, 9.67, 7.49, 9.19, 7.84 |
 
 ### 4x4x4 Blindfolded
 
@@ -226,8 +226,8 @@
 | 3:15.69 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 2:37.57, DNF, 2:58.25, 4:08.06, 2:40.76 |
 | 3:45.93 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3:25.74, 2:41.30, DNF, 5:08.40, 2:43.66 |
 | 4:06.98 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3:47.56, 4:10.60, DNF, 4:22.78, 3:39.31 |
+| 6:13.41 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 5:49.99, 7:21.54, DNF, 5:15.63, 5:28.71 |
 | 6:45.99 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 5:30.85, 6:19.33, 7:01.59, DNF, 6:57.04 |
-| 6:57.63 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 7:19.23, 6:37.65, 5:50.37, DNF, 6:56.00 |
 
 ### 5x5x5 Blindfolded
 

@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -113,6 +113,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
+| [Igor Tarasov](https://www.worldcubeassociation.org/persons/2016TARA04) | 22 | **23.00** | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025/results/all#e333fm_f) | 4 |
 | [Jan Riedl](https://www.worldcubeassociation.org/persons/2019RIED01) | 22 | **23.33** | [Fun with FM in Kraków 2025](https://www.worldcubeassociation.org/competitions/FunwithFMinKrakow2025/results/all#e333fm_f) | 4 |
 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 22 | **23.67** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333fm_f) | 4 |
 | [Krzysztof Pietrusiak](https://www.worldcubeassociation.org/persons/2019PIET01) | 23 | **23.67** | [Fun with FM in Warsaw 2025](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsaw2025/results/all#e333fm_f) | 4 |
@@ -122,7 +123,6 @@
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 22 | **24.33** | [Fun with FM in Warsaw 2025](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsaw2025/results/all#e333fm_f) | 5 |
 | [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 24 | **25.00** | [Warsaw FMC Tour II Sunday 2024](https://www.worldcubeassociation.org/competitions/WarsawFMCTourIISunday2024/results/all#e333fm_f) | 4 |
 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) | 23 | **25.33** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333fm_f) | 5 |
-| [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) | 24 | **25.33** | [Fun with FM in Warsaw 2025](https://www.worldcubeassociation.org/competitions/FunWithFMinWarsaw2025/results/all#e333fm_f) | 6 |
 
 ### 3x3x3 One-Handed
 

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 13 July 2025*
+*Updated on 16 July 2025*
 
 
 ### Rubik's Cube
@@ -221,13 +221,13 @@
 | 8:32.76 | [Alan Żeromski](https://www.worldcubeassociation.org/persons/2018ZERO01) |
 | 10:23.00 | [Antoni Kingston](https://www.worldcubeassociation.org/persons/2021KING03) |
 | 10:48.00 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
+| 10:51.00 | [Łukasz Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI07) |
 | 11:27.00 | [Piotr Janecki](https://www.worldcubeassociation.org/persons/2014JANE01) |
 | 11:51.00 | [Dominik Obara](https://www.worldcubeassociation.org/persons/2021OBAR01) |
 | 11:56.00 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 14:13.00 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) |
 | 14:51.00 | [Maciej Mancewicz](https://www.worldcubeassociation.org/persons/2010MANC01) |
 | 15:57.00 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
-| 20:29.00 | [Kamil Łukaszewski](https://www.worldcubeassociation.org/persons/2017LUKA02) |
 
 ### 5x5x5 Blindfolded
 
