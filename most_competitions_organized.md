@@ -6,14 +6,14 @@
 | ---: | :--- |
 | 124 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 74 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
-| 57 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
+| 58 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 51 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 37 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
-| 33 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
+| 38 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 34 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 30 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 28 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
 | 23 | [Radosław Ciuk](https://www.worldcubeassociation.org/persons/2013CIUK01) |
-| 22 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
+| 23 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 22 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 21 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) |
 | 21 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
@@ -27,8 +27,8 @@
 | 12 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 12 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
+| 11 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 10 | [Krzysztof Kasprzak](https://www.worldcubeassociation.org/persons/2015KASP01) |
-| 10 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 10 | [Przemysław Malinowski](https://www.worldcubeassociation.org/persons/2022MALI01) |
 | 9 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) |
 | 9 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
