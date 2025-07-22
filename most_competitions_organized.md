@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on 19 July 2025*
+*Updated on 22 July 2025*
 
 | Organized | Person |
 | ---: | :--- |
