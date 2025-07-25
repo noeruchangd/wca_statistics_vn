@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 
 ### Competition
@@ -34,7 +34,7 @@
 | :--- | ---: | ---: |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **17571** | 18233 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **14369** | 14954 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **12744** | 13094 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **12829** | 13183 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **11766** | 12221 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **11681** | 12548 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **10473** | 10812 |
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | 2024 | **224448** | 235988 |
 | 2023 | **188135** | 198537 |
-| 2025 | **126288** | 133225 |
+| 2025 | **126580** | 133525 |
 | 2022 | **116333** | 123548 |
 | 2019 | **91348** | 95930 |
 | 2014 | **76324** | 80953 |
@@ -82,19 +82,19 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **318513** | 324982 |
-| 2x2x2 Cube | **208618** | 214293 |
-| Pyraminx | **160546** | 164777 |
-| Skewb | **108662** | 111487 |
-| 4x4x4 Cube | **107506** | 111275 |
-| 3x3x3 One-Handed | **86541** | 89319 |
-| Clock | **60161** | 69645 |
-| 5x5x5 Cube | **51321** | 53237 |
-| Megaminx | **49579** | 51697 |
+| 3x3x3 Cube | **318566** | 325037 |
+| 2x2x2 Cube | **208672** | 214348 |
+| Pyraminx | **160586** | 164817 |
+| Skewb | **108690** | 111517 |
+| 4x4x4 Cube | **107541** | 111310 |
+| 3x3x3 One-Handed | **86556** | 89334 |
+| Clock | **60175** | 69660 |
+| 5x5x5 Cube | **51351** | 53267 |
+| Megaminx | **49589** | 51707 |
 | Square-1 | **43920** | 45691 |
-| 6x6x6 Cube | **11301** | 11760 |
-| 3x3x3 Blindfolded | **10869** | 28423 |
-| 7x7x7 Cube | **9648** | 10103 |
+| 6x6x6 Cube | **11307** | 11766 |
+| 3x3x3 Blindfolded | **10870** | 28426 |
+| 7x7x7 Cube | **9654** | 10109 |
 | 3x3x3 Fewest Moves | **5959** | 7946 |
 | Magic | **4230** | 4674 |
 | 3x3x3 With Feet | **2450** | 2650 |

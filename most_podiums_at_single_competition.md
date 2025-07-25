@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 | Podiums | Person |
 | ---: | :--- |
@@ -10,6 +10,7 @@
 | 10 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | [Manufaktura Open 2013](https://www.worldcubeassociation.org/competitions/ManufakturaOpen2013/results/podiums) |
 | 10 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | [Chojnice Open 2014](https://www.worldcubeassociation.org/competitions/ChojniceOpen2014/results/podiums) |
 | 11 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Vilnius Open 2016](https://www.worldcubeassociation.org/competitions/VilniusOpen2016/results/podiums) |
+| 10 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Sicily Summer 2025](https://www.worldcubeassociation.org/competitions/SicilySummer2025/results/podiums) |
 | 10 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | [Brno Open 2019](https://www.worldcubeassociation.org/competitions/BrnoOpen2019/results/podiums) |
 | 12 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [LLS V Final 2019](https://www.worldcubeassociation.org/competitions/LLSVFinal2019/results/podiums) |
 | 11 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | [Dębica Cubing Winter 2025](https://www.worldcubeassociation.org/competitions/DebicaCubingWinter2025/results/podiums) |

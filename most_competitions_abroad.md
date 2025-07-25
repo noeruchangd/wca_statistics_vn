@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -26,11 +26,11 @@
 | 14 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
 | 13 | [Wojciech Poljanowski](https://www.worldcubeassociation.org/persons/2010POLJ01) |
+| 13 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 13 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 13 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 13 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 12 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
-| 12 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 12 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) |
 | 12 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 11 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
@@ -61,6 +61,7 @@
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 8 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 8 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
+| 8 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 8 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 8 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 8 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
@@ -74,7 +75,6 @@
 | 7 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 7 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 7 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
-| 7 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 7 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) |
 | 7 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 7 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |

@@ -1,6 +1,6 @@
 ## Most visited countries
 
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 | Countries | Person |
 | ---: | :--- |
@@ -19,12 +19,12 @@
 | 11 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 11 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 10 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 10 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 9 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 9 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 9 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 9 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 9 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
-| 9 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 9 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 9 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 9 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
@@ -39,23 +39,23 @@
 | 7 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 7 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 7 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
+| 7 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 7 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 7 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
-| 6 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
+| 6 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 6 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 6 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 6 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
 | 6 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
-| 6 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
 | 6 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
+| 6 | [Jakub Wolniewicz](https://www.worldcubeassociation.org/persons/2012WOLN01) |
 | 6 | [Stanisław Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR03) |
 | 6 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
 | 6 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 6 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
-| 6 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
-| 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 5 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 5 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
+| 5 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) |
 | 5 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
 | 5 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 5 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
@@ -71,8 +71,8 @@
 | 5 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 5 | [Amelia Zakrzewska](https://www.worldcubeassociation.org/persons/2012ZAKR01) |
 | 5 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
-| 5 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 5 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
+| 5 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 5 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 5 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 5 | [Marek Dąbrowski](https://www.worldcubeassociation.org/persons/2016DABR02) |

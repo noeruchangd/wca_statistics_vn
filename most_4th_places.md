@@ -1,11 +1,11 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 22 July 2025*
+*Updated on 25 July 2025*
 
 | 4th places | Person |
 | ---: | :--- |
-| 137 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 138 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 125 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 108 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 103 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) |
