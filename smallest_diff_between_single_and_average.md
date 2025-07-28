@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 25 July 2025*
+*Updated on 28 July 2025*
 
 
 ### Rubik's Cube
@@ -10,6 +10,7 @@
 | ---: | :--- | ---: | ---: | :--- |
 | 0.03 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.72 | 5.75 | [Capelle Cubing 2023](https://www.worldcubeassociation.org/competitions/CapelleCubing2023/results/by_person#2016KOLA02) |
 | 0.03 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 6.86 | 6.89 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2020REJD01) |
+| 0.04 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 9.59 | 9.63 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025/results/by_person#2020DOZA01) |
 | 0.05 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 7.51 | 7.56 | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/by_person#2021PIET01) |
 | 0.06 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 9.66 | 9.72 | [Cubers Eve 2014](https://www.worldcubeassociation.org/competitions/CubersEve2014/results/by_person#2012KALE01) |
 | 0.06 | [Paweł Tomal](https://www.worldcubeassociation.org/persons/2013TOMA01) | 12.27 | 12.33 | [Krakow Cubing Spree 2014](https://www.worldcubeassociation.org/competitions/KrakowCubingSpree2014/results/by_person#2013TOMA01) |
@@ -17,7 +18,6 @@
 | 0.07 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 7.14 | 7.21 | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/by_person#2013BURL01) |
 | 0.07 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) | 8.13 | 8.20 | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021/results/by_person#2015ZUBO01) |
 | 0.07 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 10.61 | 10.68 | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2022SOLO01) |
-| 0.07 | [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 10.69 | 10.76 | [Project Radom 2018](https://www.worldcubeassociation.org/competitions/ProjectRadom2018/results/by_person#2013WARY01) |
 
 ### 2x2x2 Cube
 
@@ -173,6 +173,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.03 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.96 | 1.99 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025/results/by_person#2018HANU02) |
 | 0.03 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 2.17 | 2.20 | [Żmigród Open 2024](https://www.worldcubeassociation.org/competitions/ZmigrodOpen2024/results/by_person#2022SAMS03) |
 | 0.04 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.57 | 3.61 | [Energy Cube Tomaszów 2023](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2023/results/by_person#2022STOJ03) |
 | 0.05 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.39 | 2.44 | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/by_person#2013BURL01) |
@@ -182,7 +183,6 @@
 | 0.06 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.67 | 1.73 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/by_person#2018HANU02) |
 | 0.06 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.23 | 2.29 | [Dublin Summer Solving 2025](https://www.worldcubeassociation.org/competitions/DublinSummerSolving2025/results/by_person#2021GORE01) |
 | 0.06 | [Stefan Pokrycki](https://www.worldcubeassociation.org/persons/2024POKR01) | 3.61 | 3.67 | [Back To Białystok 2024](https://www.worldcubeassociation.org/competitions/BackToBialystok2024/results/by_person#2024POKR01) |
-| 0.06 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | 5.73 | 5.79 | [Elektryk Cube Race 2022](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2022/results/by_person#2019MATY01) |
 
 ### Square-1
 
