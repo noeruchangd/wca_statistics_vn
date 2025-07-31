@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 28 July 2025*
+*Updated on 31 July 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -158,7 +158,7 @@
 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) | 12 842 km |
 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 12 679 km |
 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) | 12 504 km |
-| [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | 12 338 km |
+| [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | 12 444 km |
 | [Anonymous](https://www.worldcubeassociation.org/persons/2020ANON03) | 12 191 km |
 | [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | 12 161 km |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 12 086 km |

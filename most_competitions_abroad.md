@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 July 2025*
+*Updated on 31 July 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -41,6 +41,7 @@
 | 11 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) |
 | 11 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 11 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
+| 11 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 11 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 10 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 10 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
@@ -50,7 +51,6 @@
 | 10 | [Adelina Ilnicki](https://www.worldcubeassociation.org/persons/2020ILNI01) |
 | 10 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
 | 10 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
-| 10 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 10 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 9 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
 | 9 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
@@ -127,6 +127,7 @@
 | 5 | [Pamela Szponder](https://www.worldcubeassociation.org/persons/2022SZPO01) |
 | 5 | [Marceli Wieczorek](https://www.worldcubeassociation.org/persons/2022WIEC03) |
 | 5 | [Jakub Pietroń](https://www.worldcubeassociation.org/persons/2023PIET02) |
+| 5 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 5 | [Maksymilian Kurowski](https://www.worldcubeassociation.org/persons/2023KURO03) |
 | 5 | [Wojciech Bauer](https://www.worldcubeassociation.org/persons/2023BAUE04) |
 | 5 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |

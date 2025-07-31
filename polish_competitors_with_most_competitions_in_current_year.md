@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 28 July 2025*
+*Updated on 31 July 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -116,6 +116,7 @@
 | 8 | [Marek Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT01) |
 | 8 | [Adam Dojtrowski](https://www.worldcubeassociation.org/persons/2023DOJT02) |
 | 8 | [Rafał Gawełczyk](https://www.worldcubeassociation.org/persons/2023GAWE01) |
+| 8 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 8 | [Dawid Kowalczyk](https://www.worldcubeassociation.org/persons/2023KOWA07) |
 | 8 | [Kacper Kozak](https://www.worldcubeassociation.org/persons/2023KOZA05) |
 | 8 | [Dominik Podolak](https://www.worldcubeassociation.org/persons/2023PODO02) |
@@ -149,7 +150,6 @@
 | 7 | [Franciszek Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR03) |
 | 7 | [Oskar Gralec](https://www.worldcubeassociation.org/persons/2023GRAL01) |
 | 7 | [Wiktor Gugulski](https://www.worldcubeassociation.org/persons/2023GUGU01) |
-| 7 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 7 | [Jakub Łebkowski](https://www.worldcubeassociation.org/persons/2023LEBK01) |
 | 7 | [Anna Łebkowska](https://www.worldcubeassociation.org/persons/2023LEBK04) |
 | 7 | [Tobiasz Gładysz](https://www.worldcubeassociation.org/persons/2024GLAD02) |
@@ -318,6 +318,7 @@
 | 4 | [Krzysztof Mazur](https://www.worldcubeassociation.org/persons/2024MAZU04) |
 | 4 | [Leon Muś](https://www.worldcubeassociation.org/persons/2024MUSL01) |
 | 4 | [Krzysztof Nowak](https://www.worldcubeassociation.org/persons/2024NOWA06) |
+| 4 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 4 | [Stefan Pokrycki](https://www.worldcubeassociation.org/persons/2024POKR01) |
 | 4 | [Karol Szczeciński](https://www.worldcubeassociation.org/persons/2024SZCZ04) |
 | 4 | [Jan Tomczyk](https://www.worldcubeassociation.org/persons/2024TOMC03) |
@@ -414,7 +415,6 @@
 | 3 | [Antoni Osman](https://www.worldcubeassociation.org/persons/2024OSMA01) |
 | 3 | [Jakub Pieliński](https://www.worldcubeassociation.org/persons/2024PIEL01) |
 | 3 | [Jan Pietralski](https://www.worldcubeassociation.org/persons/2024PIET02) |
-| 3 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 3 | [Michał Smosarski](https://www.worldcubeassociation.org/persons/2024SMOS01) |
 | 3 | [Wojciech Sobczyk](https://www.worldcubeassociation.org/persons/2024SOBC01) |
 | 3 | [Michał Świstowski](https://www.worldcubeassociation.org/persons/2024SWIS02) |
@@ -1068,6 +1068,7 @@
 | 1 | [Kacper Jankowski](https://www.worldcubeassociation.org/persons/2025JANK02) |
 | 1 | [Tomasz Jaroszyński](https://www.worldcubeassociation.org/persons/2025JARO01) |
 | 1 | [Gabriel Jasinski](https://www.worldcubeassociation.org/persons/2025JASI02) |
+| 1 | [Patryk Jasiński](https://www.worldcubeassociation.org/persons/2025JASI03) |
 | 1 | [Letycja Jasnoch](https://www.worldcubeassociation.org/persons/2025JASN01) |
 | 1 | [Nikodem Jasnoch](https://www.worldcubeassociation.org/persons/2025JASN02) |
 | 1 | [Bruno Jaworski](https://www.worldcubeassociation.org/persons/2025JAWO01) |

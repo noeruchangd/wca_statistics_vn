@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 28 July 2025*
+*Updated on 31 July 2025*
 
 
 ### Rubik's Cube
@@ -39,11 +39,11 @@
 | 8.17 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 8.17 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 8.20 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
+| 8.23 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 8.29 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) |
 | 8.33 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) |
 | 8.36 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 8.42 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
-| 8.45 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 8.48 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 8.51 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 8.51 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) |
@@ -96,7 +96,7 @@
 | 2.37 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 2.39 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) |
 | 2.42 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
-| 2.43 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
+| 2.42 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 2.46 | [Mateusz Otto](https://www.worldcubeassociation.org/persons/2022OTTO01) |
 | 2.47 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 2.50 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) |
@@ -152,7 +152,7 @@
 | 33.15 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) |
 | 33.17 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
 | 33.38 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) |
-| 33.51 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
+| 33.50 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 33.60 | [Kacper Dłubała](https://www.worldcubeassociation.org/persons/2018DLUB01) |
 | 33.85 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) |
 | 34.04 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) |
@@ -205,7 +205,7 @@
 | 1:01.04 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) |
 | 1:01.28 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) |
 | 1:02.00 | [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) |
-| 1:02.75 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
+| 1:02.08 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 1:02.76 | [Maksymilian Sordyl](https://www.worldcubeassociation.org/persons/2022SORD01) |
 | 1:02.80 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) |
 | 1:03.06 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
@@ -430,10 +430,10 @@
 | 15.16 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) |
 | 15.38 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) |
 | 15.43 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
+| 15.56 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 15.57 | [Igor Kamiński](https://www.worldcubeassociation.org/persons/2023KAMI04) |
 | 15.69 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) |
 | 15.70 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
-| 15.79 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 15.85 | [Franciszek Syguła](https://www.worldcubeassociation.org/persons/2022SYGU01) |
 | 15.99 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 16.11 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) |
