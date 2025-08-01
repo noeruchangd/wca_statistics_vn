@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 31 July 2025*
+*Updated on  1 August 2025*
 
 
 ### Competition
@@ -32,11 +32,11 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **17571** | 18233 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **17656** | 18324 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | **14454** | 15039 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **12879** | 13233 |
+| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **11773** | 12649 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **11766** | 12221 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | **11681** | 12548 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | **10473** | 10812 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | **10264** | 10451 |
 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **10106** | 10646 |
@@ -59,7 +59,7 @@
 | :--- | ---: | ---: |
 | 2024 | **224448** | 235988 |
 | 2023 | **188135** | 198537 |
-| 2025 | **133195** | 140447 |
+| 2025 | **133372** | 140639 |
 | 2022 | **116333** | 123548 |
 | 2019 | **91348** | 95930 |
 | 2014 | **76324** | 80953 |
@@ -82,18 +82,18 @@
 
 |  | Solves | Attempts |
 | :--- | ---: | ---: |
-| 3x3x3 Cube | **320314** | 326817 |
-| 2x2x2 Cube | **209586** | 215293 |
+| 3x3x3 Cube | **320344** | 326847 |
+| 2x2x2 Cube | **209616** | 215323 |
 | Pyraminx | **161370** | 165622 |
-| Skewb | **109379** | 112217 |
-| 4x4x4 Cube | **108025** | 111829 |
-| 3x3x3 One-Handed | **87063** | 89862 |
-| Clock | **60640** | 70235 |
-| 5x5x5 Cube | **51721** | 53648 |
-| Megaminx | **50002** | 52145 |
+| Skewb | **109399** | 112237 |
+| 4x4x4 Cube | **108040** | 111844 |
+| 3x3x3 One-Handed | **87083** | 89882 |
+| Clock | **60654** | 70255 |
+| 5x5x5 Cube | **51736** | 53663 |
+| Megaminx | **50032** | 52175 |
 | Square-1 | **44153** | 45933 |
 | 6x6x6 Cube | **11310** | 11769 |
-| 3x3x3 Blindfolded | **10872** | 28429 |
+| 3x3x3 Blindfolded | **10875** | 28441 |
 | 7x7x7 Cube | **9657** | 10112 |
 | 3x3x3 Fewest Moves | **5959** | 7946 |
 | Magic | **4230** | 4674 |
