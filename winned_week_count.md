@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 
 ### Rubik's Cube
@@ -302,9 +302,9 @@
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 8 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 7 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 4 |
+| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 4 |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | 3 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3 |
-| [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 3 |
 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | 2 |
 
 ### 3x3x3 Multi-Blind
@@ -312,7 +312,7 @@
 | Person | Winned weeks |
 | :--- | ---: |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 33 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 26 |
+| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 27 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 21 |
 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 14 |
 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 5 |

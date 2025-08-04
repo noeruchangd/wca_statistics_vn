@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 
 ### Rubik's Cube
@@ -73,11 +73,11 @@
 | 1:32.40 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1:24.07, 1:50.00, 1:39.39, 1:37.87, 1:38.92, 1:30.44, 1:26.02, 1:36.10, 1:26.64, 1:28.37, 1:34.21, 1:26.07 |
 | 1:33.51 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:32.60, 1:28.26, 1:28.71, 1:36.35, 1:31.27, 1:30.90, 1:34.35, 1:33.96, 1:41.74, 1:33.82, 1:43.75, 1:31.39 |
 | 1:34.90 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 1:47.48, 1:30.37, 1:38.59, 1:31.77, 1:37.45, 1:19.03, 1:49.12, 1:38.77, 1:27.26, 1:35.64, 1:34.09, 1:27.59 |
+| 1:38.61 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1:45.91, 1:45.46, 1:39.62, 1:48.37, 1:42.51, 1:41.08, 1:31.70, 1:31.10, 1:34.75, 1:30.49, 1:38.26, 1:35.68 |
 | 1:39.42 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 1:48.76, 1:33.47, 1:38.19, 1:38.79, 1:33.43, 1:45.44, 1:47.78, 1:43.72, 1:31.43, 1:32.14, 1:41.86, 1:39.37 |
 | 1:39.47 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 1:47.27, 1:48.58, 1:32.98, 1:46.02, 1:31.55, 1:32.48, 1:43.40, 1:38.34, 1:46.38, 1:30.50, 1:41.14, 1:35.14 |
 | 1:40.27 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 1:36.00, 1:37.61, 1:39.01, 1:52.44, 1:37.35, 1:33.44, 1:39.40, 1:35.49, 1:33.67, 1:45.25, 1:54.02, 1:46.44 |
 | 1:41.30 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 1:37.77, 1:39.52, 1:36.39, 1:46.56, 1:41.12, 1:50.83, 1:41.29, 1:35.14, 1:45.25, 1:44.81, 1:41.18, 1:39.06 |
-| 1:41.60 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1:46.38, 1:40.19, 1:52.34, 1:45.91, 1:45.46, 1:39.62, 1:48.37, 1:42.51, 1:41.08, 1:31.70, 1:31.10, 1:34.75 |
 
 ### 7x7x7 Cube
 

@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 
 ### Rubik's Cube
@@ -62,7 +62,7 @@
 | 37 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022) |
 | 34 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Ukrainian Nationals 2016](https://www.worldcubeassociation.org/competitions/UkrainianNationals2016) |
 | 32 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | [Cube Factory Częstochowa 2018](https://www.worldcubeassociation.org/competitions/CubeFactoryCzestochowa2018) |
-| 30 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | [Cool Down Szczecin 2025](https://www.worldcubeassociation.org/competitions/CoolDownSzczecin2025) |
+| 31 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | [CF Goes Crazy Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFGoesCrazyBrzeziny2025) |
 
 ### 6x6x6 Cube
 

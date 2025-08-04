@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -15,8 +15,8 @@
 | 25 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 19 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
+| 18 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 18 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
-| 17 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 17 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
 | 17 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 15 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
@@ -33,14 +33,15 @@
 | 12 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 12 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) |
 | 12 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
+| 12 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 11 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 11 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 11 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
 | 11 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
-| 11 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 11 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) |
 | 11 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 11 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
+| 11 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 11 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 11 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 10 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
@@ -50,7 +51,6 @@
 | 10 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 10 | [Adelina Ilnicki](https://www.worldcubeassociation.org/persons/2020ILNI01) |
 | 10 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
-| 10 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
 | 10 | [Tymoteusz Zmudzki Piskorska](https://www.worldcubeassociation.org/persons/2024PISK02) |
 | 9 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
 | 9 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |

@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 August 2025*
+*Updated on  4 August 2025*
 
 
 ### Rubik's Cube
@@ -73,8 +73,8 @@
 | 1:28.82 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:30.07, 1:34.41, 1:24.95, 1:28.28, 1:28.11 |
 | 1:30.29 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:28.26, 1:28.71, 1:36.35, 1:31.27, 1:30.90 |
 | 1:32.44 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 1:38.77, 1:27.26, 1:35.64, 1:34.09, 1:27.59 |
+| 1:32.52 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1:41.08, 1:31.70, 1:31.10, 1:34.75, 1:30.49 |
 | 1:35.50 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 1:37.35, 1:33.44, 1:39.40, 1:35.49, 1:33.67 |
-| 1:35.84 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1:42.51, 1:41.08, 1:31.70, 1:31.10, 1:34.75 |
 | 1:36.29 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 1:32.98, 1:46.02, 1:31.55, 1:32.48, 1:43.40 |
 | 1:36.82 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 1:48.76, 1:33.47, 1:38.19, 1:38.79, 1:33.43 |
 | 1:38.73 | [Jan Woźniak](https://www.worldcubeassociation.org/persons/2021WOZN01) | 1:44.73, 1:38.49, 1:38.35, 1:39.36, 1:33.44 |
@@ -227,7 +227,7 @@
 | 3:45.93 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | 3:25.74, 2:41.30, DNF, 5:08.40, 2:43.66 |
 | 4:06.98 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | 3:47.56, 4:10.60, DNF, 4:22.78, 3:39.31 |
 | 6:13.41 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 5:49.99, 7:21.54, DNF, 5:15.63, 5:28.71 |
-| 6:45.99 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 5:30.85, 6:19.33, 7:01.59, DNF, 6:57.04 |
+| 6:28.78 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | DNF, 6:57.04, 5:40.70, 6:30.61, 5:58.70 |
 
 ### 5x5x5 Blindfolded
 
