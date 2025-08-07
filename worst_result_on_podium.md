@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 
 ### Rubik's Cube
@@ -220,6 +220,7 @@
 | :--- | ---: | ---: | :--- | :--: |
 | [Tomasz Tokarski](https://www.worldcubeassociation.org/persons/2012TOKA02) | **41:46.00** |  | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/podiums#e444bf) | 1 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **27:36.00** | DNF | [ Cube Factory 2013](https://www.worldcubeassociation.org/competitions/CubeFactory2013/results/podiums#e444bf) | 3 |
+| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **27:08.00** | DNF | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/podiums#e444bf) | 3 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **25:31.00** | DNF | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019/results/podiums#e444bf) | 3 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **24:57.00** | DNF | [Staszic Open 2017](https://www.worldcubeassociation.org/competitions/StaszicOpen2017/results/podiums#e444bf) | 3 |
 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) | **24:03.00** |  | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/podiums#e444bf) | 3 |
@@ -227,7 +228,6 @@
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **22:16.00** | DNF | [Polish Nationals 2014](https://www.worldcubeassociation.org/competitions/PolishNationals2014/results/podiums#e444bf) | 3 |
 | [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) | **21:19.00** | DNF | [Gdańsk Open 2015](https://www.worldcubeassociation.org/competitions/GdanskOpen2015/results/podiums#e444bf) | 2 |
 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) | **20:17.00** | DNF | [PLS Marina 2014](https://www.worldcubeassociation.org/competitions/PLSMarina2014/results/podiums#e444bf) | 2 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **20:15.00** |  | [Ukrainian Nationals 2017](https://www.worldcubeassociation.org/competitions/UkrainianNationals2017/results/podiums#e444bf) | 2 |
 
 ### 5x5x5 Blindfolded
 

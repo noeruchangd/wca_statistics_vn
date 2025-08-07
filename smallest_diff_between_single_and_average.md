@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 
 ### Rubik's Cube
@@ -134,10 +134,10 @@
 | 0.44 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) | 42.19 | 42.63 | [Dragon Cubing 2023](https://www.worldcubeassociation.org/competitions/DragonCubing2023/results/by_person#2019BOGU01) |
 | 0.49 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | 1:01.48 | 1:01.97 | [Speed Days Kraśnik 2015](https://www.worldcubeassociation.org/competitions/SpeedDaysKrasnik2015/results/by_person#2011MAJC01) |
 | 0.49 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 1:02.83 | 1:03.32 | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2016DURA09) |
+| 0.50 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 42.23 | 42.73 | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/by_person#2017TKAC04) |
 | 0.50 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 48.54 | 49.04 | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/by_person#2013BURL01) |
 | 0.51 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 47.28 | 47.79 | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/by_person#2015SOLT03) |
 | 0.53 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 54.36 | 54.89 | [GLS Cup Final 2018](https://www.worldcubeassociation.org/competitions/GLSCupFinal2018/results/by_person#2012KRIS12) |
-| 0.54 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 1:01.84 | 1:02.38 | [Szczecin Open 2022](https://www.worldcubeassociation.org/competitions/SzczecinOpen2022/results/by_person#2018MACH04) |
 
 ### Pyraminx
 

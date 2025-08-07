@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 
 ### Rubik's Cube
@@ -72,12 +72,12 @@
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 1:32.36 | **1:38.23** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e666_c) | 5 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:36.37 | **1:38.32** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e666_c) | 6 |
 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 1:30.85 | **1:38.86** | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025/results/all#e666_f) | 4 |
+| [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | 1:35.11 | **1:39.89** | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/all#e666_f) | 4 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:35.00 | **1:39.98** | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021/results/all#e666_c) | 4 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1:34.07 | **1:40.40** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e666_c) | 7 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 1:40.83 | **1:41.39** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e666_c) | 8 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 1:38.48 | **1:41.78** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e666_c) | 9 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1:39.01 | **1:42.28** | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021/results/all#e666_c) | 5 |
-| [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 1:41.92 | **1:42.54** | [Polish Championship 2021](https://www.worldcubeassociation.org/competitions/PolishChampionship2021/results/all#e666_c) | 4 |
 
 ### 7x7x7 Cube
 
@@ -197,7 +197,7 @@
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2.39 | **2.44** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eskewb_f) | 6 |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.18 | **2.46** | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/all#eskewb_f) | 6 |
 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 1.59 | **2.61** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#eskewb_f) | 7 |
-| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 1.76 | **2.65** | [Silesian Minx Fest 2024](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2024/results/all#eskewb_f) | 4 |
+| [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 2.19 | **2.62** | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/all#eskewb_f) | 4 |
 
 ### Square-1
 

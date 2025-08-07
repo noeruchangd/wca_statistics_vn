@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  4 August 2025*
+*Updated on  7 August 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -35,6 +35,7 @@
 | 24 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 16 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 13 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
+| 11 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 9 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 9 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 8 | [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) |
@@ -51,7 +52,6 @@
 | 5 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 5 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 5 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) |
-| 5 | [Ignacy Ostrowski](https://www.worldcubeassociation.org/persons/2025OSTR01) |
 
 ### 5x5x5 Blindfolded
 
