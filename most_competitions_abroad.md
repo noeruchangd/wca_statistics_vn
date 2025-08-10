@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  7 August 2025*
+*Updated on 10 August 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -11,14 +11,14 @@
 | 35 | [Leon Jakub Wyrobek](https://www.worldcubeassociation.org/persons/2016WYRO01) |
 | 30 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 28 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
-| 27 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
+| 28 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) |
 | 25 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 21 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
 | 19 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 18 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) |
 | 18 | [Wiktor Zegadło](https://www.worldcubeassociation.org/persons/2017ZEGA01) |
+| 18 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 17 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) |
-| 17 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
 | 15 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 15 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 15 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) |

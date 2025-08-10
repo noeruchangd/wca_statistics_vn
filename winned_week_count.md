@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  7 August 2025*
+*Updated on 10 August 2025*
 
 
 ### Rubik's Cube
@@ -14,6 +14,7 @@
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 4 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 2 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2 |
+| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 2 |
 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 2 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | 1 |
 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | 1 |
@@ -25,7 +26,6 @@
 | [Jakub Kubiak](https://www.worldcubeassociation.org/persons/2014KUBI02) | 1 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 1 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 1 |
-| [Teodor Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD03) | 1 |
 
 ### 2x2x2 Cube
 
@@ -37,12 +37,12 @@
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | 5 |
 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | 3 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | 3 |
+| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 3 |
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | 2 |
 | [Marcin Bloch](https://www.worldcubeassociation.org/persons/2013BLOC01) | 2 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 2 |
 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 2 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 2 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 2 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1 |
 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | 1 |
 | [Tomasz Kaczorowski](https://www.worldcubeassociation.org/persons/2008KACZ01) | 1 |
@@ -118,6 +118,7 @@
 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | 1 |
 | [Daniel Chudecki](https://www.worldcubeassociation.org/persons/2011CHUD01) | 1 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | 1 |
+| [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 1 |
 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 1 |
 
 ### 3x3x3 Fewest Moves
@@ -224,9 +225,9 @@
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 10 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 5 |
 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) | 4 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2 |
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 2 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2 |
 | [Marek Kurcyus](https://www.worldcubeassociation.org/persons/2005KURC01) | 1 |
 | [Bartłomiej Lewandowski](https://www.worldcubeassociation.org/persons/2013LEWA01) | 1 |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 1 |

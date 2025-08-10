@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on  7 August 2025*
+*Updated on 10 August 2025*
 
 | 4th places | Person |
 | ---: | :--- |
@@ -19,8 +19,8 @@
 | 62 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 58 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) |
 | 56 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
-| 55 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 55 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
+| 55 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) |
 | 54 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 54 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) |
 | 48 | [Adam Chodyniecki](https://www.worldcubeassociation.org/persons/2017CHOD02) |
@@ -53,11 +53,11 @@
 | 29 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 29 | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) |
 | 28 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) |
+| 28 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |
 | 28 | [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) |
-| 26 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) |
-| 26 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 26 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 26 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) |
+| 26 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 24 | [Przemysław Kruczek](https://www.worldcubeassociation.org/persons/2013KRUC01) |
 | 24 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
 | 24 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) |
@@ -67,40 +67,40 @@
 | 22 | [Piotr Frankowski](https://www.worldcubeassociation.org/persons/2006FRAN01) |
 | 22 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 21 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
-| 20 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) |
 | 20 | [Wojciech Piórczyński](https://www.worldcubeassociation.org/persons/2021PIOR01) |
+| 20 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
 | 20 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) |
+| 20 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) |
 | 19 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
 | 19 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) |
 | 19 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
-| 19 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 19 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
+| 19 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 19 | [Grzegorz Szumigaj](https://www.worldcubeassociation.org/persons/2013SZUM01) |
-| 19 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) |
-| 18 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
-| 18 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
 | 18 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
 | 18 | [Jakub Wojtaszewski](https://www.worldcubeassociation.org/persons/2013WOJT02) |
+| 18 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
+| 18 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 17 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) |
+| 17 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 17 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 17 | [Paweł Kowol](https://www.worldcubeassociation.org/persons/2011KOWO01) |
-| 17 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
 | 16 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
-| 15 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
-| 15 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
+| 15 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
+| 15 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
+| 15 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
 | 15 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) |
 | 15 | [Wojciech Weremczuk](https://www.worldcubeassociation.org/persons/2014WERE01) |
-| 15 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
-| 15 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
-| 15 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
-| 14 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
+| 15 | [Radosław Drozdowicz](https://www.worldcubeassociation.org/persons/2012DROZ02) |
+| 15 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 14 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) |
-| 14 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
-| 14 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
-| 14 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
-| 14 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
-| 14 | [Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02) |
 | 14 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
+| 14 | [Michał Wojcieszek](https://www.worldcubeassociation.org/persons/2015WOJC02) |
+| 14 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
+| 14 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
+| 14 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
+| 14 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
+| 14 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 13 | [Piotr Alexandrowicz](https://www.worldcubeassociation.org/persons/2007ALEX01) |
 | 13 | [Mateusz Kotwica](https://www.worldcubeassociation.org/persons/2016KOTW01) |
 | 12 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |

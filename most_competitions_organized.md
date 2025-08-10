@@ -1,14 +1,14 @@
 ## Most competitions organized
 
-*Updated on  7 August 2025*
+*Updated on 10 August 2025*
 
 | Organized | Person |
 | ---: | :--- |
 | 124 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 74 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 59 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 53 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
-| 38 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
+| 54 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 39 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 34 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 30 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 28 | [Karolina Wiącek](https://www.worldcubeassociation.org/persons/2008WIAC01) |
@@ -21,9 +21,9 @@
 | 16 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 15 | [Radosław Opoka](https://www.worldcubeassociation.org/persons/2013OPOK01) |
 | 15 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
+| 13 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 12 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
-| 12 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 12 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 12 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
@@ -47,6 +47,7 @@
 | 6 | [Marek Mendel](https://www.worldcubeassociation.org/persons/2016MEND29) |
 | 6 | [Jakub Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2014HANU01) |
 | 6 | [Grzegorz Pacewicz](https://www.worldcubeassociation.org/persons/2014PACE01) |
+| 6 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
 | 6 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) |
 | 6 | Stowarzyszenie LIGA NIEZWYKŁYCH |
 | 5 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
@@ -55,7 +56,6 @@
 | 5 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 5 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 5 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) |
-| 5 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
 | 5 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) |
 | 5 | [Hubert Firek](https://www.worldcubeassociation.org/persons/2015FIRE01) |
 | 5 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
