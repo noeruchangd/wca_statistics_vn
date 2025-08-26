@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Polish competitions are taken into account.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### Rubik's Cube
@@ -47,7 +47,7 @@
 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 23.85 | **28.77** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e444_f) | 7 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 26.24 | **28.99** | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/all#e444_c) | 4 |
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 24.87 | **29.15** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e444_f) | 8 |
-| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 28.33 | **29.31** | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/all#e444_c) | 5 |
+| [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) | 25.80 | **29.31** | [Beskidy Side Days 2025](https://www.worldcubeassociation.org/competitions/BeskidySideDays2025/results/all#e444_f) | 4 |
 
 ### 5x5x5 Cube
 
@@ -57,12 +57,12 @@
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 49.34 | **52.20** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 5 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 44.76 | **52.79** | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025/results/all#e555_f) | 4 |
 | [Magdalena Pabisz](https://www.worldcubeassociation.org/persons/2017PABI01) | 51.12 | **53.07** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 6 |
+| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 49.19 | **53.25** | [Beskidy Side Days 2025](https://www.worldcubeassociation.org/competitions/BeskidySideDays2025/results/all#e555_f) | 4 |
+| [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 50.80 | **53.57** | [Beskidy Side Days 2025](https://www.worldcubeassociation.org/competitions/BeskidySideDays2025/results/all#e555_f) | 5 |
 | [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 47.09 | **53.69** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 7 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 48.61 | **53.92** | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025/results/all#e555_c) | 4 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 49.46 | **54.15** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 8 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 47.09 | **54.23** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 9 |
-| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 48.17 | **54.25** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e555_f) | 10 |
-| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 50.87 | **54.26** | [Żory Open 2025](https://www.worldcubeassociation.org/competitions/ZoryOpen2025/results/all#e555_c) | 4 |
 
 ### 6x6x6 Cube
 
@@ -74,10 +74,10 @@
 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 1:30.85 | **1:38.86** | [Cube4fun in Bełchatów 2025](https://www.worldcubeassociation.org/competitions/Cube4funinBelchatow2025/results/all#e666_f) | 4 |
 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | 1:35.11 | **1:39.89** | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025/results/all#e666_f) | 4 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 1:35.00 | **1:39.98** | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021/results/all#e666_c) | 4 |
+| [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1:34.30 | **1:40.03** | [Beskidy Side Days 2025](https://www.worldcubeassociation.org/competitions/BeskidySideDays2025/results/all#e666_f) | 4 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1:34.07 | **1:40.40** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e666_c) | 7 |
-| [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 1:40.83 | **1:41.39** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e666_c) | 8 |
-| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 1:38.48 | **1:41.78** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e666_c) | 9 |
-| [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 1:39.01 | **1:42.28** | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021/results/all#e666_c) | 5 |
+| [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 1:33.19 | **1:40.47** | [Beskidy Side Days 2025](https://www.worldcubeassociation.org/competitions/BeskidySideDays2025/results/all#e666_f) | 5 |
+| [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:33.95 | **1:41.33** | [Beskidy Side Days 2025](https://www.worldcubeassociation.org/competitions/BeskidySideDays2025/results/all#e666_f) | 6 |
 
 ### 7x7x7 Cube
 
@@ -88,11 +88,11 @@
 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | 2:24.91 | **2:27.42** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e777_c) | 5 |
 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) | 2:07.10 | **2:28.66** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e777_c) | 6 |
 | [Maciej Skowroński](https://www.worldcubeassociation.org/persons/2021SKOW01) | 2:24.23 | **2:28.66** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e777_c) | 7 |
+| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 2:26.40 | **2:29.22** | [Beskidy Side Days 2025](https://www.worldcubeassociation.org/competitions/BeskidySideDays2025/results/all#e777_f) | 4 |
 | [Szymon Malinowski](https://www.worldcubeassociation.org/persons/2013MALI03) | 2:29.18 | **2:30.15** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#e777_c) | 4 |
 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 2:27.90 | **2:30.81** | [Polish Championship 2023](https://www.worldcubeassociation.org/competitions/PolishChampionship2023/results/all#e777_c) | 5 |
 | [Mateusz Szulik](https://www.worldcubeassociation.org/persons/2017SZUL01) | 2:23.74 | **2:33.36** | [Mysłowice Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/MyslowiceBigCubeOpen2022/results/all#e777_f) | 4 |
 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 2:24.50 | **2:33.68** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e777_c) | 8 |
-| [Marek Majerik](https://www.worldcubeassociation.org/persons/2015MAJE01) | 2:31.82 | **2:34.06** | [Project Kedzierzyn-Kozle 2021](https://www.worldcubeassociation.org/competitions/ProjectKedzierzynKozle2021/results/all#e777_c) | 4 |
 
 ### 3x3x3 Blindfolded
 
@@ -134,10 +134,10 @@
 | [Twan Dullemond](https://www.worldcubeassociation.org/persons/2018DULL01) | 8.77 | **11.49** | [Polish Championship 2024](https://www.worldcubeassociation.org/competitions/PolishChampionship2024/results/all#e333oh_f) | 5 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10.45 | **11.77** | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/all#e333oh_f) | 4 |
 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 8.90 | **11.78** | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/all#e333oh_f) | 5 |
+| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10.13 | **11.83** | [Beskidy Side Days 2025](https://www.worldcubeassociation.org/competitions/BeskidySideDays2025/results/all#e333oh_f) | 4 |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 10.38 | **11.87** | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/all#e333oh_f) | 4 |
 | [Jonas Pilhöfer](https://www.worldcubeassociation.org/persons/2019PILH01) | 8.78 | **11.91** | [Energy Cube Konin 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeKonin2025/results/all#e333oh_f) | 6 |
 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 10.41 | **11.99** | [Cube4fun Żyrardów 2024](https://www.worldcubeassociation.org/competitions/Cube4funCEZyrardow2024/results/all#e333oh_f) | 4 |
-| [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 9.81 | **12.00** | [Energy Cube Ciechanów 2024](https://www.worldcubeassociation.org/competitions/EnergyCubeCiechanow2024/results/all#e333oh_f) | 4 |
 
 ### Megaminx
 

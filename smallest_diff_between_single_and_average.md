@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 August 2025*
+*Updated on 25 August 2025*
 
 
 ### Rubik's Cube
@@ -113,6 +113,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.08 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 9.54 | 9.62 | [Beskidy Side Days 2025](https://www.worldcubeassociation.org/competitions/BeskidySideDays2025/results/by_person#2022GLAD01) |
 | 0.10 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 15.89 | 15.99 | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/by_person#2015SOLT03) |
 | 0.10 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 15.93 | 16.03 | [Byczy Cube Race 2017](https://www.worldcubeassociation.org/competitions/ByczyCubeRace2017/results/by_person#2011KNOT01) |
 | 0.11 | [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 15.35 | 15.46 | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015/results/by_person#2013KOWA04) |
@@ -122,7 +123,6 @@
 | 0.13 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 22.82 | 22.95 | [III Project Warszawa 2019](https://www.worldcubeassociation.org/competitions/IIIProjectWarszawa2019/results/by_person#2016SALA18) |
 | 0.14 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 19.25 | 19.39 | [Kaliska Open 2015](https://www.worldcubeassociation.org/competitions/KaliskaOpen2015/results/by_person#2006HALC01) |
 | 0.15 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 23.67 | 23.82 | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024/results/by_person#2020DWOR01) |
-| 0.16 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | 14.95 | 15.11 | [CFL Brzeziny Spring 2025](https://www.worldcubeassociation.org/competitions/CFLBrzezinySpring2025/results/by_person#2021KULA02) |
 
 ### Megaminx
 
