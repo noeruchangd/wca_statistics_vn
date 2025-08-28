@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 August 2025*
+*Updated on 28 August 2025*
 
 
 ### Rubik's Cube
@@ -14,8 +14,8 @@
 | 5.25 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 5.03, 5.24, 6.40, 5.25, 5.27 |
 | 5.46 | [Szymon Musiał](https://www.worldcubeassociation.org/persons/2018MUSI03) | 5.40, 7.27, 5.46, 4.79, 5.52 |
 | 5.64 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 5.36, 5.73, 5.60, 5.75, 5.58 |
+| 5.87 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 6.05, 5.73, 7.07, 5.70, 5.83 |
 | 6.21 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 7.56, 6.17, 6.47, 5.80, 6.00 |
-| 6.35 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 4.91, 7.01, 6.37, 7.66, 5.66 |
 | 6.45 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 5.68, 6.12, 7.64, 7.45, 5.77 |
 | 6.49 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 5.08, 7.62, 6.95, 5.63, 6.90 |
 
@@ -102,8 +102,8 @@
 | 20.06 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) | 19.22, 20.65, 20.75, 15.40, 20.30 |
 | 20.22 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 18.54, DNF, 19.59, 22.12, 18.96 |
 | 20.80 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | DNF, 19.61, 16.55, 22.87, 19.92 |
+| 21.30 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2024RAFA06) | 19.28, 22.73, DNF, 21.90, 19.00 |
 | 21.33 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) | 20.56, 21.52, 27.07, 21.68, 20.80 |
-| 21.42 | [Kacper Rafalski](https://www.worldcubeassociation.org/persons/2024RAFA06) | 21.57, 20.23, 20.88, 24.95, 21.82 |
 | 21.67 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 22.26, 21.54, 22.19, 21.29, 20.98 |
 | 21.71 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) | 19.97, 23.42, DNF, 21.05, 20.66 |
 | 22.34 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) | 20.92, 21.24, 21.71, DNF, 24.08 |

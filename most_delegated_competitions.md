@@ -1,6 +1,6 @@
 ## Most delegated competitions
 
-*Updated on 25 August 2025*
+*Updated on 28 August 2025*
 
 | Delegated | Person | List on WCA |
 | ---: | :--- | :--: |

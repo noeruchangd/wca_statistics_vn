@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 25 August 2025*
+*Updated on 28 August 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -34,6 +34,8 @@
 | 12 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) |
 | 12 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 12 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
+| 12 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
+| 12 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 11 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |
 | 11 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
 | 11 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) |
@@ -41,13 +43,12 @@
 | 11 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) |
 | 11 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 11 | [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) |
-| 11 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |
-| 11 | [Szymon Plesniak](https://www.worldcubeassociation.org/persons/2024PLES01) |
 | 11 | [Alexander Gacek](https://www.worldcubeassociation.org/persons/2024GACE01) |
 | 10 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 10 | [Rafał Studnicki](https://www.worldcubeassociation.org/persons/2005STUD01) |
 | 10 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) |
 | 10 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) |
+| 10 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 10 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
 | 10 | [Adelina Ilnicki](https://www.worldcubeassociation.org/persons/2020ILNI01) |
 | 10 | [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) |
@@ -55,7 +56,6 @@
 | 9 | [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) |
 | 9 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) |
 | 9 | [Patryk Pałka](https://www.worldcubeassociation.org/persons/2017PALK01) |
-| 9 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 9 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 8 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
