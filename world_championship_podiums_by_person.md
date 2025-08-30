@@ -1,6 +1,6 @@
 ## World Championship podiums by person
 
-*Updated on 28 August 2025*
+*Updated on 29 August 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -13,7 +13,6 @@
 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | **1** | 0 | 1 | 2 |
 | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | **1** | 0 | 1 | 2 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | **1** | 0 | 1 | 2 |
-| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **1** | 0 | 0 | 1 |
 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | **1** | 0 | 0 | 1 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | **1** | 0 | 0 | 1 |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | **1** | 0 | 0 | 1 |
@@ -28,6 +27,7 @@
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | **0** | 1 | 0 | 1 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | **0** | 1 | 0 | 1 |
 | [Tomasz Kiedrowicz](https://www.worldcubeassociation.org/persons/2006KIED01) | **0** | 1 | 0 | 1 |
+| [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | **0** | 0 | 1 | 1 |
 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | **0** | 0 | 1 | 1 |
 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | **0** | 0 | 1 | 1 |
 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) | **0** | 0 | 1 | 1 |

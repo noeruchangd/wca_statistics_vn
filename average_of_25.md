@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 28 August 2025*
+*Updated on 29 August 2025*
 
 
 ### Rubik's Cube
@@ -169,7 +169,7 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 3.10 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.91, 2.47, 4.72, 10.02, 3.94, 2.69, 3.50, 3.93, 2.55, 3.38, 2.95, 2.99, 3.27, 2.96, 2.65, 2.66, 3.20, 3.20, 2.69, 2.95, 2.82, 3.04, 2.59, 3.78, 2.97 |
-| 3.25 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.66, 3.14, 3.96, 2.73, 2.54, 8.88, 3.33, 3.46, 4.14, 3.36, DNF, 3.21, 3.32, 2.95, 2.59, 2.78, 3.12, 5.68, 2.56, 2.56, 2.65, 3.96, 3.51, 2.54, 2.61 |
+| 3.43 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 3.86, 3.84, 2.39, 4.00, 4.29, 2.46, 2.78, 3.05, 3.24, 3.67, 2.56, 3.05, 4.20, 5.04, 2.80, 2.98, 5.32, 3.68, 3.09, 3.97, 3.05, 3.55, 4.44, 2.92, 3.01 |
 | 3.60 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 2.54, 2.83, 3.63, 3.02, 3.11, 3.87, 7.55, DNF, 3.50, 3.24, 3.56, 4.85, 2.69, 4.84, 3.10, 4.73, 4.24, 3.44, 4.33, 3.06, 2.41, 3.49, 3.92, 3.18, 2.88 |
 | 3.76 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 3.01, 4.05, 2.74, 3.60, 3.83, 3.22, 3.46, 3.25, 3.02, 3.46, 6.17, 4.02, 4.38, 3.61, 3.91, 3.56, 3.16, 5.14, 3.05, 5.74, 4.01, 3.71, 4.51, 4.00, 3.94 |
 | 3.89 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 3.81, 3.70, 3.71, 3.81, 3.82, 3.40, 4.11, 4.23, 3.35, 3.85, 5.47, 4.32, 3.43, 3.78, 3.59, 3.64, 4.22, 3.58, 4.65, 4.42, 8.15, 3.88, 3.71, 3.84, 3.63 |
