@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### Rubik's Cube
@@ -199,9 +199,9 @@
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
 | 6.24 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 6.48, 4.66, 6.32, 6.15, 9.85, 6.38, 6.16, 7.20, 6.73, 6.05, 7.09, 6.49, 6.31, 6.86, 4.57, 6.17, 5.91, 6.49, 6.41, 5.42, 5.88, 6.84, 5.56, 5.95, 5.36 |
-| 7.64 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 6.61, 9.13, 6.68, 8.08, 6.84, 8.07, 6.62, 7.92, 8.65, 6.79, 7.04, 9.09, 11.28, 7.60, 7.77, 7.49, 10.22, 8.08, 6.71, 6.82, 6.40, 8.79, 6.94, 7.28, 8.02 |
+| 7.55 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 7.05, 7.98, 6.68, 6.71, 8.21, 10.24, 8.88, 8.17, 6.95, 7.04, 7.61, 8.26, 7.51, 7.11, 6.18, 5.35, 6.79, 9.28, 7.55, 8.60, 9.16, 5.71, 6.82, 8.82, 6.56 |
 | 7.76 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 8.52, 4.77, 7.41, 8.18, 8.24, 11.94, 7.45, 6.97, 9.34, 7.48, 7.41, 5.43, 5.85, 10.07, 6.13, 6.73, 10.13, 6.22, 7.28, 7.33, 11.12, 7.78, 11.78, 6.98, 6.26 |
-| 8.41 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 8.15, 8.38, 8.21, 7.56, 8.74, 8.88, 8.04, 9.17, 9.07, 6.99, 8.99, 10.03, DNF, 8.37, 11.03, 9.66, 7.46, 7.33, 8.26, 8.40, 7.26, 7.35, 8.58, 8.62, 6.17 |
+| 8.36 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 8.21, 7.56, 8.74, 8.88, 8.04, 9.17, 9.07, 6.99, 8.99, 10.03, DNF, 8.37, 11.03, 9.66, 7.46, 7.33, 8.26, 8.40, 7.26, 7.35, 8.58, 8.62, 6.17, 8.68, 6.91 |
 | 8.49 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.43, 9.84, 7.94, 7.99, 8.39, 7.10, 7.86, 12.04, 12.68, 8.71, 12.52, 7.73, 10.46, 6.41, 6.36, 9.11, 8.49, 8.78, 7.07, 9.83, 8.89, 8.28, 8.62, 7.16, 7.57 |
 | 8.83 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 7.27, 10.89, 8.62, 33.35, 8.36, 8.50, 8.92, 8.49, 9.34, 8.50, 9.52, 8.95, 8.61, 26.10, 8.16, 9.29, 10.01, 8.49, 8.95, 8.18, 6.68, 8.47, 8.53, 8.38, 8.35 |
 | 8.89 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 6.53, 6.99, 7.38, 10.50, 11.47, 7.62, 7.43, 8.52, 9.27, 21.19, 9.74, 8.25, 7.96, 15.38, 8.40, 11.51, 7.27, 14.95, 6.89, 6.99, 7.39, 7.89, 10.80, 8.00, 8.40 |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### Rubik's Cube
@@ -244,9 +244,9 @@
 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 20 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 12 |
 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 8 |
+| [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 5 |
 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 4 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 4 |
-| [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | 4 |
 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 3 |
 | [Filip Pasławski](https://www.worldcubeassociation.org/persons/2013PASA01) | 2 |
 | [Bartłomiej Sordyl](https://www.worldcubeassociation.org/persons/2014SORD01) | 2 |

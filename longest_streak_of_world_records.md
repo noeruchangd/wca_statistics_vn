@@ -1,13 +1,13 @@
 ## Longest streak of world records of the same type in the given event
 
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
 | 8 | 3x3x3 Multi-Blind | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Silesia Open 2012](https://www.worldcubeassociation.org/competitions/SilesiaOpen2012) |  | 13.17 |
-| 7 | 7x7x7 Cube | Single | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009) |  | 16.52 |
-| 5 | 6x6x6 Cube | Average | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009) |  | 16.52 |
-| 5 | 7x7x7 Cube | Average | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009) |  | 16.52 |
+| 7 | 7x7x7 Cube | Single | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009) |  | 16.53 |
+| 5 | 6x6x6 Cube | Average | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009) |  | 16.53 |
+| 5 | 7x7x7 Cube | Average | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009) |  | 16.53 |
 | 5 | Pyraminx | Average | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Pabianice Open 2008](https://www.worldcubeassociation.org/competitions/PabianiceOpen2008) | 1.65 |
 | 4 | 2x2x2 Cube | Average | [Łukasz Ciałoń](https://www.worldcubeassociation.org/persons/2005CIAL02) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Warsaw Cube Masters 2018](https://www.worldcubeassociation.org/competitions/WarsawCubeMasters2018) | 11.44 |
 | 4 | 3x3x3 Blindfolded | Average | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013) |  | 11.81 |
@@ -19,13 +19,13 @@
 | 3 | Square-1 | Single | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | [Czech Open 2009](https://www.worldcubeassociation.org/competitions/CzechOpen2009) | [Olsztyn Squared 2023](https://www.worldcubeassociation.org/competitions/OlsztynSquared2023) | 13.57 |
 | 2 | Rubik's Cube | Average | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | [Warsaw Open 2009](https://www.worldcubeassociation.org/competitions/WarsawOpen2009) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) | 12.71 |
 | 2 | Rubik's Cube | Average | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Cubers Eve Lubartów 2021](https://www.worldcubeassociation.org/competitions/CubersEveLubartow2021) |  | 3.70 |
-| 2 | 5x5x5 Cube | Single | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024) |  | 0.92 |
-| 2 | 6x6x6 Cube | Single | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009) |  | 16.52 |
-| 2 | 3x3x3 Blindfolded | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) |  | 11.02 |
+| 2 | 5x5x5 Cube | Single | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [DuPage Fall 2024](https://www.worldcubeassociation.org/competitions/DuPageFall2024) |  | 0.93 |
+| 2 | 6x6x6 Cube | Single | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009) |  | 16.53 |
+| 2 | 3x3x3 Blindfolded | Single | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | [Bydgoszcz Summer 2014](https://www.worldcubeassociation.org/competitions/BydgoszczSummer2014) |  | 11.03 |
 | 2 | 3x3x3 Fewest Moves | Average | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024) |  | 0.77 |
 | 2 | Pyraminx | Single | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | [Polish Open 2006](https://www.worldcubeassociation.org/competitions/PolishOpen2006) | [Gdansk Open 2008](https://www.worldcubeassociation.org/competitions/GdanskOpen2008) | 1.44 |
 | 2 | Pyraminx | Single | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | [LLS IV 2018](https://www.worldcubeassociation.org/competitions/LLSIV2018) |  | 7.36 |
-| 2 | Rubik's Clock | Single | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024) |  | 1.36 |
+| 2 | Rubik's Clock | Single | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | [Cube4fun Lublin on WEII 2024](https://www.worldcubeassociation.org/competitions/Cube4funLublinonWEII2024) |  | 1.37 |
 | 2 | Skewb | Single | [Jonatan Kłosko](https://www.worldcubeassociation.org/persons/2013KOSK01) | [Kielce Cube Attack 2014](https://www.worldcubeassociation.org/competitions/KielceCubeAttack2014) | [Masovian Open 2015](https://www.worldcubeassociation.org/competitions/MasovianOpen2015) | 1.17 |
 | 2 | Skewb | Average | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | [GLS Cup II 2016](https://www.worldcubeassociation.org/competitions/GLSCupII2016) | [Elektryk Cube Race 2016](https://www.worldcubeassociation.org/competitions/ElektrykCubeRace2016) | 0.48 |
 | 2 | Square-1 | Average | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | [Wroclaw Open 2007](https://www.worldcubeassociation.org/competitions/WroclawOpen2007) | [Bialystok Open 2010](https://www.worldcubeassociation.org/competitions/BialystokOpen2010) | 2.89 |

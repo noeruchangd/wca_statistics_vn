@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### Rubik's Cube
@@ -204,10 +204,10 @@
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
 | 5.98 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4.57, 6.17, 5.91, 6.49, 6.41, 5.42, 5.88, 6.84, 5.56, 5.95, 5.36, 6.64 |
+| 7.32 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 8.17, 6.95, 7.04, 7.61, 8.26, 7.51, 7.11, 6.18, 5.35, 6.79, 9.28, 7.55 |
 | 7.35 | [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 6.97, 9.34, 7.48, 7.41, 5.43, 5.85, 10.07, 6.13, 6.73, 10.13, 6.22, 7.28 |
-| 7.45 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 10.24, 8.88, 8.17, 6.95, 7.04, 7.61, 8.26, 7.51, 7.11, 6.18, 5.35, 6.79 |
+| 7.89 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 9.66, 7.46, 7.33, 8.26, 8.40, 7.26, 7.35, 8.58, 8.62, 6.17, 8.68, 6.91 |
 | 7.95 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) | 6.47, 6.65, DNF, 6.42, 7.91, 8.64, 9.06, 5.81, 10.00, 8.29, 9.28, 6.77 |
-| 8.13 | [Maksym Wingert](https://www.worldcubeassociation.org/persons/2024WING02) | 8.37, 11.03, 9.66, 7.46, 7.33, 8.26, 8.40, 7.26, 7.35, 8.58, 8.62, 6.17 |
 | 8.32 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 9.38, 9.83, 8.15, 8.86, 13.56, 7.79, 7.10, 8.15, 7.61, 8.61, 6.85, 7.70 |
 | 8.39 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 7.28, 8.61, 8.25, 8.96, 6.23, 8.07, 10.92, 16.06, 7.02, 8.18, 8.96, 7.65 |
 | 8.44 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) | 7.37, 7.71, 7.49, 8.75, 6.89, 11.54, 7.83, 8.31, 9.01, 8.90, 10.00, 9.01 |

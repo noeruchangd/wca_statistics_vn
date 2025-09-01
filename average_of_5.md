@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### Rubik's Cube
@@ -192,8 +192,8 @@
 | 1.63 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 1.52, 1.69, 1.69, 2.28, 1.52 |
 | 1.65 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.72, 1.71, 1.52, 3.51, 1.44 |
 | 1.72 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 1.75, 1.24, 1.52, 1.93, 1.89 |
+| 1.74 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 1.86, 1.66, 2.14, 1.66, 1.71 |
 | 1.79 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 1.71, 3.96, 2.08, 1.29, 1.59 |
-| 1.80 | [Michał Denkiewicz](https://www.worldcubeassociation.org/persons/2021DENK01) | 2.07, 2.78, 1.87, 1.46, 1.21 |
 | 1.85 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 1.59, 2.25, 3.75, 1.71, 1.21 |
 | 1.96 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 1.91, 1.85, 3.47, 2.13, 0.88 |
 | 1.97 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 2.50, 2.33, 1.82, 1.77, 1.72 |

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 
 ### Rubik's Cube
@@ -128,6 +128,7 @@
 | Counting | Peson | Competition |
 | ---: | :--- | :--- |
 | 1.22 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/by_person#2022SAMS03) |
+| 1.23 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025/results/by_person#2022SAMS03) |
 | 1.39 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | [Polish Championship 2022](https://www.worldcubeassociation.org/competitions/PolishChampionship2022/results/by_person#2013KRAS02) |
 | 1.41 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | [Gdańska Liga Speedcubingu I 2025](https://www.worldcubeassociation.org/competitions/GdanskaLigaSpeedcubinguI2025/results/by_person#2018MACH04) |
 | 1.41 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Szansa Cubing Open Warsaw 2024](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2024/results/by_person#2022SAMS03) |
@@ -135,8 +136,7 @@
 | 1.46 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | [Cube4fun Bełżyce 2023](https://www.worldcubeassociation.org/competitions/Cube4funBelzyceMultiEvents2023/results/by_person#2013BURL01) |
 | 1.46 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2018HANU02) |
 | 1.46 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [CFL Justynów 2025](https://www.worldcubeassociation.org/competitions/CFLJustynow2025/results/by_person#2022SAMS03) |
-| 1.52 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Cube4fun Lublin Holidays 2025](https://www.worldcubeassociation.org/competitions/Cube4funLublinHolidays2025/results/by_person#2018HANU02) |
-| 1.52 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) | [Siedlce Open 2024](https://www.worldcubeassociation.org/competitions/SiedlceOpen2024/results/by_person#2021KULA02) |
+| 1.46 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | [Megaminx Fiesta Augustów 2025](https://www.worldcubeassociation.org/competitions/MegaminxFiestaAugustow2025/results/by_person#2022SAMS03) |
 
 ### Square-1
 

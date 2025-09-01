@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 31 August 2025*
+*Updated on  1 September 2025*
 
 | Competitions | Person | Started at | Ended at |
 | ---: | :--- | :--- | :--- |
@@ -37,10 +37,10 @@
 | 33 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017) | [GLS IV 2023](https://www.worldcubeassociation.org/competitions/GLSIV2023) |
 | 33 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | [BrizZon Side Open 2021](https://www.worldcubeassociation.org/competitions/BrizZonSideOpen2021) | [Szansa Cubing Open Warsaw 2023](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2023) |
 | 33 | [Ada Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD01) | [Szczytno Open 2021](https://www.worldcubeassociation.org/competitions/SzczytnoOpen2021) | [Cube Factory Brzeziny 2024](https://www.worldcubeassociation.org/competitions/CubeFactoryBrzeziny2024) |
+| 33 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [German Mini Open B 2021](https://www.worldcubeassociation.org/competitions/GermanMiniOpenB2021) |  |
 | 33 | [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | [UPP Poznań Cubing 2022](https://www.worldcubeassociation.org/competitions/UPPPoznanCubing2022) | [Olsztyn Open 2024](https://www.worldcubeassociation.org/competitions/OlsztynOpen2024) |
 | 32 | [Jan Zych](https://www.worldcubeassociation.org/persons/2014ZYCH01) | [SLS Chorzow 2014](https://www.worldcubeassociation.org/competitions/SLSChorzow2014) | [DLS Wrzesień 2017](https://www.worldcubeassociation.org/competitions/DLSWrzesien2017) |
 | 32 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018) | [Dragon Cubing II 2023](https://www.worldcubeassociation.org/competitions/DragonCubingII2023) |
-| 32 | [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | [German Mini Open B 2021](https://www.worldcubeassociation.org/competitions/GermanMiniOpenB2021) |  |
 | 31 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | [Olsztyn Open 2017](https://www.worldcubeassociation.org/competitions/OlsztynOpen2017) | [Szansa Cubing Open Warsaw 2023](https://www.worldcubeassociation.org/competitions/SzansaCubingOpenWarsaw2023) |
 | 31 | [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | [Wrocław Open 2019](https://www.worldcubeassociation.org/competitions/WroclawOpen2019) |  |
 | 30 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) | [Polish Nationals 2012](https://www.worldcubeassociation.org/competitions/PolishNationals2012) | [GLS Cup I 2018](https://www.worldcubeassociation.org/competitions/GLSCupI2018) |
