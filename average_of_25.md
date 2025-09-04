@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 September 2025*
+*Updated on  4 September 2025*
 
 
 ### Rubik's Cube
@@ -123,9 +123,9 @@
 
 | Ao25 | Person | Times |
 | ---: | :--- | :--- |
+| 10.14 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 12.04, 12.19, 12.19, 11.86, 9.89, 9.93, 10.29, 8.83, 9.77, 10.45, 9.54, 9.63, 9.61, 17.18, 9.63, 8.85, 9.78, 9.18, 9.53, 12.39, 10.34, 9.43, 9.55, 9.30, 8.79 |
 | 10.18 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 10.82, 8.64, 9.36, 10.54, 10.11, 9.20, 10.16, 9.30, 7.66, 9.96, 11.41, 12.38, 13.36, 11.27, 7.76, 10.83, 8.52, 11.33, 10.52, 11.54, 10.92, 12.15, 9.65, 8.45, 9.00 |
 | 10.41 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 9.81, 11.80, 9.59, 10.38, 11.00, 10.67, 11.25, 10.32, 9.33, 9.80, 10.54, 8.19, 12.73, 10.75, 9.03, 8.82, 10.79, 9.49, 12.29, 10.59, 10.33, 9.79, 11.10, 12.36, 9.90 |
-| 10.41 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 11.67, 10.04, 9.38, 9.60, 12.23, 8.73, 11.97, 13.44, 9.45, 9.98, 9.41, 9.73, 12.04, 12.19, 12.19, 11.86, 9.89, 9.93, 10.29, 8.83, 9.77, 10.45, 9.54, 9.63, 9.61 |
 | 10.48 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 9.73, 8.23, 11.61, 13.54, 11.65, 10.71, 9.24, 11.49, 11.61, 13.84, 10.36, 8.29, 8.00, 10.78, 11.57, 9.81, 8.26, 10.27, 12.48, 10.72, 10.15, 11.60, 8.46, 11.88, 9.38 |
 | 11.61 | [Kajetan Opach](https://www.worldcubeassociation.org/persons/2018OPAC01) | 11.37, 10.25, 14.63, 12.75, 12.34, 8.90, 12.27, 12.24, 12.01, 11.35, 10.70, 14.12, 12.38, 11.26, 11.93, 10.61, 12.25, 11.85, 10.00, 10.98, 11.98, 12.28, 8.41, 17.63, 8.98 |
 | 11.62 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | 12.27, 12.32, 10.72, 12.37, 12.51, 11.53, 14.13, 10.72, 11.89, 11.64, 10.90, 11.20, 11.39, 18.66, 12.42, 10.59, 10.94, 9.73, 16.98, 10.36, 12.03, 9.34, 11.55, 8.15, 12.86 |

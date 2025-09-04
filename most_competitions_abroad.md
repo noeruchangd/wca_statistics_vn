@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 September 2025*
+*Updated on  4 September 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -123,6 +123,7 @@
 | 5 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) |
 | 5 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
 | 5 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |
+| 5 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 5 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) |
 | 5 | [Marcin Chudy](https://www.worldcubeassociation.org/persons/2022CHUD03) |
 | 5 | [Witold Wesołowski](https://www.worldcubeassociation.org/persons/2022WESO01) |
