@@ -7,7 +7,7 @@
 | 125 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 74 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 61 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
-| 54 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
+| 55 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 40 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 35 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 30 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) |
@@ -61,6 +61,7 @@
 | 5 | [Hubert Firek](https://www.worldcubeassociation.org/persons/2015FIRE01) |
 | 5 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 5 | [Tomasz Stawowy](https://www.worldcubeassociation.org/persons/2021STAW01) |
+| 5 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
 | 5 | [Michał Robaczyk](https://www.worldcubeassociation.org/persons/2006ROBA01) |
 | 4 | [Krzysztof Kuncki](https://www.worldcubeassociation.org/persons/2010KUNC01) |
 | 4 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) |
@@ -72,7 +73,6 @@
 | 4 | [Majk Tomas](https://www.worldcubeassociation.org/persons/2022TOMA05) |
 | 4 | [Maksymilian Januszewski](https://www.worldcubeassociation.org/persons/2022JANU01) |
 | 4 | [Klaudia Milewczyk](https://www.worldcubeassociation.org/persons/2022MILE05) |
-| 4 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
 | 3 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) |
 | 3 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 3 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
