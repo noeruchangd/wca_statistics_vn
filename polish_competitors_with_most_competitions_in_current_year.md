@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  4 September 2025*
+*Updated on  7 September 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -8,7 +8,7 @@
 | 38 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 34 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 34 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
-| 28 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
+| 29 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 26 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 26 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 25 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) |
@@ -38,12 +38,12 @@
 | 15 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 15 | [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) |
 | 15 | [Robert Ślesicki](https://www.worldcubeassociation.org/persons/2019SLES02) |
+| 15 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 15 | [Igor Łabędź](https://www.worldcubeassociation.org/persons/2021LABE01) |
 | 15 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) |
 | 15 | [Martyna Jarosz](https://www.worldcubeassociation.org/persons/2022JARO01) |
 | 15 | [Konrad Matyszek](https://www.worldcubeassociation.org/persons/2022MATY02) |
 | 15 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) |
-| 14 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 14 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) |
 | 14 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 14 | [Stefan Zajder](https://www.worldcubeassociation.org/persons/2021ZAJD02) |
@@ -53,6 +53,7 @@
 | 14 | [Marcin Chmielewski](https://www.worldcubeassociation.org/persons/2023CHMI01) |
 | 13 | [Szymon Ruksza](https://www.worldcubeassociation.org/persons/2013RUKS01) |
 | 13 | [Stanisław Szyszka](https://www.worldcubeassociation.org/persons/2016SZYS02) |
+| 13 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 13 | [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) |
 | 13 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
 | 13 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
@@ -63,7 +64,6 @@
 | 12 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) |
 | 12 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) |
 | 12 | [Piotr Melczewski](https://www.worldcubeassociation.org/persons/2019MELC02) |
-| 12 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 12 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) |
 | 12 | [Jakub Majchrzak](https://www.worldcubeassociation.org/persons/2021MAJC01) |
 | 12 | [Ignacy Malinowski](https://www.worldcubeassociation.org/persons/2021MALI02) |

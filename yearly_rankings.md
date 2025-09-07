@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 September 2025*
+*Updated on  7 September 2025*
 
 
 ### Rubik's Cube - Single
@@ -459,7 +459,7 @@
 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | **9:53.73** |  | [Silesian Minx Fest 2025](https://www.worldcubeassociation.org/competitions/SilesianMinxFest2025) | DNF, 13:19.00, 9:53.73 |
 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | **11:26.00** |  | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025) | DNF, 11:26.00, 12:40.00 |
 | [Dominik Kobinski](https://www.worldcubeassociation.org/persons/2019KOBI01) | **11:50.00** |  | [CFL Rogów Summer 2025](https://www.worldcubeassociation.org/competitions/CFLRogowSummer2025) | 11:50.00, DNF, DNS |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **17:15.00** |  | [HIT - Waimea 2025](https://www.worldcubeassociation.org/competitions/HawaiianIslandTourWaimea2025) | 17:15.00, DNF, DNF |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | **17:13.00** |  | [Kārķi Open 2025](https://www.worldcubeassociation.org/competitions/KarkiOpen2025) | DNF, 17:13.00, 21:39.00 |
 | [Ignacy Ostrowski](https://www.worldcubeassociation.org/persons/2025OSTR01) | **18:26.00** |  | [CF Sideways Brzeziny II 2025](https://www.worldcubeassociation.org/competitions/CFSidewaysBrzezinyII2025) | DNF, 18:26.00, DNF |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **18:49.00** |  | [BrizZon Side Open II 2025](https://www.worldcubeassociation.org/competitions/BrizZonSideOpenII2025) | 18:49.00, DNF, DNF |
 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | **21:48.00** |  | [CFL Rogów Summer 2025](https://www.worldcubeassociation.org/competitions/CFLRogowSummer2025) | 21:48.00, DNS, DNS |

@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 September 2025*
+*Updated on  7 September 2025*
 
 
 ### Rubik's Cube
@@ -189,7 +189,7 @@
 | 2.28 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1.80, 1.63, 25.93, 1.74, 2.27, 2.39, 1.84, 2.97, 2.28, 2.49, 2.03, 1.71, 1.73, 2.49, 3.21, 2.24, 1.97, 2.55, 1.77, 2.65, 2.22, 7.12, 3.87, 1.05, 1.54 |
 | 2.42 | [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 3.24, 3.06, 1.88, 1.89, 1.93, 2.25, 2.33, 1.85, 2.20, 1.59, 3.84, DNF, 1.84, 2.40, 2.19, 2.73, 2.77, 2.72, 2.26, 3.24, 2.09, 3.46, 1.75, 1.54, 2.82 |
 | 2.46 | [Szymon Brągiel](https://www.worldcubeassociation.org/persons/2022BRAG03) | 2.49, 2.01, 1.59, 6.03, 2.65, 3.06, 2.68, 2.39, 1.62, 1.56, DNF, 2.71, 2.72, 3.13, 2.60, 2.01, 1.75, 3.60, 1.87, 2.20, 2.47, 3.13, 2.91, 2.02, 1.42 |
-| 2.58 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.76, 3.10, 2.14, 2.23, 2.25, 2.65, 2.25, 2.37, 3.65, 2.15, 2.33, 5.15, 1.99, 2.51, 2.61, 4.38, 1.66, 1.69, 2.91, 3.87, 2.73, 2.02, 2.60, 2.44, 2.68 |
+| 2.49 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) | 2.09, 2.06, 4.09, 2.40, 3.87, 1.90, 1.83, 1.97, 2.50, 3.23, 2.58, 2.84, 2.15, 2.91, 3.03, 4.29, 2.77, 2.26, 1.93, 1.57, 2.41, 3.41, 1.71, 2.13, 1.94 |
 | 2.62 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 2.61, 2.18, 2.31, 3.58, 2.30, 2.25, 2.55, 1.90, 2.01, 2.42, 2.61, 2.91, 2.78, 2.69, 2.96, 2.56, 2.82, 2.76, 2.46, 3.11, 1.52, 3.16, 5.09, 2.77, 2.75 |
 | 2.64 | [Michał Rzewuski](https://www.worldcubeassociation.org/persons/2014RZEW01) | 2.59, 2.43, 2.64, 2.79, 2.19, 4.69, 2.29, 3.07, DNF, 2.02, 2.26, 2.36, 3.08, 2.41, 2.70, 2.89, 2.96, 2.04, 2.66, 3.80, 2.26, 2.50, 3.21, 2.29, 2.03 |
 | 2.68 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 1.75, 2.11, 2.31, 2.37, 2.46, 2.40, 2.28, 3.16, 2.28, 2.99, 2.36, 3.59, 2.47, 2.66, 3.15, 2.24, 4.90, 2.64, 2.15, 2.50, 3.63, 3.16, 2.30, 5.58, 3.10 |
