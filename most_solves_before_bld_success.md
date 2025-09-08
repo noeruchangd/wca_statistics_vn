@@ -76,7 +76,7 @@
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Łukasz Gondek](https://www.worldcubeassociation.org/persons/2017GOND01) |
 | 2 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
-| 2 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
+| 2 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 
 ### 3x3x3 Multi-Blind
 
