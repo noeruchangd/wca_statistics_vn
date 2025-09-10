@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  7 September 2025*
+*Updated on 10 September 2025*
 
 
 ### Rubik's Cube
@@ -111,14 +111,14 @@
 | ---: | :--- |
 | 26.67 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
 | 31.33 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) |
+| 31.33 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) |
 | 33.00 | [Witold Kordos](https://www.worldcubeassociation.org/persons/2016KORD01) |
 | 34.33 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) |
 | 34.33 | [Adam Kędziorski](https://www.worldcubeassociation.org/persons/2019KEDZ01) |
 | 35.00 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) |
 | 35.33 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) |
+| 35.33 | [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) |
 | 36.00 | [Dawid Kmak](https://www.worldcubeassociation.org/persons/2014KMAK01) |
-| 36.33 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) |
-| 37.33 | [Michał Nikiel](https://www.worldcubeassociation.org/persons/2011NIKI01) |
 
 ### 3x3x3 One-Handed
 

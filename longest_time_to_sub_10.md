@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on  7 September 2025*
+*Updated on 10 September 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -65,8 +65,8 @@
 | [Adam Pietrzak](https://www.worldcubeassociation.org/persons/2018PIET03) | 4.52 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4.49 |
 | [Maciej Wróblewski](https://www.worldcubeassociation.org/persons/2015WROB01) | 4.45 |
-| [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 4.42 |
 | [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 4.42 |
+| [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 4.42 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4.35 |
 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) | 4.29 |
 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) | 4.24 |
@@ -81,8 +81,8 @@
 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 3.87 |
 | [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 3.85 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3.83 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3.76 |
 | [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
+| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3.76 |
 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 3.70 |
 | [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 3.70 |
 | [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 3.62 |

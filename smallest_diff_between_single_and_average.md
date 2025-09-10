@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 September 2025*
+*Updated on 10 September 2025*
 
 
 ### Rubik's Cube
@@ -53,6 +53,7 @@
 
 | Diff | Person | Single | Average | Results |
 | ---: | :--- | ---: | ---: | :--- |
+| 0.14 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) | 1:08.78 | 1:08.92 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/by_person#2013OWCZ01) |
 | 0.18 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 36.50 | 36.68 | [Flatåsen Open 2025](https://www.worldcubeassociation.org/competitions/FlatasenOpen2025/results/by_person#2016KOLA02) |
 | 0.24 | [Wiktor Syrytczyk](https://www.worldcubeassociation.org/persons/2022SYRY01) | 2:19.45 | 2:19.69 | [Weston-super-Mare Open 2022](https://www.worldcubeassociation.org/competitions/WestonsuperMareOpen2022/results/by_person#2022SYRY01) |
 | 0.31 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 39.89 | 40.20 | [Stevenage July 2023](https://www.worldcubeassociation.org/competitions/StevenageJuly2023/results/by_person#2016KOLA02) |
@@ -62,7 +63,6 @@
 | 0.43 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 1:46.38 | 1:46.81 | [Santa Claus Cube Race 2014](https://www.worldcubeassociation.org/competitions/SantaClausRace2014/results/by_person#2005ZOLN01) |
 | 0.44 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 35.94 | 36.38 | [Energy Cube Tomaszów 2025](https://www.worldcubeassociation.org/competitions/EnergyCubeTomaszowMazowiecki2025/results/by_person#2016KOLA02) |
 | 0.44 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 1:08.53 | 1:08.97 | [Polish Open 2017](https://www.worldcubeassociation.org/competitions/PolishOpen2017/results/by_person#2011KNOT01) |
-| 0.46 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 1:01.95 | 1:02.41 | [Dragon Cubing 2022](https://www.worldcubeassociation.org/competitions/DragonCubing2022/results/by_person#2021PIET01) |
 
 ### 6x6x6 Cube
 
@@ -77,7 +77,7 @@
 | 0.26 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 1:15.05 | 1:15.31 | [Irish Championship 2023](https://www.worldcubeassociation.org/competitions/IrishChampionship2023/results/by_person#2016KOLA02) |
 | 0.30 | [Stanisław Tochowicz](https://www.worldcubeassociation.org/persons/2023TOCH01) | 2:20.42 | 2:20.72 | [Cube4fun Wisła Masters 2024](https://www.worldcubeassociation.org/competitions/Cube4funWislaMasters2024/results/by_person#2023TOCH01) |
 | 0.37 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) | 1:52.21 | 1:52.58 | [Żory Open 2024](https://www.worldcubeassociation.org/competitions/ZoryOpen2024/results/by_person#2018HAMK01) |
-| 0.46 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) | 1:52.64 | 1:53.10 | [Mysłowice Big Cube Open 2022](https://www.worldcubeassociation.org/competitions/MyslowiceBigCubeOpen2022/results/by_person#2014ZAKR01) |
+| 0.39 | [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 2:05.61 | 2:06.00 | [Polish Open 2025](https://www.worldcubeassociation.org/competitions/PolishOpen2025/results/by_person#2014NOWI01) |
 
 ### 7x7x7 Cube
 

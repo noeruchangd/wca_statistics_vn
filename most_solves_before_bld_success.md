@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on  7 September 2025*
+*Updated on 10 September 2025*
 
 
 ### 3x3x3 Blindfolded
@@ -33,6 +33,7 @@
 | Attempts | Person |
 | ---: | :--- |
 | 24 | [Wojciech Rogoziński](https://www.worldcubeassociation.org/persons/2019ROGO04) |
+| 18 | [Maksymilian Kulas](https://www.worldcubeassociation.org/persons/2021KULA02) |
 | 16 | [Jakub Hamkało](https://www.worldcubeassociation.org/persons/2018HAMK01) |
 | 14 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 | 13 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
@@ -51,7 +52,6 @@
 | 6 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) |
 | 5 | [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) |
 | 5 | [Kamil Pomietło](https://www.worldcubeassociation.org/persons/2013POMI01) |
-| 5 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 
 ### 5x5x5 Blindfolded
 
@@ -76,7 +76,7 @@
 | 2 | [Grzegorz Jałocha](https://www.worldcubeassociation.org/persons/2012JALO01) |
 | 2 | [Łukasz Gondek](https://www.worldcubeassociation.org/persons/2017GOND01) |
 | 2 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) |
-| 2 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) |
+| 2 | [Mikołaj Morawski](https://www.worldcubeassociation.org/persons/2021MORA01) |
 
 ### 3x3x3 Multi-Blind
 
