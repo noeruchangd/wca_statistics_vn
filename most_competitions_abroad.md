@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -26,12 +26,12 @@
 | 14 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |
 | 14 | [Aleksander Bober](https://www.worldcubeassociation.org/persons/2022BOBE02) |
 | 14 | [Alex Myrus](https://www.worldcubeassociation.org/persons/2022MYRU01) |
+| 14 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 13 | [Wojciech Poljanowski](https://www.worldcubeassociation.org/persons/2010POLJ01) |
 | 13 | [Jakub Hibszer](https://www.worldcubeassociation.org/persons/2018HIBS01) |
 | 13 | [Kacper Górecki](https://www.worldcubeassociation.org/persons/2021GORE01) |
 | 13 | [Michał Kaczmarek](https://www.worldcubeassociation.org/persons/2021KACZ01) |
 | 13 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) |
-| 13 | [Naama Anbar](https://www.worldcubeassociation.org/persons/2023ANBA01) |
 | 12 | [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) |
 | 12 | [Nathaniel Bigaj](https://www.worldcubeassociation.org/persons/2019BIGA01) |
 | 12 | [Michal J. Sekulski](https://www.worldcubeassociation.org/persons/2023SEKU01) |

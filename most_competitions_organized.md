@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 | Organized | Person |
 | ---: | :--- |
@@ -23,9 +23,9 @@
 | 15 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 13 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) |
 | 13 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) |
+| 13 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 12 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) |
 | 12 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
-| 12 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 12 | [Dominika Warchoł](https://www.worldcubeassociation.org/persons/2021WARC01) |
 | 11 | [Bartłomiej Owczarek](https://www.worldcubeassociation.org/persons/2013OWCZ01) |
 | 11 | [Piotr Gabara](https://www.worldcubeassociation.org/persons/2024GABA02) |

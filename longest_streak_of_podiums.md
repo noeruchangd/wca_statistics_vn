@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 10 September 2025*
+*Updated on 13 September 2025*
 
 | Count | Person | Event | Started at | Ended at |
 | ---: | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@
 | 26 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | Skewb | [PST LLS Lublin 2019](https://www.worldcubeassociation.org/competitions/PSTLLSLublin2019) | [WCA European Championship 2022](https://www.worldcubeassociation.org/competitions/Euro2022) |
 | 26 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 5x5x5 Blindfolded | [Full Steps in Brest 2016](https://www.worldcubeassociation.org/competitions/FullStepsinBrest2016) |  |
 | 26 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | Pyraminx | [Project Zamość 2018](https://www.worldcubeassociation.org/competitions/ProjectZamosc2018) | [SST Kielce 2021](https://www.worldcubeassociation.org/competitions/SSTKielce2021) |
-| 25 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 3x3x3 Fewest Moves | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024) |  |
+| 26 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | 3x3x3 Fewest Moves | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024) |  |
 | 24 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7x7x7 Cube | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013) |
 | 24 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 4x4x4 Cube | [Warszawa Open 2012](https://www.worldcubeassociation.org/competitions/WarsawaOpen2012) | [Euro 2014](https://www.worldcubeassociation.org/competitions/Euro2014) |
 | 24 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 3x3x3 Cube | [Szczecin Summer 2023](https://www.worldcubeassociation.org/competitions/SzczecinSummer2023) | [WCA European Championship 2024](https://www.worldcubeassociation.org/competitions/Euro2024) |
