@@ -1,12 +1,13 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 13 September 2025*
+*Updated on 16 September 2025*
 
 
 ### 300 Competitions
 
 | Days | Person |
 | ---: | :--- |
+| 1849 | [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) |
 | 4012 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) |
 
 ### 250 Competitions
