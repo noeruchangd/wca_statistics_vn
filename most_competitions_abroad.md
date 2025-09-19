@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -132,6 +132,7 @@
 | 5 | [Pamela Szponder](https://www.worldcubeassociation.org/persons/2022SZPO01) |
 | 5 | [Marceli Wieczorek](https://www.worldcubeassociation.org/persons/2022WIEC03) |
 | 5 | [Jakub Pietroń](https://www.worldcubeassociation.org/persons/2023PIET02) |
+| 5 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 5 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) |
 | 5 | [Maksymilian Kurowski](https://www.worldcubeassociation.org/persons/2023KURO03) |
 | 5 | [Krystian Kalicki](https://www.worldcubeassociation.org/persons/2023KALI10) |

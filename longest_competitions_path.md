@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 | Person | Distance |
 | :--- | ---: |
@@ -420,6 +420,7 @@
 | [Mikołaj Salamon](https://www.worldcubeassociation.org/persons/2016SALA18) | 3 556 km |
 | [Adam Blicharski](https://www.worldcubeassociation.org/persons/2013BLIC01) | 3 542 km |
 | [Michał Dębski](https://www.worldcubeassociation.org/persons/2012DEBS01) | 3 533 km |
+| [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) | 3 517 km |
 | [Maksymilian Sysak](https://www.worldcubeassociation.org/persons/2024SYSA01) | 3 503 km |
 | [Bartłomiej Gołda](https://www.worldcubeassociation.org/persons/2015GODA01) | 3 499 km |
 | [Bartłomiej Lewandowski](https://www.worldcubeassociation.org/persons/2013LEWA01) | 3 472 km |
@@ -434,7 +435,6 @@
 | [Tobiasz Rychlik](https://www.worldcubeassociation.org/persons/2016RYCH01) | 3 401 km |
 | [Nikodem Olik](https://www.worldcubeassociation.org/persons/2024OLIK01) | 3 400 km |
 | [Kazimierz Cieślak](https://www.worldcubeassociation.org/persons/2023CIES01) | 3 384 km |
-| [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) | 3 375 km |
 | [Mateusz Śliż](https://www.worldcubeassociation.org/persons/2012SLIZ01) | 3 365 km |
 | [Kazimierz Cywiński](https://www.worldcubeassociation.org/persons/2022CYWI01) | 3 355 km |
 | [Wojciech Poljanowski](https://www.worldcubeassociation.org/persons/2010POLJ01) | 3 346 km |

@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 16 September 2025*
+*Updated on 19 September 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -182,6 +182,7 @@
 | 7 | [Franciszek Dąbrowski](https://www.worldcubeassociation.org/persons/2023DABR03) |
 | 7 | [Paweł Dominiczak](https://www.worldcubeassociation.org/persons/2023DOMI21) |
 | 7 | [Oskar Gralec](https://www.worldcubeassociation.org/persons/2023GRAL01) |
+| 7 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 7 | [Bartosz Kramkowski](https://www.worldcubeassociation.org/persons/2023KRAM02) |
 | 7 | [Mikołaj Mikołajczyk](https://www.worldcubeassociation.org/persons/2023MIKO02) |
 | 7 | [Michał Selwesiuk](https://www.worldcubeassociation.org/persons/2023SELW01) |
@@ -217,7 +218,6 @@
 | 6 | [Gustaw Rejent](https://www.worldcubeassociation.org/persons/2022REJE02) |
 | 6 | [Bartosz Brudnicki](https://www.worldcubeassociation.org/persons/2023BRUD01) |
 | 6 | [Kacper Grygorewicz](https://www.worldcubeassociation.org/persons/2023GRYG01) |
-| 6 | [Marcin Karczmarz](https://www.worldcubeassociation.org/persons/2023KARC01) |
 | 6 | [Patrick Koprek](https://www.worldcubeassociation.org/persons/2023KOPR03) |
 | 6 | [Artur Kubicki](https://www.worldcubeassociation.org/persons/2023KUBI02) |
 | 6 | [Karol Seitz](https://www.worldcubeassociation.org/persons/2023SEIT02) |
