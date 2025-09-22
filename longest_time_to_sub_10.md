@@ -1,6 +1,6 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 | Person | Years |
 | :--- | ---: |
@@ -65,8 +65,8 @@
 | [Adam Pietrzak](https://www.worldcubeassociation.org/persons/2018PIET03) | 4.52 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4.49 |
 | [Maciej Wróblewski](https://www.worldcubeassociation.org/persons/2015WROB01) | 4.45 |
-| [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 4.42 |
 | [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 4.42 |
+| [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 4.42 |
 | [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4.35 |
 | [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) | 4.29 |
 | [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) | 4.24 |
@@ -100,8 +100,8 @@
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 3.26 |
 | [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 3.24 |
 | [Łukasz Kurowski](https://www.worldcubeassociation.org/persons/2022KURO01) | 3.24 |
-| [Gracjan Paciorkowski](https://www.worldcubeassociation.org/persons/2021PACI01) | 3.22 |
 | [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) | 3.22 |
+| [Gracjan Paciorkowski](https://www.worldcubeassociation.org/persons/2021PACI01) | 3.22 |
 | [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | 3.16 |
 | [Szymon Myśliński](https://www.worldcubeassociation.org/persons/2019MYSL01) | 3.09 |
 

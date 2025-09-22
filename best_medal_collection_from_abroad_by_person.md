@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -19,8 +19,8 @@
 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | **12** | 4 | 8 | 24 |
 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | **11** | 20 | 11 | 42 |
 | [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | **11** | 4 | 4 | 19 |
+| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **11** | 4 | 3 | 18 |
 | [Rafał Guzewicz](https://www.worldcubeassociation.org/persons/2006GUZE01) | **11** | 3 | 0 | 14 |
-| [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | **10** | 4 | 3 | 17 |
 | [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | **10** | 3 | 5 | 18 |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | **9** | 11 | 11 | 31 |
 | [Grzegorz Łuczyna](https://www.worldcubeassociation.org/persons/2005LUCZ01) | **9** | 3 | 2 | 14 |
@@ -77,18 +77,19 @@
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | **2** | 0 | 0 | 2 |
 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | **2** | 0 | 0 | 2 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | **2** | 0 | 0 | 2 |
-| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **1** | 5 | 7 | 13 |
+| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **1** | 5 | 8 | 14 |
 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **1** | 5 | 1 | 7 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **1** | 4 | 6 | 11 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | **1** | 4 | 1 | 6 |
+| [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | **1** | 3 | 5 | 9 |
 | [Arkadiusz Abramowski](https://www.worldcubeassociation.org/persons/2014ABRA01) | **1** | 3 | 4 | 8 |
-| [Marcel Borkowski](https://www.worldcubeassociation.org/persons/2023BORK01) | **1** | 2 | 5 | 8 |
 | [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) | **1** | 2 | 2 | 5 |
+| [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | **1** | 2 | 2 | 5 |
 | [Filip Chudy](https://www.worldcubeassociation.org/persons/2022CHUD02) | **1** | 2 | 1 | 4 |
-| [Liam Stuart Ferreira](https://www.worldcubeassociation.org/persons/2022FERR14) | **1** | 1 | 2 | 4 |
 | [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | **1** | 1 | 2 | 4 |
 | [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | **1** | 1 | 0 | 2 |
 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) | **1** | 1 | 0 | 2 |
+| [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **1** | 1 | 0 | 2 |
 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) | **1** | 1 | 0 | 2 |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | **1** | 1 | 0 | 2 |
 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) | **1** | 1 | 0 | 2 |
@@ -101,7 +102,6 @@
 | [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | **1** | 0 | 1 | 2 |
 | [Maksymilian Majcher](https://www.worldcubeassociation.org/persons/2011MAJC01) | **1** | 0 | 1 | 2 |
 | [Michał Machnik](https://www.worldcubeassociation.org/persons/2022MACH14) | **1** | 0 | 1 | 2 |
-| [Dominik Szajek](https://www.worldcubeassociation.org/persons/2023SZAJ01) | **1** | 0 | 0 | 1 |
 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | **1** | 0 | 0 | 1 |
 | [Henryk Gabor](https://www.worldcubeassociation.org/persons/2024GABO02) | **1** | 0 | 0 | 1 |
 | [Jarosław Nowicki](https://www.worldcubeassociation.org/persons/2004NOWI01) | **1** | 0 | 0 | 1 |

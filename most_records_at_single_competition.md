@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 
 ### World
@@ -109,6 +109,7 @@
 | 1 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2016KOLA02) |
 | 1 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Hvidovre NxN 2025](https://www.worldcubeassociation.org/competitions/HvidovreNxN2025/results/by_person#2016KOLA02) |
 | 1 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [WCA World Championship 2025](https://www.worldcubeassociation.org/competitions/WC2025/results/by_person#2016KOLA02) |
+| 1 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025/results/by_person#2016KOLA02) |
 | 1 | [Anonymous](https://www.worldcubeassociation.org/persons/2017ANON13) | [Polish Championship 2018](https://www.worldcubeassociation.org/competitions/PolishChampionship2018/results/by_person#2017ANON13) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [FMC Europe 2024](https://www.worldcubeassociation.org/competitions/FMCEurope2024/results/by_person#2020BARA02) |
 | 1 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025/results/by_person#2020BARA02) |

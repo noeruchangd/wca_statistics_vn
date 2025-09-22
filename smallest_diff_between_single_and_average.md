@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 19 September 2025*
+*Updated on 22 September 2025*
 
 
 ### Rubik's Cube
@@ -13,11 +13,11 @@
 | 0.04 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 9.59 | 9.63 | [Dragon Cubing X 2025](https://www.worldcubeassociation.org/competitions/DragonCubingX2025/results/by_person#2020DOZA01) |
 | 0.05 | [Tomasz Pietruszka](https://www.worldcubeassociation.org/persons/2021PIET01) | 7.51 | 7.56 | [Cube4fun in Biała Podlaska 2024](https://www.worldcubeassociation.org/competitions/Cube4funinBialaPodlaska2024/results/by_person#2021PIET01) |
 | 0.06 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) | 9.66 | 9.72 | [Cubers Eve 2014](https://www.worldcubeassociation.org/competitions/CubersEve2014/results/by_person#2012KALE01) |
+| 0.06 | [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 9.83 | 9.89 | [CFL Brzeziny 2025](https://www.worldcubeassociation.org/competitions/CFLBrzeziny2025/results/by_person#2013FIDO01) |
 | 0.06 | [Paweł Tomal](https://www.worldcubeassociation.org/persons/2013TOMA01) | 12.27 | 12.33 | [Krakow Cubing Spree 2014](https://www.worldcubeassociation.org/competitions/KrakowCubingSpree2014/results/by_person#2013TOMA01) |
 | 0.07 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 5.26 | 5.33 | [Stevenage May 2024](https://www.worldcubeassociation.org/competitions/StevenageMay2024/results/by_person#2016KOLA02) |
 | 0.07 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) | 7.14 | 7.21 | [Czechowice-Dziedzice Open 2025](https://www.worldcubeassociation.org/competitions/CzechowiceDziedziceOpen2025/results/by_person#2013BURL01) |
 | 0.07 | [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) | 8.13 | 8.20 | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021/results/by_person#2015ZUBO01) |
-| 0.07 | [Aleksander Sołonczak](https://www.worldcubeassociation.org/persons/2022SOLO01) | 10.61 | 10.68 | [Rzeszów Open 2025](https://www.worldcubeassociation.org/competitions/RzeszowOpen2025/results/by_person#2022SOLO01) |
 
 ### 2x2x2 Cube
 
