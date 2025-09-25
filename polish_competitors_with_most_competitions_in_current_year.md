@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 22 September 2025*
+*Updated on 25 September 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -433,6 +433,7 @@
 | 3 | [Krzysztof Kucharski](https://www.worldcubeassociation.org/persons/2022KUCH02) |
 | 3 | [Igor Marczak](https://www.worldcubeassociation.org/persons/2022MARC07) |
 | 3 | [Krzysztof Michałek](https://www.worldcubeassociation.org/persons/2022MICH01) |
+| 3 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 3 | [Leon Pawłowski](https://www.worldcubeassociation.org/persons/2022PAWL01) |
 | 3 | [Piotr Rejdych](https://www.worldcubeassociation.org/persons/2022REJD01) |
 | 3 | [Jakub Skrzypczyński](https://www.worldcubeassociation.org/persons/2022SKRZ01) |
@@ -581,7 +582,6 @@
 | 2 | [Bartłomiej Korba](https://www.worldcubeassociation.org/persons/2022KORB01) |
 | 2 | [Miłosz Łaskawiec](https://www.worldcubeassociation.org/persons/2022LASK01) |
 | 2 | [Radosz Mitas](https://www.worldcubeassociation.org/persons/2022MITA02) |
-| 2 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 2 | [Sebastian Pałka](https://www.worldcubeassociation.org/persons/2022PALK01) |
 | 2 | [Nikodem Pieprzyk](https://www.worldcubeassociation.org/persons/2022PIEP02) |
 | 2 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) |
