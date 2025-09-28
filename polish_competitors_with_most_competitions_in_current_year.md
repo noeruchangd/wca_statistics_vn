@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on 25 September 2025*
+*Updated on 28 September 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -209,6 +209,7 @@
 | 6 | [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) |
 | 6 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 6 | [Przemysław Kanarski](https://www.worldcubeassociation.org/persons/2019KANA04) |
+| 6 | [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) |
 | 6 | [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) |
 | 6 | [Aleksandra Bystrova](https://www.worldcubeassociation.org/persons/2021BYST01) |
 | 6 | [Marcin Dołoto](https://www.worldcubeassociation.org/persons/2021DOLO01) |
@@ -261,7 +262,6 @@
 | 5 | [Adam Łyskawa](https://www.worldcubeassociation.org/persons/2017LYSK01) |
 | 5 | [Adrian Permus](https://www.worldcubeassociation.org/persons/2017PERM04) |
 | 5 | [Tomasz Cepil](https://www.worldcubeassociation.org/persons/2018CEPI01) |
-| 5 | [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) |
 | 5 | [Jakub Dolata](https://www.worldcubeassociation.org/persons/2020DOLA01) |
 | 5 | [Maciej Kozar](https://www.worldcubeassociation.org/persons/2021KOZA01) |
 | 5 | [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) |

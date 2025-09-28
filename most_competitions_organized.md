@@ -1,6 +1,6 @@
 ## Most competitions organized
 
-*Updated on 25 September 2025*
+*Updated on 28 September 2025*
 
 | Organized | Person |
 | ---: | :--- |
@@ -42,6 +42,7 @@
 | 8 | [Maksymilian Gala](https://www.worldcubeassociation.org/persons/2022GALA01) |
 | 7 | [Przemysław Piątek](https://www.worldcubeassociation.org/persons/2013PITE01) |
 | 7 | [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) |
+| 7 | Stowarzyszenie LIGA NIEZWYKŁYCH |
 | 6 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) |
 | 6 | [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) |
 | 6 | [Mateusz Cichoracki](https://www.worldcubeassociation.org/persons/2011CICH01) |
@@ -51,7 +52,6 @@
 | 6 | [Cyprian Kalbarczyk](https://www.worldcubeassociation.org/persons/2016KALB01) |
 | 6 | [Michał Wachowiak](https://www.worldcubeassociation.org/persons/2015WACH01) |
 | 6 | [Marta Radziwanowska](https://www.worldcubeassociation.org/persons/2022RADZ01) |
-| 6 | Stowarzyszenie LIGA NIEZWYKŁYCH |
 | 5 | [Owidiusz Pryk](https://www.worldcubeassociation.org/persons/2008PRYK01) |
 | 5 | [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) |
 | 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) |

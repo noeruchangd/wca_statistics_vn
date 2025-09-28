@@ -1,11 +1,11 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 25 September 2025*
+*Updated on 28 September 2025*
 
 | Person | Distance |
 | :--- | ---: |
-| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 306 781 km |
+| [Kacper Paweł Dworak](https://www.worldcubeassociation.org/persons/2020DWOR01) | 307 033 km |
 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | 289 785 km |
 | [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 145 943 km |
 | [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 119 021 km |
@@ -488,6 +488,7 @@
 | [Weronika Rogulska](https://www.worldcubeassociation.org/persons/2017ROGU01) | 2 946 km |
 | [Małgorzata Nowagiel](https://www.worldcubeassociation.org/persons/2014NOWA03) | 2 938 km |
 | [Nataniel Noetzel](https://www.worldcubeassociation.org/persons/2019NOET01) | 2 932 km |
+| [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) | 2 930 km |
 | [Michał Nowak](https://www.worldcubeassociation.org/persons/2008NOWA01) | 2 925 km |
 | [Michał Sikora](https://www.worldcubeassociation.org/persons/2014SIKO04) | 2 925 km |
 | [Piotr Dudziak](https://www.worldcubeassociation.org/persons/2014DUDZ01) | 2 913 km |
@@ -573,7 +574,6 @@
 | [Anna Bielak](https://www.worldcubeassociation.org/persons/2014BIEL01) | 2 236 km |
 | [Juliusz Grzegorz](https://www.worldcubeassociation.org/persons/2021GRZE01) | 2 234 km |
 | [Konstanty Wojnowski](https://www.worldcubeassociation.org/persons/2023WOJN02) | 2 220 km |
-| [Michał Soboń](https://www.worldcubeassociation.org/persons/2019SOBO03) | 2 217 km |
 | [Kamil Kwaśniewski](https://www.worldcubeassociation.org/persons/2018KWAS02) | 2 206 km |
 | [Kuba Kwaśniewski](https://www.worldcubeassociation.org/persons/2018KWAS03) | 2 206 km |
 | [Antoni Bzinkowski](https://www.worldcubeassociation.org/persons/2024BZIN01) | 2 194 km |
