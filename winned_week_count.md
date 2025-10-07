@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 
 ### Rubik's Cube
@@ -265,7 +265,7 @@
 
 | Person | Winned weeks |
 | :--- | ---: |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 35 |
+| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 34 |
 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) | 23 |
 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 10 |
 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) | 6 |

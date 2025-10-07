@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 
 ### Rubik's Cube
@@ -128,7 +128,7 @@
 
 | Ao12 | Person | Times |
 | ---: | :--- | :--- |
-| 9.44 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 9.63, 8.85, 9.78, 9.18, 9.53, 12.39, 10.34, 9.43, 9.55, 9.30, 8.79, 8.04 |
+| 9.42 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) | 9.72, 11.09, 10.12, 8.65, 10.42, 9.52, 8.01, 10.82, 8.23, 9.42, 9.33, 7.87 |
 | 9.70 | [Radosław Marcinek](https://www.worldcubeassociation.org/persons/2022MARC05) | 8.90, 12.30, 10.82, 8.64, 9.36, 10.54, 10.11, 9.20, 10.16, 9.30, 7.66, 9.96 |
 | 9.99 | [Oliwier Szubert](https://www.worldcubeassociation.org/persons/2022SZUB01) | 8.29, 8.00, 10.78, 11.57, 9.81, 8.26, 10.27, 12.48, 10.72, 10.15, 11.60, 8.46 |
 | 10.01 | [Bartosz Karpiński](https://www.worldcubeassociation.org/persons/2019KARP03) | 11.25, 10.32, 9.33, 9.80, 10.54, 8.19, 12.73, 10.75, 9.03, 8.82, 10.79, 9.49 |
@@ -176,13 +176,13 @@
 | 2.76 | [Eryk Kasperek](https://www.worldcubeassociation.org/persons/2021KASP01) | 2.55, 2.98, DNF, 2.48, 3.01, 2.52, 3.52, 2.36, 2.20, 3.06, 2.50, 2.57 |
 | 2.92 | [Antoni Stojek](https://www.worldcubeassociation.org/persons/2022STOJ03) | 2.59, 2.78, 3.12, 5.68, 2.56, 2.56, 2.65, 3.96, 3.51, 2.54, 2.61, 2.84 |
 | 3.49 | [Szymon Zastawny](https://www.worldcubeassociation.org/persons/2023ZAST01) | 3.01, 4.05, 2.74, 3.60, 3.83, 3.22, 3.46, 3.25, 3.02, 3.46, 6.17, 4.02 |
+| 3.55 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 3.45, 3.24, 6.44, 3.32, 3.81, 3.09, 5.06, 2.48, 3.14, 3.72, 2.73, 3.98 |
 | 3.56 | [Szymon Ciepiela](https://www.worldcubeassociation.org/persons/2022CIEP01) | 4.45, 3.53, 3.16, 4.11, 3.59, DNF, 3.38, 3.51, 3.17, 3.44, 2.84, 3.24 |
 | 3.57 | [Filip Brokos](https://www.worldcubeassociation.org/persons/2022BROK03) | 3.79, 4.12, 4.13, 2.45, 4.70, 5.64, 2.54, 2.83, 3.63, 3.02, 3.11, 3.87 |
 | 3.57 | [Kacper Bieńkowski](https://www.worldcubeassociation.org/persons/2022BIEN01) | 3.57, 3.06, DNF, 3.61, 3.25, 3.04, 3.80, 2.95, 6.41, 3.28, 2.73, 2.65 |
 | 3.59 | [Marcel Politowicz](https://www.worldcubeassociation.org/persons/2021POLI02) | 3.81, 3.80, 3.99, 3.52, DNF, 3.16, 3.31, 3.26, 3.69, 3.62, 3.02, 3.77 |
 | 3.68 | [Jakub Turczyk](https://www.worldcubeassociation.org/persons/2022TURC02) | 3.70, 3.17, 4.18, 4.05, 3.82, 3.65, 3.67, 3.52, 3.74, 3.94, 3.40, 3.27 |
 | 3.71 | [Gabriel Rejdych](https://www.worldcubeassociation.org/persons/2020REJD01) | 3.20, 3.11, 3.59, 3.34, 3.67, DNF, 4.51, 4.46, 4.05, 3.41, 2.76, 3.76 |
-| 3.74 | [Filip Śliwa](https://www.worldcubeassociation.org/persons/2022SLIW01) | 3.61, 6.25, 3.51, 4.37, 3.30, 3.29, 3.08, 3.06, 2.99, 11.22, 3.28, 3.67 |
 
 ### Skewb
 

@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 | WRs | Person |
 | ---: | :--- |
@@ -76,6 +76,7 @@
 | 1 | [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) |
 | 1 | [Grzegorz Prusak](https://www.worldcubeassociation.org/persons/2006PRUS01) |
 | 1 | [Ignacy Samselski](https://www.worldcubeassociation.org/persons/2022SAMS03) |
+| 1 | [Igor Gładysz](https://www.worldcubeassociation.org/persons/2022GLAD01) |
 | 1 | [Jakub Kubiak](https://www.worldcubeassociation.org/persons/2014KUBI02) |
 | 1 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) |
 | 1 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |

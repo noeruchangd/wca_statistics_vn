@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 
 ### Rubik's Cube
@@ -233,7 +233,7 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
-| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **45:21.00** | DNF | [Brizzon Side Open IV 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIV2025/results/podiums#e555bf) | 2 |
+| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **45:21.00** | DNF | [BrizZon Side Open IV 2025](https://www.worldcubeassociation.org/competitions/BrizzonSideOpenIV2025/results/podiums#e555bf) | 2 |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | **39:12.00** | DNF | [Santa Claus Cube Race 2019](https://www.worldcubeassociation.org/competitions/SantaClausCubeRace2019/results/podiums#e555bf) | 3 |
 | [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | **35:03.00** | DNF | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018/results/podiums#e555bf) | 3 |
 | [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | **30:14.00** | DNF | [Try Not To DNF Rzeszów 2023](https://www.worldcubeassociation.org/competitions/TryNotToDNFRzeszow2023/results/podiums#e555bf) | 2 |

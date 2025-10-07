@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  1 October 2025*
+*Updated on  7 October 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -67,6 +67,7 @@
 | 8 | [Hubert Hanusiak](https://www.worldcubeassociation.org/persons/2013HANU01) |
 | 8 | [Joanna Dubicka](https://www.worldcubeassociation.org/persons/2018DUBI04) |
 | 8 | [Radomił Baran](https://www.worldcubeassociation.org/persons/2020BARA02) |
+| 8 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
 | 8 | [Mateusz Nowak](https://www.worldcubeassociation.org/persons/2022NOWA05) |
 | 8 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 8 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
@@ -79,7 +80,6 @@
 | 7 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
 | 7 | [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) |
 | 7 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) |
-| 7 | [Eryk Haoyan Klimek](https://www.worldcubeassociation.org/persons/2022KLIM01) |
 | 7 | [Adam Steuer](https://www.worldcubeassociation.org/persons/2023STEU01) |
 | 6 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
 | 6 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
