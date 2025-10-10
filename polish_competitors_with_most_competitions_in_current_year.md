@@ -1,6 +1,6 @@
 ## Polish competitors with most competitions in the current year
 
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -380,6 +380,7 @@
 | 4 | [Kamil Ugorek](https://www.worldcubeassociation.org/persons/2023UGOR01) |
 | 4 | [Antoni Bagiński](https://www.worldcubeassociation.org/persons/2024BAGI05) |
 | 4 | [Krzysztof Bajor](https://www.worldcubeassociation.org/persons/2024BAJO01) |
+| 4 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 4 | [Ignacy Błoch](https://www.worldcubeassociation.org/persons/2024BLOC06) |
 | 4 | [Hubert Borek](https://www.worldcubeassociation.org/persons/2024BORE01) |
 | 4 | [Paweł Bryk](https://www.worldcubeassociation.org/persons/2024BRYK01) |
@@ -478,7 +479,6 @@
 | 3 | [Jan Wojcieszkiewicz](https://www.worldcubeassociation.org/persons/2023WOJC03) |
 | 3 | [Michał Badura](https://www.worldcubeassociation.org/persons/2024BADU01) |
 | 3 | [Agata Badura](https://www.worldcubeassociation.org/persons/2024BADU02) |
-| 3 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 3 | [Błażej Bogucki](https://www.worldcubeassociation.org/persons/2024BOGU02) |
 | 3 | [Antoni Chawrilski](https://www.worldcubeassociation.org/persons/2024CHAW03) |
 | 3 | [Bruno Cichocki](https://www.worldcubeassociation.org/persons/2024CICH01) |

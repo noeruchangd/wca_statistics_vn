@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  7 October 2025*
+*Updated on 10 October 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -61,6 +61,7 @@
 | 9 | [Szymon Jaworski](https://www.worldcubeassociation.org/persons/2021JAWO01) |
 | 9 | [Oskar Obeid](https://www.worldcubeassociation.org/persons/2022OBEI01) |
 | 9 | [Kacper Borkowski](https://www.worldcubeassociation.org/persons/2023BORK03) |
+| 9 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 8 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) |
 | 8 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) |
 | 8 | [Piotr Trząski](https://www.worldcubeassociation.org/persons/2012TRZA01) |
@@ -72,7 +73,6 @@
 | 8 | [Arkadiusz Dubicki](https://www.worldcubeassociation.org/persons/2023DUBI01) |
 | 8 | [Krzysztof Wawrzyniak](https://www.worldcubeassociation.org/persons/2023WAWR01) |
 | 8 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
-| 8 | [Antoni Baránski](https://www.worldcubeassociation.org/persons/2024BARA01) |
 | 7 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
 | 7 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
 | 7 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
