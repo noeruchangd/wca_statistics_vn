@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Competitions | Person |
 | ---: | :--- |
@@ -75,6 +75,7 @@
 | 8 | [Zbigniew Mróz](https://www.worldcubeassociation.org/persons/2023MROZ03) |
 | 7 | [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) |
 | 7 | [Piotr Michał Padlewski](https://www.worldcubeassociation.org/persons/2008PADL01) |
+| 7 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
 | 7 | [Przemysław Kaleta](https://www.worldcubeassociation.org/persons/2012KALE01) |
 | 7 | [Łukasz Burliga](https://www.worldcubeassociation.org/persons/2013BURL01) |
 | 7 | [Kamil Michalak](https://www.worldcubeassociation.org/persons/2016MICH01) |
@@ -82,7 +83,6 @@
 | 7 | [Piotr Zambrzycki](https://www.worldcubeassociation.org/persons/2018ZAMB02) |
 | 7 | [Adam Steuer](https://www.worldcubeassociation.org/persons/2023STEU01) |
 | 6 | [Łukasz Cichecki](https://www.worldcubeassociation.org/persons/2007CICH01) |
-| 6 | [Marek Pepke](https://www.worldcubeassociation.org/persons/2008PEPK01) |
 | 6 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) |
 | 6 | [Michał Orylski](https://www.worldcubeassociation.org/persons/2009ORYL01) |
 | 6 | [Michał Tomański](https://www.worldcubeassociation.org/persons/2009TOMA01) |

@@ -1,10 +1,10 @@
 ## Most competitions organized
 
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 | Organized | Person |
 | ---: | :--- |
-| 126 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
+| 127 | [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) |
 | 75 | [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) |
 | 62 | [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) |
 | 56 | [Karol Zakrzewski](https://www.worldcubeassociation.org/persons/2014ZAKR01) |

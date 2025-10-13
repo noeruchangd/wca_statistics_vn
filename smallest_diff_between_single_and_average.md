@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 10 October 2025*
+*Updated on 13 October 2025*
 
 
 ### Rubik's Cube
@@ -223,11 +223,11 @@
 | 19.20 | [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 4:06.26 | 4:25.46 | [Bishop's Stortford - BBO 2022](https://www.worldcubeassociation.org/competitions/BishopsStortfordAutumnBBO2022/results/by_person#2017DEBS01) |
 | 20.36 | [Kamil Przybylski](https://www.worldcubeassociation.org/persons/2016PRZY01) | 5:50.18 | 6:10.54 | [Mental Breakdown Germany 2019](https://www.worldcubeassociation.org/competitions/MentalBreakdownGermany2019/results/by_person#2016PRZY01) |
 | 35.00 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 15:27.00 | 16:02.00 | [All Rounders in Stobierna 2023](https://www.worldcubeassociation.org/competitions/AllRoundersinStobierna2023/results/by_person#2014MILE01) |
+| 36.00 | [Adam Śmigaj](https://www.worldcubeassociation.org/persons/2021SMIG01) | 11:06.00 | 11:42.00 | [Blind Marathon in Rzeszów 2025](https://www.worldcubeassociation.org/competitions/BlindMarathoninRzeszow2025/results/by_person#2021SMIG01) |
 | 36.64 | [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 5:41.86 | 6:18.50 | [Winter Side Wrocław 2025](https://www.worldcubeassociation.org/competitions/WinterSideWroclaw2025/results/by_person#2021PISK01) |
 | 43.00 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 19:35.00 | 20:18.00 | [Big 'n Blind Szczecinek 2023](https://www.worldcubeassociation.org/competitions/BignBlindSzczecinek2023/results/by_person#2018ZYNE01) |
 | 74.37 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 7:04.75 | 8:19.12 | [Polish Open 2018](https://www.worldcubeassociation.org/competitions/PolishOpen2018/results/by_person#2015BUAT01) |
 | 83.00 | [Witali Bułatow](https://www.worldcubeassociation.org/persons/2015BUAT01) | 10:06.00 | 11:29.00 | [Polish Nationals 2017](https://www.worldcubeassociation.org/competitions/PolishNationals2017/results/by_person#2015BUAT01) |
-| 94.00 | [Patryk Milewczyk](https://www.worldcubeassociation.org/persons/2014MILE01) | 11:30.00 | 13:04.00 | [5BLD Masters Opole 2025](https://www.worldcubeassociation.org/competitions/5BLDMastersOpole2025/results/by_person#2014MILE01) |
 
 ### 3x3x3 With Feet
 
