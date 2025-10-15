@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 | Person | Gold | Silver | Bronze | Total |
 | :--- | :--: | :--: | :--: | :--: |
@@ -77,7 +77,7 @@
 | [Maciej Czapiewski](https://www.worldcubeassociation.org/persons/2014CZAP01) | **2** | 0 | 0 | 2 |
 | [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | **2** | 0 | 0 | 2 |
 | [Zbigniew Zborowski](https://www.worldcubeassociation.org/persons/2003ZBOR02) | **2** | 0 | 0 | 2 |
-| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **1** | 5 | 8 | 14 |
+| [Natan Suslowicz](https://www.worldcubeassociation.org/persons/2021SUSL01) | **1** | 6 | 8 | 15 |
 | [Victor Kiziukiewicz](https://www.worldcubeassociation.org/persons/2023KIZI01) | **1** | 5 | 1 | 7 |
 | [Szymon Brzana](https://www.worldcubeassociation.org/persons/2017BRZA01) | **1** | 4 | 6 | 11 |
 | [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | **1** | 4 | 1 | 6 |

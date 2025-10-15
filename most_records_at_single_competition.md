@@ -1,13 +1,13 @@
 ## Most records at a single competition
 
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 
 ### World
 
 | Records | Person | Results |
 | ---: | :--- | :--- |
-| 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/by_person#2006HALC01) |
+| 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/by_person#2006HALC01) |
 | 3 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2010](https://www.worldcubeassociation.org/competitions/PolishNationals2010/results/by_person#2006HALC01) |
 | 3 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Pabianice Open 2010](https://www.worldcubeassociation.org/competitions/PabianiceOpen2010/results/by_person#2006HALC01) |
 | 3 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Swierklany Open 2011](https://www.worldcubeassociation.org/competitions/SwierklanyOpen2011/results/by_person#2006HALC01) |
@@ -121,7 +121,7 @@
 
 | Records | Person | Results |
 | ---: | :--- | :--- |
-| 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/by_person#2006HALC01) |
+| 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/by_person#2006HALC01) |
 | 5 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS I Bełżyce 2021](https://www.worldcubeassociation.org/competitions/LLSIBelzyce2021/results/by_person#2016KOLA02) |
 | 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Swierklany Open 2011](https://www.worldcubeassociation.org/competitions/SwierklanyOpen2011/results/by_person#2006HALC01) |
 | 4 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Melbourne Summer 2024](https://www.worldcubeassociation.org/competitions/MelbourneSummer2024/results/by_person#2016KOLA02) |
@@ -187,7 +187,7 @@
 | 6 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [Polish Open 2019](https://www.worldcubeassociation.org/competitions/PolishOpen2019/results/by_person#2016KOLA02) |
 | 6 | [Tymon Kolasiński](https://www.worldcubeassociation.org/persons/2016KOLA02) | [LLS II Biała Podlaska 2021](https://www.worldcubeassociation.org/competitions/LLSIIBialaPodlaska2021/results/by_person#2016KOLA02) |
 | 5 | [Piotr Kózka](https://www.worldcubeassociation.org/persons/2005KOZK01) | [Polish Open 2007](https://www.worldcubeassociation.org/competitions/PolishOpen2007/results/by_person#2005KOZK01) |
-| 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/by_person#2006HALC01) |
+| 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/by_person#2006HALC01) |
 | 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010/results/by_person#2006HALC01) |
 | 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Lodz Open 2011](https://www.worldcubeassociation.org/competitions/LodzOpen2011/results/by_person#2006HALC01) |
 | 5 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [GLS Cup III 2018](https://www.worldcubeassociation.org/competitions/GLSCupIII2018/results/by_person#2006HALC01) |
@@ -202,7 +202,7 @@
 | 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Polish Nationals 2013](https://www.worldcubeassociation.org/competitions/PolishNationals2013/results/by_person#2006HALC01) |
 | 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [World Championship 2013](https://www.worldcubeassociation.org/competitions/WC2013/results/by_person#2006HALC01) |
 | 4 | [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | [Chojnice Open 2013](https://www.worldcubeassociation.org/competitions/ChojniceOpen2013/results/by_person#2006HALC01) |
-| 4 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/by_person#2008ZIEL01) |
+| 4 | [Kamil Zieliński](https://www.worldcubeassociation.org/persons/2008ZIEL01) | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/by_person#2008ZIEL01) |
 | 4 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | [World Championship 2015](https://www.worldcubeassociation.org/competitions/WC2015/results/by_person#2009PLES01) |
 | 4 | [Jakub Kipa](https://www.worldcubeassociation.org/persons/2010KIPA01) | [Jura Open 2012](https://www.worldcubeassociation.org/competitions/JuraOpen2012/results/by_person#2010KIPA01) |
 | 4 | [Marcin Zalewski](https://www.worldcubeassociation.org/persons/2011ZALE02) | [Polish Open 2012](https://www.worldcubeassociation.org/competitions/PolishOpen2012/results/by_person#2011ZALE02) |

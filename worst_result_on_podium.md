@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 13 October 2025*
+*Updated on 14 October 2025*
 
 
 ### Rubik's Cube
@@ -71,7 +71,7 @@
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | 4:23.53 | **4:27.55** | [GLS Autumn Reda 2013](https://www.worldcubeassociation.org/competitions/GLSAutumnReda2013/results/podiums#e666) | 3 |
 | [Marcin Bloch](https://www.worldcubeassociation.org/persons/2013BLOC01) | 3:45.91 | **4:09.75** | [PLS Autumn Reda 2014](https://www.worldcubeassociation.org/competitions/PLSAutumnReda2014/results/podiums#e666) | 3 |
 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | 3:44.65 | **4:04.00** | [Poznan Open 2011](https://www.worldcubeassociation.org/competitions/PoznanOpen2011/results/podiums#e666) | 3 |
-| [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | 3:46.34 | **3:59.45** | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/podiums#e666) | 3 |
+| [Jakub Cabaj](https://www.worldcubeassociation.org/persons/2008CABA03) | 3:46.34 | **3:59.45** | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/podiums#e666) | 3 |
 | [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) | 3:42.11 | **3:59.24** | [Swierklany Open 2011](https://www.worldcubeassociation.org/competitions/SwierklanyOpen2011/results/podiums#e666) | 2 |
 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | 3:51.90 | **3:58.50** | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011/results/podiums#e666) | 3 |
 | [Marek Wójtowicz](https://www.worldcubeassociation.org/persons/2008WOJT01) | 3:49.59 | **3:57.06** | [Gdansk Open 2009](https://www.worldcubeassociation.org/competitions/GdanskOpen2009/results/podiums#e666) | 3 |
@@ -84,7 +84,7 @@
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
 | [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 5:53.58 | **6:35.40** | [PLS Autumn Reda 2014](https://www.worldcubeassociation.org/competitions/PLSAutumnReda2014/results/podiums#e777) | 3 |
-| [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) | 5:57.28 | **6:27.74** | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/podiums#e777) | 3 |
+| [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) | 5:57.28 | **6:27.74** | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/podiums#e777) | 3 |
 | [Tomasz Kiełbasa](https://www.worldcubeassociation.org/persons/2009KIEL01) | 6:03.31 | **6:12.43** | [Bialystok Open 2011](https://www.worldcubeassociation.org/competitions/BialystokOpen2011/results/podiums#e777) | 3 |
 | [Kamil Pawlak](https://www.worldcubeassociation.org/persons/2006PAWL01) | 5:32.27 | **6:04.78** | [Lublin Open 2009](https://www.worldcubeassociation.org/competitions/LublinOpen2009/results/podiums#e777) | 3 |
 | [Błażej Morgała](https://www.worldcubeassociation.org/persons/2006MORG01) | 5:54.59 | **6:00.19** | [Gdansk Open 2009](https://www.worldcubeassociation.org/competitions/GdanskOpen2009/results/podiums#e777) | 3 |
@@ -248,14 +248,14 @@
 
 | Person | Single | Average | Competition | Place |
 | :--- | ---: | ---: | :--- | :--: |
-| [Klaudia Grabowska](https://www.worldcubeassociation.org/persons/2007GRAB01) | **1/2 13:31** |  | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/podiums#e333mbf) | 3 |
+| [Klaudia Grabowska](https://www.worldcubeassociation.org/persons/2007GRAB01) | **1/2 13:31** |  | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/podiums#e333mbf) | 3 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **1/2 12:30** |  | [Kociewie Open 2011](https://www.worldcubeassociation.org/competitions/KociewieOpen2011/results/podiums#e333mbf) | 3 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | **1/2 8:12** |  | [Valgame Open 2012](https://www.worldcubeassociation.org/competitions/ValgameOpen2012/results/podiums#e333mbf) | 2 |
 | [Michał Pleskowicz](https://www.worldcubeassociation.org/persons/2009PLES01) | **1/2 5:26** |  | [Polish Nationals 2011](https://www.worldcubeassociation.org/competitions/PolishNationals2011/results/podiums#e333mbf) | 3 |
 | [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | **9/17 1:00:00** |  | [PST Łuków 2019](https://www.worldcubeassociation.org/competitions/PSTLukow2019/results/podiums#e333mbf) | 2 |
 | [Michał Bogdan](https://www.worldcubeassociation.org/persons/2012BOGD01) | **7/13 56:50** |  | [Project Radom 2018](https://www.worldcubeassociation.org/competitions/ProjectRadom2018/results/podiums#e333mbf) | 3 |
 | [Marcin Kowalczyk](https://www.worldcubeassociation.org/persons/2011KOWA01) | **8/15 55:27** |  | [Kociewie Open 2011](https://www.worldcubeassociation.org/competitions/KociewieOpen2011/results/podiums#e333mbf) | 2 |
-| [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) | **3/5 30:43** |  | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/Poland2009/results/podiums#e333mbf) | 2 |
+| [Tomasz Korzeniewski](https://www.worldcubeassociation.org/persons/2007KORZ01) | **3/5 30:43** |  | [Polish Nationals 2009](https://www.worldcubeassociation.org/competitions/PolishNationals2009/results/podiums#e333mbf) | 2 |
 | [Michał Pawlak](https://www.worldcubeassociation.org/persons/2008PAWL03) | **2/3 29:25** |  | [Polish Open 2010](https://www.worldcubeassociation.org/competitions/PolishOpen2010/results/podiums#e333mbf) | 3 |
 | [Marcin Jakubowski](https://www.worldcubeassociation.org/persons/2007JAKU01) | **2/3 27:16** |  | [Grudziądz Open 2016](https://www.worldcubeassociation.org/competitions/GrudziadzOpen2016/results/podiums#e333mbf) | 3 |
 
