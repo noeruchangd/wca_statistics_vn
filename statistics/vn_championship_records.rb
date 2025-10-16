@@ -2,7 +2,7 @@ require_relative "../core/grouped_statistic"
 require_relative "../core/solve_time"
 require_relative "../core/events"
 
-class PolishChampionshipRecords < GroupedStatistic
+class VnChampionshipRecords < GroupedStatistic
   def initialize
     @title = "Vietnam Championship records"
     @note = "This is a list of the best results from all Vietnam Championships. It corresponds to Olympic records for Olympic sports."
