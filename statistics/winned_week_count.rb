@@ -34,7 +34,7 @@ class WinnedWeekCount < GroupedStatistic
         WHERE start_date BETWEEN week_start_date AND week_end_date
         GROUP BY 333_best_by_week.event_id, person_id
       ) AS winned_weeks_by_person
-      JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Poland';
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Vietnam';
     SQL
   end
 

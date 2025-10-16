@@ -18,7 +18,7 @@ class LongestStreakOfWorldRecords < Statistic
         competition.start_date competition_date,
         event_id
       FROM results result
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       JOIN competitions competition ON competition.id = competition_id
       WHERE (regional_single_record = 'WR' OR regional_average_record = 'WR')
     SQL

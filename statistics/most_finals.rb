@@ -22,7 +22,7 @@ class MostFinals < Statistic
         ORDER BY finals_count DESC
         LIMIT 100
       ) AS people_with_finals
-      JOIN persons person ON person.wca_id = people_with_finals.wca_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = people_with_finals.wca_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       ORDER BY finals_count DESC
     SQL
   end
