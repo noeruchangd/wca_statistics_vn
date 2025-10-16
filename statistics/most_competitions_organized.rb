@@ -23,7 +23,7 @@ class MostCompetitionsOrganized < Statistic
         WHERE show_at_all = 1 AND cancelled_at IS NULL AND start_date < CURDATE()
         GROUP BY organizer_id
       ) AS organized_count_by_user
-      JOIN users user ON user.id = organizer_id AND user.country_iso2 = 'PL'
+      JOIN users user ON user.id = organizer_id AND user.country_iso2 = 'VN'
       HAVING organized_count > 2
       ORDER BY organized_count DESC
     SQL

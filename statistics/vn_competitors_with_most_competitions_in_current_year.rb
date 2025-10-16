@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class PolishCompetitorsWithMostCompetitionsInCurrentYear < Statistic
   def initialize
-    @title = "Polish competitors with most competitions in the current year"
+    @title = "Vietnam competitors with most competitions in the current year"
     @table_header = { "Competitions" => :right, "Person" => :left }
   end
 
@@ -13,7 +13,7 @@ class PolishCompetitorsWithMostCompetitionsInCurrentYear < Statistic
         CONCAT('[', person_name, '](https://www.worldcubeassociation.org/persons/', person_id, ')') person_link
       FROM results 
       WHERE competition_id LIKE CONCAT('%', YEAR(CURDATE())) 
-            AND country_id="Poland" 
+            AND country_id="Vietnam" 
       GROUP BY person_id, person_name
       ORDER BY c DESC
     SQL

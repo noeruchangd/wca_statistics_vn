@@ -25,7 +25,7 @@ class ShortestTimeToGetAllSingles < Statistic
         HAVING COUNT(event_id) = #{Events::OFFICIAL.length}
       ) AS all_events_people
       JOIN results result ON result.person_id = all_events_people.person_id
-      JOIN persons person ON person.wca_id = result.person_id and person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = result.person_id and person.sub_id = 1 AND person.country_id = 'Vietnam'
       JOIN competitions competition ON competition.id = competition_id
       ORDER BY start_date
     SQL

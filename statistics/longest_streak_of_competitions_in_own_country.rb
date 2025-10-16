@@ -2,8 +2,8 @@ require_relative "../core/statistic"
 
 class LongestStreakOfCompetitionsInOwnCountry < Statistic
   def initialize
-    @title = "Longest streak of competitions in Poland"
-    @note = "The streak ends whenever the person doesn't participate in a competition in Poland."
+    @title = "Longest streak of competitions in Vietnam"
+    @note = "The streak ends whenever the person doesn't participate in a competition in Vietnam."
     @table_header = { "Competitions" => :right, "Person" => :left, "Started at" => :left, "Missed" => :left }
   end
 
@@ -16,7 +16,7 @@ class LongestStreakOfCompetitionsInOwnCountry < Statistic
         SELECT DISTINCT person_id, competition_id
         FROM results
       ) AS people_with_competitions
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = competition.country_id
       WHERE competition.country_id = person.country_id

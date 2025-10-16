@@ -23,7 +23,7 @@ class AverageEventCountByCompetition < Statistic
       ) AS competitors_with_event_count
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = competition.country_id
-      WHERE country_id = 'Poland'
+      WHERE country_id = 'Vietnam'
       GROUP BY competition_id
       ORDER BY average_event_count DESC
       LIMIT 100

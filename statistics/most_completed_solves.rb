@@ -18,7 +18,7 @@ class MostCompletedSolves < GroupedStatistic
         YEAR(competition.start_date) year,
         event.name event
       FROM results result
-      JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Vietnam'
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = competition.country_id
       JOIN continents continent ON continent.id = continent_id

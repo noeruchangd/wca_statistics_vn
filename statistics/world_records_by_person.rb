@@ -19,7 +19,7 @@ class WorldRecordsByPerson < Statistic
         GROUP BY person_id
         HAVING wrs_count > 0
       ) AS wrs_count_by_person
-      JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Vietnam'
       ORDER BY wrs_count DESC, person.name
     SQL
   end

@@ -1,6 +1,6 @@
 module Events
   ALL = {
-    "333"     => "Rubik's Cube",
+    "333"     => "3x3x3 Cube",
     "222"     => "2x2x2 Cube",
     "444"     => "4x4x4 Cube",
     "555"     => "5x5x5 Cube",
@@ -11,7 +11,7 @@ module Events
     "333oh"   => "3x3x3 One-Handed",
     "minx"    => "Megaminx",
     "pyram"   => "Pyraminx",
-    "clock"   => "Rubik's Clock",
+    "clock"   => "Clock",
     "skewb"   => "Skewb",
     "sq1"     => "Square-1",
     "444bf"   => "4x4x4 Blindfolded",

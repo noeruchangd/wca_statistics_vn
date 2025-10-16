@@ -4,8 +4,8 @@ require_relative "../core/events"
 
 class PolishChampionshipRecords < GroupedStatistic
   def initialize
-    @title = "Polish Championship records"
-    @note = "This is a list of the best results from all Polish Championships. It corresponds to Olympic records for Olympic sports."
+    @title = "Vietnam Championship records"
+    @note = "This is a list of the best results from all Vietnam Championships. It corresponds to Olympic records for Olympic sports."
     @table_header = { "Event" => :left, "Result" => :right, "Person" => :left, "Citizen of" => :left, "Competition" => :left }
   end
 
@@ -18,7 +18,7 @@ class PolishChampionshipRecords < GroupedStatistic
         best single,
         average
       FROM results
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = person.country_id
       JOIN championships ON championships.competition_id = results.competition_id

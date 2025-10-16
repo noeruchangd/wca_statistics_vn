@@ -7,7 +7,7 @@ class AverageOfX < GroupedStatistic
     @solve_count = solve_count
 
     @title = "Average of #{@solve_count}"
-    @note = "#{@solve_count} consecutive official attempts are considered. Only people from top 200 single are taken into account."
+    @note = "#{@solve_count} consecutive official attempts are considered. Only people from top 100 single are taken into account."
     @table_header = { "Ao#{@solve_count}" => :right, "Person" => :left, "Times" => :left }
   end
 
@@ -27,8 +27,9 @@ class AverageOfX < GroupedStatistic
       JOIN competitions competition ON competition.id = competition_id
       JOIN round_types round_type ON round_type.id = round_type_id
       JOIN ranks_single ON ranks_single.event_id = result.event_id AND ranks_single.person_id = result.person_id
-      -- Take people from top 200 single for optimization reasons.
-      WHERE ranks_single.country_rank <= 200 AND result.event_id NOT IN ('333mbf', '333mbo') AND result.country_id='Poland'
+      -- Take people from top 100 single for optimization reasons.
+      -- Reduced 200 people to 100 people because there arent that many cubers with that high number of solves in Vietnam
+      WHERE ranks_single.country_rank <= 100 AND result.event_id NOT IN ('333mbf', '333mbo') AND result.country_id='Vietnam'
       ORDER BY competition.start_date, round_type.rank
     SQL
   end
