@@ -1,8 +1,8 @@
 require_relative "../core/statistic"
 
-class MostDaysSpentAtCompetitions < Statistic
+class MostDaysPotentiallySpentAtCompetitions < Statistic
   def initialize
-    @title = "Most days spent at competitions"
+    @title = "Most days potentially spent at competitions"
     @table_header = { "Days" => :right, "Person" => :left, "Competitions" => :right }
   end
 
