@@ -20,6 +20,7 @@ module Database
     ranks_single
     ranks_average
     results
+    result_attempts
     round_types
     users
     schedule_activities

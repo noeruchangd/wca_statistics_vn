@@ -9,20 +9,29 @@ class MostCompletedSolves < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        IF(value1 > 0, 1, 0) + IF(value2 > 0, 1, 0) + IF(value3 > 0, 1, 0) + IF(value4 > 0, 1, 0) + IF(value5 > 0, 1, 0) completed_count,
-        IF(value1 = -1, 1, 0) + IF(value2 = -1, 1, 0) + IF(value3 = -1, 1, 0) + IF(value4 = -1, 1, 0) + IF(value5 = -1, 1, 0) dnfs_count,
+        SUM(CASE WHEN ra.value > 0 THEN 1 ELSE 0 END) completed_count,
+        SUM(CASE WHEN ra.value = -1 THEN 1 ELSE 0 END) dnfs_count,
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, ')') competition_link,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         country.name country,
         continent.name continent,
         YEAR(competition.start_date) year,
         event.name event
-      FROM results result
-      JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Poland'
-      JOIN competitions competition ON competition.id = competition_id
-      JOIN countries country ON country.id = competition.country_id
-      JOIN continents continent ON continent.id = continent_id
-      JOIN events event ON event.id = event_id
+      FROM results r
+      JOIN result_attempts ra ON ra.result_id = r.id
+      JOIN persons person 
+        ON person.wca_id = r.person_id 
+        AND person.sub_id = 1 
+        AND person.country_id = 'Poland'
+      JOIN competitions competition 
+        ON competition.id = r.competition_id
+      JOIN countries country 
+        ON country.id = competition.country_id
+      JOIN continents continent 
+        ON continent.id = country.continent_id
+      JOIN events event 
+        ON event.id = r.event_id
+      GROUP BY r.id
     SQL
   end
 

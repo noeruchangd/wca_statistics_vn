@@ -12,13 +12,22 @@ class BestFirstSingle < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        event_id,
+        r.event_id,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        value1 single
-      FROM results
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
-      JOIN competitions competition ON competition.id = competition_id
-      JOIN round_types round_type ON round_type.id = round_type_id
+        ra.value single
+      FROM results r
+      JOIN result_attempts ra 
+        ON ra.result_id = r.id
+        AND ra.attempt_number = 1
+      JOIN persons person 
+        ON person.wca_id = r.person_id 
+        AND person.sub_id = 1 
+        AND person.country_id = 'Poland'
+      JOIN competitions competition 
+        ON competition.id = r.competition_id
+      JOIN round_types round_type 
+        ON round_type.id = r.round_type_id
+      WHERE ra.value > 0
       ORDER BY competition.start_date, round_type.rank
     SQL
   end

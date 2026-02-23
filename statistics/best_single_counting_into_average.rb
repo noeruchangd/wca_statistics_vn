@@ -11,17 +11,27 @@ class BestSingleCountingIntoAverage < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        event_id,
-        value1, value2, value3, value4, value5,
+        r.event_id,
+        MAX(CASE WHEN ra.attempt_number = 1 THEN ra.value END) value1,
+        MAX(CASE WHEN ra.attempt_number = 2 THEN ra.value END) value2,
+        MAX(CASE WHEN ra.attempt_number = 3 THEN ra.value END) value3,
+        MAX(CASE WHEN ra.attempt_number = 4 THEN ra.value END) value4,
+        MAX(CASE WHEN ra.attempt_number = 5 THEN ra.value END) value5,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('[', competition.cell_name, '](https://www.worldcubeassociation.org/competitions/', competition.id, '/results/by_person#', person.wca_id, ')') results_link
-      FROM results
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
-      JOIN competitions competition ON competition.id = competition_id
-      WHERE format_id = 'a'
+      FROM results r
+      JOIN result_attempts ra ON ra.result_id = r.id
+      JOIN persons person 
+        ON person.wca_id = r.person_id 
+        AND person.sub_id = 1 
+        AND person.country_id = 'Poland'
+      JOIN competitions competition 
+        ON competition.id = r.competition_id
+      WHERE r.format_id = 'a'
+        AND ra.attempt_number IN (1,2,3,4,5)
+      GROUP BY r.id
     SQL
   end
-
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
       results = query_results

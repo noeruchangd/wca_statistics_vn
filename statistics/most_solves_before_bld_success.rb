@@ -9,16 +9,22 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        event_id,
+        r.event_id,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
-        value1, value2, value3, value4, value5
-      FROM results
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
-      JOIN competitions competition ON competition.id = competition_id
-      JOIN round_types round_type ON round_type.id = round_type_id
-      JOIN events event ON event.id = event_id
-      WHERE event_id IN ('333bf', '444bf', '555bf', '333mbf')
-      ORDER BY competition.start_date, round_type.rank
+        ra.value
+      FROM results r
+      JOIN result_attempts ra ON ra.result_id = r.id
+      JOIN persons person 
+        ON person.wca_id = r.person_id 
+        AND person.sub_id = 1 
+        AND person.country_id = 'Poland'
+      JOIN competitions competition 
+        ON competition.id = r.competition_id
+      JOIN round_types round_type 
+        ON round_type.id = r.round_type_id
+      WHERE r.event_id IN ('333bf', '444bf', '555bf', '333mbf')
+        AND ra.value != 0
+      ORDER BY competition.start_date, round_type.rank, ra.attempt_number
     SQL
   end
 
@@ -29,15 +35,15 @@ class MostSolvesBeforeBldSuccess < GroupedStatistic
         .group_by { |result| result["person_link"] }
         .map do |person_link, results|
           attempts_before_success = results
-            .map! { |result| (1..5).map { |n| result["value#{n}"] } }
-            .flatten
-            .select { |time| time == -1 || time > 0 } # Grab times only. Reject skipped and DNS solves.
+            .map { |result| result["value"] }
             .find_index { |time| time > 0 }
+  
           [attempts_before_success, person_link]
         end
-        .reject { |attempts_before_success, person_link| attempts_before_success.nil? }
+        .reject { |attempts_before_success, _| attempts_before_success.nil? }
         .sort_by! { |attempts_before_success, person_link| -attempts_before_success }
         .first(20)
+  
       [event_name, attempts_with_people]
     end
   end
