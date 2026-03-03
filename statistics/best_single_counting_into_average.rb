@@ -32,19 +32,21 @@ class BestSingleCountingIntoAverage < GroupedStatistic
       GROUP BY r.id
     SQL
   end
+
   def transform(query_results)
     Events::ALL.map do |event_id, event_name|
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .flat_map do |result|
-          counting_solves = (1..5).map { |n| result["value#{n}"] }.sort_by! { |value| [value > 0 ? 0 : 1, value] }[1...-1]
+          solves = (1..5).map { |n| result["value#{n}"] || 0 }
+          counting_solves = solves.sort_by { |v| v > 0 ? 0 : 1 }[1...-1]
           counting_solves
-            .select { |solve| solve > 0 }
+            .select { |solve| solve > 0 } # tylko ukończone
             .map { |solve| [solve, result["person_link"], result["results_link"]] }
         end
-        .sort_by! { |solve, person_link, results_link| solve }
+        .sort_by { |solve, person_link, results_link| solve }
         .first(10)
-        .map! do |solve, person_link, results_link|
+        .map do |solve, person_link, results_link|
           solve_time = SolveTime.new(event_id, :single, solve)
           [solve_time.clock_format, person_link, results_link]
         end
