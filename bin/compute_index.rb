@@ -13,4 +13,5 @@ list = STATISTICS
 
 destination_path = File.join(build_path, "README.md")
 File.write(destination_path, ("All statistics are computed only for competitors from Poland/Polish competitions.\n\n" + list))
+File.write(destination_path, ("This information is based on competition results owned and maintained by the World Cube Assocation, published at https://worldcubeassociation.org as of #{Time.now.strftime("%B %d, %Y")}."))
 puts "File generated at #{destination_path}"
