@@ -6,7 +6,7 @@ module Database
   DATABASE_CONFIG_PATH = File.expand_path("../database.yml", __dir__)
   DATABASE_CONFIG = YAML.load_file(DATABASE_CONFIG_PATH)
   DATABASE_CONFIG["init_command"] = "SET SESSION group_concat_max_len=4096;"
-  REQUIRED_TABLES = %w(
+  DEV_TABLES = %w(
     championships
     competitions
     competition_delegates
@@ -17,8 +17,6 @@ module Database
     formats
     persons
     preferred_formats
-    ranks_single
-    ranks_average
     results
     result_attempts
     round_types
@@ -29,6 +27,11 @@ module Database
     bookmarked_competitions
     registrations
   )
+  RESULTS_TABLES = %w(
+    ranks_single
+    ranks_average
+  )
+  REQUIRED_TABLES = DEV_TABLES + RESULTS_TABLES
   INDICES = [
     "CREATE INDEX index_Results_on_competitionId_personId ON results (competition_id, person_id);",
   ]
