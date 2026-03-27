@@ -20,6 +20,7 @@ class MostCompletedSolvesAtOneCompetition < Statistic
         AND person.sub_id = 1
       JOIN competitions competition 
         ON competition.id = r.competition_id
+      WHERE r.country_id = 'Poland'
       GROUP BY person.wca_id, competition.id
       ORDER BY completed_count DESC
       LIMIT 20
