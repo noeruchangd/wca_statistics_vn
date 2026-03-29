@@ -48,8 +48,8 @@ class MostDelegatedWithAnotherDelegate < GroupedStatistic
       sorted = partners.sort_by { |_, count| -count }
       table_rows = sorted.map { |partner, count| [partner, count] }
       total = all_delegate_comps[delegate].size
-      Vietnamese = pl_delegate_comps[delegate].size
-      decorated_name = "#{delegate}\n_Total delegated competitions: #{total} (#{Vietnamese} in Vietnam)_"
+      vietnamese = pl_delegate_comps[delegate].size
+      decorated_name = "#{delegate}\n_Total delegated competitions: #{total} (#{vietnamese} in Vietnam)_"
       [decorated_name, table_rows]
     end.sort_by { |delegate, _| delegate }
   end
