@@ -60,7 +60,7 @@ FROM
 JOIN 
     competition_delegates cd ON cd.competition_id = c.id
 JOIN 
-    users d ON cd.delegate_id = d.id AND d.country_iso2 = 'PL'
+    users d ON cd.delegate_id = d.id AND d.country_iso2 = 'VN'
 WHERE 
     c.results_submitted_at IS NOT NULL
     AND c.country_id NOT IN ('XA', 'XE', 'XF', 'XM', 'XN', 'XO', 'XS', 'XW')

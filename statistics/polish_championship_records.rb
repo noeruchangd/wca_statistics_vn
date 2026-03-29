@@ -22,7 +22,7 @@ class VietnameseChampionshipRecords < GroupedStatistic
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = person.country_id
       JOIN championships ON championships.competition_id = results.competition_id
-      WHERE championship_type = 'PL'
+      WHERE championship_type = 'VN'
     SQL
   end
 

@@ -15,7 +15,7 @@ class MostDelegatedWithAnotherDelegate < GroupedStatistic
         users.name AS delegate_name,
         users.wca_id AS wca_id
       FROM competition_delegates
-      JOIN users ON users.id = competition_delegates.delegate_id AND users.country_iso2 = 'PL'
+      JOIN users ON users.id = competition_delegates.delegate_id AND users.country_iso2 = 'VN'
       JOIN competitions ON competitions.id = competition_delegates.competition_id
       WHERE competitions.results_posted_at IS NOT NULL
     SQL

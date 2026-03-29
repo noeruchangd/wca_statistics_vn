@@ -27,7 +27,7 @@ class VietnameseChampionshipPodiumsByPerson < Statistic
           AND round_type_id IN ('c', 'f')
           AND best > 0
           AND result.country_id = 'Vietnam'
-          AND championship_type = 'PL'
+          AND championship_type = 'VN'
         GROUP BY person_id
       ) AS medals_by_country
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1
