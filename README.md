@@ -1,4 +1,4 @@
-All statistics are computed only for competitors from Poland/Polish competitions.
+All statistics are computed only for competitors from Vietnam/Vietnamese competitions.
 
 - [Average event count by competition](average_event_count_by_competition)
 - [Average of 5](average_of_5)
