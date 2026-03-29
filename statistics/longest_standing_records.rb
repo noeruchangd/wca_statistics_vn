@@ -21,7 +21,7 @@ class LongestStandingRecords < GroupedStatistic
         event_id,
         continent.name continent
       FROM results result
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = result.country_id
       JOIN continents continent ON continent.id = country.continent_id
@@ -33,7 +33,7 @@ class LongestStandingRecords < GroupedStatistic
 
   def transform(query_results)
     {
-      "Poland" => %w(NR)
+      "Vietnam" => %w(NR)
     }.map do |region, record_ids|
       results = %w(single average).flat_map do |type|
         query_results

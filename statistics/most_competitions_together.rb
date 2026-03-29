@@ -14,7 +14,7 @@ class MostCompetitionsTogether < Statistic
         p.name
       FROM results r
       JOIN persons p ON r.person_id = p.wca_id
-      WHERE p.country_id = 'Poland'
+      WHERE p.country_id = 'Vietnam'
     SQL
   end
 

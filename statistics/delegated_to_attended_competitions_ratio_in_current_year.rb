@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class DelegatedToAttendedCompetitionsRatioInCurrentYear < Statistic
   def initialize
-    @title = "Delegated to attended competition ratio in the current year (Poland)"
+    @title = "Delegated to attended competition ratio in the current year (Vietnam)"
     @table_header = {
       "Delegated" => :right,
       "Attended" => :right,
@@ -40,10 +40,10 @@ class DelegatedToAttendedCompetitionsRatioInCurrentYear < Statistic
           COUNT(DISTINCT competition_id) AS attended_count
         FROM results
         WHERE competition_id LIKE CONCAT('%', YEAR(CURDATE()))
-          AND country_id = "Poland"
+          AND country_id = "Vietnam"
         GROUP BY person_id
       ) AS attended ON attended.person_id = users.wca_id
-      JOIN persons person ON person.wca_id = users.wca_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = users.wca_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       ORDER BY ratio DESC, delegated_count DESC
     SQL
   end

@@ -27,7 +27,7 @@ class DelegatedCompetitionPerYear < Statistic
         GROUP BY delegate_id
       ) AS delegated_count_by_user
       JOIN users user ON user.id = delegate_id
-      JOIN persons person ON person.wca_id = user.wca_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = user.wca_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       WHERE delegated_count >= 3
       ORDER BY delegated_per_year DESC
     SQL

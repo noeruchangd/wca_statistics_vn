@@ -1,8 +1,8 @@
 require_relative "../core/statistic"
 
-class PolishChampionshipPodiumsByPerson < Statistic
+class VietnameseChampionshipPodiumsByPerson < Statistic
   def initialize
-    @title = "Polish Championship podiums by person"
+    @title = "Vietnamese Championship podiums by person"
     @table_header = { "Person" => :left, "Gold" => :center, "Silver" => :center, "Bronze" => :center, "Total" => :center }
   end
 
@@ -26,7 +26,7 @@ class PolishChampionshipPodiumsByPerson < Statistic
         WHERE 1
           AND round_type_id IN ('c', 'f')
           AND best > 0
-          AND result.country_id = 'Poland'
+          AND result.country_id = 'Vietnam'
           AND championship_type = 'PL'
         GROUP BY person_id
       ) AS medals_by_country

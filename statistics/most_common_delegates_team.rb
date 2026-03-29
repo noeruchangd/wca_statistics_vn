@@ -2,8 +2,8 @@ require_relative "../core/statistic"
 
 class MostCommonDelegatesTeam < Statistic
   def initialize
-    @title = "Most common delegate teams in Poland"
-    @note = "This statistic shows the most common teams of delegates in Poland. It is based on the number of competitions where the exact team of delegates was listed."
+    @title = "Most common delegate teams in Vietnam"
+    @note = "This statistic shows the most common teams of delegates in Vietnam. It is based on the number of competitions where the exact team of delegates was listed."
     @table_header = { "Number of competitions" => :left, "Team": :left }
   end
 
@@ -20,7 +20,7 @@ class MostCommonDelegatesTeam < Statistic
           FROM competition_delegates
           JOIN users ON users.id = competition_delegates.delegate_id
           JOIN competitions ON competitions.id = competition_delegates.competition_id
-          WHERE competitions.results_posted_at IS NOT NULL AND competitions.country_id = 'Poland'
+          WHERE competitions.results_posted_at IS NOT NULL AND competitions.country_id = 'Vietnam'
           GROUP BY competition_id
         )
         SELECT

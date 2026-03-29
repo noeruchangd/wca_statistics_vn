@@ -23,7 +23,7 @@ class MostDaysPotentiallySpentAtCompetitions < Statistic
         FROM results r
         JOIN competitions c ON r.competition_id = c.id
         JOIN persons p ON r.person_id = p.wca_id
-        WHERE p.country_id = 'Poland' AND p.sub_id = 1
+        WHERE p.country_id = 'Vietnam' AND p.sub_id = 1
       ) AS unique_participations
       GROUP BY name, person_id
       HAVING total_days > 200

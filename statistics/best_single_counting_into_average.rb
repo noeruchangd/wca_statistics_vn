@@ -24,7 +24,7 @@ class BestSingleCountingIntoAverage < GroupedStatistic
       JOIN persons person 
         ON person.wca_id = r.person_id 
         AND person.sub_id = 1 
-        AND person.country_id = 'Poland'
+        AND person.country_id = 'Vietnam'
       JOIN competitions competition 
         ON competition.id = r.competition_id
       WHERE r.format_id = 'a'

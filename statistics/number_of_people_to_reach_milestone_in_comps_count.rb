@@ -3,14 +3,14 @@ require_relative "../core/statistic"
 class NumberOfPeopleToReachMilestoneInCompsCount < Statistic
   def initialize
     @title = "Number of people to reach milestone in competitions count"
-    @note = "Only Polish competitors are taken into account."
+    @note = "Only Vietnamese competitors are taken into account."
     @table_header = { "Competitions" => :left, "Persons" => :right }
   end
 
   def query
     <<-SQL
       WITH t AS (
-        SELECT person_id AS id, COUNT(DISTINCT competition_id) AS comps FROM results WHERE results.country_id="Poland" GROUP BY person_id
+        SELECT person_id AS id, COUNT(DISTINCT competition_id) AS comps FROM results WHERE results.country_id="Vietnam" GROUP BY person_id
       )
       SELECT '>= 1' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 1 UNION ALL
       SELECT '>= 50' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 50 UNION ALL

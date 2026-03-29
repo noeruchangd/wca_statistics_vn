@@ -55,7 +55,7 @@ class MostAttendedCompetitionsInSingleMonthUnique < Statistic
         rc.competitions_year,
         rc.competition_links
       FROM ranked_competitions rc
-      JOIN persons p ON p.wca_id = rc.person_id AND p.sub_id = 1 AND p.country_id = 'Poland'
+      JOIN persons p ON p.wca_id = rc.person_id AND p.sub_id = 1 AND p.country_id = 'Vietnam'
       WHERE rc.rn = 1 AND rc.attended_within_month >= 4
       ORDER BY rc.attended_within_month DESC, p.name
     SQL

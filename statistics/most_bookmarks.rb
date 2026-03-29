@@ -16,7 +16,7 @@ class MostBookmarks < Statistic
       FROM bookmarked_competitions AS bc 
       JOIN competitions AS c ON bc.competition_id = c.id 
       WHERE competitor_limit_enabled = true 
-        AND c.country_id = "Poland"
+        AND c.country_id = "Vietnam"
       GROUP BY competition_id, c.name, competitor_limit
       HAVING COUNT(*) > 0
       ORDER BY bookmark_ratio DESC

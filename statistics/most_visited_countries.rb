@@ -22,7 +22,7 @@ class MostVisitedCountries < Statistic
         GROUP BY person_id
         ORDER BY visited_countries DESC
       ) AS visited_countries_by_person
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       HAVING visited_countries >= 5
       ORDER BY visited_countries DESC
     SQL

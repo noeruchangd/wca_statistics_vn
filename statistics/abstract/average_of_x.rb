@@ -37,7 +37,7 @@ class AverageOfX < GroupedStatistic
       -- Take people from top 200 single for optimization reasons.
       WHERE ranks_single.country_rank <= 200
         AND r.event_id NOT IN ('333mbf', '333mbo')
-        AND r.country_id='Poland'
+        AND r.country_id='Vietnam'
       ORDER BY competition.start_date, round_type.rank, ra.attempt_number
     SQL
   end

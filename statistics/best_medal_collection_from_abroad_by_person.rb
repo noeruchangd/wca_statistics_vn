@@ -27,7 +27,7 @@ class BestMedalCollectionFromAbroadByPerson < Statistic
           AND round_type_id IN ('c', 'f')
           AND best > 0
           AND competition.country_id != result.country_id
-          AND result.country_id = 'Poland'
+          AND result.country_id = 'Vietnam'
         GROUP BY person_id
       ) AS medals_by_country
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1

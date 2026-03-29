@@ -3,7 +3,7 @@ require_relative "../core/grouped_statistic"
 class MostDelegatedWithAnotherDelegate < GroupedStatistic
   def initialize
     @title = "Most delegated competitions with another delegate"
-    @note = "Shows how many times each delegate has co-delegated with others. Only Polish delegates are included, and only competitions that have taken place in Poland and have results posted are considered."
+    @note = "Shows how many times each delegate has co-delegated with others. Only Vietnamese delegates are included, and only competitions that have taken place in Vietnam and have results posted are considered."
     @table_header = { "Co-delegate" => :left, "Count" => :right }
   end
 
@@ -30,7 +30,7 @@ class MostDelegatedWithAnotherDelegate < GroupedStatistic
       rows.map do |r|
         key = "[#{r["delegate_name"]}](https://www.worldcubeassociation.org/persons/#{r["wca_id"]})"
         all_delegate_comps[key] << r["competition_id"]
-        pl_delegate_comps[key] << r["competition_id"] if r["country_id"] == "Poland"
+        pl_delegate_comps[key] << r["competition_id"] if r["country_id"] == "Vietnam"
         { name: r["delegate_name"], link: key }
       end
     end
@@ -48,8 +48,8 @@ class MostDelegatedWithAnotherDelegate < GroupedStatistic
       sorted = partners.sort_by { |_, count| -count }
       table_rows = sorted.map { |partner, count| [partner, count] }
       total = all_delegate_comps[delegate].size
-      polish = pl_delegate_comps[delegate].size
-      decorated_name = "#{delegate}\n_Total delegated competitions: #{total} (#{polish} in Poland)_"
+      Vietnamese = pl_delegate_comps[delegate].size
+      decorated_name = "#{delegate}\n_Total delegated competitions: #{total} (#{Vietnamese} in Vietnam)_"
       [decorated_name, table_rows]
     end.sort_by { |delegate, _| delegate }
   end

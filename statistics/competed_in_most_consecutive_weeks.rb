@@ -4,7 +4,7 @@ require "date"
 class CompetedInMostConsecutiveWeeks < Statistic
   def initialize
     @title = "Most consecutive weeks with competitions"
-    @note = "Only includes people from Poland. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one."
+    @note = "Only includes people from Vietnam. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one."
     @table_header = {
       "Count" => :right,
       "Person" => :left,
@@ -22,7 +22,7 @@ class CompetedInMostConsecutiveWeeks < Statistic
         competition.name competition_name,
         competition.start_date
       FROM results
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       JOIN competitions competition ON competition.id = competition_id
     SQL
   end

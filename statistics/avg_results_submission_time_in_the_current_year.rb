@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class AvgResultsSubmissionTimeInTheCurrentYear < Statistic
   def initialize
-    @title = "Average results submission time in the current year by Polish delegates"
+    @title = "Average results submission time in the current year by Vietnamese delegates"
     @table_header = { "Delegate" => :right, "Average time" => :left, "Total delegated" => :right }
   end
 

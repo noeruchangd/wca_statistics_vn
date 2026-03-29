@@ -27,7 +27,7 @@ class PotentiallySeenWorldRecords < Statistic
         ) AS wrs_count_by_competition ON person_with_competition.competition_id = wrs_count_by_competition.competition_id
         GROUP BY person_id
       ) AS potentially_seen_wrs_count_by_person
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       ORDER BY potentially_seen_wrs_count DESC
       LIMIT 100
     SQL

@@ -2,7 +2,7 @@ require_relative "../core/grouped_statistic"
 
 class AvgCompsNumberOfDelegates < GroupedStatistic
   def initialize
-    @title = "Average number of competitions of listed delegates at Polish competitions by number of delegates"
+    @title = "Average number of competitions of listed delegates at Vietnamese competitions by number of delegates"
     @note = "Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated."
     @table_header = {
       "Competition" => :left,
@@ -30,7 +30,7 @@ class AvgCompsNumberOfDelegates < GroupedStatistic
           c.end_date
         FROM competition_delegates cd
         JOIN competitions c ON c.id = cd.competition_id
-        WHERE c.country_id = 'Poland'
+        WHERE c.country_id = 'Vietnam'
           AND c.cancelled_at IS NULL
           AND c.results_posted_at IS NOT NULL
       ),

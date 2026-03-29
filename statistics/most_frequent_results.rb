@@ -15,7 +15,7 @@ class MostFrequentResults < GroupedStatistic
       FROM results r
       JOIN result_attempts ra ON ra.result_id = r.id
       WHERE r.event_id != '333mbo'
-        AND r.country_id = 'Poland'
+        AND r.country_id = 'Vietnam'
     SQL
   end
 

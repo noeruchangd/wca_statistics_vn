@@ -2,9 +2,9 @@ require_relative "../core/statistic"
 
 class MinxTo333 < Statistic
   def initialize
-    @title = "Megaminx results compared to 3x3 (Poland)"
+    @title = "Megaminx results compared to 3x3 (Vietnam)"
     @table_header = { "Person" => :left, "Megaminx" => :right, "3x3" => :right, "Ratio" => :right }
-    @note = "This statistic compares the best Megaminx average to the best 3x3 average for Polish competitors."
+    @note = "This statistic compares the best Megaminx average to the best 3x3 average for Vietnamese competitors."
   end
 
   def query
@@ -20,7 +20,7 @@ class MinxTo333 < Statistic
           ranks_average b ON a.person_id = b.person_id
       JOIN persons p ON a.person_id = p.wca_id
       WHERE 
-          a.event_id = 'minx' AND b.event_id = '333' AND p.country_id = "Poland" AND p.sub_id = 1
+          a.event_id = 'minx' AND b.event_id = '333' AND p.country_id = "Vietnam" AND p.sub_id = 1
       ORDER BY ROUND(a.best / b.best, 3)
       LIMIT 20;
     SQL

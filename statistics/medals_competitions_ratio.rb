@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class MedalsCompetitionsRatio < Statistic
   def initialize
     @title = "Medals to competitions ratio"
-    @note = "Only Polish competitors included"
+    @note = "Only Vietnamese competitors included"
     @table_header = { "Person" => :left, "Medals" => :right, "Competitions" => :right, "Ratio" => :right }
   end
 
@@ -23,7 +23,7 @@ FROM (
   GROUP BY person_id
 ) AS stats
 JOIN persons person ON person.wca_id = stats.person_id AND person.sub_id = 1
-WHERE person.country_id = 'Poland'
+WHERE person.country_id = 'Vietnam'
   AND stats.competitions > 0
   AND (stats.medals / stats.competitions) > 2
 ORDER BY CAST(ratio AS DECIMAL(10,2)) DESC, stats.medals DESC, stats.competitions ASC, person.name

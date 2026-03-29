@@ -26,7 +26,7 @@ class Rankings < GroupedStatistic
       JOIN persons person 
         ON person.wca_id = r.person_id 
         AND person.sub_id = 1 
-        AND person.country_id = 'Poland'
+        AND person.country_id = 'Vietnam'
       JOIN countries country ON country.id = person.country_id
       JOIN competitions competition ON competition.id = r.competition_id
       #{@condition}

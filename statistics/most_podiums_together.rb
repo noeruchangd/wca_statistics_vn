@@ -14,7 +14,7 @@ class MostPodiumsTogether < GroupedStatistic
           ORDER BY person.name
         ) people
       FROM results
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Poland'
+      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       JOIN round_types round_type ON round_type.id = round_type_id
       WHERE 1
         AND round_type.final = 1

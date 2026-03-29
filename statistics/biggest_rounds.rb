@@ -4,7 +4,7 @@ require_relative "../core/solve_time"
 
 class BiggestRounds < GroupedStatistic
   def initialize
-    @title = "Biggest rounds in Poland"
+    @title = "Biggest rounds in Vietnam"
     @table_header = { "Number of competitors" => :right, "Competition": :left }
   end
 
@@ -16,7 +16,7 @@ class BiggestRounds < GroupedStatistic
         COUNT(*) as competitors
       FROM results
       JOIN competitions competition ON competition.id = competition_id
-      WHERE competition.country_id = 'Poland'
+      WHERE competition.country_id = 'Vietnam'
       GROUP BY event_id, competition_id, round_type_id
       ORDER BY competitors DESC
     SQL

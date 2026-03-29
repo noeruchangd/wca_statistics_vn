@@ -23,7 +23,7 @@ class BestPotentialFmcMean < Statistic
         FROM results r
         JOIN result_attempts ra ON ra.result_id = r.id
         WHERE r.event_id = '333fm'
-          AND r.country_id = 'Poland'
+          AND r.country_id = 'Vietnam'
           AND ra.attempt_number IN (1,2,3)
         GROUP BY r.competition_id, r.round_type_id
       ) AS best_attempts_by_competition_and_round
