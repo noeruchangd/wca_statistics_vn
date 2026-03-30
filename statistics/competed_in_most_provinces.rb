@@ -15,6 +15,7 @@ class CompetedInMostProvinces < Statistic
     }
     
     @factory = RGeo::Geos.supported? ? RGeo::Geos.factory(srid: 4326) : RGeo::Cartesian.preferred_factory(srid: 4326)
+    @province_cache = {} # lưu kết quả lat/lon đã tính rồi
     load_vietnam_provinces
   end
 
@@ -52,14 +53,21 @@ class CompetedInMostProvinces < Statistic
 
   def transform(results)
     person_competitions = Hash.new { |h, k| h[k] = { name: "", province_names: Set.new, history: [] } }
+    
+    competition_to_province = {}
+    results.each do |r|
+      comp_id = r["competition_id"]
+      unless competition_to_province.key?(comp_id)
+        competition_to_province[comp_id] = province_for(r["lat"], r["lon"])
+      end
+    end
+
     sorted_results = results.sort_by { |r| r["end_date"] }
 
     sorted_results.each do |r|
       wca_id = r["wca_id"]
-      lat = r["lat"]
-      lon = r["lon"]
+      province = competition_to_province[r["competition_id"]]
       
-      province = province_for(lat, lon)
       next unless province
 
       unless person_competitions[wca_id][:province_names].include?(province)
@@ -100,9 +108,13 @@ class CompetedInMostProvinces < Statistic
   def province_for(lat, lon)
     return nil if @provinces_geojson.empty?
     
+    cache_key = "#{lat},#{lon}"
+    return @province_cache[cache_key] if @province_cache.key?(cache_key)
+
     point = @factory.point(lon, lat)
     feature = @provinces_geojson.find { |f| f.geometry.contains?(point) }
-    province_name(feature) if feature
+    
+    @province_cache[cache_key] = feature ? province_name(feature) : nil
   end
 
   def province_name(feature)
