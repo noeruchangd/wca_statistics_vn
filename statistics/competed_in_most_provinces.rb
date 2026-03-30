@@ -22,7 +22,8 @@ class CompetedInMostProvinces < Statistic
     path = File.expand_path("../data/geojson-vietnam-34.geojson", __dir__)
     if File.exist?(path)
       file_content = File.read(path)
-      @provinces_geojson = RGeo::GeoJSON.decode(file_content, json_parser: :json, factory: @factory)
+      decoded = RGeo::GeoJSON.decode(file_content, json_parser: :json, factory: @factory)
+      @provinces_geojson = decoded ? decoded.to_a : []
       @all_province_names = @provinces_geojson.map { |f| province_name(f) }.compact.sort
     else
       @provinces_geojson = []
