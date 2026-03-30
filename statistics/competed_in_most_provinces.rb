@@ -15,7 +15,7 @@ class CompetedInMostProvinces < Statistic
     }
     
     @factory = RGeo::Geos.supported? ? RGeo::Geos.factory(srid: 4326) : RGeo::Cartesian.preferred_factory(srid: 4326)
-    @province_cache = {} # lưu kết quả lat/lon đã tính rồi
+    @province_cache = {}
     load_vietnam_provinces
   end
 
@@ -25,10 +25,14 @@ class CompetedInMostProvinces < Statistic
       file_content = File.read(path)
       decoded = RGeo::GeoJSON.decode(file_content, json_parser: :json, factory: @factory)
       @provinces_geojson = decoded ? decoded.to_a : []
-      @all_province_names = @provinces_geojson.map { |f| province_name(f) }.compact.sort
+      
+      @spatial_index = RGeo::Cartesian::Analysis.spatial_index(@provinces_geojson.map(&:geometry))
+      @all_province_names = @provinces_geojson.map { |f| province_name(f) }.compact.uniq.sort
+
     else
       @provinces_geojson = []
       @all_province_names = []
+      @spatial_index = nil
       puts "Warning: GeoJSON file not found at #{path}"
     end
   end
@@ -48,6 +52,7 @@ class CompetedInMostProvinces < Statistic
       JOIN competitions c ON c.id = r.competition_id
       WHERE c.country_id = 'Vietnam'
       GROUP BY p.wca_id, c.id
+      ORDER BY c.end_date ASC
     SQL
   end
 
@@ -55,16 +60,13 @@ class CompetedInMostProvinces < Statistic
     person_competitions = Hash.new { |h, k| h[k] = { name: "", province_names: Set.new, history: [] } }
     
     competition_to_province = {}
-    results.each do |r|
-      comp_id = r["competition_id"]
-      unless competition_to_province.key?(comp_id)
-        competition_to_province[comp_id] = province_for(r["lat"], r["lon"])
-      end
+    unique_comps = results.uniq { |r| r["competition_id"] }
+    
+    unique_comps.each do |r|
+      competition_to_province[r["competition_id"]] = province_for(r["lat"], r["lon"])
     end
 
-    sorted_results = results.sort_by { |r| r["end_date"] }
-
-    sorted_results.each do |r|
+    results.each do |r|
       wca_id = r["wca_id"]
       province = competition_to_province[r["competition_id"]]
       
@@ -74,20 +76,20 @@ class CompetedInMostProvinces < Statistic
         person_competitions[wca_id][:history] << {
           province: province,
           competition_id: r["competition_id"],
-          competition_name: r["competition_name"],
-          end_date: r["end_date"]
+          competition_name: r["competition_name"]
         }
+        person_competitions[wca_id][:province_names] << province
       end
-
-      person_competitions[wca_id][:name] = r["name"]
-      person_competitions[wca_id][:province_names] << province
+      person_competitions[wca_id][:name] ||= r["name"]
     end
 
-    person_competitions.map do |wca_id, data|
-      completed = data[:province_names].to_a.sort
-      missed = @all_province_names - completed
-      completion_info = nil
+    all_provinces_set = @all_province_names.to_set
 
+    person_competitions.map do |wca_id, data|
+      completed_names = data[:province_names]
+      missed = (all_provinces_set - completed_names).to_a.sort
+      
+      completion_info = nil
       if missed.empty? && data[:history].any?
         last = data[:history].last
         completion_info = "[#{last[:competition_name]}](https://www.worldcubeassociation.org/competitions/#{last[:competition_id]})"
@@ -95,7 +97,7 @@ class CompetedInMostProvinces < Statistic
 
       [
         "[#{data[:name]}](https://www.worldcubeassociation.org/persons/#{wca_id})",
-        completed.size,
+        completed_names.size,
         missed.size,
         missed.join(", "),
         completion_info
@@ -106,18 +108,26 @@ class CompetedInMostProvinces < Statistic
   private
 
   def province_for(lat, lon)
-    return nil if @provinces_geojson.empty?
+    return nil if @spatial_index.nil?
     
     cache_key = "#{lat},#{lon}"
     return @province_cache[cache_key] if @province_cache.key?(cache_key)
 
     point = @factory.point(lon, lat)
-    feature = @provinces_geojson.find { |f| f.geometry.contains?(point) }
     
-    @province_cache[cache_key] = feature ? province_name(feature) : nil
+    candidate_geometries = @spatial_index.search(point.envelope)
+    found_geometry = candidate_geometries.find { |g| g.contains?(point) }
+    
+    if found_geometry
+      feature = @provinces_geojson.find { |f| f.geometry == found_geometry }
+      @province_cache[cache_key] = province_name(feature)
+    else
+      @province_cache[cache_key] = nil
+    end
   end
 
   def province_name(feature)
+    return nil unless feature
     feature.properties['ten_tinh'] || feature.properties['NAME_1'] || feature.properties['name']
   end
 end
