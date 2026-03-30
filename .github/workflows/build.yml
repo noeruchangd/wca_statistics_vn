@@ -19,6 +19,10 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
+      - name: Install GEOS
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libgeos-dev
       - name: Build pages
         run: bin/ci.sh
       - name: Deploy

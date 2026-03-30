@@ -14,7 +14,7 @@ class CompetedInMostProvinces < Statistic
       "Completed All At" => :left
     }
     
-    @factory = RGeo::Geos.factory(srid: 4326)
+    @factory = RGeo::Geos.supported? ? RGeo::Geos.factory(srid: 4326) : RGeo::Cartesian.preferred_factory(srid: 4326)
     load_vietnam_provinces
   end
 
