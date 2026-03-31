@@ -106,9 +106,9 @@ Dir.mktmpdir do |tmp_direcory|
         #     all_index_queries += Database::INDICES
         # end
 
-        # table_filename = "#{table_name}.sql"
-        # File.write(table_filename, table_sql)
-        # `#{mysql_with_credentials} #{config["database"]} < #{table_filename} #{filter_out_mysql_warning}`
+        table_filename = "#{table_name}.sql"
+        File.write(table_filename, table_sql)
+        `#{mysql_with_credentials} #{config["database"]} < #{table_filename} #{filter_out_mysql_warning}`
       end
 
       # 3. Filter out non-Vietnamese results
