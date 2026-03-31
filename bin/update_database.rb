@@ -148,20 +148,22 @@ Dir.mktmpdir do |tmp_direcory|
           WHERE p.id IS NULL;
         SQL
 
-        `#{mysql_with_credentials} #{config["database"]} -e #{sql_results} #{filter_out_mysql_warning}`
-        `#{mysql_with_credentials} #{config["database"]} -e #{sql_ranks_single} #{filter_out_mysql_warning}`
-        `#{mysql_with_credentials} #{config["database"]} -e #{sql_ranks_average} #{filter_out_mysql_warning}`
+        `#{mysql_with_credentials} #{config["database"]} -e "#{sql_results}" #{filter_out_mysql_warning}`
+        `#{mysql_with_credentials} #{config["database"]} -e "#{sql_ranks_single}" #{filter_out_mysql_warning}`
+        `#{mysql_with_credentials} #{config["database"]} -e "#{sql_ranks_average}" #{filter_out_mysql_warning}`
       end
 
       # 4. Create indices
       Helpers.timed_task("Creating Indexes on filtered data") do
+        sql_file = "tmp/create_indexes.sql"
+        all_queries = []
         all_index_queries.each do |query|
-          `#{mysql_with_credentials} #{config["database"]} -e #{query} #{filter_out_mysql_warning}`
+          all_queries << query.strip + ";"
         end
 
-        # Custom indices
-        custom_indices_query = Database::INDICES.join("\n")
-        `#{mysql_with_credentials} #{config["database"]} -e #{custom_indices_query} #{filter_out_mysql_warning}`
+        all_queries << Database::INDICES.join("\n")
+        File.write(sql_file, all_queries.join("\n"))
+        system("#{mysql_with_credentials} #{config["database"]} < #{sql_file} #{filter_out_mysql_warning}")
       end
       
       `#{mysql_with_credentials} #{config["database"]} -e "OPTIMIZE TABLE results, ranks_single, ranks_average" #{filter_out_mysql_warning}`
