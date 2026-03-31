@@ -161,14 +161,14 @@ class KinchRankings < Statistic
             ROUND(MAX(CASE WHEN a.event_id = '666' THEN a.kinch_score * 100 END), 2) AS `666`,
             ROUND(MAX(CASE WHEN a.event_id = '777' THEN a.kinch_score * 100 END), 2) AS `777`,
             ROUND(MAX(CASE WHEN a.event_id = '333oh' THEN a.kinch_score * 100 END), 2) AS `333oh`,
-            ROUND(MAX(CASE WHEN a.event_id = 'sq1' THEN a.kinch_score * 100 END), 2) AS sq1,
-            ROUND(MAX(CASE WHEN a.event_id = 'minx' THEN a.kinch_score * 100 END), 2) AS minx,
-            ROUND(MAX(CASE WHEN a.event_id = 'pyram' THEN a.kinch_score * 100 END), 2) AS pyram,
-            ROUND(MAX(CASE WHEN a.event_id = 'skewb' THEN a.kinch_score * 100 END), 2) AS skewb,
-            ROUND(MAX(CASE WHEN a.event_id = 'clock' THEN a.kinch_score * 100 END), 2) AS clock,
+            ROUND(MAX(CASE WHEN a.event_id = 'sq1' THEN a.kinch_score * 100 END), 2) AS `sq1`,
+            ROUND(MAX(CASE WHEN a.event_id = 'minx' THEN a.kinch_score * 100 END), 2) AS `minx`,
+            ROUND(MAX(CASE WHEN a.event_id = 'pyram' THEN a.kinch_score * 100 END), 2) AS `pyram`,
+            ROUND(MAX(CASE WHEN a.event_id = 'skewb' THEN a.kinch_score * 100 END), 2) AS `skewb`,
+            ROUND(MAX(CASE WHEN a.event_id = 'clock' THEN a.kinch_score * 100 END), 2) AS `clock`,
+            ROUND(MAX(CASE WHEN a.event_id = '333bf' THEN a.kinch_score * 100 END), 2) AS `333bf`,
             ROUND(MAX(CASE WHEN a.event_id = '444bf' THEN a.kinch_score * 100 END), 2) AS `444bf`,
             ROUND(MAX(CASE WHEN a.event_id = '555bf' THEN a.kinch_score * 100 END), 2) AS `555bf`,
-            ROUND(MAX(CASE WHEN a.event_id = '333bf' THEN a.kinch_score * 100 END), 2) AS `333bf`,
             ROUND(MAX(CASE WHEN a.event_id = '333fm' THEN a.kinch_score * 100 END), 2) AS `333fm`,
             ROUND(MAX(CASE WHEN a.event_id = '333mbf' THEN a.kinch_score * 100 END), 2) AS `333mbf`
         FROM final f
@@ -180,5 +180,11 @@ class KinchRankings < Statistic
             f.person_id, p.name, f.kinch
         ORDER BY kinch DESC;
     SQL
+  end
+
+  def transform(query_results)
+    query_results.map do |row|
+      [row['person_link'], "%0.2f" % result["kinch"], "%0.2f" % result["333"], "%0.2f" % result["222"], "%0.2f" % result["444"], "%0.2f" % result["555"], "%0.2f" % result["666"], "%0.2f" % result["777"], "%0.2f" % result["333oh"], "%0.2f" % result["sq1"], "%0.2f" % result["minx"], "%0.2f" % result["pyram"], "%0.2f" % result["skewb"], "%0.2f" % result["clock"], "%0.2f" % result["333bf"], "%0.2f" % result["444bf"], "%0.2f" % result["555bf"], "%0.2f" % result["333fm"], "%0.2f" % result["333mbf"]]
+    end
   end
 end
