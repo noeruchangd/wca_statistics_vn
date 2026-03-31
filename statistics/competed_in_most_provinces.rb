@@ -1,6 +1,6 @@
 require_relative "../core/statistic"
-require 'rgeo'
-require 'rgeo-geojson'
+require 'json'
+require 'set'
 
 class CompetedInMostProvinces < Statistic
   def initialize
@@ -14,7 +14,6 @@ class CompetedInMostProvinces < Statistic
       "Completed All At" => :left
     }
     
-    @factory = RGeo::Geos.supported? ? RGeo::Geos.factory(srid: 4326) : RGeo::Cartesian.preferred_factory(srid: 4326)
     @province_cache = {}
     load_vietnam_provinces
   end
@@ -22,18 +21,30 @@ class CompetedInMostProvinces < Statistic
   def load_vietnam_provinces
     path = File.expand_path("../data/geojson-vietnam-34.geojson", __dir__)
     if File.exist?(path)
-      file_content = File.read(path)
-      decoded = RGeo::GeoJSON.decode(file_content, json_parser: :json, factory: @factory)
-      @provinces_geojson = decoded ? decoded.to_a : []
-      
-      @spatial_index = RGeo::Cartesian::Analysis.spatial_index(@provinces_geojson.map(&:geometry))
-      @all_province_names = @provinces_geojson.map { |f| province_name(f) }.compact.uniq.sort
+      json = JSON.parse(File.read(path))
 
+      @provinces = json["features"].map do |f|
+        {
+          name: province_name_raw(f),
+          polygons: extract_polygons(f["geometry"])
+        }
+      end
+
+      @all_province_names = @provinces.map { |p| p[:name] }.compact.uniq.sort
     else
-      @provinces_geojson = []
+      @provinces = []
       @all_province_names = []
-      @spatial_index = nil
-      puts "Warning: GeoJSON file not found at #{path}"
+    end
+  end
+
+  def extract_polygons(geometry)
+    case geometry["type"]
+    when "Polygon"
+      [geometry["coordinates"][0]] # outer ring only
+    when "MultiPolygon"
+      geometry["coordinates"].map { |poly| poly[0] }
+    else
+      []
     end
   end
 
@@ -45,8 +56,8 @@ class CompetedInMostProvinces < Statistic
         c.id AS competition_id,
         c.name AS competition_name,
         c.end_date,
-        c.latitude / 1000000.0 AS lat,
-        c.longitude / 1000000.0 AS lon
+        c.latitude_microdegrees / 1000000.0 AS lat,
+        c.longitude_microdegrees / 1000000.0 AS lon
       FROM results r
       JOIN persons p ON p.wca_id = r.person_id AND p.sub_id = 1 AND p.country_id = 'Vietnam'
       JOIN competitions c ON c.id = r.competition_id
@@ -107,27 +118,46 @@ class CompetedInMostProvinces < Statistic
 
   private
 
+  def point_in_polygon?(x, y, polygon)
+    inside = false
+    n = polygon.length
+
+    j = n - 1
+    (0...n).each do |i|
+      xi, yi = polygon[i]
+      xj, yj = polygon[j]
+
+      intersect = ((yi > y) != (yj > y)) &&
+                  (x < (xj - xi) * (y - yi).to_f / (yj - yi + 1e-12) + xi)
+
+      inside = !inside if intersect
+      j = i
+    end
+
+    inside
+  end
+
   def province_for(lat, lon)
-    return nil if @spatial_index.nil?
-    
     cache_key = "#{lat},#{lon}"
     return @province_cache[cache_key] if @province_cache.key?(cache_key)
 
-    point = @factory.point(lon, lat)
-    
-    candidate_geometries = @spatial_index.search(point.envelope)
-    found_geometry = candidate_geometries.find { |g| g.contains?(point) }
-    
-    if found_geometry
-      feature = @provinces_geojson.find { |f| f.geometry == found_geometry }
-      @province_cache[cache_key] = province_name(feature)
-    else
-      @province_cache[cache_key] = nil
+    result = nil
+
+    @provinces.each do |province|
+      province[:polygons].each do |polygon|
+        if point_in_polygon?(lon, lat, polygon)
+          result = province[:name]
+          break
+        end
+      end
+      break if result
     end
+
+    @province_cache[cache_key] = result
   end
 
-  def province_name(feature)
-    return nil unless feature
-    feature.properties['ten_tinh'] || feature.properties['NAME_1'] || feature.properties['name']
+  def province_name_raw(feature)
+    props = feature["properties"]
+    props["ten_tinh"] || props["NAME_1"] || props["name"]
   end
 end

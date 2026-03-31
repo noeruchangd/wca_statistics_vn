@@ -88,22 +88,79 @@ Dir.mktmpdir do |tmp_direcory|
       # Parse results export for results-only tables (ranks)
       table_sqls.merge!(parse_sql_dump(results_filename, Database::RESULTS_TABLES))
 
+      # Save all index queries for later
+      all_index_queries = []
+
       Database::REQUIRED_TABLES.each do |table_name|
         puts "  - Importing table #{table_name}"
         table_sql = table_sqls[table_name]
+        
         # Get rid of indexes within the table definition in favour of index creations after all the INSERT statements.
-        index_creations = ""
-        table_sql.gsub!(/,\s*KEY (.\\w+.) (\([^)]*\))/m) do
-          index_creations += "CREATE INDEX #{$1} ON #{table_name} #{$2};\n"
+        table_sql.gsub!(/,\s*KEY (.*? )(\([^)]*\))/m) do
+          all_index_queries << "CREATE INDEX #{$1} ON #{table_name} #{$2};"
           ""
         end
-        table_sql += index_creations
+        
         # Custom indices.
-        table_sql += Database::INDICES.join("\n")
+        if table_name == Database::REQUIRED_TABLES.last
+            all_index_queries += Database::INDICES
+        end
+
         table_filename = "#{table_name}.sql"
         File.write(table_filename, table_sql)
         `#{mysql_with_credentials} #{config["database"]} < #{table_filename} #{filter_out_mysql_warning}`
       end
+
+      # 3. Filter out non-Vietnamese results
+      Helpers.timed_task("Filtering data for Vietnam only") do
+        sql_results = <<~SQL
+          CREATE TABLE vn_comp_ids AS 
+          SELECT id FROM competitions WHERE country_id = 'Vietnam';
+
+          CREATE TABLE results_new AS 
+          SELECT * FROM results
+          WHERE person_country_id = 'Vietnam'
+            OR regional_single_record IN ('WR', 'AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR')
+            OR regional_average_record IN ('WR', 'AfR', 'AsR', 'ER', 'NAR', 'OcR', 'SAR')
+            OR competition_id IN (SELECT id FROM vn_comp_ids);
+
+          CREATE TABLE result_attempts_new AS
+          SELECT ra.* FROM result_attempts ra
+          INNER JOIN results_new rn ON ra.result_id = rn.id;
+
+          DROP TABLE result_attempts;
+          DROP TABLE results;
+          DROP TABLE vn_comp_ids;
+
+          ALTER TABLE results_new RENAME TO results;
+          ALTER TABLE result_attempts_new RENAME TO result_attempts;
+        SQL
+        
+        sql_ranks_single = <<~SQL
+          DELETE r FROM ranks_single r 
+          LEFT JOIN persons p ON r.person_id = p.id AND p.country_id = 'Vietnam' 
+          WHERE p.id IS NULL;
+        SQL
+
+        sql_ranks_average = <<~SQL
+          DELETE r FROM ranks_average r 
+          LEFT JOIN persons p ON r.person_id = p.id AND p.country_id = 'Vietnam' 
+          WHERE p.id IS NULL;
+        SQL
+
+        `#{mysql_with_credentials} #{config["database"]} -e "#{sql_results}" #{filter_out_mysql_warning}`
+        `#{mysql_with_credentials} #{config["database"]} -e "#{sql_ranks_single}" #{filter_out_mysql_warning}`
+        `#{mysql_with_credentials} #{config["database"]} -e "#{sql_ranks_average}" #{filter_out_mysql_warning}`
+      end
+
+      # 4. Create indices
+      Helpers.timed_task("Creating Indexes on filtered data") do
+        all_index_queries.each do |query|
+          `#{mysql_with_credentials} #{config["database"]} -e "#{query}" #{filter_out_mysql_warning}`
+        end
+      end
+      
+      `#{mysql_with_credentials} #{config["database"]} -e "OPTIMIZE TABLE results, ranks_single, ranks_average" #{filter_out_mysql_warning}`
     end
 
     # Store the export timestamp
