@@ -155,7 +155,7 @@ Dir.mktmpdir do |tmp_direcory|
 
       # 4. Create indices
       Helpers.timed_task("Creating Indexes on filtered data") do
-        sql_file = "tmp/create_indexes.sql"
+        sql_file = "create_indexes.sql"
         all_queries = []
         all_index_queries.each do |query|
           all_queries << query.strip + ";"
