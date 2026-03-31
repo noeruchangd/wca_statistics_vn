@@ -56,8 +56,8 @@ class CompetedInMostProvinces < Statistic
         c.id AS competition_id,
         c.name AS competition_name,
         c.end_date,
-        c.latitude_microdegrees / 1000000.0 AS lat,
-        c.longitude_microdegrees / 1000000.0 AS lon
+        c.latitude / 1000000.0 AS lat,
+        c.longitude / 1000000.0 AS lon
       FROM results r
       JOIN persons p ON p.wca_id = r.person_id AND p.sub_id = 1 AND p.country_id = 'Vietnam'
       JOIN competitions c ON c.id = r.competition_id
