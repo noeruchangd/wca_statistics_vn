@@ -184,7 +184,7 @@ class KinchRankings < Statistic
 
   def transform(query_results)
     query_results.map do |row|
-      [row['person_link'], "%0.2f" % result["kinch"], "%0.2f" % result["333"], "%0.2f" % result["222"], "%0.2f" % result["444"], "%0.2f" % result["555"], "%0.2f" % result["666"], "%0.2f" % result["777"], "%0.2f" % result["333oh"], "%0.2f" % result["sq1"], "%0.2f" % result["minx"], "%0.2f" % result["pyram"], "%0.2f" % result["skewb"], "%0.2f" % result["clock"], "%0.2f" % result["333bf"], "%0.2f" % result["444bf"], "%0.2f" % result["555bf"], "%0.2f" % result["333fm"], "%0.2f" % result["333mbf"]]
+      [row['person_link'], "%0.2f" % row["kinch"], "%0.2f" % row["333"], "%0.2f" % row["222"], "%0.2f" % row["444"], "%0.2f" % row["555"], "%0.2f" % row["666"], "%0.2f" % row["777"], "%0.2f" % row["333oh"], "%0.2f" % row["sq1"], "%0.2f" % row["minx"], "%0.2f" % row["pyram"], "%0.2f" % row["skewb"], "%0.2f" % row["clock"], "%0.2f" % row["333bf"], "%0.2f" % row["444bf"], "%0.2f" % row["555bf"], "%0.2f" % row["333fm"], "%0.2f" % row["333mbf"]]
     end
   end
 end
