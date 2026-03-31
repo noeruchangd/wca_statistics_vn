@@ -55,7 +55,7 @@ class SumOfRanksAverage < Statistic
         )
 
         SELECT
-            CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
+            CONCAT('[', p.name, '](https://www.worldcubeassociation.org/persons/', p.wca_id, ')') person_link,
             s.sum_rank_avg AS sor_avg,
             COALESCE(MAX(CASE WHEN r.event_id = '333' THEN r.rank_value END), 1) AS `333`,
             COALESCE(MAX(CASE WHEN r.event_id = '222' THEN r.rank_value END), 1) AS `222`,

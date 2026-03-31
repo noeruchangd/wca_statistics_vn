@@ -152,7 +152,7 @@ class KinchRankings < Statistic
         )
 
         SELECT
-            CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
+            CONCAT('[', p.name, '](https://www.worldcubeassociation.org/persons/', p.wca_id, ')') person_link,
             ROUND(f.kinch, 2) as `kinch`,
             ROUND(MAX(CASE WHEN a.event_id = '333' THEN a.kinch_score * 100 END), 2) AS `333`,
             ROUND(MAX(CASE WHEN a.event_id = '222' THEN a.kinch_score * 100 END), 2) AS `222`,

@@ -166,7 +166,9 @@ Dir.mktmpdir do |tmp_direcory|
         system("#{mysql_with_credentials} #{config["database"]} < #{sql_file} #{filter_out_mysql_warning}")
       end
       
-      `#{mysql_with_credentials} #{config["database"]} -e "OPTIMIZE TABLE results, ranks_single, ranks_average" #{filter_out_mysql_warning}`
+      Helpers.timed_task("Optimize database") do
+        `#{mysql_with_credentials} #{config["database"]} -e "OPTIMIZE TABLE results, ranks_single, ranks_average" #{filter_out_mysql_warning}`
+      end
     end
 
     # Store the export timestamp
