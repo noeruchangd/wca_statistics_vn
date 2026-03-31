@@ -184,7 +184,15 @@ class KinchRankings < Statistic
 
   def transform(query_results)
     query_results.map do |row|
-      [row['person_link'], "%0.2f" % row["kinch"], "%0.2f" % row["333"], "%0.2f" % row["222"], "%0.2f" % row["444"], "%0.2f" % row["555"], "%0.2f" % row["666"], "%0.2f" % row["777"], "%0.2f" % row["333oh"], "%0.2f" % row["sq1"], "%0.2f" % row["minx"], "%0.2f" % row["pyram"], "%0.2f" % row["skewb"], "%0.2f" % row["clock"], "%0.2f" % row["333bf"], "%0.2f" % row["444bf"], "%0.2f" % row["555bf"], "%0.2f" % row["333fm"], "%0.2f" % row["333mbf"]]
+      row.map do |cell|
+        if cell.nil?
+            "0.00"
+        elsif cell.is_a?(Numeric) && (cell.is_a?(Float) || cell.to_s.include?('e'))
+          "%.2f" % cell
+        else
+          cell
+        end
+      end
     end
   end
 end
