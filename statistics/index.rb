@@ -4,9 +4,13 @@ def camelize(str)
   str.split('_').map(&:capitalize).join
 end
 
-# Require all statistic files.
-Dir["#{__dir__}/*.rb"].reject { |path| path.end_with?(__FILE__) }.each do |file|
+Dir["#{__dir__}/*.rb"].each do |file|
   require file
   basename = File.basename(file, ".rb")
-  STATISTICS[basename] = Module.const_get(camelize(basename)).new
+  class_name = camelize(basename)
+  begin
+    STATISTICS[basename] = Module.const_get(class_name).new
+  rescue NameError
+    warn "Class #{class_name} not defined in #{file}"
+  end
 end
