@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class LeastNoShows < Statistic
   def initialize
     @title = "Competitions with the least number of no-shows in Vietnam"
-    @note = "This statistic shows the competitions in Vietnam with the least number of no-shows."
+    @note = "This statistic shows the competitions in Vietnam with the least number of no-shows (registered but did not compete in any event of the comp)."
     @table_header = { "Competition" => :left, "Total registered" => :right, "Total competed" => :right, "No-shows" => :right }
   end
 

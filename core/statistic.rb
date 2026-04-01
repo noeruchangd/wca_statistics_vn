@@ -29,7 +29,12 @@ class Statistic
   end
 
   def markdown
-    top + markdown_table(@table_header, data)
+    header_with_index_column = { "#" => :right }.merge(@table_header)
+    data_with_index_column = data.map.with_index(1) do |row, index|
+      [index] + row
+    end
+    # top + markdown_table(@table_header, data)
+    top + markdown_table(header_with_index_column, data_with_index_column)
   end
 
   def markdown_table(header, data)
