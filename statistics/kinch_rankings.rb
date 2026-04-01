@@ -153,24 +153,24 @@ class KinchRankings < Statistic
 
         SELECT
             CONCAT('[', p.name, '](https://www.worldcubeassociation.org/persons/', p.wca_id, ')') person_link,
-            ROUND(f.kinch, 2) as `kinch`,
-            ROUND(MAX(CASE WHEN a.event_id = '333' THEN a.kinch_score * 100 END), 2) AS `333`,
-            ROUND(MAX(CASE WHEN a.event_id = '222' THEN a.kinch_score * 100 END), 2) AS `222`,
-            ROUND(MAX(CASE WHEN a.event_id = '444' THEN a.kinch_score * 100 END), 2) AS `444`,
-            ROUND(MAX(CASE WHEN a.event_id = '555' THEN a.kinch_score * 100 END), 2) AS `555`,
-            ROUND(MAX(CASE WHEN a.event_id = '666' THEN a.kinch_score * 100 END), 2) AS `666`,
-            ROUND(MAX(CASE WHEN a.event_id = '777' THEN a.kinch_score * 100 END), 2) AS `777`,
-            ROUND(MAX(CASE WHEN a.event_id = '333oh' THEN a.kinch_score * 100 END), 2) AS `333oh`,
-            ROUND(MAX(CASE WHEN a.event_id = 'sq1' THEN a.kinch_score * 100 END), 2) AS `sq1`,
-            ROUND(MAX(CASE WHEN a.event_id = 'minx' THEN a.kinch_score * 100 END), 2) AS `minx`,
-            ROUND(MAX(CASE WHEN a.event_id = 'pyram' THEN a.kinch_score * 100 END), 2) AS `pyram`,
-            ROUND(MAX(CASE WHEN a.event_id = 'skewb' THEN a.kinch_score * 100 END), 2) AS `skewb`,
-            ROUND(MAX(CASE WHEN a.event_id = 'clock' THEN a.kinch_score * 100 END), 2) AS `clock`,
-            ROUND(MAX(CASE WHEN a.event_id = '333bf' THEN a.kinch_score * 100 END), 2) AS `333bf`,
-            ROUND(MAX(CASE WHEN a.event_id = '444bf' THEN a.kinch_score * 100 END), 2) AS `444bf`,
-            ROUND(MAX(CASE WHEN a.event_id = '555bf' THEN a.kinch_score * 100 END), 2) AS `555bf`,
-            ROUND(MAX(CASE WHEN a.event_id = '333fm' THEN a.kinch_score * 100 END), 2) AS `333fm`,
-            ROUND(MAX(CASE WHEN a.event_id = '333mbf' THEN a.kinch_score * 100 END), 2) AS `333mbf`
+            FORMAT(f.kinch, 2) as `kinch`,
+            FORMAT(MAX(CASE WHEN a.event_id = '333' THEN a.kinch_score * 100 END), 2) AS `333`,
+            FORMAT(MAX(CASE WHEN a.event_id = '222' THEN a.kinch_score * 100 END), 2) AS `222`,
+            FORMAT(MAX(CASE WHEN a.event_id = '444' THEN a.kinch_score * 100 END), 2) AS `444`,
+            FORMAT(MAX(CASE WHEN a.event_id = '555' THEN a.kinch_score * 100 END), 2) AS `555`,
+            FORMAT(MAX(CASE WHEN a.event_id = '666' THEN a.kinch_score * 100 END), 2) AS `666`,
+            FORMAT(MAX(CASE WHEN a.event_id = '777' THEN a.kinch_score * 100 END), 2) AS `777`,
+            FORMAT(MAX(CASE WHEN a.event_id = '333oh' THEN a.kinch_score * 100 END), 2) AS `333oh`,
+            FORMAT(MAX(CASE WHEN a.event_id = 'sq1' THEN a.kinch_score * 100 END), 2) AS `sq1`,
+            FORMAT(MAX(CASE WHEN a.event_id = 'minx' THEN a.kinch_score * 100 END), 2) AS `minx`,
+            FORMAT(MAX(CASE WHEN a.event_id = 'pyram' THEN a.kinch_score * 100 END), 2) AS `pyram`,
+            FORMAT(MAX(CASE WHEN a.event_id = 'skewb' THEN a.kinch_score * 100 END), 2) AS `skewb`,
+            FORMAT(MAX(CASE WHEN a.event_id = 'clock' THEN a.kinch_score * 100 END), 2) AS `clock`,
+            FORMAT(MAX(CASE WHEN a.event_id = '333bf' THEN a.kinch_score * 100 END), 2) AS `333bf`,
+            FORMAT(MAX(CASE WHEN a.event_id = '444bf' THEN a.kinch_score * 100 END), 2) AS `444bf`,
+            FORMAT(MAX(CASE WHEN a.event_id = '555bf' THEN a.kinch_score * 100 END), 2) AS `555bf`,
+            FORMAT(MAX(CASE WHEN a.event_id = '333fm' THEN a.kinch_score * 100 END), 2) AS `333fm`,
+            FORMAT(MAX(CASE WHEN a.event_id = '333mbf' THEN a.kinch_score * 100 END), 2) AS `333mbf`
         FROM final f
         JOIN persons p 
         ON p.wca_id = f.person_id AND p.sub_id = 1
@@ -178,21 +178,7 @@ class KinchRankings < Statistic
         ON a.person_id = f.person_id
         GROUP BY 
             f.person_id, p.name, f.kinch
-        ORDER BY kinch DESC;
+        ORDER BY f.kinch DESC;
     SQL
-  end
-
-  def transform(query_results)
-    query_results.map do |row|
-      row.map do |cell|
-        if cell.nil?
-            "0.00"
-        elsif cell.is_a?(Numeric) && (cell.is_a?(Float) || cell.to_s.include?('e'))
-          "%.2f" % cell
-        else
-          cell
-        end
-      end
-    end
   end
 end

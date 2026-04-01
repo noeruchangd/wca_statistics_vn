@@ -91,7 +91,7 @@ class CompetedInMostProvinces < Statistic
         }
         person_competitions[wca_id][:province_names] << province
       end
-      person_competitions[wca_id][:name] ||= r["name"]
+      person_competitions[wca_id][:name] = r["name"]
     end
 
     all_provinces_set = @all_province_names.to_set
