@@ -1,109 +1,109 @@
 ## Longest time to achieve sub 10 3x3x3 average
 
-*Updated on 16 October 2025*
+*Updated on  1 April 2026*
 
-| Person | Years |
-| :--- | ---: |
-| [Szymon Moroń](https://www.worldcubeassociation.org/persons/2013MORO01) | 11.90 |
-| [Daniel Jamrużka](https://www.worldcubeassociation.org/persons/2012JAMR01) | 11.50 |
-| [Przemysław Rogalski](https://www.worldcubeassociation.org/persons/2013ROGA02) | 11.31 |
-| [Oskar Kaczmarek](https://www.worldcubeassociation.org/persons/2013KACZ01) | 10.87 |
-| [Franciszek Fidos](https://www.worldcubeassociation.org/persons/2013FIDO01) | 10.14 |
-| [Adam Polkowski](https://www.worldcubeassociation.org/persons/2007POLK01) | 10.08 |
-| [Krzysztof Bober](https://www.worldcubeassociation.org/persons/2013BOBE01) | 9.56 |
-| [Gabriel Marczak](https://www.worldcubeassociation.org/persons/2013MARC03) | 9.47 |
-| [Sebastian Nowicki](https://www.worldcubeassociation.org/persons/2014NOWI01) | 8.39 |
-| [Robert Siniawski](https://www.worldcubeassociation.org/persons/2016SINI01) | 8.22 |
-| [Kacper Grzelakowski](https://www.worldcubeassociation.org/persons/2017GRZE01) | 7.81 |
-| [Mateusz Szwugier](https://www.worldcubeassociation.org/persons/2014SZWU01) | 7.74 |
-| [Mateusz Kanarski](https://www.worldcubeassociation.org/persons/2017KANA04) | 7.51 |
-| [Jakub Tkaczyk](https://www.worldcubeassociation.org/persons/2015TKAC02) | 7.47 |
-| [Joanna Hołdakowska](https://www.worldcubeassociation.org/persons/2016HOLD04) | 7.23 |
-| [Kacper Gałczyk](https://www.worldcubeassociation.org/persons/2014GACZ01) | 7.19 |
-| [Wojciech Kotulski](https://www.worldcubeassociation.org/persons/2015KOTU01) | 7.09 |
-| [Michał Halczuk](https://www.worldcubeassociation.org/persons/2006HALC01) | 7.03 |
-| [Grzegorz Chudzik](https://www.worldcubeassociation.org/persons/2018CHUD02) | 7.03 |
-| [Paweł Duraj](https://www.worldcubeassociation.org/persons/2016DURA09) | 6.88 |
-| [Arkadiusz Żynel](https://www.worldcubeassociation.org/persons/2018ZYNE01) | 6.65 |
-| [Krystian Święch](https://www.worldcubeassociation.org/persons/2016SWIE02) | 6.65 |
-| [Zygmunt Baranowski](https://www.worldcubeassociation.org/persons/2018BARA06) | 6.42 |
-| [Wojciech Szatanowski](https://www.worldcubeassociation.org/persons/2011SZAT01) | 6.32 |
-| [Bartosz Miduch](https://www.worldcubeassociation.org/persons/2019MIDU01) | 6.23 |
-| [Hubert Badocha](https://www.worldcubeassociation.org/persons/2013BADO01) | 6.19 |
-| [Marcin Stachura](https://www.worldcubeassociation.org/persons/2011STAC01) | 6.17 |
-| [Tomasz Cyrklaff](https://www.worldcubeassociation.org/persons/2009CYRK01) | 6.13 |
-| [Piotr Olszewski](https://www.worldcubeassociation.org/persons/2013OLSZ02) | 5.96 |
-| [Mikołaj Tyra](https://www.worldcubeassociation.org/persons/2016TYRA02) | 5.90 |
-| [Bart Sekulski](https://www.worldcubeassociation.org/persons/2013SEKU01) | 5.85 |
-| [Łukasz Gębicz](https://www.worldcubeassociation.org/persons/2013GBIC01) | 5.64 |
-| [Fryderyk Janiak](https://www.worldcubeassociation.org/persons/2016JANI03) | 5.50 |
-| [Maksymilian Piskorowski](https://www.worldcubeassociation.org/persons/2017PISK01) | 5.48 |
-| [Adrian Dębski](https://www.worldcubeassociation.org/persons/2017DEBS01) | 5.48 |
-| [Piotr Kogut](https://www.worldcubeassociation.org/persons/2016KOGU01) | 5.42 |
-| [Dawid Wójcik](https://www.worldcubeassociation.org/persons/2016WOJC04) | 5.42 |
-| [Mikołaj Zubowicz](https://www.worldcubeassociation.org/persons/2015ZUBO01) | 5.40 |
-| [Szymon Juroszek](https://www.worldcubeassociation.org/persons/2017JURO01) | 5.35 |
-| [Mateusz Gabzdyl](https://www.worldcubeassociation.org/persons/2018GABZ01) | 5.29 |
-| [Filip Miazek](https://www.worldcubeassociation.org/persons/2010MIAZ01) | 5.11 |
-| [Ludwik Staniszewski](https://www.worldcubeassociation.org/persons/2017STAN06) | 5.08 |
-| [Jakub Grzybowski](https://www.worldcubeassociation.org/persons/2017GRZY02) | 5.04 |
-| [Mateusz Wasil](https://www.worldcubeassociation.org/persons/2018WASI02) | 4.96 |
-| [Cezary Mach](https://www.worldcubeassociation.org/persons/2018MACH04) | 4.94 |
-| [Konrad Kowalski](https://www.worldcubeassociation.org/persons/2018KOWA05) | 4.91 |
-| [Tomasz Żołnowski](https://www.worldcubeassociation.org/persons/2005ZOLN01) | 4.90 |
-| [Weronika Rogulska](https://www.worldcubeassociation.org/persons/2017ROGU01) | 4.89 |
-| [Maksymilian Misiak](https://www.worldcubeassociation.org/persons/2017MISI01) | 4.87 |
-| [Dawid Jasiński](https://www.worldcubeassociation.org/persons/2014JASI01) | 4.85 |
-| [Kacper Jędrzejuk](https://www.worldcubeassociation.org/persons/2019JEDR01) | 4.83 |
-| [Rafał Waryszak](https://www.worldcubeassociation.org/persons/2013WARY01) | 4.83 |
-| [Artur Kristof](https://www.worldcubeassociation.org/persons/2012KRIS12) | 4.75 |
-| [Aleksander Arefiew](https://www.worldcubeassociation.org/persons/2016AREF01) | 4.75 |
-| [Kalina Jakubowska](https://www.worldcubeassociation.org/persons/2009BRZE01) | 4.69 |
-| [Jan Koziarski](https://www.worldcubeassociation.org/persons/2019KOZI01) | 4.66 |
-| [Szymon Jeziorski](https://www.worldcubeassociation.org/persons/2013JEZI01) | 4.66 |
-| [Maciej Spirydowicz](https://www.worldcubeassociation.org/persons/2020SPIR01) | 4.60 |
-| [Maciej Jabłoński](https://www.worldcubeassociation.org/persons/2017JABL01) | 4.58 |
-| [Adam Pietrzak](https://www.worldcubeassociation.org/persons/2018PIET03) | 4.52 |
-| [Oliwier Tkaczyk](https://www.worldcubeassociation.org/persons/2017TKAC04) | 4.49 |
-| [Maciej Wróblewski](https://www.worldcubeassociation.org/persons/2015WROB01) | 4.45 |
-| [Maciej Hebel](https://www.worldcubeassociation.org/persons/2019HEBE01) | 4.42 |
-| [Bartłomiej Maślanka](https://www.worldcubeassociation.org/persons/2019MASL02) | 4.42 |
-| [Michał Krasowski](https://www.worldcubeassociation.org/persons/2013KRAS02) | 4.35 |
-| [Mateusz Gil](https://www.worldcubeassociation.org/persons/2013GILM01) | 4.29 |
-| [Michał Mlostek](https://www.worldcubeassociation.org/persons/2015MLOS01) | 4.24 |
-| [Filip Szostak](https://www.worldcubeassociation.org/persons/2018SZOS01) | 4.24 |
-| [Michał Cyl](https://www.worldcubeassociation.org/persons/2019CYLM01) | 4.20 |
-| [Mikołaj Kuzia](https://www.worldcubeassociation.org/persons/2019KUZI02) | 4.06 |
-| [Mateusz Fydrych](https://www.worldcubeassociation.org/persons/2011FYDR01) | 3.99 |
-| [Artur Rzegost](https://www.worldcubeassociation.org/persons/2017RZEG01) | 3.97 |
-| [Oskar Matysik](https://www.worldcubeassociation.org/persons/2019MATY01) | 3.97 |
-| [Łukasz Pielczyk](https://www.worldcubeassociation.org/persons/2017PIEL01) | 3.95 |
-| [Tomasz Odelga](https://www.worldcubeassociation.org/persons/2021ODEL01) | 3.89 |
-| [Karol Piskorek](https://www.worldcubeassociation.org/persons/2021PISK01) | 3.87 |
-| [Witold Sołtysik](https://www.worldcubeassociation.org/persons/2015SOLT03) | 3.85 |
-| [Wojciech Knott](https://www.worldcubeassociation.org/persons/2011KNOT01) | 3.83 |
-| [Łukasz Dubicki](https://www.worldcubeassociation.org/persons/2018DUBI01) | 3.76 |
-| [Ignacy Buczek](https://www.worldcubeassociation.org/persons/2013BUCZ01) | 3.76 |
-| [Dominik Górny](https://www.worldcubeassociation.org/persons/2015GORN01) | 3.70 |
-| [Hubert Kwasigroch](https://www.worldcubeassociation.org/persons/2014KWAS01) | 3.70 |
-| [Bartłomiej Krokos](https://www.worldcubeassociation.org/persons/2017KROK01) | 3.62 |
-| [Bartosz Łebkowski](https://www.worldcubeassociation.org/persons/2021LEBK01) | 3.62 |
-| [Antoni Deja](https://www.worldcubeassociation.org/persons/2018DEJA01) | 3.58 |
-| [Cyprian Czuba](https://www.worldcubeassociation.org/persons/2019CZUB01) | 3.56 |
-| [Wojciech Weremczuk](https://www.worldcubeassociation.org/persons/2014WERE01) | 3.53 |
-| [Wojciech Barciaga](https://www.worldcubeassociation.org/persons/2013BARC03) | 3.51 |
-| [Piotr Tokarski](https://www.worldcubeassociation.org/persons/2013TOKA01) | 3.49 |
-| [Igor Kowalczyk](https://www.worldcubeassociation.org/persons/2013KOWA04) | 3.45 |
-| [Oskar Hanuszkiewicz](https://www.worldcubeassociation.org/persons/2018HANU02) | 3.45 |
-| [Aleksandra Bystrova](https://www.worldcubeassociation.org/persons/2021BYST01) | 3.39 |
-| [Kuba Adamczyk](https://www.worldcubeassociation.org/persons/2021ADAM03) | 3.30 |
-| [Olaf Kuźmiński](https://www.worldcubeassociation.org/persons/2018KUZM02) | 3.26 |
-| [Cyprian Doza](https://www.worldcubeassociation.org/persons/2020DOZA01) | 3.26 |
-| [Szymon Grodzki](https://www.worldcubeassociation.org/persons/2020GROD01) | 3.24 |
-| [Łukasz Kurowski](https://www.worldcubeassociation.org/persons/2022KURO01) | 3.24 |
-| [Gracjan Paciorkowski](https://www.worldcubeassociation.org/persons/2021PACI01) | 3.22 |
-| [Krzysztof Boguszewski](https://www.worldcubeassociation.org/persons/2019BOGU01) | 3.22 |
-| [Stanisław Ożyński](https://www.worldcubeassociation.org/persons/2022OZYN01) | 3.16 |
+| # | Person | Years |
+| ---: | :--- | ---: |
+| 1 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 12.28 |
+| 2 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 7.99 |
+| 3 | [Le Van Bao Toan](https://www.worldcubeassociation.org/persons/2017TOAN02) | 7.87 |
+| 4 | [Trần Duy Lợi](https://www.worldcubeassociation.org/persons/2017LOIT01) | 7.55 |
+| 5 | [Hoàng Ngọc Thành](https://www.worldcubeassociation.org/persons/2015THAN05) | 6.96 |
+| 6 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 6.69 |
+| 7 | [Nguyễn Đăng Khoa](https://www.worldcubeassociation.org/persons/2018KHOA01) | 6.67 |
+| 8 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | 6.67 |
+| 9 | [Kiều Gia Thịnh](https://www.worldcubeassociation.org/persons/2018THIN02) | 6.17 |
+| 10 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) | 6.02 |
+| 11 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 5.56 |
+| 12 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 5.44 |
+| 13 | [Vũ Văn Thủy](https://www.worldcubeassociation.org/persons/2019THYV01) | 5.37 |
+| 14 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) | 5.14 |
+| 15 | [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) | 5.02 |
+| 16 | [Lê Thủy Triều](https://www.worldcubeassociation.org/persons/2018TRIE03) | 4.96 |
+| 17 | [Nguyễn Hữu Thông](https://www.worldcubeassociation.org/persons/2017THON01) | 4.93 |
+| 18 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) | 4.91 |
+| 19 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) | 4.56 |
+| 20 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 4.50 |
+| 21 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) | 4.48 |
+| 22 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | 4.22 |
+| 23 | [Lê Anh Tú](https://www.worldcubeassociation.org/persons/2018TULE01) | 3.99 |
+| 24 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 3.98 |
+| 25 | [Đỗ Văn Bằng](https://www.worldcubeassociation.org/persons/2019BANG04) | 3.97 |
+| 26 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 3.95 |
+| 27 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2018DATN04) | 3.95 |
+| 28 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 3.95 |
+| 29 | [Hà Lê Vinh](https://www.worldcubeassociation.org/persons/2018VINH03) | 3.95 |
+| 30 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 3.62 |
+| 31 | [Nguyễn Hữu Duy](https://www.worldcubeassociation.org/persons/2019DUYN02) | 3.56 |
+| 32 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) | 3.33 |
+| 33 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 3.14 |
+| 34 | [Trương Tấn Minh](https://www.worldcubeassociation.org/persons/2022MINH17) | 3.08 |
+| 35 | [Nguyễn Quang Trung](https://www.worldcubeassociation.org/persons/2011NGUY10) | 2.99 |
+| 36 | [Nguyến Danh An Khánh](https://www.worldcubeassociation.org/persons/2019KHAN24) | 2.95 |
+| 37 | [Phạm Đức Thắng](https://www.worldcubeassociation.org/persons/2019THAN09) | 2.95 |
+| 38 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | 2.83 |
+| 39 | [Nguyễn Tùng Dương](https://www.worldcubeassociation.org/persons/2022DUON06) | 2.78 |
+| 40 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 2.74 |
+| 41 | [Châu Ngọc Thắng](https://www.worldcubeassociation.org/persons/2022THAN08) | 2.72 |
+| 42 | [Nguyễn Khôi Nguyên](https://www.worldcubeassociation.org/persons/2020NGUY03) | 2.70 |
+| 43 | [Ngô Ngọc Long](https://www.worldcubeassociation.org/persons/2020LONG03) | 2.70 |
+| 44 | [Hoàng Gia Huy](https://www.worldcubeassociation.org/persons/2023HUYH01) | 2.66 |
+| 45 | [Nguyễn Tuấn Kiên](https://www.worldcubeassociation.org/persons/2023KIEN04) | 2.66 |
+| 46 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 2.59 |
+| 47 | [Nguyễn Việt Long](https://www.worldcubeassociation.org/persons/2023LONG08) | 2.57 |
+| 48 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) | 2.53 |
+| 49 | [Nguyễn Hà My](https://www.worldcubeassociation.org/persons/2020MYNG01) | 2.53 |
+| 50 | [Vũ Hồng Quang](https://www.worldcubeassociation.org/persons/2020QUAN03) | 2.53 |
+| 51 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.41 |
+| 52 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | 2.41 |
+| 53 | [Đỗ Vũ Minh](https://www.worldcubeassociation.org/persons/2018MINH01) | 2.19 |
+| 54 | [Tạ Quang Dũng](https://www.worldcubeassociation.org/persons/2022DUNG05) | 2.18 |
+| 55 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2022THUY01) | 2.18 |
+| 56 | [Vũ Đức Minh](https://www.worldcubeassociation.org/persons/2024MINH02) | 2.15 |
+| 57 | [Hoàng Đức Trí](https://www.worldcubeassociation.org/persons/2024TRIH01) | 2.15 |
+| 58 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 2.13 |
+| 59 | [Phan Trọng Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI04) | 2.13 |
+| 60 | [Tô Kim Thành](https://www.worldcubeassociation.org/persons/2023THAN15) | 2.09 |
+| 61 | [Mai Bảo Minh Quân](https://www.worldcubeassociation.org/persons/2023QUAN07) | 2.09 |
+| 62 | [Hoàng Vũ Kiên](https://www.worldcubeassociation.org/persons/2022KIEN01) | 2.01 |
+| 63 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) | 2.01 |
+| 64 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) | 2.01 |
+| 65 | [Phạm Khoa An](https://www.worldcubeassociation.org/persons/2022ANPH01) | 2.01 |
+| 66 | [Nguyễn Khoa Điền](https://www.worldcubeassociation.org/persons/2022DIEN01) | 1.99 |
+| 67 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 1.93 |
+| 68 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 1.90 |
+| 69 | [Trần Hà Khang](https://www.worldcubeassociation.org/persons/2017KHAN46) | 1.90 |
+| 70 | [Nguyễn Hoàng Minh Trí](https://www.worldcubeassociation.org/persons/2022TRIN06) | 1.86 |
+| 71 | [Võ Nguyên Phát](https://www.worldcubeassociation.org/persons/2020PHAT02) | 1.82 |
+| 72 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | 1.82 |
+| 73 | [Bùi Vĩnh An Tường](https://www.worldcubeassociation.org/persons/2023TUON02) | 1.75 |
+| 74 | [Lào Vĩ Thiên Nhật](https://www.worldcubeassociation.org/persons/2023NHAT05) | 1.75 |
+| 75 | [Lương Minh Xuân Bách](https://www.worldcubeassociation.org/persons/2022BACH02) | 1.72 |
+| 76 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 1.71 |
+| 77 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 1.67 |
+| 78 | [Nguyễn Ngọc Huyền Anh](https://www.worldcubeassociation.org/persons/2019ANHN03) | 1.67 |
+| 79 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | 1.67 |
+| 80 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) | 1.43 |
+| 81 | [La Tường Phong](https://www.worldcubeassociation.org/persons/2023PHON03) | 1.42 |
+| 82 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | 1.36 |
+| 83 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) | 1.32 |
+| 84 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) | 1.32 |
+| 85 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) | 1.19 |
+| 86 | [Nguyễn Xuân Nhàn](https://www.worldcubeassociation.org/persons/2023NHAN03) | 1.19 |
+| 87 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 1.13 |
+| 88 | [Lê Việt Lâm](https://www.worldcubeassociation.org/persons/2024LAML02) | 1.11 |
+| 89 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 1.07 |
+| 90 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) | 1.02 |
+| 91 | [Hoàng Khang Minh](https://www.worldcubeassociation.org/persons/2018MINH16) | 0.99 |
+| 92 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 0.99 |
+| 93 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | 0.99 |
+| 94 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | 0.90 |
+| 95 | [Nguyễn Việt Thành](https://www.worldcubeassociation.org/persons/2024THAN09) | 0.90 |
+| 96 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) | 0.73 |
+| 97 | [Dương Tấn Phát](https://www.worldcubeassociation.org/persons/2023PHAT01) | 0.73 |
+| 98 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 0.71 |
+| 99 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | 0.63 |
+| 100 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 0.61 |
 
 
 <a href="https://github.com/noeruchangd/wca_statistics_vn" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
