@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on  4 April 2026*
+*Updated on  7 April 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
@@ -25,10 +25,10 @@
 | 19 | 8 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) |
 | 20 | 8 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
 | 21 | 7 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) |
-| 22 | 6 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) |
-| 23 | 6 | [Minh Huynh](https://www.worldcubeassociation.org/persons/2023HUYN06) |
-| 24 | 5 | [Khanh Do](https://www.worldcubeassociation.org/persons/2022DOKH01) |
-| 25 | 5 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 22 | 6 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 23 | 6 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) |
+| 24 | 6 | [Minh Huynh](https://www.worldcubeassociation.org/persons/2023HUYN06) |
+| 25 | 5 | [Khanh Do](https://www.worldcubeassociation.org/persons/2022DOKH01) |
 | 26 | 5 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) |
 | 27 | 5 | [Phan Thi Thu Trang](https://www.worldcubeassociation.org/persons/2014TRAN02) |
 

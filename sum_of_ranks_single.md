@@ -1,6 +1,6 @@
 ## Top 200 people with highest sum of national rankings (single) of Vietnamese competitors
 
-*Updated on  4 April 2026*
+*Updated on  7 April 2026*
 
 | # | Person | SoR | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 444bf | 555bf | 333bf | 333fm | 333mbf |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
