@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  7 April 2026*
+*Updated on 10 April 2026*
 
 
 ### Competition
@@ -38,11 +38,11 @@
 | 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1433** | 1467 |
 | 5 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | **1223** | 1251 |
 | 6 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1063** | 1125 |
-| 7 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1016** | 1020 |
-| 8 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1013** | 1049 |
-| 9 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **927** | 953 |
-| 10 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **908** | 963 |
-| 11 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **883** | 891 |
+| 7 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1053** | 1089 |
+| 8 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1016** | 1020 |
+| 9 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **961** | 988 |
+| 10 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **918** | 926 |
+| 11 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **908** | 963 |
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **862** | 870 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **751** | 759 |
@@ -65,8 +65,8 @@
 | 6 | 2018 | **8470** | 8706 |
 | 7 | 2016 | **6126** | 6328 |
 | 8 | 2017 | **5989** | 6129 |
-| 9 | 2020 | **3791** | 3930 |
-| 10 | 2026 | **3266** | 3421 |
+| 9 | 2026 | **5400** | 5599 |
+| 10 | 2020 | **3791** | 3930 |
 | 11 | 2014 | **2832** | 2938 |
 | 12 | 2012 | **2409** | 2574 |
 | 13 | 2015 | **2307** | 2384 |
@@ -80,13 +80,13 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **44943** | 45830 |
-| 2 | 2x2x2 Cube | **23007** | 23586 |
+| 1 | 3x3x3 Cube | **45929** | 46830 |
+| 2 | 2x2x2 Cube | **23456** | 24046 |
 | 3 | 4x4x4 Cube | **14668** | 15064 |
-| 4 | 3x3x3 One-Handed | **13345** | 13703 |
-| 5 | Pyraminx | **7953** | 8159 |
+| 4 | 3x3x3 One-Handed | **13607** | 13971 |
+| 5 | Pyraminx | **8204** | 8414 |
 | 6 | 5x5x5 Cube | **7159** | 7323 |
-| 7 | Skewb | **5525** | 5673 |
+| 7 | Skewb | **5711** | 5868 |
 | 8 | Megaminx | **2188** | 2250 |
 | 9 | Clock | **2081** | 2410 |
 | 10 | Square-1 | **1555** | 1617 |

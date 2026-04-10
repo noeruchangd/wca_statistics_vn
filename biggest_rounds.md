@@ -1,6 +1,6 @@
 ## Biggest rounds in Vietnam
 
-*Updated on  7 April 2026*
+*Updated on 10 April 2026*
 
 
 ### 3x3x3 Cube
@@ -162,10 +162,10 @@
 | 4 | 75 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
 | 5 | 65 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
 | 6 | 58 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
-| 7 | 53 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 8 | 51 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
-| 9 | 49 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 10 | 47 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 7 | 56 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) |
+| 8 | 53 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
+| 9 | 51 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
+| 10 | 49 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
 
 ### Clock
 
@@ -193,9 +193,9 @@
 | 5 | 48 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
 | 6 | 48 | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) |
 | 7 | 45 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 8 | 43 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 9 | 38 | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) |
-| 10 | 38 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
+| 8 | 44 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) |
+| 9 | 43 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
+| 10 | 38 | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) |
 
 ### Square-1
 
