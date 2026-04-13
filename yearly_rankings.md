@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -313,9 +313,9 @@
 | 5 | [Huỳnh Năng Thành](https://www.worldcubeassociation.org/persons/2026THAN01) | **10.52** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 15.14, 10.52, 15.14, 11.87, 19.62 |
 | 6 | [Phạm Thái Bảo](https://www.worldcubeassociation.org/persons/2024BAOP02) | **11.12** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 1:00.30, 13.64, 15.18, 14.36, 11.12 |
 | 7 | [Thanh Trinh](https://www.worldcubeassociation.org/persons/2026TRIN01) | **12.64** | Vietnam | [Bremium Cubing 2026](https://www.worldcubeassociation.org/competitions/BremiumCubing2026) | 17.39, 17.10, 15.26, 14.46, 16.64, 10.89, 12.86, 15.89, 12.64, 10.82 |
-| 8 | [Nguyễn Thế Nhân](https://www.worldcubeassociation.org/persons/2026NHAN02) | **13.06** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 16.64, 13.06, 14.11, 19.36, 20.08 |
-| 9 | [Le Hoang Duy](https://www.worldcubeassociation.org/persons/2026DUYL01) | **13.07** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 20.20, 13.07, 17.22, 19.85, 21.02 |
-| 10 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) | **13.80** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 19.34, 16.45, 13.80, DNF, DNF |
+| 8 | [Mai Nam Viet](https://www.worldcubeassociation.org/persons/2025VIET01) | **13.00** | Vietnam | [Dobřejovice Special 2026](https://www.worldcubeassociation.org/competitions/DobrejoviceSpecial2026) | 20.08, DNF, 23.62, 13.00, 16.69 |
+| 9 | [Nguyễn Thế Nhân](https://www.worldcubeassociation.org/persons/2026NHAN02) | **13.06** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 16.64, 13.06, 14.11, 19.36, 20.08 |
+| 10 | [Le Hoang Duy](https://www.worldcubeassociation.org/persons/2026DUYL01) | **13.07** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 20.20, 13.07, 17.22, 19.85, 21.02 |
 
 ### Skewb - Average
 

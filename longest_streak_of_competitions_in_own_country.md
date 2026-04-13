@@ -1,7 +1,7 @@
 ## Longest streak of competitions in Vietnam
 
 *Note: The streak ends whenever the person doesn't participate in a competition in Vietnam.*
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 | # | Competitions | Person | Started at | Missed |
 | ---: | ---: | :--- | :--- | :--- |

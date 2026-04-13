@@ -1,6 +1,6 @@
 ## Average results submission time in the current year by Vietnamese delegates
 
-*Updated on 10 April 2026*
+*Updated on 13 April 2026*
 
 | # | Delegate | Average time | Total delegated |
 | ---: | ---: | :--- | ---: |
