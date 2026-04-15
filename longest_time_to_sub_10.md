@@ -67,8 +67,8 @@
 | 61 | [Phan Trọng Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI04) | 2.13 |
 | 62 | [Tô Kim Thành](https://www.worldcubeassociation.org/persons/2023THAN15) | 2.09 |
 | 63 | [Mai Bảo Minh Quân](https://www.worldcubeassociation.org/persons/2023QUAN07) | 2.09 |
-| 64 | [Hoàng Vũ Kiên](https://www.worldcubeassociation.org/persons/2022KIEN01) | 2.01 |
-| 65 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) | 2.01 |
+| 64 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) | 2.01 |
+| 65 | [Hoàng Vũ Kiên](https://www.worldcubeassociation.org/persons/2022KIEN01) | 2.01 |
 | 66 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) | 2.01 |
 | 67 | [Phạm Khoa An](https://www.worldcubeassociation.org/persons/2022ANPH01) | 2.01 |
 | 68 | [Nguyễn Khoa Điền](https://www.worldcubeassociation.org/persons/2022DIEN01) | 1.99 |

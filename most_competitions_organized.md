@@ -5,19 +5,19 @@
 | # | Organized | Person |
 | ---: | ---: | :--- |
 | 1 | 16 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) |
-| 2 | 13 | Hiệp hội Rubik Việt Nam |
-| 3 | 12 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
+| 2 | 14 | Hiệp hội Rubik Việt Nam |
+| 3 | 13 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
 | 4 | 9 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) |
 | 5 | 8 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
 | 6 | 7 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) |
 | 7 | 7 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 8 | 7 | Zyorubik |
 | 9 | 5 | Rubik Ocean |
-| 10 | 5 | cubingHCM |
-| 11 | 4 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) |
-| 12 | 4 | [Nguyễn Lê Hoàng](https://www.worldcubeassociation.org/persons/2022HOAN02) |
-| 13 | 4 | [Phạm Huy Phúc](https://www.worldcubeassociation.org/persons/2022PHUC12) |
-| 14 | 4 | Cubing Hanoi |
+| 10 | 5 | [Nguyễn Lê Hoàng](https://www.worldcubeassociation.org/persons/2022HOAN02) |
+| 11 | 5 | Cubing Hanoi |
+| 12 | 5 | cubingHCM |
+| 13 | 4 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) |
+| 14 | 4 | [Phạm Huy Phúc](https://www.worldcubeassociation.org/persons/2022PHUC12) |
 | 15 | 3 | [Chu Hồng Trang](https://www.worldcubeassociation.org/persons/2016TRAN01) |
 | 16 | 3 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) |
 | 17 | 3 | [Nguyễn Công Vinh](https://www.worldcubeassociation.org/persons/2022VINH05) |
