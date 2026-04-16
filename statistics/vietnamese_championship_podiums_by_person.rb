@@ -10,21 +10,26 @@ class VietnameseChampionshipPodiumsByPerson < Statistic
     <<-SQL
       WITH vietnamese_results AS (
         SELECT
-          result.*,
-          ROW_NUMBER() OVER (
-            PARTITION BY result.competition_id, result.event_id, result.round_type_id
-            ORDER BY result.best ASC
+          r.*,
+          r.pos - (
+            SELECT COUNT(*)
+            FROM results r2
+            WHERE
+              r2.competition_id = r.competition_id
+              AND r2.event_id = r.event_id
+              AND r2.round_type_id = r.round_type_id
+              AND r2.pos < r.pos
+              AND r2.country_id != 'Vietnam'
           ) AS vn_rank
-        FROM results result
-        JOIN competitions competition ON competition.id = result.competition_id
-        JOIN championships ON championships.competition_id = result.competition_id
+        FROM results r
+        JOIN competitions competition ON competition.id = r.competition_id
+        JOIN championships ON championships.competition_id = r.competition_id
         WHERE
-          result.country_id = 'Vietnam'
-          AND result.best > 0
-          AND result.round_type_id IN ('c', 'f')
+          r.country_id = 'Vietnam'
+          AND r.round_type_id IN ('c', 'f')
+          AND r.best > 0
           AND championship_type = 'VN'
       )
-
       SELECT
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('**', gold_medals, '**'),
