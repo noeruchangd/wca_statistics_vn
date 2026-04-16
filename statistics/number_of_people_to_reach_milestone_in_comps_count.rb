@@ -13,6 +13,10 @@ class NumberOfPeopleToReachMilestoneInCompsCount < Statistic
         SELECT person_id AS id, COUNT(DISTINCT competition_id) AS comps FROM results WHERE results.country_id="Vietnam" GROUP BY person_id
       )
       SELECT '>= 1' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 1 UNION ALL
+      SELECT '>= 5' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 5 UNION ALL
+      SELECT '>= 10' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 10 UNION ALL
+      SELECT '>= 15' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 15 UNION ALL
+      SELECT '>= 20' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 20 UNION ALL
       SELECT '>= 50' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 50 UNION ALL
       SELECT '>= 100' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 100 UNION ALL
       SELECT '>= 150' AS Competitions, COUNT(id) AS Persons FROM t WHERE comps >= 150 UNION ALL

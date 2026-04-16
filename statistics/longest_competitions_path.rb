@@ -39,7 +39,7 @@ class LongestCompetitionsPath < Statistic
       .map! do |person_link, distance_km|
         [person_link, distance_km.to_s.gsub(/(\d)(?=\d{3}+$)/, '\1 ') + " km"]
       end
-      .first(1000)
+      .first(200)
   end
 end
 

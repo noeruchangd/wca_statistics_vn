@@ -23,8 +23,9 @@ class MostVisitedCountries < Statistic
         ORDER BY visited_countries DESC
       ) AS visited_countries_by_person
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
-      HAVING visited_countries >= 5
+      HAVING visited_countries >= 2
       ORDER BY visited_countries DESC
+      LIMIT 100
     SQL
   end
 end

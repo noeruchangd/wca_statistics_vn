@@ -31,7 +31,7 @@ class MostAttendedCompetitionsInSingleWeek < Statistic
         ) AS results
         JOIN competitions competition ON competition.id = competition_id
         GROUP BY person_id, week_start_date, week_end_date, YEAR(competition.start_date)
-        HAVING attended_within_week >= 3
+        HAVING attended_within_week >= 2
       ) AS comps_within_single_week_by_person
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Vietnam'
       ORDER BY attended_within_week DESC, person.name

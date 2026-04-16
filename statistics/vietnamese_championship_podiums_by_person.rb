@@ -8,6 +8,23 @@ class VietnameseChampionshipPodiumsByPerson < Statistic
 
   def query
     <<-SQL
+      WITH vietnamese_results AS (
+        SELECT
+          result.*,
+          ROW_NUMBER() OVER (
+            PARTITION BY result.competition_id, result.event_id, result.round_type_id
+            ORDER BY result.best ASC
+          ) AS vn_rank
+        FROM results result
+        JOIN competitions competition ON competition.id = result.competition_id
+        JOIN championships ON championships.competition_id = result.competition_id
+        WHERE
+          result.country_id = 'Vietnam'
+          AND result.best > 0
+          AND result.round_type_id IN ('c', 'f')
+          AND championship_type = 'VN'
+      )
+
       SELECT
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
         CONCAT('**', gold_medals, '**'),
@@ -17,17 +34,10 @@ class VietnameseChampionshipPodiumsByPerson < Statistic
       FROM (
         SELECT
           person_id,
-          SUM(IF(pos = 1, 1, 0)) gold_medals,
-          SUM(IF(pos = 2, 1, 0)) silver_medals,
-          SUM(IF(pos = 3, 1, 0)) bronze_medals
-        FROM results result
-        JOIN competitions competition ON competition.id = competition_id
-        JOIN championships ON championships.competition_id = result.competition_id
-        WHERE 1
-          AND round_type_id IN ('c', 'f')
-          AND best > 0
-          AND result.country_id = 'Vietnam'
-          AND championship_type = 'VN'
+          SUM(CASE WHEN vn_rank = 1 THEN 1 ELSE 0 END) gold_medals,
+          SUM(CASE WHEN vn_rank = 2 THEN 1 ELSE 0 END) silver_medals,
+          SUM(CASE WHEN vn_rank = 3 THEN 1 ELSE 0 END) bronze_medals
+        FROM vietnamese_results
         GROUP BY person_id
       ) AS medals_by_country
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1

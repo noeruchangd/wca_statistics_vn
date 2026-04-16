@@ -2,7 +2,7 @@ require_relative "../core/statistic"
 
 class SumOfRanksSingle < Statistic
   def initialize
-    @title = "Top 200 people with highest sum of national rankings (single) of Vietnamese competitors"
+    @title = "Sum of national rankings (single)"
     @table_header = { "Person" => :left, "SoR" => :center, "333" => :center, "222" => :center, "444" => :center, "555" => :center, "666" => :center, "777" => :center, "333oh" => :center, "sq1" => :center, "minx" => :center, "pyram" => :center, "skewb" => :center, "clock" => :center, "444bf" => :center, "555bf" => :center, "333bf" => :center, "333fm" => :center, "333mbf" => :center }
   end
 

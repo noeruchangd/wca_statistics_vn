@@ -1,9 +1,8 @@
 require_relative "../core/statistic"
 
-class LongestStreakOfWorldRecords < Statistic
+class LongestStreakOfNationalRecords < Statistic
   def initialize
-    @title = "Longest streak of world records of the same type in the given event"
-    @note = "There is currently no Vietnamese WR holder or former WR holder."
+    @title = "Longest streak of national records of the same type in the given event"
     @table_header = { "Records" => :right, "Event" => :left, "Type" => :left, "Person" => :left, "Started at" => :left, "Ended at" => :left, "Years" => :right }
   end
 
@@ -21,7 +20,7 @@ class LongestStreakOfWorldRecords < Statistic
       FROM results result
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       JOIN competitions competition ON competition.id = competition_id
-      WHERE (regional_single_record = 'WR' OR regional_average_record = 'WR')
+      WHERE (regional_single_record = 'NR' OR regional_average_record = 'NR')
     SQL
   end
 
@@ -29,7 +28,7 @@ class LongestStreakOfWorldRecords < Statistic
     Events::ALL.flat_map do |event_id, event_name|
       %w(single average).flat_map do |type|
         query_results
-          .select { |result| result["event_id"] == event_id && result["regional_#{type}_record"] == "WR" }
+          .select { |result| result["event_id"] == event_id && result["regional_#{type}_record"] == "NR" }
           .sort_by! { |result| [result["competition_date"], -result[type]] }
           .reduce([]) do |wr_streaks, result|
             current_wrs_streak = wr_streaks.last || {}

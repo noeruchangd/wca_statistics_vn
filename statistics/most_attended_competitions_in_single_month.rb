@@ -31,7 +31,7 @@ class MostAttendedCompetitionsInSingleMonth < Statistic
         ) AS results
         JOIN competitions competition ON competition.id = competition_id
         GROUP BY person_id, YEAR(competition.start_date), month_name
-        HAVING attended_within_month >= 4
+        HAVING attended_within_month >= 2
       ) AS comps_within_single_month_by_person
       JOIN persons person ON person.wca_id = person_id AND sub_id = 1 AND person.country_id = 'Vietnam'
       ORDER BY attended_within_month DESC, person.name
