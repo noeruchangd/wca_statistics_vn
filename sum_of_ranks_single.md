@@ -1,6 +1,6 @@
 ## Top 200 people with highest sum of national rankings (single) of Vietnamese competitors
 
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 | # | Person | SoR | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 444bf | 555bf | 333bf | 333fm | 333mbf |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -80,8 +80,8 @@
 | 74 | [Đoàn Trường Sơn](https://www.worldcubeassociation.org/persons/2015SOND02) | 2075 | 398 | 69 | 232 | 235 | 171 | 132 | 147 | 26 | 56 | 185 | 56 | 174 | 10 | 4 | 97 | 65 | 18 |
 | 75 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | 2080 | 167 | 247 | 273 | 320 | 171 | 132 | 90 | 150 | 62 | 2 | 91 | 181 | 10 | 4 | 97 | 65 | 18 |
 | 76 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) | 2087 | 438 | 166 | 102 | 138 | 107 | 132 | 256 | 150 | 238 | 26 | 32 | 108 | 10 | 4 | 97 | 65 | 18 |
-| 77 | [Lê Mạnh Huy](https://www.worldcubeassociation.org/persons/2022HUYL01) | 2103 | 132 | 126 | 187 | 326 | 171 | 132 | 194 | 150 | 238 | 29 | 43 | 181 | 10 | 4 | 97 | 65 | 18 |
-| 78 | [Nguyễn Thành Tài](https://www.worldcubeassociation.org/persons/2016TAIN01) | 2103 | 342 | 109 | 106 | 145 | 67 | 47 | 250 | 150 | 111 | 176 | 225 | 181 | 10 | 4 | 97 | 65 | 18 |
+| 77 | [Nguyễn Thành Tài](https://www.worldcubeassociation.org/persons/2016TAIN01) | 2103 | 342 | 109 | 106 | 145 | 67 | 47 | 250 | 150 | 111 | 176 | 225 | 181 | 10 | 4 | 97 | 65 | 18 |
+| 78 | [Lê Mạnh Huy](https://www.worldcubeassociation.org/persons/2022HUYL01) | 2103 | 132 | 126 | 187 | 326 | 171 | 132 | 194 | 150 | 238 | 29 | 43 | 181 | 10 | 4 | 97 | 65 | 18 |
 | 79 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 2124 | 84 | 286 | 15 | 20 | 9 | 8 | 714 | 33 | 99 | 426 | 76 | 160 | 10 | 4 | 97 | 65 | 18 |
 | 80 | [Nguyễn Việt Thành](https://www.worldcubeassociation.org/persons/2024THAN09) | 2146 | 111 | 203 | 66 | 65 | 60 | 50 | 228 | 150 | 162 | 200 | 476 | 181 | 10 | 4 | 97 | 65 | 18 |
 | 81 | [Trương Quí Bảo](https://www.worldcubeassociation.org/persons/2019BAOT01) | 2159 | 265 | 103 | 40 | 83 | 171 | 132 | 444 | 150 | 175 | 215 | 14 | 173 | 10 | 4 | 97 | 65 | 18 |

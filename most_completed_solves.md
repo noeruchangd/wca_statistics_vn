@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 
 ### Competition
@@ -35,14 +35,14 @@
 | 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1764** | 1775 |
 | 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1682** | 1776 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
-| 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1433** | 1467 |
+| 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1452** | 1487 |
 | 5 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | **1223** | 1251 |
-| 6 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1063** | 1125 |
+| 6 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1083** | 1145 |
 | 7 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1053** | 1089 |
-| 8 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1016** | 1020 |
+| 8 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1036** | 1040 |
 | 9 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **961** | 988 |
-| 10 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **918** | 926 |
-| 11 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **908** | 963 |
+| 10 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **928** | 983 |
+| 11 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **918** | 926 |
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **862** | 870 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **751** | 759 |
@@ -50,8 +50,8 @@
 | 16 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **708** | 715 |
 | 17 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **690** | 717 |
 | 18 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **688** | 716 |
-| 19 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | **644** | 669 |
-| 20 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **638** | 644 |
+| 19 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **648** | 654 |
+| 20 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | **644** | 669 |
 
 ### Year
 
@@ -64,8 +64,8 @@
 | 5 | 2019 | **10283** | 10564 |
 | 6 | 2018 | **8470** | 8706 |
 | 7 | 2016 | **6126** | 6328 |
-| 8 | 2017 | **5989** | 6129 |
-| 9 | 2026 | **5419** | 5619 |
+| 8 | 2026 | **6020** | 6239 |
+| 9 | 2017 | **5989** | 6129 |
 | 10 | 2020 | **3791** | 3930 |
 | 11 | 2014 | **2832** | 2938 |
 | 12 | 2012 | **2409** | 2574 |
@@ -80,8 +80,8 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **45934** | 46835 |
-| 2 | 2x2x2 Cube | **23461** | 24051 |
+| 1 | 3x3x3 Cube | **46252** | 47165 |
+| 2 | 2x2x2 Cube | **23744** | 24341 |
 | 3 | 4x4x4 Cube | **14668** | 15064 |
 | 4 | 3x3x3 One-Handed | **13607** | 13971 |
 | 5 | Pyraminx | **8209** | 8419 |

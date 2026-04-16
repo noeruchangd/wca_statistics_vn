@@ -1,7 +1,7 @@
 ## Medals to competitions ratio
 
 *Note: Only Vietnamese competitors included*
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 | # | Person | Medals | Competitions | Ratio |
 | ---: | :--- | ---: | ---: | ---: |

@@ -1,13 +1,13 @@
 ## Longest streak of competitions in Vietnam
 
 *Note: The streak ends whenever the person doesn't participate in a competition in Vietnam.*
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 | # | Competitions | Person | Started at | Missed |
 | ---: | ---: | :--- | :--- | :--- |
 | 1 | 13 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |
 | 2 | 9 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022) | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) |
-| 3 | 8 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |  |
+| 3 | 8 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) |
 | 4 | 7 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |
 | 5 | 6 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024) | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |
 | 6 | 5 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) | [Ha Noi Open 2018](https://www.worldcubeassociation.org/competitions/HaNoiOpen2018) |

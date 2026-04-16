@@ -1,6 +1,6 @@
 ## Top 200 people with highest sum of national rankings (average) of Vietnamese competitors
 
-*Updated on 13 April 2026*
+*Updated on 16 April 2026*
 
 | # | Person | SoR | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 444bf | 555bf | 333bf | 333fm |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -105,8 +105,8 @@
 | 99 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) | 2207 | 249 | 219 | 101 | 64 | 36 | 24 | 73 | 136 | 50 | 678 | 483 | 43 | 1 | 2 | 25 | 24 |
 | 100 | [Trần Thanh Phong](https://www.worldcubeassociation.org/persons/2016PHON03) | 2221 | 132 | 117 | 53 | 43 | 52 | 51 | 108 | 136 | 162 | 678 | 483 | 155 | 1 | 2 | 25 | 24 |
 | 101 | [La Tường Phong](https://www.worldcubeassociation.org/persons/2023PHON03) | 2223 | 61 | 122 | 250 | 383 | 150 | 107 | 249 | 20 | 124 | 68 | 483 | 155 | 1 | 2 | 25 | 24 |
-| 102 | [Huỳnh Phong Nam](https://www.worldcubeassociation.org/persons/2017NAMH03) | 2224 | 509 | 128 | 158 | 169 | 115 | 107 | 357 | 104 | 19 | 203 | 149 | 155 | 1 | 2 | 25 | 24 |
-| 103 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) | 2224 | 24 | 242 | 124 | 383 | 150 | 107 | 18 | 136 | 162 | 495 | 180 | 155 | 1 | 2 | 25 | 21 |
+| 102 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) | 2224 | 24 | 242 | 124 | 383 | 150 | 107 | 18 | 136 | 162 | 495 | 180 | 155 | 1 | 2 | 25 | 21 |
+| 103 | [Huỳnh Phong Nam](https://www.worldcubeassociation.org/persons/2017NAMH03) | 2224 | 509 | 128 | 158 | 169 | 115 | 107 | 357 | 104 | 19 | 203 | 149 | 155 | 1 | 2 | 25 | 24 |
 | 104 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | 2235 | 81 | 16 | 78 | 77 | 150 | 107 | 61 | 136 | 162 | 678 | 483 | 155 | 1 | 2 | 25 | 24 |
 | 105 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) | 2238 | 184 | 109 | 541 | 383 | 150 | 107 | 107 | 136 | 162 | 70 | 129 | 109 | 1 | 2 | 25 | 24 |
 | 106 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 2240 | 369 | 418 | 70 | 35 | 8 | 4 | 174 | 136 | 56 | 340 | 424 | 155 | 1 | 2 | 25 | 24 |
