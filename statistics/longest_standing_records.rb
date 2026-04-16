@@ -11,8 +11,8 @@ class LongestStandingRecords < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        regional_single_record regional_single_record,
-        regional_average_record regional_average_record,
+        regional_single_record,
+        regional_average_record,
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
@@ -25,9 +25,8 @@ class LongestStandingRecords < GroupedStatistic
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = result.country_id
       JOIN continents continent ON continent.id = country.continent_id
-      WHERE (regional_single_record = 'NR' OR regional_average_record = 'NR')
-        AND (result.best > 0 OR result.average > 0)
-        AND (event_id IN ('222','333','444','555','666','777','333oh','sq1','minx','pyram','skewb','clock', '444bf','555bf', '333bf','333fm', '333mbf'))
+      WHERE regional_single_record = 'NR'
+         OR regional_average_record = 'NR'
       ORDER BY competition_date
     SQL
   end
@@ -38,6 +37,11 @@ class LongestStandingRecords < GroupedStatistic
     }.map do |region, record_ids|
       results = %w(single average).flat_map do |type|
         query_results
+          .select do |result|
+            record_ids.include?(result["regional_#{type}_record"]) &&
+            (region == "World" || region == result["continent"]) &&
+            Events::OFFICIAL.has_key?(result["event_id"])
+          end
           .group_by { |result| result["event_id"] }
           .flat_map do |event_id, results|
             results.each do |result_1|
