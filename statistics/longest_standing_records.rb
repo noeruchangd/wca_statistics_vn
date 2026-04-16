@@ -39,7 +39,6 @@ class LongestStandingRecords < GroupedStatistic
         query_results
           .select do |result|
             record_ids.include?(result["regional_#{type}_record"]) &&
-            (region == "World" || region == result["continent"]) &&
             Events::OFFICIAL.has_key?(result["event_id"])
           end
           .group_by { |result| result["event_id"] }
