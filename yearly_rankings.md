@@ -8,344 +8,344 @@
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Đinh Phúc Hưng](https://www.worldcubeassociation.org/persons/2019HUNG15) | **10.00** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 12.74, 10.69, 14.17, 13.56, 11.04, 15.22, 11.80, 9.43, 9.63, 10.00, 8.21, 10.00, 12.09, 11.27, 10.44 |
-| 2 | [Phạm Ngọc Hòa](https://www.worldcubeassociation.org/persons/2026HOAP01) | **10.03** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 12.31, 10.18, 10.03, 12.09, 11.44, 13.84, 10.43, 10.60, 10.13, 10.83 |
-| 3 | [Đặng Khoa Nguyên](https://www.worldcubeassociation.org/persons/2024NGUY07) | **10.04** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 25.65, 11.96, 10.04, 14.90, 17.78, 13.02, 16.76, 9.10, 14.88, DNF |
-| 4 | [Nguyễn Quốc Bính](https://www.worldcubeassociation.org/persons/2019BINH02) | **10.11** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 18.73, 10.11, 13.38, 13.73, 13.32 |
-| 5 | [Lê Hoàng Duy Ân](https://www.worldcubeassociation.org/persons/2022ANLE03) | **10.17** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | DNF, 12.94, 1:01.89, 10.17, 15.49 |
-| 6 | [Lê Việt Lâm](https://www.worldcubeassociation.org/persons/2024LAML02) | **10.24** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 10.24, 11.05, 9.48, DNF, 10.92, 11.17, 11.95, 9.52, 11.59, 11.88, 10.44, 11.63, 11.02, 11.06, 9.47, 13.63, 10.72, DNF, 9.22, 9.88 |
-| 7 | [Trương Quí Bảo](https://www.worldcubeassociation.org/persons/2019BAOT01) | **10.32** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.32, 10.69, 11.00, 12.77, 10.37, 8.84, 11.26, 10.27, 11.14, 11.50 |
-| 8 | [Nguyễn Tấn Danh Tùng](https://www.worldcubeassociation.org/persons/2026TUNG01) | **10.33** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 13.54, 12.93, 10.33, 10.43, 12.80, 10.30, 13.33, 14.91, 10.84, 13.25 |
-| 9 | [Lại Kỳ Anh](https://www.worldcubeassociation.org/persons/2026ANHL01) | **10.34** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 10.34, 11.99, 11.40, 23.33, 11.46, 12.24, 11.74, 13.65, 11.47, 11.06 |
-| 10 | [Thái Bảo Long](https://www.worldcubeassociation.org/persons/2022LONG10) | **10.35** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 12.96, 13.20, 10.35, 12.83, 12.34, 12.22, 14.04, 9.46, 11.01, 17.89 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **4.88** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 4.88, 6.35, 6.79, 5.15, 8.16 |
+| 2 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | **4.93** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 8.98, 8.49, 8.53, 4.93, 14.05 |
+| 3 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **5.02** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.02, 7.90, 6.63, 6.96, 6.16 |
+| 4 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **5.30** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 5.30, 8.02, 7.01, 9.03, 9.71 |
+| 5 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **5.56** | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 8.67, 8.40, 5.56, 6.56, 6.05 |
+| 6 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **5.57** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 6.17, 5.57, 6.94, 6.64, 6.51 |
+| 7 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **5.75** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 5.75, 5.90, 7.78, 6.38, 7.20 |
+| 8 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **5.81** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.81, 7.79, 5.84, 6.63, 7.83 |
+| 9 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) | **5.87** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 6.55, 8.15, 5.87, 9.86, 8.28 |
+| 10 | [Đinh Hữu Phúc](https://www.worldcubeassociation.org/persons/2022PHUC01) | **5.90** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.54, 5.90, 6.95, 7.57, 9.15 |
 
 ### 3x3x3 Cube - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | **10.05** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 9.08, 11.25, 11.50, 9.78, 9.67, 8.42, 11.39, 9.40, 8.73, 13.91 |
-| 2 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) | **10.07** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 10.21, 12.36, 9.02, 9.46, 11.53, 9.58, 10.46, 9.84, 9.54, 10.13 |
-| 3 | [Hoàng Nhật Minh](https://www.worldcubeassociation.org/persons/2022MINH20) | **10.11** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 10.04, 13.29, 8.75, 12.85, 10.56, 9.75, 9.73, 15.19, DNF, 10.71 |
-| 4 | [Châu Ngọc Thắng](https://www.worldcubeassociation.org/persons/2022THAN08) | **10.13** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 9.56, 10.35, 10.36, 11.60, 10.60, 8.39, 9.72, DNF, 10.32, 8.70 |
-| 5 | [Phạm Thái Bảo](https://www.worldcubeassociation.org/persons/2024BAOP02) | **10.14** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 9.78, 8.86, 9.73, 12.67, 10.92, 9.06, 9.07, 9.90, 11.27, 9.64 |
-| 6 | [Nguyễn Lê Hoàng](https://www.worldcubeassociation.org/persons/2022HOAN02) | **10.16** | Vietnam | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 10.83, 11.32, 11.01, 12.01, 7.79, 9.28, 8.64, 15.44, 11.77, 8.72 |
-| 7 | [Hoàng Đức Trí](https://www.worldcubeassociation.org/persons/2024TRIH01) | **10.16** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 10.94, 10.01, 9.55, 9.11, 8.44, 10.79, 9.99, 10.79, 12.45, 8.77 |
-| 8 | [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) | **10.17** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 9.50, 11.52, 13.83, 10.60, 10.90, 15.99, 9.93, 11.90, 11.45, 9.57, 7.13, 10.61, 10.11, 12.37, 10.50, 8.28, 8.50, 9.58, 10.82, 9.66 |
-| 9 | [Dương Minh Nguyên](https://www.worldcubeassociation.org/persons/2018NGUY33) | **10.22** | Vietnam | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 12.51, 8.97, 8.37, 9.26, 10.28, 9.18, 11.15, 8.82, 9.23, 11.88 |
-| 10 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) | **10.23** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.16, 11.27, 11.07, 9.70, 7.41, 9.36, 12.64, 11.25, 9.46, 8.95 |
+| 1 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **5.74** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.33, 6.19, 5.32, 6.01, 5.89 |
+| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **6.06** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 5.75, 8.66, 5.37, 6.12, 6.31 |
+| 3 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **6.44** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 6.17, 5.57, 6.94, 6.64, 6.51 |
+| 4 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **6.49** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 5.75, 5.90, 7.78, 6.38, 7.20 |
+| 5 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **6.75** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.81, 7.79, 5.84, 6.63, 7.83 |
+| 6 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **6.83** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.39, 7.27, 7.86, 6.61, 6.61 |
+| 7 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **6.87** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 7.14, 6.34, 6.09, 7.12, 9.24 |
+| 8 | [Đinh Hữu Phúc](https://www.worldcubeassociation.org/persons/2022PHUC01) | **6.96** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.44, 6.99, 7.75, 6.60, 7.29 |
+| 9 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **7.00** | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 8.67, 8.40, 5.56, 6.56, 6.05 |
+| 10 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | **7.09** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.72, 7.06, 7.95, 6.36, 6.48 |
 
 ### 2x2x2 Cube - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **0.99** | Vietnam | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 1.76, 1.39, 2.82, 2.96, 2.06, 2.26, 2.47, 1.38, 3.01, 1.39, 1.64, 1.52, 1.45, 1.77, 1.14, 1.40, 1.19, 1.62, 2.83, 1.64, 2.01, DNF, DNF, 1.54, 0.99, DNF, 1.58, 2.76, 1.53, 1.88 |
-| 2 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) | **1.25** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 2.92, 1.55, 2.17, 1.47, 3.01, 3.79, 1.25, 1.63, 1.78, 2.16 |
-| 3 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1.43** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3.71, 2.27, 2.35, 2.15, 1.42, 1.78, 1.12, 2.01, 2.68, 2.45, 1.81, 1.72, 1.53, 2.69, 1.57, 1.50, 1.78, 2.10, 3.98, 2.03, 1.43, 3.66, 2.01, 2.52, 1.81 |
-| 4 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | **1.44** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2.59, 3.19, 3.00, 2.57, 1.55, 1.96, 1.65, DNF, 3.24, 3.98, 8.87, 3.56, 3.45, 2.78, 2.16, 1.44, 2.28, 2.24, 3.31, 2.43, 3.95, 2.45, 2.50, 2.44, 7.66 |
-| 5 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1.48** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 4.11, 2.74, 2.77, 1.48, 3.43, 1.89, 1.98, 1.43, 2.36, 2.22, 4.61, 2.52, 3.46, 1.62, 1.83 |
-| 6 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **1.69** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1.84, 1.95, 2.22, 3.13, 1.76, 1.73, 1.69, 2.44, 4.26, 3.32, 1.70, 1.93, 1.86, 2.24, 1.95 |
-| 7 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **1.93** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 3.08, 1.76, 4.28, 2.46, 1.96, 3.14, 1.93, 3.48, 4.59, 4.03 |
-| 8 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | **1.93** | Vietnam | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 6.43, 3.17, 3.96, 1.87, 3.77, 1.70, 2.92, 1.82, 1.93, 3.56 |
-| 9 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | **1.98** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 5.22, 3.03, 5.70, 3.73, 4.34, 2.77, 3.64, 2.68, 3.30, 4.01, 3.68, 3.69, 1.98, 2.48, 5.03 |
-| 10 | [Vincent Tristan](https://www.worldcubeassociation.org/persons/2026TRIS02) | **18.37** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 18.37, 20.18, 27.76, 24.84, 28.65 |
+| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **0.99** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 1.76, 2.47, 1.45, 2.83, 0.99 |
+| 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1.12** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2.27, 1.12, 1.72, 1.78, 3.66 |
+| 3 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) | **1.25** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 2.92, 2.17, 3.01, 1.25, 1.78 |
+| 4 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1.43** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2.74, 3.43, 1.43, 4.61, 1.62 |
+| 5 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | **1.44** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2.59, 1.96, 8.87, 1.44, 3.95 |
+| 6 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **1.69** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1.84, 3.13, 1.69, 3.32, 1.86 |
+| 7 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | **1.70** | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 3.17, 1.87, 1.70, 1.82, 3.56 |
+| 8 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **1.76** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 1.76, 2.46, 3.14, 3.48, 4.03 |
+| 9 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1.80** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3.19, 3.81, 1.80, 5.17, 2.32 |
+| 10 | [Nguyễn Tùng Dương](https://www.worldcubeassociation.org/persons/2022DUON06) | **1.80** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3.87, 2.88, 4.06, 1.80, 2.74 |
 
 ### 2x2x2 Cube - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1.70** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3.71, 2.27, 2.35, 2.15, 1.42, 1.78, 1.12, 2.01, 2.68, 2.45, 1.81, 1.72, 1.53, 2.69, 1.57, 1.50, 1.78, 2.10, 3.98, 2.03, 1.43, 3.66, 2.01, 2.52, 1.81 |
-| 2 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **1.89** | Vietnam | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 1.76, 1.39, 2.82, 2.96, 2.06, 2.26, 2.47, 1.38, 3.01, 1.39, 1.64, 1.52, 1.45, 1.77, 1.14, 1.40, 1.19, 1.62, 2.83, 1.64, 2.01, DNF, DNF, 1.54, 0.99, DNF, 1.58, 2.76, 1.53, 1.88 |
-| 3 | [Nguyễn Hoàng Lâm](https://www.worldcubeassociation.org/persons/2026LAMN01) | **10.43** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 9.74, 8.32, 18.66, 9.72, 11.84 |
-| 4 | [Đỗ Phương Thảo](https://www.worldcubeassociation.org/persons/2023THAO01) | **10.71** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 9.91, 7.12, 15.10, 15.36, 6.19 |
-| 5 | [Nguyễn Lê Trà Giang](https://www.worldcubeassociation.org/persons/2026GIAN01) | **10.74** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 8.47, 13.63, 9.94, 9.60, 12.67 |
-| 6 | [Lê Tuấn Nghĩa](https://www.worldcubeassociation.org/persons/2026NGHI01) | **11.15** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 17.85, 10.15, 12.21, 8.04, 9.08, DNF, 12.17, 11.35, 4.66, 11.38 |
-| 7 | [Nguyễn Khánh Toàn](https://www.worldcubeassociation.org/persons/2025TOAN01) | **11.38** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 20.94, 6.75, 8.72, 9.41, 16.01 |
-| 8 | [Phạm Gia Khang](https://www.worldcubeassociation.org/persons/2026KHAN11) | **11.47** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.47, 8.23, 13.23, 15.11, 10.72 |
-| 9 | [Tham Fatt Vinh](https://www.worldcubeassociation.org/persons/2026VINH01) | **11.51** | Vietnam | [XMUM Cube Open 2026](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2026) | DNF, 12.51, 10.91, 9.90, 11.12 |
-| 10 | [Chử Nguyễn Việt Anh](https://www.worldcubeassociation.org/persons/2026ANHC01) | **12.81** | Vietnam | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 12.07, DNF, 7.73, 9.45, 16.91 |
+| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **1.60** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 1.39, 1.38, 1.77, 1.64, DNF |
+| 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1.70** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3.71, 1.78, 1.81, 1.50, 1.43 |
+| 3 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) | **1.78** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 1.55, 1.47, 3.79, 1.63, 2.16 |
+| 4 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **1.98** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1.95, 1.76, 2.44, 1.70, 2.24 |
+| 5 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) | **2.23** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2.37, 1.85, 4.22, 1.93, 2.38 |
+| 6 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **2.26** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2.77, 1.89, 2.36, 2.52, 1.83 |
+| 7 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | **2.29** | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 3.17, 1.87, 1.70, 1.82, 3.56 |
+| 8 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **2.30** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 1.91, 2.42, 6.22, 2.31, 2.18 |
+| 9 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | **2.64** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3.19, 1.65, 3.56, 2.28, 2.45 |
+| 10 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | **2.82** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 2.52, 3.50, 2.05, 2.45, 4.25 |
 
 ### 4x4x4 Cube - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Nguyễn Đức Quân](https://www.worldcubeassociation.org/persons/2026QUAN05) | **1:10.10** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:23.46, 1:10.10, 1:28.17, 1:20.57, 1:26.37 |
-| 2 | [Chu Hoàng Phúc](https://www.worldcubeassociation.org/persons/2026PHUC01) | **1:13.92** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:25.52, 1:13.92, 1:24.21, 1:26.20, 1:22.43 |
-| 3 | [Đặng Khoa Nguyên](https://www.worldcubeassociation.org/persons/2024NGUY07) | **1:18.07** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:24.85, 1:18.07 |
-| 4 | [Nguyễn Gia Bảo](https://www.worldcubeassociation.org/persons/2022BAON02) | **1:18.53** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:18.53, DNF |
-| 5 | [Hồ Thiện Minh](https://www.worldcubeassociation.org/persons/2024MINH05) | **1:27.36** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:17.99, 1:27.36 |
-| 6 | [Nguyen Duc Gia Huy](https://www.worldcubeassociation.org/persons/2026HUYN05) | **1:39.98** | Vietnam | [NZ Cubing Heptathlon 2026](https://www.worldcubeassociation.org/competitions/NZCubingHeptathlon2026) | 1:45.78, 1:57.49, 1:52.49, 1:39.98, 2:08.10 |
-| 7 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **20.68** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 25.70, 20.90, 24.11, 17.46, 26.71, 20.03, 21.25, 19.21, 20.68, 20.83 |
-| 8 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **23.02** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 24.97, 20.97, 25.27, 27.12, 26.96, 27.41, 23.02, 30.92, 27.72, 23.79 |
-| 9 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **23.75** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 29.53, 30.23, 36.18, 26.03, 34.08, 36.99, 41.39, 29.69, 23.75, 33.69 |
-| 10 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **24.62** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 28.23, 31.05, 26.42, 27.49, 24.62, 29.48, 27.20, 26.07, 27.72, 33.41 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **17.46** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 20.90, 17.46, 20.03, 19.21, 20.83 |
+| 2 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **20.97** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 20.97, 27.12, 27.41, 30.92, 23.79 |
+| 3 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **23.75** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 29.53, 36.18, 34.08, 41.39, 23.75 |
+| 4 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **24.14** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 28.22, 24.14, 33.40, 24.25, 25.93 |
+| 5 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **24.62** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 27.15, 30.55, 35.41, 24.62, 33.64 |
+| 6 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **24.62** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 28.23, 26.42, 24.62, 27.20, 27.72 |
+| 7 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **24.98** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 31.89, 29.62, 26.80, 32.84, 24.98 |
+| 8 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **25.14** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 30.63, 45.57, 36.31, 35.45, 25.14 |
+| 9 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **26.43** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 28.02, 28.10, 26.43, 30.79, 27.88 |
+| 10 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **26.88** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 29.03, 29.44, 31.53, 39.27, 26.88 |
 
 ### 4x4x4 Cube - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Lê Mạnh Hải](https://www.worldcubeassociation.org/persons/2025HAIL01) | **1:01.95** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 56.95, 1:05.10, 1:03.80, 1:14.76, 47.67 |
-| 2 | [Trương Anh Đức](https://www.worldcubeassociation.org/persons/2023DUCT01) | **1:10.60** | Vietnam | [XMUM Cube Open 2026](https://www.worldcubeassociation.org/competitions/XMUMCubeOpen2026) | 1:25.80, 1:09.96, 1:22.42, 57.15, 59.11, 49.83, 1:00.72, 1:01.98, 1:08.67, 57.62 |
-| 3 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | **1:10.73** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:13.80, 1:05.79, 1:12.59, 56.46, DNF |
-| 4 | [Phan Minh Việt](https://www.worldcubeassociation.org/persons/2024VIET01) | **1:11.16** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:11.24, 55.03, 1:14.24, 1:11.50, 1:10.74 |
-| 5 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **1:14.05** | Vietnam | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 1:19.42, 58.05, 53.24, 1:55.04, 1:24.69 |
-| 6 | [Nguyễn Đức Quân](https://www.worldcubeassociation.org/persons/2026QUAN05) | **1:23.47** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:23.46, 1:10.10, 1:28.17, 1:20.57, 1:26.37 |
-| 7 | [Chu Hoàng Phúc](https://www.worldcubeassociation.org/persons/2026PHUC01) | **1:24.05** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:25.52, 1:13.92, 1:24.21, 1:26.20, 1:22.43 |
-| 8 | [Nguyen Duc Gia Huy](https://www.worldcubeassociation.org/persons/2026HUYN05) | **1:51.92** | Vietnam | [NZ Cubing Heptathlon 2026](https://www.worldcubeassociation.org/competitions/NZCubingHeptathlon2026) | 1:45.78, 1:57.49, 1:52.49, 1:39.98, 2:08.10 |
-| 9 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **23.69** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 25.70, 20.90, 24.11, 17.46, 26.71, 20.03, 21.25, 19.21, 20.68, 20.83 |
-| 10 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **25.73** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 24.97, 20.97, 25.27, 27.12, 26.96, 27.41, 23.02, 30.92, 27.72, 23.79 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **20.02** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 20.90, 17.46, 20.03, 19.21, 20.83 |
+| 2 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **25.73** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 24.97, 25.27, 26.96, 23.02, 27.72 |
+| 3 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **26.13** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 28.22, 24.14, 33.40, 24.25, 25.93 |
+| 4 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **27.11** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 28.23, 26.42, 24.62, 27.20, 27.72 |
+| 5 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **28.00** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 28.02, 28.10, 26.43, 30.79, 27.88 |
+| 6 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **29.01** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 29.24, 31.54, 30.53, 26.08, 27.27 |
+| 7 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **30.00** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 29.03, 29.44, 31.53, 39.27, 26.88 |
+| 8 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **30.45** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 27.15, 30.55, 35.41, 24.62, 33.64 |
+| 9 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **31.20** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 30.23, 26.03, 36.99, 29.69, 33.69 |
+| 10 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **32.19** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 31.18, 31.06, 33.28, 36.29, 32.10 |
 
 ### 5x5x5 Cube - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **1:00.45** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:11.44, 1:06.47, 1:00.45, 1:21.95, 1:07.56 |
-| 2 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **1:02.48** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:02.48, 1:08.36, 1:09.28, 1:07.67, 1:08.88 |
-| 3 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **1:05.78** | Vietnam | [RIT Tiger Twist 2026](https://www.worldcubeassociation.org/competitions/RITTigerTwist2026) | 1:13.43, 1:08.40, 1:12.46, 1:10.16, 1:16.49, 1:08.72, 1:05.78, 1:15.51, 1:10.94, 1:11.62 |
-| 4 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | **1:06.10** | Vietnam | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 1:08.61, 1:14.32, 1:06.10, 1:11.96, 1:10.64 |
-| 5 | [Thái Thiện Nhân](https://www.worldcubeassociation.org/persons/2026NHAN01) | **1:06.78** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:33.33, 1:24.37, 1:21.95, 1:16.45, 1:06.78 |
-| 6 | [Nguyễn Quang Minh](https://www.worldcubeassociation.org/persons/2022MINH11) | **1:08.27** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:19.38, 1:14.64, 1:12.48, 1:08.27, 1:15.57 |
-| 7 | [Chu Ngọc Quang](https://www.worldcubeassociation.org/persons/2019QUAN12) | **1:10.15** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:12.86, 1:20.87, 1:28.33, 1:10.15, 1:15.14 |
-| 8 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) | **1:10.36** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:18.71, 1:29.55, 1:25.90, 1:10.36, 1:15.77 |
-| 9 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) | **1:11.34** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:12.30, 1:13.53, 1:17.59, 1:15.42, 1:11.34 |
-| 10 | [Nguyễn Khoa Bằng](https://www.worldcubeassociation.org/persons/2020BANG04) | **1:13.87** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:15.38, 1:24.91, DNF, 1:39.37, 1:13.87 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **35.34** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 38.51, 35.34, 38.02, 37.04, 37.23 |
+| 2 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **43.08** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 45.51, 50.52, 47.62, 43.08, 50.35 |
+| 3 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **43.48** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 43.48, 50.08, 55.33, 48.29, 53.96 |
+| 4 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **44.83** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 44.83, 46.12, 45.19, 53.22, 48.34 |
+| 5 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **47.97** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 59.64, 1:05.49, 51.49, 1:01.74, 47.97 |
+| 6 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **49.20** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 56.31, 56.94, 52.95, 49.20, 53.30 |
+| 7 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **49.75** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 54.48, 51.03, 49.75, 56.16, 1:01.68 |
+| 8 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **50.88** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 50.88, 54.48, 52.29, 1:09.49, 57.76 |
+| 9 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) | **52.97** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:05.34, 1:04.25, 1:02.85, 52.97, 1:02.23 |
+| 10 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **54.27** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 55.49, 1:04.97, 54.27, 1:03.16, 58.33 |
 
 ### 5x5x5 Cube - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **1:00.48** | Vietnam | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026) | 58.63, 1:08.74, 1:01.84, 55.56, 1:00.96 |
-| 2 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) | **1:03.11** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:05.34, 1:04.25, 1:02.85, 52.97, 1:02.23 |
-| 3 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1:03.73** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:05.56, 55.28, 1:05.51, 1:02.76, 1:02.93 |
-| 4 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **1:08.30** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:02.48, 1:08.36, 1:09.28, 1:07.67, 1:08.88 |
-| 5 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **1:08.49** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:11.44, 1:06.47, 1:00.45, 1:21.95, 1:07.56 |
-| 6 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | **1:10.40** | Vietnam | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 1:08.61, 1:14.32, 1:06.10, 1:11.96, 1:10.64 |
-| 7 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **1:12.28** | Vietnam | [RIT Tiger Twist 2026](https://www.worldcubeassociation.org/competitions/RITTigerTwist2026) | 1:13.43, 1:08.40, 1:12.46, 1:10.16, 1:16.49, 1:08.72, 1:05.78, 1:15.51, 1:10.94, 1:11.62 |
-| 8 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) | **1:13.75** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:12.30, 1:13.53, 1:17.59, 1:15.42, 1:11.34 |
-| 9 | [Nguyễn Quang Minh](https://www.worldcubeassociation.org/persons/2022MINH11) | **1:14.23** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:19.38, 1:14.64, 1:12.48, 1:08.27, 1:15.57 |
-| 10 | [Chu Ngọc Quang](https://www.worldcubeassociation.org/persons/2019QUAN12) | **1:16.29** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:12.86, 1:20.87, 1:28.33, 1:10.15, 1:15.14 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **37.43** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 38.51, 35.34, 38.02, 37.04, 37.23 |
+| 2 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **46.55** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 44.83, 46.12, 45.19, 53.22, 48.34 |
+| 3 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **47.83** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 45.51, 50.52, 47.62, 43.08, 50.35 |
+| 4 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **49.93** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 47.36, 49.77, 54.29, 44.02, 52.66 |
+| 5 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **53.89** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 54.48, 51.03, 49.75, 56.16, 1:01.68 |
+| 6 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **54.19** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 56.31, 56.94, 52.95, 49.20, 53.30 |
+| 7 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **54.84** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 50.88, 54.48, 52.29, 1:09.49, 57.76 |
+| 8 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **57.62** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 59.64, 1:05.49, 51.49, 1:01.74, 47.97 |
+| 9 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **58.72** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:06.52, 1:00.17, 57.86, 58.13, 57.36 |
+| 10 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **58.99** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 55.49, 1:04.97, 54.27, 1:03.16, 58.33 |
 
 ### 6x6x6 Cube - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:05.66** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:12.11, 1:08.77, 1:05.66, 1:13.25, 1:20.22, 2:06.36 |
-| 2 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **1:15.94** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:29.90, 1:23.11, 1:15.94, 1:23.45, 1:21.46, 1:20.18 |
-| 3 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1:33.18** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:33.18, 1:35.03, 1:35.66, 1:29.01, 1:33.52, 1:24.47 |
-| 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1:37.46** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:37.46, 1:41.12, 1:44.34, 1:42.42, 1:46.84, 1:38.05 |
-| 5 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **1:45.00** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:10.74, 1:41.16, 1:45.74, 1:49.45, 1:45.00, 1:57.18 |
-| 6 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **1:46.06** | Vietnam | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026) | 1:46.06, 1:50.01, 1:50.69 |
-| 7 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **1:48.46** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:04.85, 1:57.11, 1:48.46 |
-| 8 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1:49.81** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:49.81, 1:50.60, 2:02.82 |
-| 9 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **1:55.84** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:55.84, 2:04.77, 1:55.97 |
-| 10 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **2:02.08** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:11.95, 2:05.59, 2:02.08 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:05.66** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:12.11, 1:05.66, 1:20.22 |
+| 2 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **1:15.94** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:29.90, 1:15.94, 1:21.46 |
+| 3 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1:24.47** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:35.03, 1:29.01, 1:24.47 |
+| 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1:37.46** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:37.46, 1:44.34, 1:46.84 |
+| 5 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **1:41.16** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:41.16, 1:49.45, 1:57.18 |
+| 6 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **1:46.06** | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026) | 1:46.06, 1:50.01, 1:50.69 |
+| 7 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **1:48.46** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:04.85, 1:57.11, 1:48.46 |
+| 8 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1:49.81** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:49.81, 1:50.60, 2:02.82 |
+| 9 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **1:55.84** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:55.84, 2:04.77, 1:55.97 |
+| 10 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **2:02.08** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:11.95, 2:05.59, 2:02.08 |
 
 ### 6x6x6 Cube - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:12.66** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:12.11, 1:08.77, 1:05.66, 1:13.25, 1:20.22, 2:06.36 |
-| 2 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **1:22.43** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:29.90, 1:23.11, 1:15.94, 1:23.45, 1:21.46, 1:20.18 |
-| 3 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1:34.12** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:33.18, 1:35.03, 1:35.66, 1:29.01, 1:33.52, 1:24.47 |
-| 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1:42.88** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:37.46, 1:41.12, 1:44.34, 1:42.42, 1:46.84, 1:38.05 |
-| 5 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **1:48.92** | Vietnam | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026) | 1:46.06, 1:50.01, 1:50.69 |
-| 6 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **1:53.83** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:10.74, 1:41.16, 1:45.74, 1:49.45, 1:45.00, 1:57.18 |
-| 7 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1:54.41** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:49.81, 1:50.60, 2:02.82 |
-| 8 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **1:56.81** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:04.85, 1:57.11, 1:48.46 |
-| 9 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **1:58.86** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:55.84, 2:04.77, 1:55.97 |
-| 10 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **2:06.54** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:11.95, 2:05.59, 2:02.08 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:12.66** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:12.11, 1:05.66, 1:20.22 |
+| 2 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **1:22.25** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:23.11, 1:23.45, 1:20.18 |
+| 3 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1:29.50** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:35.03, 1:29.01, 1:24.47 |
+| 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1:40.53** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:41.12, 1:42.42, 1:38.05 |
+| 5 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **1:48.92** | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026) | 1:46.06, 1:50.01, 1:50.69 |
+| 6 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **1:49.26** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:41.16, 1:49.45, 1:57.18 |
+| 7 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1:54.41** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:49.81, 1:50.60, 2:02.82 |
+| 8 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **1:56.81** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:04.85, 1:57.11, 1:48.46 |
+| 9 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **1:58.86** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:55.84, 2:04.77, 1:55.97 |
+| 10 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **2:06.54** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:11.95, 2:05.59, 2:02.08 |
 
 ### 7x7x7 Cube - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:42.24** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:56.97, 1:52.27, 1:42.24, 1:51.95, 1:44.26, 1:46.91 |
-| 2 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **2:01.83** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:18.21, 2:13.16, 2:01.83, 2:01.70, 2:02.30, 2:15.80 |
-| 3 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **2:25.80** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:37.73, 2:38.94, 2:32.44, 2:48.50, 2:25.80, 2:38.03 |
-| 4 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **2:32.95** | Vietnam | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026) | 2:37.67, 3:07.13, 2:32.95 |
-| 5 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **2:35.65** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:39.97, 2:55.72, 2:35.65, 2:32.23, 2:40.17, 2:22.34 |
-| 6 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **2:52.20** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:58.13, 2:43.81, 3:11.00, 2:43.41, 2:52.20, 3:04.08 |
-| 7 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **2:54.80** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:11.22, 2:58.02, 2:54.80 |
-| 8 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) | **3:02.44** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:33.63, 3:02.44, 3:03.08 |
-| 9 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **3:02.61** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:16.53, 3:18.48, 3:02.61 |
-| 10 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **3:04.22** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:19.35, 3:04.22, 3:16.91 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:42.24** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:56.97, 1:42.24, 1:44.26 |
+| 2 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **2:01.70** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:13.16, 2:01.70, 2:15.80 |
+| 3 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **2:22.34** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:55.72, 2:32.23, 2:22.34 |
+| 4 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **2:25.80** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:37.73, 2:32.44, 2:25.80 |
+| 5 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **2:32.95** | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026) | 2:37.67, 3:07.13, 2:32.95 |
+| 6 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **2:43.41** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:43.81, 2:43.41, 3:04.08 |
+| 7 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **2:54.80** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:11.22, 2:58.02, 2:54.80 |
+| 8 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) | **3:02.44** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:33.63, 3:02.44, 3:03.08 |
+| 9 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **3:02.61** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:16.53, 3:18.48, 3:02.61 |
+| 10 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **3:04.22** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:19.35, 3:04.22, 3:16.91 |
 
 ### 7x7x7 Cube - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:47.82** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:56.97, 1:52.27, 1:42.24, 1:51.95, 1:44.26, 1:46.91 |
-| 2 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **2:07.45** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:18.21, 2:13.16, 2:01.83, 2:01.70, 2:02.30, 2:15.80 |
-| 3 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **2:31.99** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:37.73, 2:38.94, 2:32.44, 2:48.50, 2:25.80, 2:38.03 |
-| 4 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **2:38.60** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:39.97, 2:55.72, 2:35.65, 2:32.23, 2:40.17, 2:22.34 |
-| 5 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **2:45.92** | Vietnam | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026) | 2:37.67, 3:07.13, 2:32.95 |
-| 6 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **3:00.44** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:58.13, 2:43.81, 3:11.00, 2:43.41, 2:52.20, 3:04.08 |
-| 7 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **3:01.35** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:11.22, 2:58.02, 2:54.80 |
-| 8 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **3:12.54** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:16.53, 3:18.48, 3:02.61 |
-| 9 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) | **3:13.05** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:33.63, 3:02.44, 3:03.08 |
-| 10 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **3:13.49** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:19.35, 3:04.22, 3:16.91 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:47.82** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:56.97, 1:42.24, 1:44.26 |
+| 2 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **2:07.45** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:18.21, 2:01.83, 2:02.30 |
+| 3 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **2:31.99** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:37.73, 2:32.44, 2:25.80 |
+| 4 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **2:36.76** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:55.72, 2:32.23, 2:22.34 |
+| 5 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **2:45.92** | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026) | 2:37.67, 3:07.13, 2:32.95 |
+| 6 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **2:50.43** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:43.81, 2:43.41, 3:04.08 |
+| 7 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **3:01.35** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:11.22, 2:58.02, 2:54.80 |
+| 8 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **3:12.54** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:16.53, 3:18.48, 3:02.61 |
+| 9 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) | **3:13.05** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:33.63, 3:02.44, 3:03.08 |
+| 10 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **3:13.49** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3:19.35, 3:04.22, 3:16.91 |
 
 ### 3x3x3 Blindfolded - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) | **1:06.95** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 1:26.05, DNF, DNF, 1:10.41, DNF, 1:07.69, 1:06.95, 59.43 |
-| 2 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | **1:07.94** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:10.03, 1:22.51, DNF, 1:08.79, 1:09.54, DNF, DNF, 1:23.67, 1:07.94, 1:02.62 |
-| 3 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1:08.88** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, DNF, 2:40.49, 1:41.83, 1:15.96, 2:11.13, DNF, 1:08.88, DNF |
-| 4 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1:44.60** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, DNF, DNF, 1:44.60, 2:02.86, DNF, DNF, DNF, DNF |
-| 5 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | **2:02.24** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:26.67, 2:02.24, 3:19.31, DNF, DNF |
-| 6 | [Trần Thái Hoàng](https://www.worldcubeassociation.org/persons/2026HOAN01) | **2:13.14** | Vietnam | [Kanto Winter 2026](https://www.worldcubeassociation.org/competitions/KantoWinter2026) | DNF, 2:13.22, DNF, DNF, 2:13.14 |
-| 7 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **31.54** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 31.54, DNF, 43.81, DNF, 54.18, DNF, DNF, 40.24, DNF, 1:03.68 |
-| 8 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | **35.21** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 35.21, 39.68, 42.94, 51.13, 42.46, 38.72, DNF, 41.78, 40.64, DNF |
-| 9 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) | **49.84** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 49.84, 48.23, DNF, 36.68, DNF, DNF, 55.38, DNF, DNF, 36.41 |
-| 10 | [Nguyễn Khoa Bằng](https://www.worldcubeassociation.org/persons/2020BANG04) | **4:37.85** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 4:37.85, DNF, DNF |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **31.54** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 31.54, 43.81, 54.18, DNF, DNF |
+| 2 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | **35.21** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 35.21, 42.94, 42.46, DNF, 40.64 |
+| 3 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) | **36.41** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 48.23, 36.68, DNF, DNF, 36.41 |
+| 4 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) | **59.43** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 1:10.41, 1:07.69, 59.43 |
+| 5 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | **1:02.62** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:22.51, 1:08.79, DNF, 1:23.67, 1:02.62 |
+| 6 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1:08.88** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 1:41.83, 2:11.13, 1:08.88 |
+| 7 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1:44.60** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 1:44.60, DNF, DNF |
+| 8 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | **2:02.24** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:26.67, 2:02.24, 3:19.31, DNF, DNF |
+| 9 | [Trần Thái Hoàng](https://www.worldcubeassociation.org/persons/2026HOAN01) | **2:13.14** | [Kanto Winter 2026](https://www.worldcubeassociation.org/competitions/KantoWinter2026) | DNF, 2:13.22, DNF, DNF, 2:13.14 |
+| 10 | [Nguyễn Khoa Bằng](https://www.worldcubeassociation.org/persons/2020BANG04) | **4:37.85** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 4:37.85, DNF, DNF |
 
 ### 3x3x3 Blindfolded - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | **1:18.32** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:22.51, 1:08.79, DNF, 1:23.67, 1:02.62 |
-| 2 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | **42.01** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 35.21, 39.68, 42.94, 51.13, 42.46, 38.72, DNF, 41.78, 40.64, DNF |
+| 1 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | **42.01** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 35.21, 42.94, 42.46, DNF, 40.64 |
+| 2 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | **1:18.32** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:22.51, 1:08.79, DNF, 1:23.67, 1:02.62 |
 
 ### 3x3x3 One-Handed - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **10.01** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 15.73, 15.37, 10.01, 12.10, 14.87, 15.11, 12.86, 12.00, 11.78, 14.51 |
-| 2 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **10.25** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.25, 12.28, 11.23, 10.91, 10.38 |
-| 3 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) | **10.49** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.51, 11.92, 14.07, 10.49, 14.45 |
-| 4 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | **10.54** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.99, 12.60, 14.55, 14.48, 10.54 |
-| 5 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **10.57** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 19.24, 19.08, 11.04, 12.91, 14.22, 11.07, 10.57, 10.92, 14.59, 11.81 |
-| 6 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) | **10.87** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.87, 17.31, 15.35, 17.78, 19.81 |
-| 7 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **10.98** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 16.42, 11.97, 11.85, 12.58, 13.82, 14.13, 13.42, 9.49, 10.98, DNF |
-| 8 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **11.02** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 16.28, 8.49, 15.12, 10.06, 14.35, 10.66, 12.84, 9.44, 11.02, 12.54 |
-| 9 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **11.09** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 16.10, 11.09, 13.13, 12.28, 11.67 |
-| 10 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **11.30** | Vietnam | [Simi Mini A 2026](https://www.worldcubeassociation.org/competitions/SimiMiniA2026) | 14.84, 13.74, 16.32, 13.90, 12.96, 13.57, 11.30, 12.23, 12.44, 14.55 |
+| 1 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **8.49** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 8.49, 10.06, 10.66, 9.44, 12.54 |
+| 2 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **9.24** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 11.20, 12.58, 11.82, 9.24, 11.77 |
+| 3 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | **9.34** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.83, 11.64, 9.34, 10.07, 15.99 |
+| 4 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **9.49** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 11.97, 12.58, 14.13, 9.49, DNF |
+| 5 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | **9.76** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 12.49, 10.81, 11.50, 9.76, 14.45 |
+| 6 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **9.85** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.39, 14.73, 12.60, 11.45, 9.85 |
+| 7 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **10.01** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 15.73, 10.01, 14.87, 12.86, 11.78 |
+| 8 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **10.25** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.25, 12.28, 11.23, 10.91, 10.38 |
+| 9 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) | **10.49** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.51, 11.92, 14.07, 10.49, 14.45 |
+| 10 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | **10.54** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.99, 12.60, 14.55, 14.48, 10.54 |
 
 ### 3x3x3 One-Handed - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **10.84** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.25, 12.28, 11.23, 10.91, 10.38 |
-| 2 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | **11.18** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.83, 11.64, 9.34, 10.07, 15.99 |
-| 3 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | **11.60** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 12.49, 10.81, 11.50, 9.76, 14.45 |
-| 4 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **11.60** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 11.20, 12.17, 10.16, 12.58, 11.29, 10.20, 11.82, 9.96, 11.47, 9.24, 10.50, 10.70, 11.77, 14.69, 10.06 |
-| 5 | [Bùi Vĩnh An Tường](https://www.worldcubeassociation.org/persons/2023TUON02) | **11.73** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.28, 11.42, 12.31, 11.47, 11.42 |
-| 6 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **12.36** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 16.10, 11.09, 13.13, 12.28, 11.67 |
-| 7 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) | **12.39** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.11, 11.71, 12.68, 11.78, 12.72 |
-| 8 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) | **12.50** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.51, 11.92, 14.07, 10.49, 14.45 |
-| 9 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | **13.02** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.99, 12.60, 14.55, 14.48, 10.54 |
-| 10 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **13.03** | Vietnam | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 16.42, 11.97, 11.85, 12.58, 13.82, 14.13, 13.42, 9.49, 10.98, DNF |
+| 1 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **10.05** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 8.49, 10.06, 10.66, 9.44, 12.54 |
+| 2 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **10.35** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.16, 10.20, 11.47, 10.70, 10.06 |
+| 3 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **10.84** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.25, 12.28, 11.23, 10.91, 10.38 |
+| 4 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | **11.18** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.83, 11.64, 9.34, 10.07, 15.99 |
+| 5 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | **11.60** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 12.49, 10.81, 11.50, 9.76, 14.45 |
+| 6 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **11.67** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 13.54, 10.87, 12.75, 10.03, 11.38 |
+| 7 | [Bùi Vĩnh An Tường](https://www.worldcubeassociation.org/persons/2023TUON02) | **11.73** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.28, 11.42, 12.31, 11.47, 11.42 |
+| 8 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **11.93** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 19.08, 12.91, 11.07, 10.92, 11.81 |
+| 9 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **12.36** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 16.10, 11.09, 13.13, 12.28, 11.67 |
+| 10 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) | **12.39** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.11, 11.71, 12.68, 11.78, 12.72 |
 
 ### Megaminx - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | **1:17.69** | Vietnam | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 1:17.69, 1:26.99 |
-| 2 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **1:26.98** | Vietnam | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 1:34.40, 1:37.84, 1:30.36, 1:26.98, 1:27.83 |
-| 3 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:42.76** | Vietnam | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
-| 4 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **46.28** | Vietnam | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 1:02.59, 47.59, 1:02.25, 53.24, 51.35, 1:00.34, 51.12, 53.87, 1:02.21 |
+| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **46.28** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 47.59, 53.24, 1:00.34, 53.87 |
+| 2 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | **1:17.69** | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 1:17.69, 1:26.99 |
+| 3 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **1:26.98** | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 1:34.40, 1:37.84, 1:30.36, 1:26.98, 1:27.83 |
+| 4 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:42.76** | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
 
 ### Megaminx - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **1:30.86** | Vietnam | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 1:34.40, 1:37.84, 1:30.36, 1:26.98, 1:27.83 |
-| 2 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:53.20** | Vietnam | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
-| 3 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **51.57** | Vietnam | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 1:02.59, 47.59, 1:02.25, 53.24, 51.35, 1:00.34, 51.12, 53.87, 1:02.21 |
+| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **51.57** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 47.59, 53.24, 1:00.34, 53.87 |
+| 2 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **1:30.86** | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 1:34.40, 1:37.84, 1:30.36, 1:26.98, 1:27.83 |
+| 3 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:53.20** | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
 
 ### Pyraminx - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | **1.55** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 3.23, 4.33, 1.55, 3.69, 2.30 |
-| 2 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **1.98** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 1.98, DNF, 2.66, 6.53, 3.22 |
-| 3 | [Huỳnh Năng Thành](https://www.worldcubeassociation.org/persons/2026THAN01) | **10.02** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 14.83, 12.27, 10.02, 10.17, 12.94 |
-| 4 | [Nguyễn Đức Mạnh](https://www.worldcubeassociation.org/persons/2025MANH01) | **10.53** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 14.99, 13.62, DNF, 13.75, 10.53 |
-| 5 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **10.92** | Vietnam | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 10.93, 10.92, 11.36, 17.22, 11.88 |
-| 6 | [Nguyễn Hoàng Thông Thái](https://www.worldcubeassociation.org/persons/2022THAI04) | **10.98** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.11, 21.79, 17.80, 10.98, 17.14 |
-| 7 | [Trương Quí Bảo](https://www.worldcubeassociation.org/persons/2019BAOT01) | **11.13** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 21.98, 13.53, 15.94, 11.59, 11.13 |
-| 8 | [Lê Bá Khánh Duy](https://www.worldcubeassociation.org/persons/2017DUYL01) | **11.17** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 14.93, 24.23, 25.89, 11.17, 31.53 |
-| 9 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) | **11.44** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 17.17, 15.11, 11.44, 21.28, 13.48 |
-| 10 | [Trần Mỹ Ngọc](https://www.worldcubeassociation.org/persons/2024NGOC01) | **12.03** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 23.67, 35.90, 12.03, 22.67, DNF |
+| 1 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | **1.55** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 3.23, 4.33, 1.55, 3.69, 2.30 |
+| 2 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **1.98** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 1.98, DNF, 2.66, 6.53, 3.22 |
+| 3 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) | **2.23** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.29, 3.34, 2.23, 3.48, 2.55 |
+| 4 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **2.59** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 2.78, 2.59, 3.26, 4.16, 6.79 |
+| 5 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **2.77** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 2.77, 3.74, 3.07, 3.19, 3.10 |
+| 6 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **2.96** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 3.87, 2.96, 3.89, 3.95, 5.39 |
+| 7 | [Nguyễn Thế Lâm](https://www.worldcubeassociation.org/persons/2022LAMN03) | **3.92** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.50, 13.58, 3.92, 4.48, 6.14 |
+| 8 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | **4.15** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.68, 8.59, 4.15, 9.08, 5.21 |
+| 9 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **4.25** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.27, 4.79, 4.25, 10.29, 6.35 |
+| 10 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | **4.41** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.41, 5.40, 4.56, 5.64, 7.63 |
 
 ### Pyraminx - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Vũ Phúc Hưng](https://www.worldcubeassociation.org/persons/2024HUNG08) | **10.24** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.47, 10.37, 12.13, 9.89, 8.59 |
-| 2 | [Lã Ngọc Minh Đức](https://www.worldcubeassociation.org/persons/2024DUCL04) | **10.72** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.26, 10.43, 9.40, 7.06, 12.32 |
-| 3 | [Vũ Phúc Bảo Long](https://www.worldcubeassociation.org/persons/2024LONG11) | **11.00** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.07, 8.87, 10.59, 11.55, 10.86 |
-| 4 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **11.39** | Vietnam | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 10.93, 10.92, 11.36, 17.22, 11.88 |
-| 5 | [Đỗ Phương Thảo](https://www.worldcubeassociation.org/persons/2023THAO01) | **11.52** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 8.84, 11.95, DNF, 9.44, 13.17 |
-| 6 | [Huỳnh Năng Thành](https://www.worldcubeassociation.org/persons/2026THAN01) | **11.79** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 14.83, 12.27, 10.02, 10.17, 12.94 |
-| 7 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2018DATN03) | **12.12** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 14.28, 10.65, 11.44, 15.08, 9.45 |
-| 8 | [Bùi Đặng Minh Sang](https://www.worldcubeassociation.org/persons/2024SANG07) | **12.31** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 16.81, 11.53, 7.82, 10.33, 15.06 |
-| 9 | [Nguyễn Quang Sáng](https://www.worldcubeassociation.org/persons/2022SANG05) | **12.57** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 12.24, 13.33, 15.82, 12.13, 8.82 |
-| 10 | [Le Hoang Duy](https://www.worldcubeassociation.org/persons/2026DUYL01) | **12.74** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 14.18, 7.05, 11.35, 12.69, 14.28 |
+| 1 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | **3.07** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 3.23, 4.33, 1.55, 3.69, 2.30 |
+| 2 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **3.12** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 2.77, 3.74, 3.07, 3.19, 3.10 |
+| 3 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) | **3.12** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.29, 3.34, 2.23, 3.48, 2.55 |
+| 4 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **3.40** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 2.78, 2.59, 3.26, 4.16, 6.79 |
+| 5 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **3.90** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 3.87, 2.96, 3.89, 3.95, 5.39 |
+| 6 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **4.14** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 1.98, DNF, 2.66, 6.53, 3.22 |
+| 7 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | **5.20** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.41, 5.40, 4.56, 5.64, 7.63 |
+| 8 | [Nguyễn Thế Lâm](https://www.worldcubeassociation.org/persons/2022LAMN03) | **5.71** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.50, 13.58, 3.92, 4.48, 6.14 |
+| 9 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **6.14** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.27, 4.79, 4.25, 10.29, 6.35 |
+| 10 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | **6.16** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.68, 8.59, 4.15, 9.08, 5.21 |
 
 ### Clock - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **10.07** | Vietnam | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
-| 2 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **10.13** | Vietnam | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 11.79, DNF, 15.89, 13.47, 10.13, 12.30, 10.15, DNF, 11.49, 15.28 |
-| 3 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **11.09** | Vietnam | [RIT Tiger Twist 2026](https://www.worldcubeassociation.org/competitions/RITTigerTwist2026) | DNF, 11.09, 22.58, 11.30, 13.77 |
-| 4 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | **21.67** | Vietnam | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | DNF, 21.67 |
-| 5 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **9.38** | Vietnam | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 10.38, 9.41, 9.10, 11.20, 7.31, 8.03, 9.38, 7.72, 11.30, 10.56, 8.20, DNF, 10.66, 8.67, 10.48 |
+| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **7.31** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 9.41, 7.31, 7.72, 8.20, 8.67 |
+| 2 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **10.07** | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
+| 3 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **10.13** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 11.79, 15.89, 10.13, 10.15, 11.49 |
+| 4 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **11.09** | [RIT Tiger Twist 2026](https://www.worldcubeassociation.org/competitions/RITTigerTwist2026) | DNF, 11.09, 22.58, 11.30, 13.77 |
+| 5 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | **21.67** | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | DNF, 21.67 |
 
 ### Clock - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **10.53** | Vietnam | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 10.38, 9.41, 9.10, 11.20, 7.31, 8.03, 9.38, 7.72, 11.30, 10.56, 8.20, DNF, 10.66, 8.67, 10.48 |
-| 2 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **11.14** | Vietnam | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 11.79, 15.89, 10.13, 10.15, 11.49 |
-| 3 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **14.46** | Vietnam | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
-| 4 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **15.88** | Vietnam | [RIT Tiger Twist 2026](https://www.worldcubeassociation.org/competitions/RITTigerTwist2026) | DNF, 11.09, 22.58, 11.30, 13.77 |
+| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **8.20** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 9.41, 7.31, 7.72, 8.20, 8.67 |
+| 2 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **11.14** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 11.79, 15.89, 10.13, 10.15, 11.49 |
+| 3 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **14.46** | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
+| 4 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **15.88** | [RIT Tiger Twist 2026](https://www.worldcubeassociation.org/competitions/RITTigerTwist2026) | DNF, 11.09, 22.58, 11.30, 13.77 |
 
 ### Skewb - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | **1.47** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.55, 6.25, 4.27, 1.47, 5.63 |
-| 2 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **1.61** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.54, 5.09, 4.70, 1.61, 4.97 |
-| 3 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **1.78** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.75, 8.09, 7.31, 1.78, 7.70 |
-| 4 | [Huỳnh Tấn Đức](https://www.worldcubeassociation.org/persons/2022DUCH01) | **10.15** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 19.69, 10.15, 19.53, 14.88, 20.44 |
-| 5 | [Huỳnh Năng Thành](https://www.worldcubeassociation.org/persons/2026THAN01) | **10.52** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 15.14, 10.52, 15.14, 11.87, 19.62 |
-| 6 | [Phạm Thái Bảo](https://www.worldcubeassociation.org/persons/2024BAOP02) | **11.12** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 1:00.30, 13.64, 15.18, 14.36, 11.12 |
-| 7 | [Thanh Trinh](https://www.worldcubeassociation.org/persons/2026TRIN01) | **12.64** | Vietnam | [Bremium Cubing 2026](https://www.worldcubeassociation.org/competitions/BremiumCubing2026) | 17.39, 17.10, 15.26, 14.46, 16.64, 10.89, 12.86, 15.89, 12.64, 10.82 |
-| 8 | [Mai Nam Viet](https://www.worldcubeassociation.org/persons/2025VIET01) | **13.00** | Vietnam | [Dobřejovice Special 2026](https://www.worldcubeassociation.org/competitions/DobrejoviceSpecial2026) | 20.08, DNF, 23.62, 13.00, 16.69 |
-| 9 | [Nguyễn Thế Nhân](https://www.worldcubeassociation.org/persons/2026NHAN02) | **13.06** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 16.64, 13.06, 14.11, 19.36, 20.08 |
-| 10 | [Le Hoang Duy](https://www.worldcubeassociation.org/persons/2026DUYL01) | **13.07** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 20.20, 13.07, 17.22, 19.85, 21.02 |
+| 1 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | **1.47** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.55, 6.25, 4.27, 1.47, 5.63 |
+| 2 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **1.61** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.54, 5.09, 4.70, 1.61, 4.97 |
+| 3 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **1.78** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.75, 8.09, 7.31, 1.78, 7.70 |
+| 4 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **2.08** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.74, 6.37, 5.54, 2.08, 6.11 |
+| 5 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **2.13** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.60, 6.16, 5.07, 2.13, 5.67 |
+| 6 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **2.15** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.93, 5.61, 5.54, 2.15, 4.57 |
+| 7 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) | **2.33** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 9.67, 16.18, 17.81, 2.33, 9.29 |
+| 8 | [Trương Quí Bảo](https://www.worldcubeassociation.org/persons/2019BAOT01) | **2.39** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.59, 8.66, 11.30, 2.39, 8.88 |
+| 9 | [Nguyễn Quang Sáng](https://www.worldcubeassociation.org/persons/2022SANG05) | **2.42** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 8.75, 8.20, 7.56, 2.42, 7.03 |
+| 10 | [Lã Ngọc Minh Đức](https://www.worldcubeassociation.org/persons/2024DUCL04) | **2.96** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.10, 13.96, 10.16, 2.96, 13.86 |
 
 ### Skewb - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) | **10.10** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.31, 8.20, 9.27, 9.73, 12.65 |
-| 2 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) | **10.15** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.11, 9.15, 10.18, 14.18, 7.87 |
-| 3 | [Đỗ Phương Thảo](https://www.worldcubeassociation.org/persons/2023THAO01) | **10.44** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.49, 12.29, DNF, 8.54, 8.18 |
-| 4 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | **10.92** | Vietnam | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | 8.14, 10.29, 12.63, 14.55, 9.83 |
-| 5 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) | **11.71** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 9.67, 16.18, 17.81, 2.33, 9.29 |
-| 6 | [Nguyễn Đức Mạnh](https://www.worldcubeassociation.org/persons/2025MANH01) | **11.87** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 8.58, 14.65, 11.95, 9.02, DNF |
-| 7 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2018DATN03) | **12.15** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 14.83, 12.60, 20.45, 8.72, 9.02 |
-| 8 | [Nguyễn Hoàng Thông Thái](https://www.worldcubeassociation.org/persons/2022THAI04) | **12.22** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 12.83, 11.97, 14.23, 11.85, 9.35 |
-| 9 | [Lã Ngọc Minh Đức](https://www.worldcubeassociation.org/persons/2024DUCL04) | **12.37** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.10, 13.96, 10.16, 2.96, 13.86 |
-| 10 | [Trần Thanh Nam](https://www.worldcubeassociation.org/persons/2026NAMT01) | **12.42** | Vietnam | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 15.28, 11.68, 10.31, 15.80, 9.81 |
+| 1 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | **4.82** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.55, 6.25, 4.27, 1.47, 5.63 |
+| 2 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) | **4.84** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.11, 4.92, 6.56, 3.77, 4.48 |
+| 3 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **4.92** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.54, 5.09, 4.70, 1.61, 4.97 |
+| 4 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **5.01** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.93, 5.61, 5.54, 2.15, 4.57 |
+| 5 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) | **5.47** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.73, DNF, 4.59, 3.36, 7.10 |
+| 6 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **5.63** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.60, 6.16, 5.07, 2.13, 5.67 |
+| 7 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **6.01** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.74, 6.37, 5.54, 2.08, 6.11 |
+| 8 | [Phan Trần Phương Thiên](https://www.worldcubeassociation.org/persons/2024THIE04) | **6.32** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.91, 6.31, 7.32, 5.37, 5.75 |
+| 9 | [Nguyễn Thế Lâm](https://www.worldcubeassociation.org/persons/2022LAMN03) | **6.87** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 8.70, 6.27, 7.12, 4.11, 7.21 |
+| 10 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **6.92** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.75, 8.09, 7.31, 1.78, 7.70 |
 
 ### Square-1 - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **18.99** | Vietnam | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 19.29, 24.39, 19.28, 20.31, 29.91, 20.87, 18.99, 16.75, 22.91, 19.40 |
-| 2 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | **46.08** | Vietnam | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | 1:04.55, 46.08 |
-| 3 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **8.31** | Vietnam | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 8.31, 11.69, 9.64, 7.88, 10.72, 11.15, 13.53, 13.02, 10.26, 12.15 |
+| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **7.88** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 11.69, 7.88, 11.15, 13.02, 12.15 |
+| 2 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **16.75** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 24.39, 20.31, 20.87, 16.75, 19.40 |
+| 3 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | **46.08** | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | 1:04.55, 46.08 |
 
 ### Square-1 - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **10.21** | Vietnam | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 8.31, 11.69, 9.64, 7.88, 10.72, 11.15, 13.53, 13.02, 10.26, 12.15 |
-| 2 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **20.49** | Vietnam | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 19.29, 24.39, 19.28, 20.31, 29.91, 20.87, 18.99, 16.75, 22.91, 19.40 |
+| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **10.21** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 8.31, 9.64, 10.72, 13.53, 10.26 |
+| 2 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **20.19** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 24.39, 20.31, 20.87, 16.75, 19.40 |
 
 
 <a href="https://github.com/noeruchangd/wca_statistics_vn" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
