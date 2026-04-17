@@ -38,11 +38,21 @@ class BestSingleCountingIntoAverage < GroupedStatistic
       results = query_results
         .select { |result| result["event_id"] == event_id }
         .flat_map do |result|
+          # solves = (1..5).map { |n| result["value#{n}"] || 0 }
+          # counting_solves = solves.sort_by { |v| v > 0 ? 0 : 1 }[1...-1]
+          # counting_solves
+          #   .select { |solve| solve > 0 } # tylko ukończone
+          #   .map { |solve| [solve, result["person_link"], result["results_link"]] }
           solves = (1..5).map { |n| result["value#{n}"] || 0 }
-          counting_solves = solves.sort_by { |v| v > 0 ? 0 : 1 }[1...-1]
-          counting_solves
-            .select { |solve| solve > 0 } # tylko ukończone
-            .map { |solve| [solve, result["person_link"], result["results_link"]] }
+          solves = solves.reject { |v| v == 0 }
+          next [] if solves.size < 5
+          dnfs = solves.select { |v| v < 0 }
+          valid = solves.select { |v| v > 0 }
+          next [] if dnfs.size >= 2
+          sorted = valid.sort + dnfs
+          counting_solves = sorted[1...-1]
+          best_counting = counting_solves.min
+          [[best_counting, result["person_link"], result["results_link"]]]
         end
         .sort_by { |solve, person_link, results_link| solve }
         .first(10)

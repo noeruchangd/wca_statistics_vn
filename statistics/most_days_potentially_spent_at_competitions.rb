@@ -26,7 +26,7 @@ class MostDaysPotentiallySpentAtCompetitions < Statistic
         WHERE p.country_id = 'Vietnam' AND p.sub_id = 1
       ) AS unique_participations
       GROUP BY name, person_id
-      HAVING total_days > 200
+      HAVING total_days > 20
       ORDER BY total_days DESC;
     SQL
   end

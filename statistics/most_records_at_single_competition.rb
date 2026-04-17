@@ -40,6 +40,7 @@ class MostRecordsAtSingleCompetition < GroupedStatistic
             .reduce(&:+)
           [records_count, person_link, results_link]
         end
+        .select { |records_count, _, _| records_count > 0 }
         .sort_by! { |records_count, person_link, results_link| -records_count }
       [header, take_top_n_with_ties(records_at_single_competition, 20, 0)]
     end

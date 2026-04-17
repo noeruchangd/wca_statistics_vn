@@ -25,7 +25,7 @@ FROM (
 JOIN persons person ON person.wca_id = stats.person_id AND person.sub_id = 1
 WHERE person.country_id = 'Vietnam'
   AND stats.competitions > 0
-  AND (stats.medals / stats.competitions) > 2
+  AND (stats.medals / stats.competitions) > 1.5
 ORDER BY CAST(ratio AS DECIMAL(10,2)) DESC, stats.medals DESC, stats.competitions ASC, person.name
 
     SQL

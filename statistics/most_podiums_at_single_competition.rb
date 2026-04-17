@@ -23,12 +23,13 @@ class MostPodiumsAtSingleCompetition < Statistic
           AND best > 0
           AND pos IN (1, 2, 3)
         GROUP BY person_id, competition_id
-        HAVING podiums_count >= 10
+        HAVING podiums_count >= 2
         ORDER BY podiums_count DESC
       ) AS podiums_count_by_person_by_competition
       JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       JOIN competitions competition ON competition.id = competition_id
       ORDER BY podiums_count DESC, person.name
+      LIMIT 100
     SQL
   end
 end

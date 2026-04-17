@@ -33,7 +33,7 @@ class AverageEventCountByCompetition < Statistic
   def transform(query_results)
     query_results
       .map do |result|
-        [result["competition_link"], "%0.2f" % result["average_event_count"], result["competitors"], result["country"]]
+        [result["competition_link"], "%0.2f" % result["average_event_count"], result["competitors"]]
       end
   end
 end

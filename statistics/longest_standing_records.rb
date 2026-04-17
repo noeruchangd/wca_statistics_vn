@@ -11,8 +11,8 @@ class LongestStandingRecords < GroupedStatistic
   def query
     <<-SQL
       SELECT
-        regional_single_record regional_single_record,
-        regional_average_record regional_average_record,
+        regional_single_record,
+        regional_average_record,
         best single,
         average,
         CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link,
@@ -37,6 +37,10 @@ class LongestStandingRecords < GroupedStatistic
     }.map do |region, record_ids|
       results = %w(single average).flat_map do |type|
         query_results
+          .select do |result|
+            record_ids.include?(result["regional_#{type}_record"]) &&
+            Events::OFFICIAL.has_key?(result["event_id"])
+          end
           .group_by { |result| result["event_id"] }
           .flat_map do |event_id, results|
             results.each do |result_1|

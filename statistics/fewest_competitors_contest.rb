@@ -3,6 +3,7 @@ require_relative "../core/statistic"
 class FewestCompetitorsContest < Statistic
   def initialize
     @title = "Fewest competitors contest"
+    @note = "Competitions with the least number of competitors participated."
     @table_header = { "Competitors" => :right, "Competition" => :left }
   end
 
@@ -17,7 +18,7 @@ class FewestCompetitorsContest < Statistic
           competition_id
         FROM results
         GROUP BY competition_id
-        HAVING competitors_count <= 15
+        HAVING competitors_count <= 100 -- raise the bar because there is currently no comp in Vietnam having less than 15 competitors
       ) AS competitors_count_by_competition
       JOIN competitions competition ON competition.id = competition_id AND competition.country_id = 'Vietnam'
       ORDER BY competitors_count

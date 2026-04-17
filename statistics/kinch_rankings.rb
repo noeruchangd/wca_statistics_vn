@@ -178,7 +178,8 @@ class KinchRankings < Statistic
         ON a.person_id = f.person_id
         GROUP BY 
             f.person_id, p.name, f.kinch
-        ORDER BY f.kinch DESC;
+        ORDER BY f.kinch DESC
+        LIMIT 100;
     SQL
   end
 end
