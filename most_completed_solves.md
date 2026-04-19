@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 
 ### Competition
@@ -47,9 +47,9 @@
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **751** | 759 |
 | 15 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
-| 16 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **708** | 715 |
-| 17 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **690** | 717 |
-| 18 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **688** | 716 |
+| 16 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
+| 17 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **708** | 715 |
+| 18 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **690** | 717 |
 | 19 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **648** | 654 |
 | 20 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | **644** | 669 |
 
@@ -64,7 +64,7 @@
 | 5 | 2019 | **10283** | 10564 |
 | 6 | 2018 | **8470** | 8706 |
 | 7 | 2016 | **6126** | 6328 |
-| 8 | 2026 | **6020** | 6239 |
+| 8 | 2026 | **6118** | 6339 |
 | 9 | 2017 | **5989** | 6129 |
 | 10 | 2020 | **3791** | 3930 |
 | 11 | 2014 | **2832** | 2938 |
@@ -80,16 +80,16 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **46252** | 47165 |
-| 2 | 2x2x2 Cube | **23744** | 24341 |
-| 3 | 4x4x4 Cube | **14668** | 15064 |
-| 4 | 3x3x3 One-Handed | **13607** | 13971 |
-| 5 | Pyraminx | **8209** | 8419 |
+| 1 | 3x3x3 Cube | **46287** | 47200 |
+| 2 | 2x2x2 Cube | **23754** | 24351 |
+| 3 | 4x4x4 Cube | **14673** | 15069 |
+| 4 | 3x3x3 One-Handed | **13627** | 13991 |
+| 5 | Pyraminx | **8223** | 8434 |
 | 6 | 5x5x5 Cube | **7159** | 7323 |
-| 7 | Skewb | **5715** | 5873 |
+| 7 | Skewb | **5725** | 5883 |
 | 8 | Megaminx | **2188** | 2250 |
 | 9 | Clock | **2081** | 2410 |
-| 10 | Square-1 | **1555** | 1617 |
+| 10 | Square-1 | **1559** | 1622 |
 | 11 | 6x6x6 Cube | **1472** | 1499 |
 | 12 | 7x7x7 Cube | **1161** | 1199 |
 | 13 | Magic | **544** | 618 |

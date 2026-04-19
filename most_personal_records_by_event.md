@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 
 ### 3x3x3 Cube
@@ -165,9 +165,9 @@
 | 5 | 12 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) |
 | 6 | 11 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) |
 | 7 | 11 | [Nguyễn Mạnh Chí](https://www.worldcubeassociation.org/persons/2023CHIN09) |
-| 8 | 10 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
-| 9 | 10 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
-| 10 | 10 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) |
+| 8 | 10 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) |
+| 9 | 10 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
+| 10 | 10 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
 
 ### Clock
 

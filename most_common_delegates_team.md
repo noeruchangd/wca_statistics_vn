@@ -1,7 +1,7 @@
 ## Most common delegate teams in Vietnam
 
 *Note: This statistic shows the most common teams of delegates in Vietnam. It is based on the number of competitions where the exact team of delegates was listed.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | # | Number of competitions | Team |
 | ---: | :--- | :--- |

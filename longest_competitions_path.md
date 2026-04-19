@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
@@ -122,7 +122,7 @@
 | 115 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) | 1 639 km |
 | 116 | [Nguyễn Viết Duy](https://www.worldcubeassociation.org/persons/2018DUYN02) | 1 613 km |
 | 117 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 1 511 km |
-| 118 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 1 487 km |
+| 118 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 1 510 km |
 | 119 | [Ngô Minh Khang](https://www.worldcubeassociation.org/persons/2022KHAN72) | 1 481 km |
 | 120 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 1 286 km |
 | 121 | [Đinh Hữu Phúc](https://www.worldcubeassociation.org/persons/2022PHUC01) | 1 259 km |

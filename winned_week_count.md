@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 
 ### 3x3x3 Cube
@@ -9,12 +9,6 @@
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
 | 1 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 1 |
-
-### 2x2x2 Cube
-
-| # | Person | Winned weeks |
-| ---: | :--- | ---: |
-| 1 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 1 |
 
 ### 4x4x4 Cube
 

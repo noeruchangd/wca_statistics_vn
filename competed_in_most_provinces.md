@@ -1,7 +1,7 @@
 ## Competed in most provinces in Vietnam
 
 *Note: Provinces are inferred from competition coordinates using precise Point-in-Polygon boundaries (GADM).*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | # | Person | Completed | Missed Count | Missed Provinces | Completed All At |
 | ---: | :--- | ---: | ---: | :--- | :--- |

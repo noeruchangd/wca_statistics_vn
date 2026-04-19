@@ -1,7 +1,7 @@
 ## Competitions with the least number of no-shows in Vietnam
 
 *Note: This statistic shows the competitions in Vietnam with the least number of no-shows (registered but did not compete in any event of the comp).*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 | # | Competition | Total registered | Total competed | No-shows |
 | ---: | :--- | ---: | ---: | ---: |

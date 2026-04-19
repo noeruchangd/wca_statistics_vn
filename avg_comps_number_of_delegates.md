@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Vietnamese competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on 16 April 2026*
+*Updated on 19 April 2026*
 
 
 ### 8 Delegates
