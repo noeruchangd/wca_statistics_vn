@@ -8,26 +8,26 @@
 
 | # | Events | Person | List |
 | ---: | ---: | :--- | :--- |
-| 1 | 0 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |  |
-| 2 | 0 | [Hien Bui](https://www.worldcubeassociation.org/persons/2009BUIH01) |  |
-| 3 | 0 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |  |
-| 4 | 0 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |  |
-| 5 | 0 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) |  |
-| 6 | 0 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |  |
+| 1 | 0 | [Hien Bui](https://www.worldcubeassociation.org/persons/2009BUIH01) |  |
+| 2 | 0 | [Viet Cuong Nguyen](https://www.worldcubeassociation.org/persons/2009NGUY03) |  |
+| 3 | 0 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) |  |
+| 4 | 0 | [Hong Quan Nguyen](https://www.worldcubeassociation.org/persons/2010NGUY13) |  |
+| 5 | 0 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |  |
+| 6 | 0 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) |  |
 | 7 | 0 | [Đào Quốc Việt](https://www.worldcubeassociation.org/persons/2011DAOQ02) |  |
-| 8 | 0 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) |  |
-| 9 | 0 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |  |
-| 10 | 0 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |  |
-| 11 | 0 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) |  |
-| 12 | 0 | [Hong Quan Nguyen](https://www.worldcubeassociation.org/persons/2010NGUY13) |  |
-| 13 | 0 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) |  |
-| 14 | 0 | [Viet Cuong Nguyen](https://www.worldcubeassociation.org/persons/2009NGUY03) |  |
-| 15 | 0 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) |  |
-| 16 | 0 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |  |
-| 17 | 0 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |  |
-| 18 | 0 | [Nguyễn Cao Sơn](https://www.worldcubeassociation.org/persons/2010NGUY20) |  |
+| 8 | 0 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) |  |
+| 9 | 0 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) |  |
+| 10 | 0 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |  |
+| 11 | 0 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |  |
+| 12 | 0 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |  |
+| 13 | 0 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) |  |
+| 14 | 0 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |  |
+| 15 | 0 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |  |
+| 16 | 0 | [Pham Thien Chinh Le](https://www.worldcubeassociation.org/persons/2010LEPH01) |  |
+| 17 | 0 | [Nguyễn Cao Sơn](https://www.worldcubeassociation.org/persons/2010NGUY20) |  |
+| 18 | 0 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |  |
 | 19 | 0 | [Nguyễn Tuấn Tú](https://www.worldcubeassociation.org/persons/2011NGUY16) |  |
-| 20 | 0 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |  |
+| 20 | 0 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) |  |
 
 ### Continental
 
@@ -35,24 +35,24 @@
 | ---: | ---: | :--- | :--- |
 | 1 | 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 4x4x4 Cube, 5x5x5 Cube |
 | 2 | 1 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | Clock |
-| 3 | 0 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |  |
-| 4 | 0 | [Hien Bui](https://www.worldcubeassociation.org/persons/2009BUIH01) |  |
-| 5 | 0 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |  |
-| 6 | 0 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |  |
-| 7 | 0 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) |  |
-| 8 | 0 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |  |
+| 3 | 0 | [Hien Bui](https://www.worldcubeassociation.org/persons/2009BUIH01) |  |
+| 4 | 0 | [Viet Cuong Nguyen](https://www.worldcubeassociation.org/persons/2009NGUY03) |  |
+| 5 | 0 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) |  |
+| 6 | 0 | [Hong Quan Nguyen](https://www.worldcubeassociation.org/persons/2010NGUY13) |  |
+| 7 | 0 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |  |
+| 8 | 0 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) |  |
 | 9 | 0 | [Đào Quốc Việt](https://www.worldcubeassociation.org/persons/2011DAOQ02) |  |
-| 10 | 0 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) |  |
-| 11 | 0 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |  |
-| 12 | 0 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) |  |
-| 13 | 0 | [Hong Quan Nguyen](https://www.worldcubeassociation.org/persons/2010NGUY13) |  |
-| 14 | 0 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) |  |
-| 15 | 0 | [Viet Cuong Nguyen](https://www.worldcubeassociation.org/persons/2009NGUY03) |  |
-| 16 | 0 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) |  |
-| 17 | 0 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |  |
+| 10 | 0 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) |  |
+| 11 | 0 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) |  |
+| 12 | 0 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |  |
+| 13 | 0 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |  |
+| 14 | 0 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |  |
+| 15 | 0 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) |  |
+| 16 | 0 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |  |
+| 17 | 0 | [Pham Thien Chinh Le](https://www.worldcubeassociation.org/persons/2010LEPH01) |  |
 | 18 | 0 | [Nguyễn Cao Sơn](https://www.worldcubeassociation.org/persons/2010NGUY20) |  |
-| 19 | 0 | [Nguyễn Tuấn Tú](https://www.worldcubeassociation.org/persons/2011NGUY16) |  |
-| 20 | 0 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |  |
+| 19 | 0 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |  |
+| 20 | 0 | [Nguyễn Tuấn Tú](https://www.worldcubeassociation.org/persons/2011NGUY16) |  |
 
 ### National
 
@@ -65,16 +65,16 @@
 | 5 | 4 | [Hien Bui](https://www.worldcubeassociation.org/persons/2009BUIH01) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed |
 | 6 | 4 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 3x3x3 Fewest Moves |
 | 7 | 4 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | Clock, Skewb, Square-1, 3x3x3 With Feet |
-| 8 | 3 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2x2x2 Cube, Clock, Pyraminx |
-| 9 | 3 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 2x2x2 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed |
-| 10 | 3 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 2x2x2 Cube, 3x3x3 Blindfolded, Square-1 |
+| 8 | 3 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 2x2x2 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed |
+| 9 | 3 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 2x2x2 Cube, 3x3x3 Blindfolded, Square-1 |
+| 10 | 3 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2x2x2 Cube, Clock, Pyraminx |
 | 11 | 3 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube |
 | 12 | 3 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 4x4x4 Cube, 5x5x5 Cube, 7x7x7 Cube |
 | 13 | 3 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
 | 14 | 3 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 15 | 2 | [Hong Quan Nguyen](https://www.worldcubeassociation.org/persons/2010NGUY13) | 3x3x3 Cube, 2x2x2 Cube |
-| 16 | 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 2x2x2 Cube, 3x3x3 Fewest Moves |
-| 17 | 2 | [Pham Thien Chinh Le](https://www.worldcubeassociation.org/persons/2010LEPH01) | 2x2x2 Cube, 3x3x3 One-Handed |
+| 16 | 2 | [Pham Thien Chinh Le](https://www.worldcubeassociation.org/persons/2010LEPH01) | 2x2x2 Cube, 3x3x3 One-Handed |
+| 17 | 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 2x2x2 Cube, 3x3x3 Fewest Moves |
 | 18 | 2 | [Trịnh Quốc Anh](https://www.worldcubeassociation.org/persons/2010TRIN03) | 4x4x4 Cube, 3x3x3 One-Handed |
 | 19 | 2 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 6x6x6 Cube, 7x7x7 Cube |
 | 20 | 2 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 6x6x6 Cube, 7x7x7 Cube |
