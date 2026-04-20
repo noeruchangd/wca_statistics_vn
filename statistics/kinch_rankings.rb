@@ -3,7 +3,7 @@ require_relative "../core/statistic"
 class KinchRankings < Statistic
   def initialize
     @title = "Kinch rankings of Vietnamese competitors"
-    @table_header = { "Person" => :left, "Kinch" => :center, "333" => :center, "222" => :center, "444" => :center, "555" => :center, "666" => :center, "777" => :center, "333oh" => :center, "sq1" => :center, "minx" => :center, "pyram" => :center, "skewb" => :center, "clock" => :center, "444bf" => :center, "555bf" => :center, "333bf" => :center, "333fm" => :center, "333mbf" => :center }
+    @table_header = { "Person" => :left, "Kinch" => :center, "333" => :center, "222" => :center, "444" => :center, "555" => :center, "666" => :center, "777" => :center, "333oh" => :center, "sq1" => :center, "minx" => :center, "pyram" => :center, "skewb" => :center, "clock" => :center, "333bf" => :center, "444bf" => :center, "555bf" => :center, "333fm" => :center, "333mbf" => :center }
   end
 
   def query

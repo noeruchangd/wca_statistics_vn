@@ -40,6 +40,7 @@ class RecordsInMostEvents < GroupedStatistic
             .uniq
           [events.count, person_link, events.join(', ')]
         end
+        .reject { |events_count, _, _| events_count == 0 }
         .sort_by! { |events_count, _, _| -events_count }
         .first(20)
       [header, events_with_people]
