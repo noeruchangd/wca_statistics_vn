@@ -13,7 +13,7 @@ class CompetitionsCountByWeek < Statistic
         COUNT(*) competitions_count,
         DATE_ADD(start_date, INTERVAL(-WEEKDAY(start_date)) DAY) week_start_date,
         DATE_ADD(start_date, INTERVAL(6 - WEEKDAY(start_date)) DAY) week_end_date,
-        CONCAT('[List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=', MIN(start_date), '&to_date=', MAX(end_date), ')') list_link
+        CONCAT('[List](https://www.worldcubeassociation.org/competitions?state=custom&from_date=', MIN(start_date), '&to_date=', MAX(end_date), '&region=VN', ')') list_link
       FROM competitions
       WHERE show_at_all = 1 AND cancelled_at IS NULL AND country_id = 'Vietnam'
       GROUP BY week_start_date, week_end_date

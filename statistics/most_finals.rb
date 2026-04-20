@@ -10,19 +10,20 @@ class MostFinals < Statistic
     <<-SQL
       SELECT
         finals_count,
-        CONCAT('[', person.name, '](https://www.worldcubeassociation.org/persons/', person.wca_id, ')') person_link
+        CONCAT('[', person_name, '](https://www.worldcubeassociation.org/persons/', wca_id, ')') person_link
       FROM (
         SELECT
           person_id wca_id,
+          person.name person_name,
           COUNT(*) finals_count
         FROM results
+        JOIN persons person ON person.wca_id = results.person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
         JOIN round_types round_type ON round_type.id = round_type_id
         WHERE round_type.final = 1
         GROUP BY person_id
         ORDER BY finals_count DESC
         LIMIT 100
       ) AS people_with_finals
-      JOIN persons person ON person.wca_id = people_with_finals.wca_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
       ORDER BY finals_count DESC
     SQL
   end
