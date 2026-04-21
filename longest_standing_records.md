@@ -8,7 +8,7 @@
 | # | Event | Type | Days | Result | Person | Competition |
 | ---: | :--- | :--- | ---: | ---: | :--- | :--- |
 | 1 | Pyraminx | Single | **4438** | 2.66 | [Lê Minh Cường](https://www.worldcubeassociation.org/persons/2011LEMI02) | [Ha Noi Open 2013](https://www.worldcubeassociation.org/competitions/HaNoiOpen2013/results/by_person#2011LEMI02) |
-| 2 | Pyraminx | Average | **4404** | 4.35 | [Lê Minh Cường](https://www.worldcubeassociation.org/persons/2011LEMI02) | [CSP Open 2014](https://www.worldcubeassociation.org/competitions/CSPOpen2014/results/by_person#2011LEMI02) |
+| 2 | Pyraminx | Average | **4405** | 4.35 | [Lê Minh Cường](https://www.worldcubeassociation.org/persons/2011LEMI02) | [CSP Open 2014](https://www.worldcubeassociation.org/competitions/CSPOpen2014/results/by_person#2011LEMI02) |
 | 3 | 3x3x3 Fewest Moves | Single | **4375** | 47 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011/results/by_person#2010LETR01) |
 | 4 | 2x2x2 Cube | Single | **3697** | 2.46 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | [Ha Noi Open 2012](https://www.worldcubeassociation.org/competitions/HaNoi2012/results/by_person#2010NGUY33) |
 | 5 | 2x2x2 Cube | Average | **2940** | 3.31 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | [Ho Chi Minh Open 2014](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2014/results/by_person#2013KHAN06) |

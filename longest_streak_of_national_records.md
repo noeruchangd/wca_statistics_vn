@@ -80,7 +80,7 @@
 | 74 | 2 | 4x4x4 Blindfolded | Single | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | [Ota Blind Winter 2022](https://www.worldcubeassociation.org/competitions/OtaBlindWinter2022) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) | 1.59 |
 | 75 | 2 | 5x5x5 Blindfolded | Single | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | [Ota Blind New Year 2024](https://www.worldcubeassociation.org/competitions/OtaBlindNewYear2024) |  | 2.25 |
 | 76 | 2 | 3x3x3 Multi-Blind | Single | [Đỗ Anh Tuấn](https://www.worldcubeassociation.org/persons/2016TUAN07) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |  | 2.75 |
-| 77 | 2 | 3x3x3 With Feet | Average | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) |  | 14.72 |
+| 77 | 2 | 3x3x3 With Feet | Average | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) |  | 14.73 |
 | 78 | 2 | Rubik's Magic | Single | [Van Tien Trung Vu](https://www.worldcubeassociation.org/persons/2010VUVA01) | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010) |  | 15.70 |
 
 

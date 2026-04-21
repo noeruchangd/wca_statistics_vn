@@ -5,8 +5,8 @@
 
 | # | Count | Person | Start comp | End comp |
 | ---: | ---: | :--- | :--- | :--- |
-| 1 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [Spark Melbourne Autumn Sunday 2026](https://www.worldcubeassociation.org/competitions/SparkMelbourneAutumnSun2026) | [Brilliant Ballarat 2026](https://www.worldcubeassociation.org/competitions/BrilliantBallarat2026) |
-| 2 | 2 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | [Nha Trang Open 2017](https://www.worldcubeassociation.org/competitions/NhaTrangOpen2017) | [Da Nang City Open 2017](https://www.worldcubeassociation.org/competitions/DaNangCityOpen2017) |
+| 1 | 2 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | [Nha Trang Open 2017](https://www.worldcubeassociation.org/competitions/NhaTrangOpen2017) | [Da Nang City Open 2017](https://www.worldcubeassociation.org/competitions/DaNangCityOpen2017) |
+| 2 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [Spark Melbourne Autumn Sunday 2026](https://www.worldcubeassociation.org/competitions/SparkMelbourneAutumnSun2026) | [Brilliant Ballarat 2026](https://www.worldcubeassociation.org/competitions/BrilliantBallarat2026) |
 | 3 | 2 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
 | 4 | 1 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) |
 | 5 | 1 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) |
