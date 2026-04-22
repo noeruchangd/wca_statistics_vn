@@ -1,6 +1,6 @@
 ## Sum of national rankings (single)
 
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | # | Person | SoR | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 444bf | 555bf | 333bf | 333fm | 333mbf |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -161,7 +161,7 @@
 | 155 | [Nguyễn Trường Giang](https://www.worldcubeassociation.org/persons/2016GIAN08) | 2965 | 95 | 149 | 363 | 272 | 171 | 132 | 233 | 115 | 238 | 540 | 282 | 181 | 10 | 4 | 97 | 65 | 18 |
 | 156 | [Đào Bách Nguyên](https://www.worldcubeassociation.org/persons/2019NGUY05) | 2974 | 347 | 259 | 361 | 527 | 171 | 132 | 319 | 150 | 238 | 25 | 70 | 181 | 10 | 4 | 97 | 65 | 18 |
 | 157 | [Hoàng Nhật Minh](https://www.worldcubeassociation.org/persons/2022MINH20) | 2974 | 247 | 357 | 129 | 129 | 171 | 132 | 251 | 150 | 238 | 697 | 183 | 96 | 10 | 4 | 97 | 65 | 18 |
-| 158 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) | 2985 | 96 | 14 | 1032 | 527 | 171 | 132 | 192 | 150 | 238 | 36 | 22 | 181 | 10 | 4 | 97 | 65 | 18 |
+| 158 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) | 2986 | 96 | 14 | 1033 | 527 | 171 | 132 | 192 | 150 | 238 | 36 | 22 | 181 | 10 | 4 | 97 | 65 | 18 |
 | 159 | [Biện Nguyễn Vinh Hiển](https://www.worldcubeassociation.org/persons/2022HIEN01) | 2987 | 117 | 100 | 130 | 173 | 171 | 132 | 202 | 150 | 238 | 697 | 502 | 181 | 10 | 4 | 97 | 65 | 18 |
 | 160 | [Trần Ngọc Sang](https://www.worldcubeassociation.org/persons/2022SANG07) | 2990 | 165 | 166 | 92 | 140 | 171 | 132 | 162 | 150 | 238 | 697 | 502 | 181 | 10 | 4 | 97 | 65 | 18 |
 | 161 | [Phạm Thuý Huyền](https://www.worldcubeassociation.org/persons/2018HUYE01) | 3011 | 392 | 72 | 214 | 179 | 137 | 132 | 893 | 150 | 103 | 305 | 68 | 181 | 10 | 4 | 97 | 56 | 18 |

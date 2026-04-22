@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 
 ### 3x3x3 Cube
@@ -46,8 +46,8 @@
 | 6 | 26.31 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) | 29.44, 25.23, 27.73, 25.97, 23.54 |
 | 7 | 26.47 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 28.61, 26.65, 25.55, 27.22, 25.04 |
 | 8 | 26.47 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | 25.80, 30.72, 25.84, 24.92, 27.78 |
-| 9 | 27.09 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 26.07, 32.85, 25.92, 29.29, 24.36 |
-| 10 | 27.10 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 28.12, 26.55, 29.44, 25.24, 26.63 |
+| 9 | 26.81 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 26.95, 31.89, 22.93, 24.31, 29.18 |
+| 10 | 27.09 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 26.07, 32.85, 25.92, 29.29, 24.36 |
 
 ### 5x5x5 Cube
 

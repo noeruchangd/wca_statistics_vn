@@ -1,10 +1,10 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | # | Competitions | Person | Started at | Ended at |
 | ---: | ---: | :--- | :--- | :--- |
-| 1 | 29 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) |  |
+| 1 | 30 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) |  |
 | 2 | 26 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | [Hanoi Open 2010](https://www.worldcubeassociation.org/competitions/HanoiOpen2010) | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022) |
 | 3 | 22 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) | [Hanoi COP Open 2024](https://www.worldcubeassociation.org/competitions/HanoiCOPOpen2024) |
 | 4 | 21 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | [Cubewerkz Open 2016](https://www.worldcubeassociation.org/competitions/CubeWerkzOpen2016) | [Australian Nationals 2024](https://www.worldcubeassociation.org/competitions/AustralianNationals2024) |

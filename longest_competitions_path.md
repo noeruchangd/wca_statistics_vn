@@ -1,16 +1,16 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 90 484 km |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 101 514 km |
 | 2 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 55 790 km |
 | 3 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 52 791 km |
 | 4 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) | 51 298 km |
 | 5 | [Trần Mạnh Quân](https://www.worldcubeassociation.org/persons/2014QUAN02) | 47 199 km |
-| 6 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 42 943 km |
+| 6 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 42 970 km |
 | 7 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 37 641 km |
 | 8 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 36 045 km |
 | 9 | [Dang Tran](https://www.worldcubeassociation.org/persons/2022TRAN27) | 31 373 km |
@@ -35,7 +35,7 @@
 | 28 | [Tony Nguyen](https://www.worldcubeassociation.org/persons/2020NGUY11) | 15 551 km |
 | 29 | [Duc Trung Mai](https://www.worldcubeassociation.org/persons/2010MAID01) | 15 543 km |
 | 30 | [James Trương](https://www.worldcubeassociation.org/persons/2018MINH14) | 14 958 km |
-| 31 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 14 017 km |
+| 31 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 14 067 km |
 | 32 | [Nguyễn Việt Quang](https://www.worldcubeassociation.org/persons/2017QUAN11) | 13 903 km |
 | 33 | [Ryan Le (Lê Đức Bình)](https://www.worldcubeassociation.org/persons/2022LEDU01) | 13 649 km |
 | 34 | [Nguyễn Trọng Bách](https://www.worldcubeassociation.org/persons/2017BACH05) | 13 642 km |

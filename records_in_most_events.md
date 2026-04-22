@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 
 ### World
@@ -24,10 +24,10 @@
 | 14 | 0 | [Viet Cuong Nguyen](https://www.worldcubeassociation.org/persons/2009NGUY03) |  |
 | 15 | 0 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) |  |
 | 16 | 0 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |  |
-| 17 | 0 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |  |
-| 18 | 0 | [Nguyễn Cao Sơn](https://www.worldcubeassociation.org/persons/2010NGUY20) |  |
-| 19 | 0 | [Nguyễn Tuấn Tú](https://www.worldcubeassociation.org/persons/2011NGUY16) |  |
-| 20 | 0 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |  |
+| 17 | 0 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |  |
+| 18 | 0 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |  |
+| 19 | 0 | [Nguyễn Cao Sơn](https://www.worldcubeassociation.org/persons/2010NGUY20) |  |
+| 20 | 0 | [Nguyễn Tuấn Tú](https://www.worldcubeassociation.org/persons/2011NGUY16) |  |
 
 ### Continental
 
@@ -49,10 +49,10 @@
 | 14 | 0 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) |  |
 | 15 | 0 | [Viet Cuong Nguyen](https://www.worldcubeassociation.org/persons/2009NGUY03) |  |
 | 16 | 0 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) |  |
-| 17 | 0 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |  |
-| 18 | 0 | [Nguyễn Cao Sơn](https://www.worldcubeassociation.org/persons/2010NGUY20) |  |
-| 19 | 0 | [Nguyễn Tuấn Tú](https://www.worldcubeassociation.org/persons/2011NGUY16) |  |
-| 20 | 0 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |  |
+| 17 | 0 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |  |
+| 18 | 0 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |  |
+| 19 | 0 | [Nguyễn Cao Sơn](https://www.worldcubeassociation.org/persons/2010NGUY20) |  |
+| 20 | 0 | [Nguyễn Tuấn Tú](https://www.worldcubeassociation.org/persons/2011NGUY16) |  |
 
 ### National
 

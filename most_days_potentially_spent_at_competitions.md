@@ -1,13 +1,13 @@
 ## Most days potentially spent at competitions
 
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | # | Days | Person | Competitions |
 | ---: | ---: | :--- | ---: |
 | 1 | 65 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 36 |
 | 2 | 63 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 41 |
 | 3 | 58 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 30 |
-| 4 | 55 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 29 |
+| 4 | 56 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 30 |
 | 5 | 52 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 32 |
 | 6 | 48 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 23 |
 | 7 | 46 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 23 |
@@ -25,7 +25,7 @@
 | 19 | 31 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 22 |
 | 20 | 30 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) | 17 |
 | 21 | 30 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 17 |
-| 22 | 28 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 17 |
+| 22 | 29 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 18 |
 | 23 | 28 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) | 17 |
 | 24 | 28 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 16 |
 | 25 | 27 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 18 |

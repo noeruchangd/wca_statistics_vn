@@ -1,6 +1,6 @@
 ## Most attended competitions in a single month (unique competitor)
 
-*Updated on 19 April 2026*
+*Updated on 22 April 2026*
 
 | # | Competitions | Person | Month | Year | List |
 | ---: | ---: | :--- | :--- | :--- | :--- |
@@ -24,7 +24,7 @@
 | 18 | 2 | [Lê Công Minh](https://www.worldcubeassociation.org/persons/2014MINH03) |  | 2015 | [Moscow Spring Open 2015](https://www.worldcubeassociation.org/competitions/MoscowSpringOpen2015),[FMC Europe 2015](https://www.worldcubeassociation.org/competitions/FMCEurope2015) |
 | 19 | 2 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) |  | 2024 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024),[cubingHCM 3x3 Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCM3x3Winter2024) |
 | 20 | 2 | [Lê Hoàng Duy](https://www.worldcubeassociation.org/persons/2024DUYL01) |  | 2024 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024),[cubingHCM 3x3 Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCM3x3Winter2024) |
-| 21 | 2 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |  | 2024 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024),[Hanoi COP Open 2024](https://www.worldcubeassociation.org/competitions/HanoiCOPOpen2024) |
+| 21 | 2 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |  | 2026 | [RIT Tiger Twist 2026](https://www.worldcubeassociation.org/competitions/RITTigerTwist2026),[Brockport Bash 2026](https://www.worldcubeassociation.org/competitions/BrockportBash2026) |
 | 22 | 2 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) |  | 2022 | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022),[Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022) |
 | 23 | 2 | [Lý Bảo Lâm](https://www.worldcubeassociation.org/persons/2023LAML04) |  | 2024 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024),[cubingHCM 3x3 Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCM3x3Winter2024) |
 | 24 | 2 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |  | 2023 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023),[Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
