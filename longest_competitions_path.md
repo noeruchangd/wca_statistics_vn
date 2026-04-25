@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
@@ -18,7 +18,7 @@
 | 11 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 27 957 km |
 | 12 | [Anh H. Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY44) | 27 718 km |
 | 13 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 27 125 km |
-| 14 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 26 935 km |
+| 14 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 27 059 km |
 | 15 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 24 786 km |
 | 16 | [Nguyễn Đức Anh](https://www.worldcubeassociation.org/persons/2013ANHN01) | 23 716 km |
 | 17 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | 23 418 km |
@@ -47,7 +47,7 @@
 | 40 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 11 302 km |
 | 41 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2014QUAN05) | 10 209 km |
 | 42 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | 9 729 km |
-| 43 | [Lý Việt Hà](https://www.worldcubeassociation.org/persons/2024HALY01) | 9 669 km |
+| 43 | [Lý Việt Hà](https://www.worldcubeassociation.org/persons/2024HALY01) | 9 686 km |
 | 44 | [Phan Thi Thu Trang](https://www.worldcubeassociation.org/persons/2014TRAN02) | 9 371 km |
 | 45 | [Eu Yan Luong](https://www.worldcubeassociation.org/persons/2022LUON01) | 9 302 km |
 | 46 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) | 9 185 km |

@@ -1,7 +1,7 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Vietnam. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 | # | Count | Person | Start comp | End comp |
 | ---: | ---: | :--- | :--- | :--- |

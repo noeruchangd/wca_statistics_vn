@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 April 2026*
+*Updated on 25 April 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -288,10 +288,11 @@
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
 | 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **7.31** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 9.41, 7.31, 7.72, 8.20, 8.67 |
-| 2 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **9.85** | [Brockport Bash 2026](https://www.worldcubeassociation.org/competitions/BrockportBash2026) | 19.07, DNF, 10.01, 10.80, 9.85 |
-| 3 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **10.07** | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
-| 4 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **10.13** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 11.79, 15.89, 10.13, 10.15, 11.49 |
-| 5 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | **21.67** | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | DNF, 21.67 |
+| 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | **9.24** | [Duper Super Davis Spring 2026](https://www.worldcubeassociation.org/competitions/DuperSuperDavisSpring2026) | 9.24, 16.06, 10.99, 12.90, 13.13 |
+| 3 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **9.85** | [Brockport Bash 2026](https://www.worldcubeassociation.org/competitions/BrockportBash2026) | 19.07, DNF, 10.01, 10.80, 9.85 |
+| 4 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **10.07** | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
+| 5 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **10.13** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 11.79, 15.89, 10.13, 10.15, 11.49 |
+| 6 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | **21.67** | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | DNF, 21.67 |
 
 ### Clock - Average
 
@@ -300,7 +301,8 @@
 | 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **8.20** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 9.41, 7.31, 7.72, 8.20, 8.67 |
 | 2 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **11.14** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 11.79, 15.89, 10.13, 10.15, 11.49 |
 | 3 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **11.46** | [Brockport Bash 2026](https://www.worldcubeassociation.org/competitions/BrockportBash2026) | 10.36, 11.46, 15.01, 11.22, 11.70 |
-| 4 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **14.46** | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
+| 4 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | **12.34** | [Duper Super Davis Spring 2026](https://www.worldcubeassociation.org/competitions/DuperSuperDavisSpring2026) | 9.24, 16.06, 10.99, 12.90, 13.13 |
+| 5 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **14.46** | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
 
 ### Skewb - Single
 
