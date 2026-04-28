@@ -1,6 +1,6 @@
 ## Most days potentially spent at competitions
 
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 | # | Days | Person | Competitions |
 | ---: | ---: | :--- | ---: |
@@ -32,13 +32,13 @@
 | 26 | 26 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | 16 |
 | 27 | 26 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 14 |
 | 28 | 25 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | 14 |
-| 29 | 25 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) | 14 |
-| 30 | 25 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 16 |
-| 31 | 25 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 15 |
-| 32 | 25 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | 19 |
-| 33 | 25 | [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) | 15 |
-| 34 | 25 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 15 |
-| 35 | 24 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 21 |
+| 29 | 25 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 22 |
+| 30 | 25 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) | 14 |
+| 31 | 25 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 16 |
+| 32 | 25 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 15 |
+| 33 | 25 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | 19 |
+| 34 | 25 | [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) | 15 |
+| 35 | 25 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 15 |
 | 36 | 24 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 15 |
 | 37 | 24 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 16 |
 | 38 | 23 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) | 11 |

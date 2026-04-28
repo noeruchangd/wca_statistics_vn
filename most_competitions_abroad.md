@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
@@ -9,7 +9,7 @@
 | 3 | 26 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) |
 | 4 | 23 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) |
 | 5 | 21 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
-| 6 | 19 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
+| 6 | 20 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
 | 7 | 18 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
 | 8 | 18 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |
 | 9 | 14 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |

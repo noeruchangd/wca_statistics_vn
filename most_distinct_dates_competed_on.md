@@ -1,6 +1,6 @@
 ## Most distinct dates competed on
 
-*Updated on 25 April 2026*
+*Updated on 28 April 2026*
 
 | # | Dates | Person | List |
 | ---: | ---: | :--- | :--- |
@@ -35,9 +35,9 @@
 | 29 | 25 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | April: (10%) 12, 13, 15<br />May: (3%) 28<br />July: (19%) 13, 14, 15, 27, 28, 29<br />August: (22%) 6, 7, 15, 16, 17, 19, 20<br />September: (3%) 3<br />October: (6%) 8, 22<br />November: (10%) 5, 26, 27<br />December: (6%) 14, 15 |
 | 30 | 24 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | January: (12%) 5, 20, 27, 28<br />February: (6%) 25, 26<br />March: (6%) 21, 22<br />April: (16%) 12, 13, 14, 26, 27<br />July: (12%) 16, 17, 22, 23<br />August: (3%) 11<br />September: (13%) 18, 20, 21, 22<br />December: (6%) 14, 15 |
 | 31 | 24 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | January: (3%) 20<br />April: (16%) 4, 6, 7, 12, 13<br />July: (22%) 14, 15, 16, 17, 22, 23, 24<br />August: (16%) 15, 16, 17, 19, 20<br />September: (10%) 20, 21, 22<br />November: (6%) 26, 27<br />December: (3%) 15 |
-| 32 | 24 | [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) | January: (12%) 5, 20, 27, 28<br />February: (6%) 25, 26<br />March: (6%) 21, 22<br />April: (3%) 14<br />July: (22%) 16, 17, 19, 20, 21, 22, 23<br />August: (9%) 3, 4, 11<br />September: (10%) 18, 20, 21<br />December: (6%) 14, 15 |
-| 33 | 23 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | March: (6%) 13, 30<br />April: (10%) 6, 7, 15<br />May: (3%) 28<br />July: (35%) 12, 14, 15, 16, 17, 23, 24, 27, 28, 30, 31<br />August: (9%) 19, 20, 31<br />October: (3%) 22<br />November: (6%) 26, 27 |
-| 34 | 23 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | January: (9%) 14, 15, 21<br />February: (6%) 23, 25<br />March: (3%) 18<br />April: (10%) 1, 19, 20<br />May: (3%) 18<br />June: (6%) 1, 2<br />August: (9%) 15, 16, 17<br />September: (10%) 8, 20, 29<br />October: (3%) 13<br />November: (10%) 2, 3, 9<br />December: (3%) 13 |
+| 32 | 24 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | January: (9%) 14, 15, 21<br />February: (6%) 23, 25<br />March: (3%) 18<br />April: (13%) 1, 19, 20, 26<br />May: (3%) 18<br />June: (6%) 1, 2<br />August: (9%) 15, 16, 17<br />September: (10%) 8, 20, 29<br />October: (3%) 13<br />November: (10%) 2, 3, 9<br />December: (3%) 13 |
+| 33 | 24 | [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) | January: (12%) 5, 20, 27, 28<br />February: (6%) 25, 26<br />March: (6%) 21, 22<br />April: (3%) 14<br />July: (22%) 16, 17, 19, 20, 21, 22, 23<br />August: (9%) 3, 4, 11<br />September: (10%) 18, 20, 21<br />December: (6%) 14, 15 |
+| 34 | 23 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | March: (6%) 13, 30<br />April: (10%) 6, 7, 15<br />May: (3%) 28<br />July: (35%) 12, 14, 15, 16, 17, 23, 24, 27, 28, 30, 31<br />August: (9%) 19, 20, 31<br />October: (3%) 22<br />November: (6%) 26, 27 |
 | 35 | 22 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | January: (9%) 5, 27, 28<br />February: (6%) 25, 26<br />March: (12%) 21, 22, 23, 24<br />April: (6%) 26, 27<br />May: (6%) 25, 26<br />July: (16%) 19, 20, 21, 22, 23<br />September: (6%) 20, 21<br />December: (6%) 14, 15 |
 | 36 | 22 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | January: (16%) 5, 15, 17, 19, 20<br />February: (3%) 8<br />March: (6%) 20, 30<br />May: (3%) 17<br />July: (16%) 26, 27, 28, 30, 31<br />August: (22%) 1, 3, 4, 5, 14, 15, 31<br />September: (3%) 11 |
 | 37 | 22 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | January: (6%) 5, 19<br />February: (6%) 25, 26<br />July: (22%) 16, 17, 26, 27, 28, 30, 31<br />August: (12%) 4, 5, 14, 15<br />September: (6%) 18, 20<br />November: (6%) 26, 27<br />December: (9%) 9, 10, 11 |
