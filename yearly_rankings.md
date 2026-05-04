@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -45,9 +45,9 @@
 | 5 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | **1.44** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2.59, 1.96, 8.87, 1.44, 3.95 |
 | 6 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **1.69** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1.84, 3.13, 1.69, 3.32, 1.86 |
 | 7 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | **1.70** | [Cork Spring 2026](https://www.worldcubeassociation.org/competitions/CorkSpring2026) | 3.17, 1.87, 1.70, 1.82, 3.56 |
-| 8 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **1.76** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 1.76, 2.46, 3.14, 3.48, 4.03 |
-| 9 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1.80** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3.19, 3.81, 1.80, 5.17, 2.32 |
-| 10 | [Nguyễn Tùng Dương](https://www.worldcubeassociation.org/persons/2022DUON06) | **1.80** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3.87, 2.88, 4.06, 1.80, 2.74 |
+| 8 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **1.76** | [Cube Against Cancer Dunkirk 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerDunkirk2026) | 5.32, 4.52, 4.59, 5.06, 1.76 |
+| 9 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **1.76** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 1.76, 2.46, 3.14, 3.48, 4.03 |
+| 10 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1.80** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 3.19, 3.81, 1.80, 5.17, 2.32 |
 
 ### 2x2x2 Cube - Average
 
@@ -137,7 +137,7 @@
 | 7 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **1:48.46** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:04.85, 1:57.11, 1:48.46 |
 | 8 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1:49.81** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:49.81, 1:50.60, 2:02.82 |
 | 9 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **1:55.84** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:55.84, 2:04.77, 1:55.97 |
-| 10 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **2:02.08** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:11.95, 2:05.59, 2:02.08 |
+| 10 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **2:00.58** | [Cube Against Cancer Dunkirk 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerDunkirk2026) | 2:22.88, 2:26.49, 2:00.58 |
 
 ### 6x6x6 Cube - Average
 
@@ -241,17 +241,19 @@
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
 | 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **46.28** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 47.59, 53.24, 1:00.34, 53.87 |
-| 2 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | **1:17.69** | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 1:17.69, 1:26.99 |
-| 3 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **1:26.98** | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 1:34.40, 1:37.84, 1:30.36, 1:26.98, 1:27.83 |
-| 4 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:42.76** | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
+| 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | **1:12.19** | [Belmont Spring 2026](https://www.worldcubeassociation.org/competitions/BelmontSpring2026) | 1:27.11, 1:43.21, 1:23.23, 1:37.46, 1:12.19 |
+| 3 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | **1:17.69** | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 1:17.69, 1:26.99 |
+| 4 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **1:26.98** | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 1:34.40, 1:37.84, 1:30.36, 1:26.98, 1:27.83 |
+| 5 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:42.76** | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
 
 ### Megaminx - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
 | 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **51.57** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 47.59, 53.24, 1:00.34, 53.87 |
-| 2 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **1:30.86** | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 1:34.40, 1:37.84, 1:30.36, 1:26.98, 1:27.83 |
-| 3 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:53.20** | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
+| 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | **1:29.27** | [Belmont Spring 2026](https://www.worldcubeassociation.org/competitions/BelmontSpring2026) | 1:27.11, 1:43.21, 1:23.23, 1:37.46, 1:12.19 |
+| 3 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **1:30.86** | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 1:34.40, 1:37.84, 1:30.36, 1:26.98, 1:27.83 |
+| 4 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:53.20** | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
 
 ### Pyraminx - Single
 
@@ -301,7 +303,7 @@
 | 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **8.20** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 9.41, 7.31, 7.72, 8.20, 8.67 |
 | 2 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **11.14** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 11.79, 15.89, 10.13, 10.15, 11.49 |
 | 3 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **11.46** | [Brockport Bash 2026](https://www.worldcubeassociation.org/competitions/BrockportBash2026) | 10.36, 11.46, 15.01, 11.22, 11.70 |
-| 4 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | **12.34** | [Duper Super Davis Spring 2026](https://www.worldcubeassociation.org/competitions/DuperSuperDavisSpring2026) | 9.24, 16.06, 10.99, 12.90, 13.13 |
+| 4 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | **11.50** | [Belmont Spring 2026](https://www.worldcubeassociation.org/competitions/BelmontSpring2026) | 10.75, 10.16, 9.90, 13.60, DNF |
 | 5 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **14.46** | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
 
 ### Skewb - Single

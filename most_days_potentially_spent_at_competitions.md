@@ -1,6 +1,6 @@
 ## Most days potentially spent at competitions
 
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 | # | Days | Person | Competitions |
 | ---: | ---: | :--- | ---: |
@@ -25,14 +25,14 @@
 | 19 | 31 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 18 |
 | 20 | 30 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 17 |
 | 21 | 30 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) | 17 |
-| 22 | 29 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 18 |
+| 22 | 30 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 19 |
 | 23 | 28 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 16 |
 | 24 | 28 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) | 17 |
 | 25 | 27 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 18 |
-| 26 | 26 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | 16 |
-| 27 | 26 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 14 |
-| 28 | 25 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | 14 |
-| 29 | 25 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 22 |
+| 26 | 26 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 23 |
+| 27 | 26 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | 16 |
+| 28 | 26 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 14 |
+| 29 | 25 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | 14 |
 | 30 | 25 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) | 14 |
 | 31 | 25 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 16 |
 | 32 | 25 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 15 |

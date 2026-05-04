@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 
 ### Competition
@@ -51,7 +51,7 @@
 | 17 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **708** | 715 |
 | 18 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **690** | 717 |
 | 19 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **648** | 654 |
-| 20 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | **644** | 669 |
+| 20 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **645** | 666 |
 
 ### Year
 
@@ -63,7 +63,7 @@
 | 4 | 2022 | **14897** | 15268 |
 | 5 | 2019 | **10283** | 10564 |
 | 6 | 2018 | **8470** | 8706 |
-| 7 | 2026 | **6321** | 6556 |
+| 7 | 2026 | **6385** | 6627 |
 | 8 | 2016 | **6126** | 6328 |
 | 9 | 2017 | **5989** | 6129 |
 | 10 | 2020 | **3791** | 3930 |
@@ -80,18 +80,18 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **46393** | 47310 |
-| 2 | 2x2x2 Cube | **23778** | 24376 |
+| 1 | 3x3x3 Cube | **46410** | 47330 |
+| 2 | 2x2x2 Cube | **23786** | 24386 |
 | 3 | 4x4x4 Cube | **14688** | 15086 |
-| 4 | 3x3x3 One-Handed | **13636** | 14001 |
+| 4 | 3x3x3 One-Handed | **13645** | 14011 |
 | 5 | Pyraminx | **8238** | 8449 |
-| 6 | 5x5x5 Cube | **7159** | 7325 |
-| 7 | Skewb | **5729** | 5888 |
-| 8 | Megaminx | **2198** | 2260 |
-| 9 | Clock | **2095** | 2425 |
+| 6 | 5x5x5 Cube | **7169** | 7335 |
+| 7 | Skewb | **5734** | 5893 |
+| 8 | Megaminx | **2203** | 2265 |
+| 9 | Clock | **2099** | 2430 |
 | 10 | Square-1 | **1559** | 1622 |
-| 11 | 6x6x6 Cube | **1478** | 1505 |
-| 12 | 7x7x7 Cube | **1161** | 1199 |
+| 11 | 6x6x6 Cube | **1481** | 1508 |
+| 12 | 7x7x7 Cube | **1164** | 1202 |
 | 13 | Magic | **544** | 618 |
 | 14 | 3x3x3 Blindfolded | **461** | 1364 |
 | 15 | 3x3x3 Fewest Moves | **205** | 299 |

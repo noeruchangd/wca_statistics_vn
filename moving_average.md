@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on  1 May 2026*
+*Updated on  4 May 2026*
 
 
 ### 3x3x3 Cube
@@ -209,7 +209,7 @@
 | 28 | 1:10.87 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) |
 | 29 | 1:11.91 | [Ngô Quốc Đạt](https://www.worldcubeassociation.org/persons/2022DATN01) |
 | 30 | 1:13.38 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) |
-| 31 | 1:14.43 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 31 | 1:14.14 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
 | 32 | 1:14.44 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) |
 | 33 | 1:15.15 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) |
 | 34 | 1:15.20 | [Phan Trọng Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI04) |
@@ -249,10 +249,10 @@
 | 13 | 2:13.45 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
 | 14 | 2:26.87 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
 | 15 | 2:32.33 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) |
-| 16 | 2:35.66 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) |
-| 17 | 2:36.62 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) |
-| 18 | 2:38.97 | [Lê Đại Vệ](https://www.worldcubeassociation.org/persons/2016VELE04) |
-| 19 | 2:41.76 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 16 | 2:35.41 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 17 | 2:35.66 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) |
+| 18 | 2:36.62 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) |
+| 19 | 2:38.97 | [Lê Đại Vệ](https://www.worldcubeassociation.org/persons/2016VELE04) |
 | 20 | 2:47.31 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) |
 | 21 | 3:09.05 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) |
 | 22 | 3:14.24 | [Nguyễn Đức Nhật](https://www.worldcubeassociation.org/persons/2019NHAT01) |
@@ -339,7 +339,7 @@
 | 43 | 17.09 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) |
 | 44 | 17.40 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) |
 | 45 | 17.77 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) |
-| 46 | 17.86 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 46 | 17.79 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
 | 47 | 17.94 | [Phạm Hoàng Khang](https://www.worldcubeassociation.org/persons/2022KHAN32) |
 | 48 | 18.01 | [Trần Duy Lợi](https://www.worldcubeassociation.org/persons/2017LOIT01) |
 | 49 | 18.18 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) |
@@ -446,8 +446,8 @@
 | 15 | 10.63 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
 | 16 | 10.70 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
 | 17 | 12.04 | [Đào Sơn Tùng](https://www.worldcubeassociation.org/persons/2024TUNG01) |
-| 18 | 12.34 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
-| 19 | 12.42 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
+| 18 | 12.19 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
+| 19 | 12.34 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 20 | 13.20 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
 | 21 | 13.56 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) |
 | 22 | 16.07 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) |
