@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -188,7 +188,7 @@
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **31.54** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 31.54, 43.81, 54.18, DNF, DNF |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **30.04** | [Dawgs at Denny UW 2026](https://www.worldcubeassociation.org/competitions/DawgsatDennyUW2026) | 30.04, DNF, 43.29, 33.01, DNF |
 | 2 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | **35.21** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 35.21, 42.94, 42.46, DNF, 40.64 |
 | 3 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) | **36.41** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 48.23, 36.68, DNF, DNF, 36.41 |
 | 4 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) | **59.43** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 1:10.41, 1:07.69, 59.43 |
@@ -204,7 +204,8 @@
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
 | 1 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | **42.01** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 35.21, 42.94, 42.46, DNF, 40.64 |
-| 2 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | **1:18.32** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:22.51, 1:08.79, DNF, 1:23.67, 1:02.62 |
+| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:01.46** | [Dawgs at Denny UW 2026](https://www.worldcubeassociation.org/competitions/DawgsatDennyUW2026) | 1:02.72, 31.19, 1:07.15, DNF, 54.51 |
+| 3 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | **1:18.32** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:22.51, 1:08.79, DNF, 1:23.67, 1:02.62 |
 
 ### 3x3x3 One-Handed - Single
 

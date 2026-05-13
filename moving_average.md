@@ -7,15 +7,15 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 
 ### 3x3x3 Cube
 
 | # | Moving average | Person |
 | ---: | ---: | :--- |
-| 1 | 6.31 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 2 | 6.46 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
+| 1 | 6.46 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
+| 2 | 6.72 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 3 | 7.10 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
 | 4 | 7.31 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) |
 | 5 | 7.32 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
@@ -124,7 +124,7 @@
 
 | # | Moving average | Person |
 | ---: | ---: | :--- |
-| 1 | 21.96 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 1 | 21.63 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 2 | 26.85 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
 | 3 | 27.71 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
 | 4 | 28.53 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) |
@@ -179,7 +179,7 @@
 
 | # | Moving average | Person |
 | ---: | ---: | :--- |
-| 1 | 39.35 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 1 | 39.86 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 2 | 49.58 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
 | 3 | 50.85 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
 | 4 | 51.61 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |

@@ -1,11 +1,11 @@
 ## Most consecutive weeks with competitions
 
 *Note: Only includes people from Vietnam. Weeks are counted as ISO weeks (Monday-Sunday). Multiple competitions in the same week count as one.*
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | # | Count | Person | Start comp | End comp |
 | ---: | ---: | :--- | :--- | :--- |
-| 1 | 3 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | [Duper Super Davis Spring 2026](https://www.worldcubeassociation.org/competitions/DuperSuperDavisSpring2026) | [Belmont Spring 2026](https://www.worldcubeassociation.org/competitions/BelmontSpring2026) |
+| 1 | 4 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | [Duper Super Davis Spring 2026](https://www.worldcubeassociation.org/competitions/DuperSuperDavisSpring2026) | [Reno Spring 2026](https://www.worldcubeassociation.org/competitions/RenoSpring2026) |
 | 2 | 2 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) | [Da Nang Open 2018](https://www.worldcubeassociation.org/competitions/DaNangOpen2018) |
 | 3 | 2 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022) |
 | 4 | 2 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | [Thailand Championship 2016](https://www.worldcubeassociation.org/competitions/ThailandChampionship2016) | [HCMC Summer Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSummerOpen2016) |

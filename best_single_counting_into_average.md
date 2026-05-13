@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 
 ### 3x3x3 Cube
@@ -40,13 +40,13 @@
 | 1 | 19.17 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Paradise Park Bangkok NxNxN 2025](https://www.worldcubeassociation.org/competitions/ParadiseParkBangkokNxNxN2025/results/by_person#2019HUNG16) |
 | 2 | 19.21 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026/results/by_person#2019HUNG16) |
 | 3 | 19.88 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2019HUNG16) |
-| 4 | 20.47 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Paradise Park Bangkok NxNxN 2025](https://www.worldcubeassociation.org/competitions/ParadiseParkBangkokNxNxN2025/results/by_person#2019HUNG16) |
-| 5 | 20.74 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi COP Open 2024](https://www.worldcubeassociation.org/competitions/HanoiCOPOpen2024/results/by_person#2019HUNG16) |
-| 6 | 20.75 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Cubing in the Lion's Den 2023](https://www.worldcubeassociation.org/competitions/CubingintheLionsDen2023/results/by_person#2019HUNG16) |
-| 7 | 20.87 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Seattle Cube Cascade UW 2025](https://www.worldcubeassociation.org/competitions/SeattleCubeCascadeUW2025/results/by_person#2019HUNG16) |
-| 8 | 21.13 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024/results/by_person#2019HUNG16) |
-| 9 | 21.17 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024/results/by_person#2019HUNG16) |
-| 10 | 21.25 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026/results/by_person#2019HUNG16) |
+| 4 | 20.30 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Dawgs at Denny UW 2026](https://www.worldcubeassociation.org/competitions/DawgsatDennyUW2026/results/by_person#2019HUNG16) |
+| 5 | 20.47 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Paradise Park Bangkok NxNxN 2025](https://www.worldcubeassociation.org/competitions/ParadiseParkBangkokNxNxN2025/results/by_person#2019HUNG16) |
+| 6 | 20.74 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi COP Open 2024](https://www.worldcubeassociation.org/competitions/HanoiCOPOpen2024/results/by_person#2019HUNG16) |
+| 7 | 20.75 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Cubing in the Lion's Den 2023](https://www.worldcubeassociation.org/competitions/CubingintheLionsDen2023/results/by_person#2019HUNG16) |
+| 8 | 20.87 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Seattle Cube Cascade UW 2025](https://www.worldcubeassociation.org/competitions/SeattleCubeCascadeUW2025/results/by_person#2019HUNG16) |
+| 9 | 21.07 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Dawgs at Denny UW 2026](https://www.worldcubeassociation.org/competitions/DawgsatDennyUW2026/results/by_person#2019HUNG16) |
+| 10 | 21.13 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024/results/by_person#2019HUNG16) |
 
 ### 5x5x5 Cube
 

@@ -1,11 +1,11 @@
 ## Best medal collection by person
 
 *Note: *
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **68** | 24 | 21 | 113 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **71** | 25 | 21 | 117 |
 | 2 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | **50** | 43 | 27 | 120 |
 | 3 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | **35** | 47 | 31 | 113 |
 | 4 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | **21** | 8 | 9 | 38 |

@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 
 ### Competition
@@ -33,7 +33,7 @@
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
 | 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1764** | 1775 |
-| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1707** | 1802 |
+| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1743** | 1842 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
 | 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1452** | 1487 |
 | 5 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | **1223** | 1251 |
@@ -63,7 +63,7 @@
 | 4 | 2022 | **14897** | 15268 |
 | 5 | 2019 | **10283** | 10564 |
 | 6 | 2018 | **8470** | 8706 |
-| 7 | 2026 | **6389** | 6634 |
+| 7 | 2026 | **6492** | 6753 |
 | 8 | 2016 | **6126** | 6328 |
 | 9 | 2017 | **5989** | 6129 |
 | 10 | 2020 | **3791** | 3930 |
@@ -80,20 +80,20 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **46414** | 47335 |
-| 2 | 2x2x2 Cube | **23786** | 24386 |
-| 3 | 4x4x4 Cube | **14688** | 15086 |
-| 4 | 3x3x3 One-Handed | **13645** | 14011 |
+| 1 | 3x3x3 Cube | **46448** | 47370 |
+| 2 | 2x2x2 Cube | **23800** | 24401 |
+| 3 | 4x4x4 Cube | **14707** | 15106 |
+| 4 | 3x3x3 One-Handed | **13650** | 14016 |
 | 5 | Pyraminx | **8238** | 8449 |
-| 6 | 5x5x5 Cube | **7169** | 7335 |
-| 7 | Skewb | **5734** | 5893 |
+| 6 | 5x5x5 Cube | **7178** | 7345 |
+| 7 | Skewb | **5739** | 5898 |
 | 8 | Megaminx | **2203** | 2267 |
-| 9 | Clock | **2099** | 2430 |
+| 9 | Clock | **2100** | 2435 |
 | 10 | Square-1 | **1559** | 1622 |
-| 11 | 6x6x6 Cube | **1481** | 1508 |
-| 12 | 7x7x7 Cube | **1164** | 1202 |
+| 11 | 6x6x6 Cube | **1484** | 1511 |
+| 12 | 7x7x7 Cube | **1170** | 1208 |
 | 13 | Magic | **544** | 618 |
-| 14 | 3x3x3 Blindfolded | **461** | 1364 |
+| 14 | 3x3x3 Blindfolded | **468** | 1379 |
 | 15 | 3x3x3 Fewest Moves | **205** | 299 |
 | 16 | Master Magic | **143** | 150 |
 | 17 | 3x3x3 With Feet | **35** | 47 |

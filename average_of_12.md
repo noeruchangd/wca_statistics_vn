@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 10 May 2026*
+*Updated on 13 May 2026*
 
 
 ### 3x3x3 Cube
@@ -38,7 +38,7 @@
 
 | # | Ao12 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 21.43 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 23.09, 18.45, 25.70, 24.11, 26.71, 21.25, 20.68, 20.90, 17.46, 20.03, 19.21, 20.83 |
+| 1 | 20.47 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 20.68, 20.90, 17.46, 20.03, 19.21, 20.83, 20.51, 21.39, 20.30, 24.02, 19.75, 21.07 |
 | 2 | 26.12 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 24.10, 24.13, 26.20, 27.59, 28.86, 24.18, 29.09, 26.74, 24.91, 27.82, 26.54, 24.19 |
 | 3 | 26.56 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 27.36, 30.26, 25.93, 25.92, 24.49, 25.76, 24.05, 31.72, 22.42, 26.69, 25.89, 29.26 |
 | 4 | 27.03 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 27.48, 24.83, 25.34, 28.23, 26.42, 24.62, 27.20, 27.72, 31.05, 27.49, 29.48, 26.07 |
