@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 
 ### Competition
@@ -32,7 +32,7 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1764** | 1775 |
+| 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1794** | 1805 |
 | 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1743** | 1842 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
 | 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1452** | 1487 |
@@ -43,7 +43,7 @@
 | 9 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **961** | 988 |
 | 10 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **928** | 983 |
 | 11 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **918** | 926 |
-| 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **862** | 870 |
+| 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **892** | 900 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **751** | 759 |
 | 15 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
@@ -63,7 +63,7 @@
 | 4 | 2022 | **14897** | 15268 |
 | 5 | 2019 | **10283** | 10564 |
 | 6 | 2018 | **8470** | 8706 |
-| 7 | 2026 | **6517** | 6778 |
+| 7 | 2026 | **6666** | 6928 |
 | 8 | 2016 | **6126** | 6328 |
 | 9 | 2017 | **5989** | 6129 |
 | 10 | 2020 | **3791** | 3930 |
@@ -80,12 +80,12 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **46473** | 47395 |
-| 2 | 2x2x2 Cube | **23800** | 24401 |
-| 3 | 4x4x4 Cube | **14707** | 15106 |
+| 1 | 3x3x3 Cube | **46547** | 47470 |
+| 2 | 2x2x2 Cube | **23850** | 24451 |
+| 3 | 4x4x4 Cube | **14712** | 15111 |
 | 4 | 3x3x3 One-Handed | **13650** | 14016 |
-| 5 | Pyraminx | **8238** | 8449 |
-| 6 | 5x5x5 Cube | **7178** | 7345 |
+| 5 | Pyraminx | **8253** | 8464 |
+| 6 | 5x5x5 Cube | **7183** | 7350 |
 | 7 | Skewb | **5739** | 5898 |
 | 8 | Megaminx | **2203** | 2267 |
 | 9 | Clock | **2100** | 2435 |

@@ -1,6 +1,6 @@
 ## Vietnamese Championship podiums by person
 
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |

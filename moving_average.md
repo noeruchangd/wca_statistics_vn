@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 
 ### 3x3x3 Cube
@@ -36,11 +36,11 @@
 | 20 | 8.27 | [Nguyễn Minh Nhật](https://www.worldcubeassociation.org/persons/2022NHAT04) |
 | 21 | 8.37 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |
 | 22 | 8.37 | [Cao Nguyễn Thái Dương](https://www.worldcubeassociation.org/persons/2022DUON04) |
-| 23 | 8.41 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
-| 24 | 8.44 | [Nguyễn Đức Minh](https://www.worldcubeassociation.org/persons/2023MINH09) |
-| 25 | 8.61 | [Cao Viết Tùng](https://www.worldcubeassociation.org/persons/2022TUNG01) |
-| 26 | 8.61 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) |
-| 27 | 8.64 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
+| 23 | 8.44 | [Nguyễn Đức Minh](https://www.worldcubeassociation.org/persons/2023MINH09) |
+| 24 | 8.61 | [Cao Viết Tùng](https://www.worldcubeassociation.org/persons/2022TUNG01) |
+| 25 | 8.61 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) |
+| 26 | 8.64 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
+| 27 | 8.68 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
 | 28 | 8.73 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
 | 29 | 8.79 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) |
 | 30 | 8.81 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
@@ -98,7 +98,7 @@
 | 27 | 3.40 | [Hoàng Khang Minh](https://www.worldcubeassociation.org/persons/2018MINH16) |
 | 28 | 3.40 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
 | 29 | 3.45 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
-| 30 | 3.51 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
+| 30 | 3.53 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
 | 31 | 3.53 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
 | 32 | 3.53 | [Lê Phùng Nguyên Khang](https://www.worldcubeassociation.org/persons/2023KHAN41) |
 | 33 | 3.59 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
@@ -227,8 +227,8 @@
 | 46 | 1:25.13 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) |
 | 47 | 1:25.55 | [Kiều Gia Thịnh](https://www.worldcubeassociation.org/persons/2018THIN02) |
 | 48 | 1:25.84 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
-| 49 | 1:28.13 | [Đào Viết Trọng Khánh](https://www.worldcubeassociation.org/persons/2023KHAN11) |
-| 50 | 1:29.68 | [Nguyễn Trần Khánh Dương](https://www.worldcubeassociation.org/persons/2016DUON02) |
+| 49 | 1:27.66 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
+| 50 | 1:28.13 | [Đào Viết Trọng Khánh](https://www.worldcubeassociation.org/persons/2023KHAN11) |
 
 ### 6x6x6 Cube
 
@@ -412,8 +412,8 @@
 | 36 | 7.30 | [Nguyễn Lê An Hoàng](https://www.worldcubeassociation.org/persons/2023HOAN03) |
 | 37 | 7.42 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 38 | 7.43 | [Nguyễn Mạnh Chí](https://www.worldcubeassociation.org/persons/2023CHIN09) |
-| 39 | 7.55 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) |
-| 40 | 7.66 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
+| 39 | 7.45 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
+| 40 | 7.55 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) |
 | 41 | 7.70 | [Lưu Đăng Nguyên](https://www.worldcubeassociation.org/persons/2023NGUY39) |
 | 42 | 7.86 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
 | 43 | 7.88 | [Lê Đại Vệ](https://www.worldcubeassociation.org/persons/2016VELE04) |

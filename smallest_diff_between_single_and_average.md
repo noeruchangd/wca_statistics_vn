@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 
 ### 3x3x3 Cube
@@ -146,13 +146,13 @@
 | 1 | 0.14 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4.70 | 4.84 | [Playford Cubing 2023](https://www.worldcubeassociation.org/competitions/PlayfordCubing2023/results/by_person#2017TRUN05) |
 | 2 | 0.14 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | 6.84 | 6.98 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/by_person#2022NGHI01) |
 | 3 | 0.21 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | 6.32 | 6.53 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023/results/by_person#2022NHAN01) |
-| 4 | 0.21 | [Nguyễn Hoàng Minh](https://www.worldcubeassociation.org/persons/2019MINH08) | 8.73 | 8.94 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020/results/by_person#2019MINH08) |
-| 5 | 0.22 | [Nguyễn Bá Việt Lâm](https://www.worldcubeassociation.org/persons/2018LAMN01) | 10.13 | 10.35 | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019/results/by_person#2018LAMN01) |
-| 6 | 0.23 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 7.29 | 7.52 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026/results/by_person#2018QUAN17) |
-| 7 | 0.25 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 4.41 | 4.66 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022/results/by_person#2020HOAM01) |
-| 8 | 0.25 | [Zei Nguyen](https://www.worldcubeassociation.org/persons/2023NGUY20) | 8.77 | 9.02 | [Vancouver Pride 2023](https://www.worldcubeassociation.org/competitions/VancouverPride2023/results/by_person#2023NGUY20) |
-| 9 | 0.26 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) | 6.89 | 7.15 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023/results/by_person#2023LAMN03) |
-| 10 | 0.29 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 6.97 | 7.26 | [Kensington May Saturday 2024](https://www.worldcubeassociation.org/competitions/KensingtonMaySaturday2024/results/by_person#2017MINH15) |
+| 4 | 0.21 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 6.39 | 6.60 | [Spark Melbourne Autumn Sun 2026](https://www.worldcubeassociation.org/competitions/SparkMelbourneAutumnSun2026/results/by_person#2017MINH15) |
+| 5 | 0.21 | [Nguyễn Hoàng Minh](https://www.worldcubeassociation.org/persons/2019MINH08) | 8.73 | 8.94 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020/results/by_person#2019MINH08) |
+| 6 | 0.22 | [Nguyễn Bá Việt Lâm](https://www.worldcubeassociation.org/persons/2018LAMN01) | 10.13 | 10.35 | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019/results/by_person#2018LAMN01) |
+| 7 | 0.23 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 7.29 | 7.52 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026/results/by_person#2018QUAN17) |
+| 8 | 0.25 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 4.41 | 4.66 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022/results/by_person#2020HOAM01) |
+| 9 | 0.25 | [Zei Nguyen](https://www.worldcubeassociation.org/persons/2023NGUY20) | 8.77 | 9.02 | [Vancouver Pride 2023](https://www.worldcubeassociation.org/competitions/VancouverPride2023/results/by_person#2023NGUY20) |
+| 10 | 0.26 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) | 6.89 | 7.15 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023/results/by_person#2023LAMN03) |
 
 ### Clock
 

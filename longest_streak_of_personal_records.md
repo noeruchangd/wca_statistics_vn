@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 22 May 2026*
+*Updated on 25 May 2026*
 
 | # | Competitions | Person | Started at | Ended at |
 | ---: | ---: | :--- | :--- | :--- |
@@ -88,7 +88,7 @@
 | 82 | 8 | [Trần Văn Thanh Tùng](https://www.worldcubeassociation.org/persons/2011TRAN08) | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) | [Ha Noi Open 2016](https://www.worldcubeassociation.org/competitions/HaNoiOpen2016) |
 | 83 | 8 | [Phạm Tuấn Ngọc](https://www.worldcubeassociation.org/persons/2013NGCP01) | [Ha Noi Open 2013](https://www.worldcubeassociation.org/competitions/HaNoiOpen2013) |  |
 | 84 | 8 | [Đặng Thị Khánh Linh](https://www.worldcubeassociation.org/persons/2013LINH02) | [Ha Noi Open 2013](https://www.worldcubeassociation.org/competitions/HaNoiOpen2013) | [Ha Noi Open 2018](https://www.worldcubeassociation.org/competitions/HaNoiOpen2018) |
-| 85 | 8 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | [Ho Chi Minh Cubic 2014](https://www.worldcubeassociation.org/competitions/HoChiMinhCubic2014) |  |
+| 85 | 8 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | [Ho Chi Minh Cubic 2014](https://www.worldcubeassociation.org/competitions/HoChiMinhCubic2014) | [Spark Melbourne Autumn Sat 2026](https://www.worldcubeassociation.org/competitions/SparkMelbourneAutumnSat2026) |
 | 86 | 8 | [Nguyễn Trần Khánh Dương](https://www.worldcubeassociation.org/persons/2016DUON02) | [HCMC Summer Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSummerOpen2016) |  |
 | 87 | 8 | [Đỗ Anh Tuấn](https://www.worldcubeassociation.org/persons/2016TUAN07) | [Ha Noi Open 2016](https://www.worldcubeassociation.org/competitions/HaNoiOpen2016) | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |
 | 88 | 8 | [Cao Kim Đô](https://www.worldcubeassociation.org/persons/2017DOCA01) | [Ho Chi Minh Warm Up 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhWarmUp2017) |  |
