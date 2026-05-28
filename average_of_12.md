@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### 3x3x3 Cube
@@ -176,7 +176,7 @@
 | 7 | 4.57 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) | 4.83, 4.44, 4.35, 3.38, 3.82, 4.97, 3.70, 4.26, 7.45, 7.35, 3.46, 4.52 |
 | 8 | 4.60 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 3.79, 7.96, 5.92, 3.25, 5.20, 4.81, 3.91, 4.59, 5.80, 4.15, 3.67, 4.15 |
 | 9 | 4.66 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 4.11, 2.72, 14.84, 4.56, 3.80, 7.25, 4.45, 4.09, 4.73, 3.75, 4.88, 5.00 |
-| 10 | 4.89 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 5.56, 3.56, 9.02, 3.93, 5.62, 4.61, 3.56, 6.95, 4.55, 6.25, 4.27, 1.47 |
+| 10 | 4.72 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 5.97, DNF, 5.32, 4.31, 4.94, 3.97, 6.50, 4.24, 4.33, 4.17, 3.48, 3.30 |
 
 ### Square-1
 

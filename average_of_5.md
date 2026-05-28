@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### 3x3x3 Cube
@@ -195,9 +195,9 @@
 | 5 | 3.62 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) | 3.74, 4.68, 3.49, 3.22, 3.64 |
 | 6 | 3.93 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) | 3.38, 3.82, 4.97, 3.70, 4.26 |
 | 7 | 3.95 | [Trần Thùy Duyên](https://www.worldcubeassociation.org/persons/2025DUYE01) | 2.45, 3.73, 4.71, 5.54, 3.42 |
-| 8 | 3.96 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 2.44, 3.51, 5.40, 4.51, 3.85 |
-| 9 | 4.04 | [Hoàng Mạnh Cường](https://www.worldcubeassociation.org/persons/2022CUON01) | 3.84, 7.04, 3.58, 4.08, 4.19 |
-| 10 | 4.07 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 9.75, 3.54, 3.97, 3.50, 4.70 |
+| 8 | 3.96 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4.24, 4.33, 4.17, 3.48, 3.30 |
+| 9 | 3.96 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 2.44, 3.51, 5.40, 4.51, 3.85 |
+| 10 | 4.04 | [Hoàng Mạnh Cường](https://www.worldcubeassociation.org/persons/2022CUON01) | 3.84, 7.04, 3.58, 4.08, 4.19 |
 
 ### Square-1
 

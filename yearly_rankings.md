@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -245,7 +245,8 @@
 | 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | **1:12.19** | [Belmont Spring 2026](https://www.worldcubeassociation.org/competitions/BelmontSpring2026) | 1:27.11, 1:43.21, 1:23.23, 1:37.46, 1:12.19 |
 | 3 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | **1:17.69** | [Melbourne Summer 2026](https://www.worldcubeassociation.org/competitions/MelbourneSummer2026) | 1:17.69, 1:26.99 |
 | 4 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **1:26.98** | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 1:34.40, 1:37.84, 1:30.36, 1:26.98, 1:27.83 |
-| 5 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:42.76** | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
+| 5 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **1:42.07** | [Puzzling Parramatta 2026](https://www.worldcubeassociation.org/competitions/PuzzlingParramatta2026) | 1:51.03, 1:50.14, 2:11.48, 1:51.22, 1:42.07 |
+| 6 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:42.76** | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
 
 ### Megaminx - Average
 
@@ -254,7 +255,8 @@
 | 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **51.57** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 47.59, 53.24, 1:00.34, 53.87 |
 | 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | **1:29.27** | [Belmont Spring 2026](https://www.worldcubeassociation.org/competitions/BelmontSpring2026) | 1:27.11, 1:43.21, 1:23.23, 1:37.46, 1:12.19 |
 | 3 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **1:30.86** | [Arizona Championship 2026](https://www.worldcubeassociation.org/competitions/ArizonaChampionship2026) | 1:34.40, 1:37.84, 1:30.36, 1:26.98, 1:27.83 |
-| 4 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:53.20** | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
+| 4 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **1:50.80** | [Puzzling Parramatta 2026](https://www.worldcubeassociation.org/competitions/PuzzlingParramatta2026) | 1:51.03, 1:50.14, 2:11.48, 1:51.22, 1:42.07 |
+| 5 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **1:53.20** | [Tassie Summer 2026](https://www.worldcubeassociation.org/competitions/TassieSummer2026) | 2:03.36, 1:42.76, 1:43.66, 2:04.99, 1:52.59 |
 
 ### Pyraminx - Single
 
@@ -267,9 +269,9 @@
 | 5 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **2.77** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 2.77, 3.74, 3.07, 3.19, 3.10 |
 | 6 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **2.96** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 3.87, 2.96, 3.89, 3.95, 5.39 |
 | 7 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **2.99** | [Cube Against Cancer - OC 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerOC2026) | 4.58, 4.35, 2.99, 4.51, 4.76 |
-| 8 | [Nguyễn Thế Lâm](https://www.worldcubeassociation.org/persons/2022LAMN03) | **3.92** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.50, 13.58, 3.92, 4.48, 6.14 |
-| 9 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | **4.15** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.68, 8.59, 4.15, 9.08, 5.21 |
-| 10 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **4.25** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.27, 4.79, 4.25, 10.29, 6.35 |
+| 8 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **3.40** | [Puzzling Parramatta 2026](https://www.worldcubeassociation.org/competitions/PuzzlingParramatta2026) | 3.40, 3.46, 10.08, 7.12, DNF |
+| 9 | [Nguyễn Thế Lâm](https://www.worldcubeassociation.org/persons/2022LAMN03) | **3.92** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.50, 13.58, 3.92, 4.48, 6.14 |
+| 10 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | **4.15** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.68, 8.59, 4.15, 9.08, 5.21 |
 
 ### Pyraminx - Average
 
@@ -296,6 +298,8 @@
 | 4 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **10.07** | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
 | 5 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **10.13** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 11.79, 15.89, 10.13, 10.15, 11.49 |
 | 6 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | **21.67** | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | DNF, 21.67 |
+| 7 | [Phong Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY43) | **21.71** | [Loveliest Solves Auburn 2026](https://www.worldcubeassociation.org/competitions/LoveliestSolvesAuburn2026) | 26.46, 25.24, 22.39, 25.92, 21.71 |
+| 8 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **30.33** | [Puzzling Parramatta 2026](https://www.worldcubeassociation.org/competitions/PuzzlingParramatta2026) | 30.33, 38.49 |
 
 ### Clock - Average
 
@@ -306,6 +310,7 @@
 | 3 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **11.46** | [Brockport Bash 2026](https://www.worldcubeassociation.org/competitions/BrockportBash2026) | 10.36, 11.46, 15.01, 11.22, 11.70 |
 | 4 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | **11.50** | [Belmont Spring 2026](https://www.worldcubeassociation.org/competitions/BelmontSpring2026) | 10.75, 10.16, 9.90, 13.60, DNF |
 | 5 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **14.46** | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
+| 6 | [Phong Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY43) | **24.52** | [Loveliest Solves Auburn 2026](https://www.worldcubeassociation.org/competitions/LoveliestSolvesAuburn2026) | 26.46, 25.24, 22.39, 25.92, 21.71 |
 
 ### Skewb - Single
 
@@ -326,16 +331,16 @@
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | **4.82** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.55, 6.25, 4.27, 1.47, 5.63 |
-| 2 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) | **4.84** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.11, 4.92, 6.56, 3.77, 4.48 |
-| 3 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **4.92** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.54, 5.09, 4.70, 1.61, 4.97 |
-| 4 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **5.01** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.93, 5.61, 5.54, 2.15, 4.57 |
-| 5 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) | **5.47** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.73, DNF, 4.59, 3.36, 7.10 |
-| 6 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **5.63** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.60, 6.16, 5.07, 2.13, 5.67 |
-| 7 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **6.01** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.74, 6.37, 5.54, 2.08, 6.11 |
-| 8 | [Phan Trần Phương Thiên](https://www.worldcubeassociation.org/persons/2024THIE04) | **6.32** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.91, 6.31, 7.32, 5.37, 5.75 |
-| 9 | [Nguyễn Thế Lâm](https://www.worldcubeassociation.org/persons/2022LAMN03) | **6.87** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 8.70, 6.27, 7.12, 4.11, 7.21 |
-| 10 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **6.92** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.75, 8.09, 7.31, 1.78, 7.70 |
+| 1 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **4.50** | [Puzzling Parramatta 2026](https://www.worldcubeassociation.org/competitions/PuzzlingParramatta2026) | 4.94, 3.97, 6.50, 4.24, 4.33 |
+| 2 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | **4.82** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.55, 6.25, 4.27, 1.47, 5.63 |
+| 3 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) | **4.84** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.11, 4.92, 6.56, 3.77, 4.48 |
+| 4 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **4.92** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.54, 5.09, 4.70, 1.61, 4.97 |
+| 5 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **5.01** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.93, 5.61, 5.54, 2.15, 4.57 |
+| 6 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) | **5.47** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.73, DNF, 4.59, 3.36, 7.10 |
+| 7 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **5.63** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.60, 6.16, 5.07, 2.13, 5.67 |
+| 8 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **6.01** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.74, 6.37, 5.54, 2.08, 6.11 |
+| 9 | [Phan Trần Phương Thiên](https://www.worldcubeassociation.org/persons/2024THIE04) | **6.32** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 6.91, 6.31, 7.32, 5.37, 5.75 |
+| 10 | [Nguyễn Thế Lâm](https://www.worldcubeassociation.org/persons/2022LAMN03) | **6.87** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 8.70, 6.27, 7.12, 4.11, 7.21 |
 
 ### Square-1 - Single
 

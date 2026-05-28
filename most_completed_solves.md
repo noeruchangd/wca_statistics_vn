@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### Competition
@@ -46,9 +46,9 @@
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **892** | 900 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **751** | 759 |
-| 15 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
-| 16 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
-| 17 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **708** | 715 |
+| 15 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
+| 16 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
+| 17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
 | 18 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **690** | 717 |
 | 19 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **648** | 654 |
 | 20 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **645** | 666 |
@@ -63,7 +63,7 @@
 | 4 | 2022 | **14897** | 15268 |
 | 5 | 2019 | **10283** | 10564 |
 | 6 | 2018 | **8470** | 8706 |
-| 7 | 2026 | **6666** | 6928 |
+| 7 | 2026 | **6730** | 6993 |
 | 8 | 2016 | **6126** | 6328 |
 | 9 | 2017 | **5989** | 6129 |
 | 10 | 2020 | **3791** | 3930 |
@@ -80,17 +80,17 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **46547** | 47470 |
+| 1 | 3x3x3 Cube | **46567** | 47490 |
 | 2 | 2x2x2 Cube | **23850** | 24451 |
-| 3 | 4x4x4 Cube | **14712** | 15111 |
+| 3 | 4x4x4 Cube | **14717** | 15116 |
 | 4 | 3x3x3 One-Handed | **13650** | 14016 |
-| 5 | Pyraminx | **8253** | 8464 |
+| 5 | Pyraminx | **8267** | 8479 |
 | 6 | 5x5x5 Cube | **7183** | 7350 |
-| 7 | Skewb | **5739** | 5898 |
-| 8 | Megaminx | **2203** | 2267 |
-| 9 | Clock | **2100** | 2435 |
+| 7 | Skewb | **5749** | 5908 |
+| 8 | Megaminx | **2208** | 2272 |
+| 9 | Clock | **2107** | 2442 |
 | 10 | Square-1 | **1559** | 1622 |
-| 11 | 6x6x6 Cube | **1484** | 1511 |
+| 11 | 6x6x6 Cube | **1487** | 1514 |
 | 12 | 7x7x7 Cube | **1170** | 1208 |
 | 13 | Magic | **544** | 618 |
 | 14 | 3x3x3 Blindfolded | **468** | 1379 |

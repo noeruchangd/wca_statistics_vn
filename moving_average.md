@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 25 May 2026*
+*Updated on 28 May 2026*
 
 
 ### 3x3x3 Cube
@@ -62,8 +62,8 @@
 | 46 | 9.32 | [Hoàng Khang Minh](https://www.worldcubeassociation.org/persons/2018MINH16) |
 | 47 | 9.35 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
 | 48 | 9.36 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
-| 49 | 9.40 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
-| 50 | 9.46 | [Lê Anh Tú](https://www.worldcubeassociation.org/persons/2018TULE01) |
+| 49 | 9.46 | [Lê Anh Tú](https://www.worldcubeassociation.org/persons/2018TULE01) |
+| 50 | 9.49 | [Lê Anh](https://www.worldcubeassociation.org/persons/2023ANHL02) |
 
 ### 2x2x2 Cube
 
@@ -161,9 +161,9 @@
 | 35 | 38.00 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
 | 36 | 38.11 | [Trần Hà Khang](https://www.worldcubeassociation.org/persons/2017KHAN46) |
 | 37 | 38.39 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) |
-| 38 | 38.45 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
-| 39 | 38.53 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) |
-| 40 | 38.57 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) |
+| 38 | 38.53 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) |
+| 39 | 38.57 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) |
+| 40 | 38.59 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
 | 41 | 38.79 | [Phan Trọng Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI04) |
 | 42 | 38.86 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
 | 43 | 38.92 | [Trần Hoàng Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMT03) |
@@ -398,9 +398,9 @@
 | 22 | 6.16 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) |
 | 23 | 6.27 | [Hoàng Gia Huy](https://www.worldcubeassociation.org/persons/2023HUYH01) |
 | 24 | 6.28 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
-| 25 | 6.37 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
-| 26 | 6.41 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
-| 27 | 6.42 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) |
+| 25 | 6.41 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
+| 26 | 6.42 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) |
+| 27 | 6.48 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
 | 28 | 6.49 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
 | 29 | 6.55 | [Trần Hưng Nghiêm](https://www.worldcubeassociation.org/persons/2012NGHI01) |
 | 30 | 6.61 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
@@ -464,8 +464,8 @@
 | 5 | 5.04 | [Hoàng Mạnh Cường](https://www.worldcubeassociation.org/persons/2022CUON01) |
 | 6 | 5.05 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) |
 | 7 | 5.18 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) |
-| 8 | 5.36 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) |
-| 9 | 5.60 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
+| 8 | 5.23 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
+| 9 | 5.36 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) |
 | 10 | 5.75 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
 | 11 | 5.76 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) |
 | 12 | 6.04 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) |
