@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 
 ### 3x3x3 Cube
@@ -176,13 +176,13 @@
 | 1 | 0.16 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.69 | 2.85 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/by_person#2022KHAN31) |
 | 2 | 0.17 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 4.50 | 4.67 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/by_person#2022DUYN02) |
 | 3 | 0.18 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) | 6.55 | 6.73 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2024BINH01) |
-| 4 | 0.23 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.44 | 2.67 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2022KHAN31) |
-| 5 | 0.26 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.54 | 2.80 | [Hanoi Open 2022](https://www.worldcubeassociation.org/competitions/HanoiOpen2022/results/by_person#2022KHAN31) |
-| 6 | 0.28 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.56 | 2.84 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023/results/by_person#2022KHAN31) |
-| 7 | 0.30 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 4.64 | 4.94 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025/results/by_person#2022PHAT01) |
-| 8 | 0.30 | [Nguyễn Ngọc Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMN05) | 7.41 | 7.71 | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022/results/by_person#2022NAMN05) |
-| 9 | 0.32 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 4.28 | 4.60 | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024/results/by_person#2017PHON07) |
-| 10 | 0.33 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | 7.20 | 7.53 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2023DUON03) |
+| 4 | 0.22 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 5.11 | 5.33 | [Western Championship 2026](https://www.worldcubeassociation.org/competitions/WesternChampionship2026/results/by_person#2022NGUY24) |
+| 5 | 0.23 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.44 | 2.67 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2022KHAN31) |
+| 6 | 0.26 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.54 | 2.80 | [Hanoi Open 2022](https://www.worldcubeassociation.org/competitions/HanoiOpen2022/results/by_person#2022KHAN31) |
+| 7 | 0.28 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.56 | 2.84 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023/results/by_person#2022KHAN31) |
+| 8 | 0.30 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 4.64 | 4.94 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025/results/by_person#2022PHAT01) |
+| 9 | 0.30 | [Nguyễn Ngọc Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMN05) | 7.41 | 7.71 | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022/results/by_person#2022NAMN05) |
+| 10 | 0.32 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 4.28 | 4.60 | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024/results/by_person#2017PHON07) |
 
 ### Square-1
 

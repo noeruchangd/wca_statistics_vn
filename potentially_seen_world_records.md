@@ -1,7 +1,7 @@
 ## Potentially seen world records
 
 *Note: Potentially means that a person was on a competition and could see a world record being set.*
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 | # | WRs | Person |
 | ---: | ---: | :--- |
@@ -15,8 +15,8 @@
 | 8 | 6 | [Phan Thi Thu Trang](https://www.worldcubeassociation.org/persons/2014TRAN02) |
 | 9 | 6 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |
 | 10 | 5 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) |
-| 11 | 5 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
-| 12 | 4 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 11 | 5 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 12 | 5 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
 | 13 | 4 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 14 | 3 | [Lê Công Minh](https://www.worldcubeassociation.org/persons/2014MINH03) |
 | 15 | 2 | [Duc Trung Mai](https://www.worldcubeassociation.org/persons/2010MAID01) |

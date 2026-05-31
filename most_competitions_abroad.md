@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
@@ -17,7 +17,7 @@
 | 11 | 13 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) |
 | 12 | 11 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) |
 | 13 | 11 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
-| 14 | 10 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 14 | 11 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
 | 15 | 9 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) |
 | 16 | 9 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) |
 | 17 | 9 | [Dang Tran](https://www.worldcubeassociation.org/persons/2022TRAN27) |

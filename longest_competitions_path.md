@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 28 May 2026*
+*Updated on 31 May 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
@@ -35,7 +35,7 @@
 | 28 | [Tony Nguyen](https://www.worldcubeassociation.org/persons/2020NGUY11) | 15 551 km |
 | 29 | [Duc Trung Mai](https://www.worldcubeassociation.org/persons/2010MAID01) | 15 543 km |
 | 30 | [James Trương](https://www.worldcubeassociation.org/persons/2018MINH14) | 14 958 km |
-| 31 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 14 067 km |
+| 31 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 14 124 km |
 | 32 | [Nguyễn Việt Quang](https://www.worldcubeassociation.org/persons/2017QUAN11) | 13 903 km |
 | 33 | [Ryan Le (Lê Đức Bình)](https://www.worldcubeassociation.org/persons/2022LEDU01) | 13 649 km |
 | 34 | [Nguyễn Trọng Bách](https://www.worldcubeassociation.org/persons/2017BACH05) | 13 642 km |
@@ -182,29 +182,29 @@
 | 175 | [Nguyễn Phúc Sơn](https://www.worldcubeassociation.org/persons/2018SONN04) | 266 km |
 | 176 | [Trần Minh Quân](https://www.worldcubeassociation.org/persons/2018QUAN18) | 266 km |
 | 177 | [Trần Tuấn Kiệt](https://www.worldcubeassociation.org/persons/2017KIET03) | 261 km |
-| 178 | [Khuong Vu](https://www.worldcubeassociation.org/persons/2024VUKH01) | 206 km |
-| 179 | [Phong Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY43) | 204 km |
-| 180 | [Tưởng Phi Anh](https://www.worldcubeassociation.org/persons/2018ANHT03) | 175 km |
-| 181 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | 161 km |
-| 182 | [Han-Elliot Phan](https://www.worldcubeassociation.org/persons/2024PHAN09) | 125 km |
-| 183 | [Mai Nam Viet](https://www.worldcubeassociation.org/persons/2025VIET01) | 121 km |
-| 184 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) | 94 km |
-| 185 | [Ngô Ngọc Long](https://www.worldcubeassociation.org/persons/2020LONG03) | 91 km |
-| 186 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) | 82 km |
-| 187 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 80 km |
-| 188 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) | 76 km |
-| 189 | [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) | 75 km |
-| 190 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 74 km |
-| 191 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | 70 km |
-| 192 | [Vũ Văn Thủy](https://www.worldcubeassociation.org/persons/2019THYV01) | 69 km |
-| 193 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) | 66 km |
-| 194 | [Nguyễn Lê Hoàng](https://www.worldcubeassociation.org/persons/2022HOAN02) | 64 km |
-| 195 | [Đào Sơn Tùng](https://www.worldcubeassociation.org/persons/2024TUNG01) | 62 km |
-| 196 | [Nguyễn Ngọc Huyền Anh](https://www.worldcubeassociation.org/persons/2019ANHN03) | 59 km |
-| 197 | [Nguyễn Tấn Dũng](https://www.worldcubeassociation.org/persons/2020DUNG01) | 59 km |
-| 198 | [Dan Trong Duc Vu](https://www.worldcubeassociation.org/persons/2022VUDA01) | 58 km |
-| 199 | [Julian Tran](https://www.worldcubeassociation.org/persons/2023TRAN10) | 58 km |
-| 200 | [Hồ Thiện Minh](https://www.worldcubeassociation.org/persons/2024MINH05) | 58 km |
+| 178 | [Hung Lam Tran](https://www.worldcubeassociation.org/persons/2026TRAN07) | 259 km |
+| 179 | [Khuong Vu](https://www.worldcubeassociation.org/persons/2024VUKH01) | 206 km |
+| 180 | [Phong Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY43) | 204 km |
+| 181 | [Tưởng Phi Anh](https://www.worldcubeassociation.org/persons/2018ANHT03) | 175 km |
+| 182 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | 161 km |
+| 183 | [Han-Elliot Phan](https://www.worldcubeassociation.org/persons/2024PHAN09) | 125 km |
+| 184 | [Mai Nam Viet](https://www.worldcubeassociation.org/persons/2025VIET01) | 121 km |
+| 185 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) | 94 km |
+| 186 | [Ngô Ngọc Long](https://www.worldcubeassociation.org/persons/2020LONG03) | 91 km |
+| 187 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) | 82 km |
+| 188 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 80 km |
+| 189 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) | 76 km |
+| 190 | [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) | 75 km |
+| 191 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 74 km |
+| 192 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | 70 km |
+| 193 | [Vũ Văn Thủy](https://www.worldcubeassociation.org/persons/2019THYV01) | 69 km |
+| 194 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) | 66 km |
+| 195 | [Nguyễn Lê Hoàng](https://www.worldcubeassociation.org/persons/2022HOAN02) | 64 km |
+| 196 | [Đào Sơn Tùng](https://www.worldcubeassociation.org/persons/2024TUNG01) | 62 km |
+| 197 | [Nguyễn Ngọc Huyền Anh](https://www.worldcubeassociation.org/persons/2019ANHN03) | 59 km |
+| 198 | [Nguyễn Tấn Dũng](https://www.worldcubeassociation.org/persons/2020DUNG01) | 59 km |
+| 199 | [Dan Trong Duc Vu](https://www.worldcubeassociation.org/persons/2022VUDA01) | 58 km |
+| 200 | [Julian Tran](https://www.worldcubeassociation.org/persons/2023TRAN10) | 58 km |
 
 
 <a href="https://github.com/noeruchangd/wca_statistics_vn" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
