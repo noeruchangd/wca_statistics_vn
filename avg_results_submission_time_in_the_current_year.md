@@ -1,11 +1,11 @@
 ## Average results submission time in the current year by Vietnamese delegates
 
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 | # | Delegate | Average time | Total delegated |
 | ---: | ---: | :--- | ---: |
 | 1 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 1.31h | 2 |
-| 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 11.53h | 2 |
+| 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 8.52h | 3 |
 | 3 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 5d 4.07h | 1 |
 | 4 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | 5d 4.07h | 1 |
 

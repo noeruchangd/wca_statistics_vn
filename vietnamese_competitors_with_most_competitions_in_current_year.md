@@ -1,20 +1,20 @@
 ## Vietnamese competitors with most competitions in the current year
 
-*Updated on 31 May 2026*
+*Updated on  1 June 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
 | 1 | 5 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
 | 2 | 4 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
-| 3 | 3 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 4 | 3 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
-| 5 | 3 | [Trương Anh Đức](https://www.worldcubeassociation.org/persons/2023DUCT01) |
-| 6 | 2 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
-| 7 | 2 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
-| 8 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
-| 9 | 2 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) |
-| 10 | 2 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
-| 11 | 2 | [Nguyễn Giang Trung](https://www.worldcubeassociation.org/persons/2017TRUN08) |
+| 3 | 3 | [Nguyễn Giang Trung](https://www.worldcubeassociation.org/persons/2017TRUN08) |
+| 4 | 3 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 5 | 3 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 6 | 3 | [Trương Anh Đức](https://www.worldcubeassociation.org/persons/2023DUCT01) |
+| 7 | 2 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
+| 8 | 2 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
+| 9 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
+| 10 | 2 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) |
+| 11 | 2 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
 | 12 | 2 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
 | 13 | 2 | [Dương Minh Nguyên](https://www.worldcubeassociation.org/persons/2018NGUY33) |
 | 14 | 2 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
