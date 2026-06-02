@@ -1,7 +1,7 @@
 ## Competitions count by week
 
 *Note: Week is considered to start on Monday and end on Sunday.*
-*Updated on  1 June 2026*
+*Updated on  2 June 2026*
 
 | # | Competitions | Week start | Week end | List on WCA |
 | ---: | :--: | ---: | ---: | :--: |
