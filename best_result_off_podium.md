@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Vietnamese competitions are taken into account.*
-*Updated on  2 June 2026*
+*Updated on  4 June 2026*
 
 
 ### 3x3x3 Cube
