@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 June 2026*
+*Updated on  7 June 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -194,10 +194,10 @@
 | 4 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) | **59.43** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 1:10.41, 1:07.69, 59.43 |
 | 5 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | **1:02.62** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:22.51, 1:08.79, DNF, 1:23.67, 1:02.62 |
 | 6 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1:08.88** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 1:41.83, 2:11.13, 1:08.88 |
-| 7 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1:44.60** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 1:44.60, DNF, DNF |
-| 8 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | **2:02.24** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:26.67, 2:02.24, 3:19.31, DNF, DNF |
-| 9 | [Trần Thái Hoàng](https://www.worldcubeassociation.org/persons/2026HOAN01) | **2:13.14** | [Kanto Winter 2026](https://www.worldcubeassociation.org/competitions/KantoWinter2026) | DNF, 2:13.22, DNF, DNF, 2:13.14 |
-| 10 | [Nguyễn Khoa Bằng](https://www.worldcubeassociation.org/persons/2020BANG04) | **4:37.85** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 4:37.85, DNF, DNF |
+| 7 | [Hoàng Quốc Huy](https://www.worldcubeassociation.org/persons/2024HUYH02) | **1:38.44** | [Kansai BLD Summer 2026](https://www.worldcubeassociation.org/competitions/KansaiBLDSummer2026) | 1:38.44, 1:50.55, DNF, 1:42.07, DNF |
+| 8 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1:44.60** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | DNF, DNF, 1:44.60, DNF, DNF |
+| 9 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | **2:02.24** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 2:26.67, 2:02.24, 3:19.31, DNF, DNF |
+| 10 | [Trần Thái Hoàng](https://www.worldcubeassociation.org/persons/2026HOAN01) | **2:13.14** | [Kanto Winter 2026](https://www.worldcubeassociation.org/competitions/KantoWinter2026) | DNF, 2:13.22, DNF, DNF, 2:13.14 |
 
 ### 3x3x3 Blindfolded - Average
 

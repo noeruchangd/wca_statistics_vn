@@ -1,7 +1,7 @@
 ## Best medal collection by person
 
 *Note: *
-*Updated on  4 June 2026*
+*Updated on  7 June 2026*
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |

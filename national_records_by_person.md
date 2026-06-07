@@ -1,6 +1,6 @@
 ## National records count by person
 
-*Updated on  4 June 2026*
+*Updated on  7 June 2026*
 
 | # | NRs | Person |
 | ---: | ---: | :--- |
