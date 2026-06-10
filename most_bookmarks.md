@@ -1,12 +1,12 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on  7 June 2026*
+*Updated on 10 June 2026*
 
 | # | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | ---: | :--- | :--- | :--- |
 | 1 | [Don't DNF Hanoi 2024](https://www.worldcubeassociation.org/competitions/DontDNFHanoi2024) | 13 | 30 | 0.43333 |
 | 2 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) | 19 | 50 | 0.38 |
-| 3 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 30 | 120 | 0.25 |
+| 3 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 31 | 120 | 0.25833 |
 | 4 | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 12 | 50 | 0.24 |
 | 5 | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024) | 23 | 120 | 0.19167 |
 | 6 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) | 57 | 300 | 0.19 |

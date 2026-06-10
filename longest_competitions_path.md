@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  7 June 2026*
+*Updated on 10 June 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
@@ -174,15 +174,15 @@
 | 167 | [Quan Tran](https://www.worldcubeassociation.org/persons/2025TRAN02) | 393 km |
 | 168 | [Minh Phuc Anh Martin Tran](https://www.worldcubeassociation.org/persons/2023TRAN32) | 358 km |
 | 169 | [Vu Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY45) | 357 km |
-| 170 | [Lê Văn Tuấn](https://www.worldcubeassociation.org/persons/2018TUAN01) | 314 km |
-| 171 | [Minh Huynh](https://www.worldcubeassociation.org/persons/2023HUYN06) | 299 km |
-| 172 | [Nguyễn Chánh Bá](https://www.worldcubeassociation.org/persons/2013BANG01) | 266 km |
-| 173 | [Lê Gia Bảo](https://www.worldcubeassociation.org/persons/2017BAOL02) | 266 km |
-| 174 | [Dư Tiến Công](https://www.worldcubeassociation.org/persons/2018CONG02) | 266 km |
-| 175 | [Nguyễn Phúc Sơn](https://www.worldcubeassociation.org/persons/2018SONN04) | 266 km |
-| 176 | [Trần Minh Quân](https://www.worldcubeassociation.org/persons/2018QUAN18) | 266 km |
-| 177 | [Trần Tuấn Kiệt](https://www.worldcubeassociation.org/persons/2017KIET03) | 261 km |
-| 178 | [Hung Lam Tran](https://www.worldcubeassociation.org/persons/2026TRAN07) | 259 km |
+| 170 | [Hung Lam Tran](https://www.worldcubeassociation.org/persons/2026TRAN07) | 356 km |
+| 171 | [Lê Văn Tuấn](https://www.worldcubeassociation.org/persons/2018TUAN01) | 314 km |
+| 172 | [Minh Huynh](https://www.worldcubeassociation.org/persons/2023HUYN06) | 299 km |
+| 173 | [Nguyễn Chánh Bá](https://www.worldcubeassociation.org/persons/2013BANG01) | 266 km |
+| 174 | [Lê Gia Bảo](https://www.worldcubeassociation.org/persons/2017BAOL02) | 266 km |
+| 175 | [Dư Tiến Công](https://www.worldcubeassociation.org/persons/2018CONG02) | 266 km |
+| 176 | [Nguyễn Phúc Sơn](https://www.worldcubeassociation.org/persons/2018SONN04) | 266 km |
+| 177 | [Trần Minh Quân](https://www.worldcubeassociation.org/persons/2018QUAN18) | 266 km |
+| 178 | [Trần Tuấn Kiệt](https://www.worldcubeassociation.org/persons/2017KIET03) | 261 km |
 | 179 | [Khuong Vu](https://www.worldcubeassociation.org/persons/2024VUKH01) | 206 km |
 | 180 | [Phong Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY43) | 204 km |
 | 181 | [Tưởng Phi Anh](https://www.worldcubeassociation.org/persons/2018ANHT03) | 175 km |

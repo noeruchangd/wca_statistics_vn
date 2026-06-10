@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 June 2026*
+*Updated on 10 June 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -299,7 +299,8 @@
 | 5 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **10.13** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 11.79, 15.89, 10.13, 10.15, 11.49 |
 | 6 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | **21.67** | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | DNF, 21.67 |
 | 7 | [Phong Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY43) | **21.71** | [Loveliest Solves Auburn 2026](https://www.worldcubeassociation.org/competitions/LoveliestSolvesAuburn2026) | 26.46, 25.24, 22.39, 25.92, 21.71 |
-| 8 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **30.33** | [Puzzling Parramatta 2026](https://www.worldcubeassociation.org/competitions/PuzzlingParramatta2026) | 30.33, 38.49 |
+| 8 | [Vuong Gia Khang Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY23) | **25.16** | [4x4x4 & Sides at UBC 2026](https://www.worldcubeassociation.org/competitions/4x4x4SidesatUBC2026) | DNF, 25.16, 28.49, 40.47, 30.11 |
+| 9 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **30.33** | [Puzzling Parramatta 2026](https://www.worldcubeassociation.org/competitions/PuzzlingParramatta2026) | 30.33, 38.49 |
 
 ### Clock - Average
 
@@ -311,6 +312,7 @@
 | 4 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | **11.50** | [Belmont Spring 2026](https://www.worldcubeassociation.org/competitions/BelmontSpring2026) | 10.75, 10.16, 9.90, 13.60, DNF |
 | 5 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **14.46** | [Adelaide Summer 2026](https://www.worldcubeassociation.org/competitions/AdelaideSummer2026) | 10.28, 21.89, DNF, 11.21, 10.07 |
 | 6 | [Phong Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY43) | **24.52** | [Loveliest Solves Auburn 2026](https://www.worldcubeassociation.org/competitions/LoveliestSolvesAuburn2026) | 26.46, 25.24, 22.39, 25.92, 21.71 |
+| 7 | [Vuong Gia Khang Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY23) | **33.02** | [4x4x4 & Sides at UBC 2026](https://www.worldcubeassociation.org/competitions/4x4x4SidesatUBC2026) | DNF, 25.16, 28.49, 40.47, 30.11 |
 
 ### Skewb - Single
 
