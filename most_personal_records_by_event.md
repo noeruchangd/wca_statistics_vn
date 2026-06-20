@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 16 June 2026*
+*Updated on 19 June 2026*
 
 
 ### 3x3x3 Cube
