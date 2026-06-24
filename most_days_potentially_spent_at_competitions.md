@@ -1,6 +1,6 @@
 ## Most days potentially spent at competitions
 
-*Updated on 22 June 2026*
+*Updated on 24 June 2026*
 
 | # | Days | Person | Competitions |
 | ---: | ---: | :--- | ---: |
@@ -12,8 +12,8 @@
 | 6 | 48 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 23 |
 | 7 | 46 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 23 |
 | 8 | 43 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 23 |
-| 9 | 39 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 22 |
-| 10 | 38 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 26 |
+| 9 | 40 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 27 |
+| 10 | 39 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 22 |
 | 11 | 38 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 21 |
 | 12 | 37 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 23 |
 | 13 | 32 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 18 |

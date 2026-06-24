@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 June 2026*
+*Updated on 24 June 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -207,6 +207,18 @@
 | 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1:01.46** | [Dawgs at Denny UW 2026](https://www.worldcubeassociation.org/competitions/DawgsatDennyUW2026) | 1:02.72, 31.19, 1:07.15, DNF, 54.51 |
 | 3 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | **1:18.32** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 1:22.51, 1:08.79, DNF, 1:23.67, 1:02.62 |
 
+### 3x3x3 Fewest Moves - Single
+
+| # | Person | Result | Competition | Details |
+| ---: | :--- | ---: | :--- | :--- |
+| 1 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **22** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 22, 23, 26 |
+
+### 3x3x3 Fewest Moves - Average
+
+| # | Person | Result | Competition | Details |
+| ---: | :--- | ---: | :--- | :--- |
+| 1 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **23.67** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 22, 23, 26 |
+
 ### 3x3x3 One-Handed - Single
 
 | # | Person | Result | Competition | Details |
@@ -352,6 +364,7 @@
 | 2 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) | **16.75** | [Bowling Green Spring 2026](https://www.worldcubeassociation.org/competitions/BowlingGreenSpring2026) | 24.39, 20.31, 20.87, 16.75, 19.40 |
 | 3 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **38.04** | [Adelaide Autumn 2026](https://www.worldcubeassociation.org/competitions/AdelaideAutumn2026) | DNF, 38.21, 38.04, 1:01.29, 41.92 |
 | 4 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | **46.08** | [The Battle of Concord MA 2026](https://www.worldcubeassociation.org/competitions/TheBattleofConcordMA2026) | 1:04.55, 46.08 |
+| 5 | [Rico Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY24) | **1:02.86** | [5x5x5 & Sides at UBC 2026](https://www.worldcubeassociation.org/competitions/5x5x5SidesatUBC2026) | 1:02.86, DNF |
 
 ### Square-1 - Average
 

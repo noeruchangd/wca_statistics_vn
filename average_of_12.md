@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 June 2026*
+*Updated on 24 June 2026*
 
 
 ### 3x3x3 Cube
@@ -98,7 +98,7 @@
 
 | # | Ao12 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 25.20 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 24, DNF, 27, 24, 28, 24, 23, 25, 26, 25, 24, 25 |
+| 1 | 24.50 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 24, 28, 24, 23, 25, 26, 25, 24, 25, 22, 23, 26 |
 | 2 | 25.20 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 24, 25, 27, DNF, 27, 23, 23, 24, 27, 25, 24, 26 |
 | 3 | 30.90 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | 27, 31, 33, 29, 28, DNF, 25, 34, 29, 33, 32, 33 |
 | 4 | 40.80 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 42, 40, 36, 45, 36, 39, 37, 41, DNF, 50, 38, 40 |

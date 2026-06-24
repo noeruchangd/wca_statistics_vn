@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 22 June 2026*
+*Updated on 24 June 2026*
 
 
 ### Competition
@@ -43,7 +43,7 @@
 | 9 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **961** | 988 |
 | 10 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **928** | 983 |
 | 11 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **918** | 926 |
-| 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **892** | 900 |
+| 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **895** | 903 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **751** | 759 |
 | 15 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
@@ -63,7 +63,7 @@
 | 4 | 2022 | **14897** | 15268 |
 | 5 | 2019 | **10283** | 10564 |
 | 6 | 2018 | **8470** | 8706 |
-| 7 | 2026 | **6873** | 7145 |
+| 7 | 2026 | **6901** | 7174 |
 | 8 | 2016 | **6126** | 6328 |
 | 9 | 2017 | **5989** | 6129 |
 | 10 | 2020 | **3791** | 3930 |
@@ -83,18 +83,18 @@
 | 1 | 3x3x3 Cube | **46626** | 47551 |
 | 2 | 2x2x2 Cube | **23864** | 24466 |
 | 3 | 4x4x4 Cube | **14731** | 15130 |
-| 4 | 3x3x3 One-Handed | **13665** | 14031 |
-| 5 | Pyraminx | **8286** | 8499 |
-| 6 | 5x5x5 Cube | **7183** | 7352 |
+| 4 | 3x3x3 One-Handed | **13675** | 14041 |
+| 5 | Pyraminx | **8296** | 8509 |
+| 6 | 5x5x5 Cube | **7187** | 7356 |
 | 7 | Skewb | **5764** | 5923 |
 | 8 | Megaminx | **2208** | 2272 |
 | 9 | Clock | **2111** | 2447 |
-| 10 | Square-1 | **1559** | 1622 |
+| 10 | Square-1 | **1560** | 1624 |
 | 11 | 6x6x6 Cube | **1487** | 1514 |
 | 12 | 7x7x7 Cube | **1170** | 1208 |
 | 13 | Magic | **544** | 618 |
 | 14 | 3x3x3 Blindfolded | **471** | 1384 |
-| 15 | 3x3x3 Fewest Moves | **205** | 299 |
+| 15 | 3x3x3 Fewest Moves | **208** | 302 |
 | 16 | Master Magic | **143** | 150 |
 | 17 | 3x3x3 With Feet | **35** | 47 |
 | 18 | 3x3x3 Multi-Blind | **32** | 55 |
