@@ -1,12 +1,12 @@
 ## Number of people to reach milestone in competitions count
 
 *Note: Only Vietnamese competitors are taken into account.*
-*Updated on 25 June 2026*
+*Updated on 28 June 2026*
 
 | # | Competitions | Persons |
 | ---: | :--- | ---: |
 | 1 | >= 1 | 2947 |
-| 2 | >= 5 | 326 |
+| 2 | >= 5 | 327 |
 | 3 | >= 10 | 90 |
 | 4 | >= 15 | 37 |
 | 5 | >= 20 | 17 |
