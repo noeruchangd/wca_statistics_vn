@@ -1,12 +1,12 @@
 ## Competitions with the least number of no-shows in Vietnam
 
 *Note: This statistic shows the competitions in Vietnam with the least number of no-shows (registered but did not compete in any event of the comp).*
-*Updated on 28 June 2026*
+*Updated on  1 July 2026*
 
 | # | Competition | Total registered | Total competed | No-shows |
 | ---: | :--- | ---: | ---: | ---: |
 | 1 | [Don't DNF Hanoi 2024](https://www.worldcubeassociation.org/competitions/DontDNFHanoi2024) | 22 | 21 | 1 |
-| 2 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | 98 | 96 | 2 |
+| 2 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | 98 | 95 | 3 |
 | 3 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) | 34 | 31 | 3 |
 | 4 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) | 99 | 95 | 4 |
 | 5 | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 50 | 46 | 4 |
