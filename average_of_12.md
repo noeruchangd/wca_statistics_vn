@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 3x3x3 Cube
@@ -14,7 +14,7 @@
 | 4 | 6.72 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 6.44, 6.09, 7.35, 6.94, 7.14, 8.40, 5.67, 9.66, 6.05, 6.46, 6.44, 5.86 |
 | 5 | 6.74 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 6.47, 6.96, 8.30, 6.57, 7.20, 7.53, 4.82, 7.24, 5.62, 6.79, 7.06, 5.94 |
 | 6 | 6.79 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 6.61, 7.12, 6.73, 6.61, 6.25, 7.87, 5.77, 8.39, 6.98, 6.92, 6.59, 6.21 |
-| 7 | 7.09 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 8.26, 6.94, 7.62, 7.73, 6.71, 8.87, 6.36, 5.75, 5.90, 7.78, 6.38, 7.20 |
+| 7 | 6.79 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 6.36, 5.75, 5.90, 7.78, 6.38, 7.20, 6.99, 6.84, 7.00, 7.30, 7.31, 6.65 |
 | 8 | 7.26 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | 7.95, 6.36, 6.48, 7.37, 7.25, 7.19, 7.74, 7.70, 7.78, 7.50, 6.75, 6.81 |
 | 9 | 7.30 | [Đinh Hữu Phúc](https://www.worldcubeassociation.org/persons/2022PHUC01) | 6.44, 6.99, 7.75, 6.60, 7.29, 7.54, 5.90, 6.95, 7.57, 9.15, 8.79, 7.03 |
 | 10 | 7.33 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) | 7.13, 7.80, 6.35, 8.36, 7.74, 7.19, 8.82, 6.57, 7.67, 7.35, 6.76, 6.76 |
@@ -27,7 +27,7 @@
 | 2 | 1.72 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 2.39, 2.03, 1.45, 1.57, 1.68, 3.95, 1.63, 2.37, 1.42, 1.53, 1.16, 0.88 |
 | 3 | 1.76 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 1.66, 1.36, 1.71, 1.88, 2.17, 3.71, 1.78, 1.81, 1.50, 1.43, 2.27, 1.12 |
 | 4 | 1.99 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | 1.79, 2.68, 4.02, 1.85, 1.97, 1.53, 1.97, 2.13, 1.37, 1.67, 1.62, 2.65 |
-| 5 | 2.09 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 1.84, 3.13, 1.69, 3.32, 1.86, 1.95, 1.76, 2.44, 1.70, 2.24, 2.22, 1.73 |
+| 5 | 2.03 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 1.86, 1.95, 1.76, 2.44, 1.70, 2.24, 2.22, 1.73, 4.26, 1.93, 1.95, 2.18 |
 | 6 | 2.19 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | 1.79, 2.24, 2.83, 1.68, 1.76, 6.03, 2.22, 2.91, 2.24, 1.94, 2.33, 1.55 |
 | 7 | 2.27 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) | 2.69, 3.77, 1.72, 1.62, 4.32, 2.80, 2.22, 1.20, 2.41, 1.67, 1.96, 1.83 |
 | 8 | 2.28 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) | 2.25, 2.29, 2.75, 2.00, 2.54, 2.27, 2.09, 1.68, 2.24, 2.23, 3.55, 2.11 |
@@ -39,8 +39,8 @@
 | # | Ao12 | Person | Times |
 | ---: | ---: | :--- | :--- |
 | 1 | 20.47 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 20.68, 20.90, 17.46, 20.03, 19.21, 20.83, 20.51, 21.39, 20.30, 24.02, 19.75, 21.07 |
-| 2 | 26.12 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 24.10, 24.13, 26.20, 27.59, 28.86, 24.18, 29.09, 26.74, 24.91, 27.82, 26.54, 24.19 |
-| 3 | 26.56 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 27.36, 30.26, 25.93, 25.92, 24.49, 25.76, 24.05, 31.72, 22.42, 26.69, 25.89, 29.26 |
+| 2 | 25.71 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 24.97, 25.27, 26.96, 23.02, 27.72, 20.97, 27.12, 27.41, 30.92, 23.79, 24.26, 26.57 |
+| 3 | 26.36 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 30.25, 24.72, 28.22, 24.14, 33.40, 24.25, 25.93, 22.80, 29.22, 29.46, 24.21, 23.23 |
 | 4 | 27.03 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 27.48, 24.83, 25.34, 28.23, 26.42, 24.62, 27.20, 27.72, 31.05, 27.49, 29.48, 26.07 |
 | 5 | 27.13 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 29.38, 24.72, 27.64, 29.74, 25.45, 30.96, 25.98, 28.61, 26.65, 25.55, 27.22, 25.04 |
 | 6 | 27.47 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | 27.80, 27.05, 42.06, 26.09, 28.82, 27.85, 25.83, 28.87, 25.80, 30.72, 25.84, 24.92 |
@@ -111,8 +111,8 @@
 | 2 | 10.77 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 9.48, 10.06, 11.39, 7.60, 11.03, 12.04, 10.54, 10.04, 12.62, 10.52, 13.09, 9.95 |
 | 3 | 10.89 | [Nguyễn Khoa Điền](https://www.worldcubeassociation.org/persons/2022DIEN01) | 9.77, 10.05, 12.07, 9.85, 11.16, 14.09, 11.46, 10.35, 11.16, 8.09, 11.37, 11.69 |
 | 4 | 10.95 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 9.73, 10.66, 11.44, 10.79, 9.24, 10.73, 12.98, 10.34, 12.70, 9.79, 14.14, 10.37 |
-| 5 | 11.63 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) | 11.62, 13.13, 12.01, 13.63, 11.10, 13.36, 10.51, 10.13, 10.50, 12.53, 11.45, 9.48 |
-| 6 | 12.04 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 10.20, 11.97, 13.72, 13.43, 11.91, 12.06, 15.23, 11.64, 10.36, 9.84, 12.40, 12.73 |
+| 5 | 11.20 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 11.02, 8.49, 10.06, 10.66, 9.44, 12.54, 12.68, 14.65, 11.25, 12.69, 10.67, 10.99 |
+| 6 | 11.63 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) | 11.62, 13.13, 12.01, 13.63, 11.10, 13.36, 10.51, 10.13, 10.50, 12.53, 11.45, 9.48 |
 | 7 | 12.11 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 11.95, 11.52, 11.81, 10.26, 12.14, 13.20, 12.75, 12.22, 11.68, 12.74, 14.89, 11.05 |
 | 8 | 12.21 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 11.48, 11.63, 13.56, 13.55, 12.96, 11.09, 11.97, 12.51, 11.87, 12.19, 11.85, 12.13 |
 | 9 | 12.30 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) | 11.79, 11.42, 14.25, 12.92, 11.54, 11.50, 13.28, 13.24, 10.81, 14.56, 12.24, 10.70 |
@@ -138,30 +138,30 @@
 | # | Ao12 | Person | Times |
 | ---: | ---: | :--- | :--- |
 | 1 | 2.69 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | 2.03, 3.13, 2.20, 2.44, 2.40, 2.97, 2.31, 3.62, 3.49, 1.81, 5.39, 2.35 |
-| 2 | 3.00 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2.61, 4.80, 2.77, 2.70, 5.15, 3.71, 2.30, 2.14, 3.83, 2.68, 2.45, 1.34 |
-| 3 | 3.00 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | 2.80, 2.32, 1.89, 3.63, 3.92, 4.02, 2.97, 4.15, 3.28, 2.66, 2.29, 2.06 |
-| 4 | 3.20 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) | 3.00, 3.60, 3.46, 3.05, 3.83, 2.42, 2.78, 3.71, 3.44, 7.51, 2.74, 2.42 |
-| 5 | 3.24 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | 4.40, 2.20, 6.16, 2.40, 2.96, 3.32, 4.16, 2.26, 3.61, 3.47, 2.32, 3.45 |
-| 6 | 3.27 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) | 3.42, 2.72, 4.26, 2.54, 3.89, 3.39, 3.20, 3.64, 3.23, 3.69, 2.72, 2.84 |
-| 7 | 3.38 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 3.78, 2.90, 3.17, 3.64, 3.91, 3.45, 3.68, 4.51, 3.24, 2.78, 2.59, 3.26 |
-| 8 | 3.41 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 3.30, 3.49, 3.13, 3.43, 2.44, 5.15, 3.77, 3.23, 2.93, 4.20, 4.12, 2.53 |
-| 9 | 3.50 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | 7.04, 2.86, 2.32, 1.79, 4.89, 2.52, DNF, 3.23, 4.33, 1.55, 3.69, 2.30 |
-| 10 | 3.55 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | 3.87, 3.30, DNF, 4.40, 2.45, 3.97, 2.68, 2.12, 4.00, 3.41, 5.32, 1.82 |
+| 2 | 2.88 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2.30, 2.14, 3.83, 2.68, 2.45, 1.34, 4.55, 2.82, DNF, 3.11, 2.81, 2.08 |
+| 3 | 2.97 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | 2.45, 3.97, 2.68, 2.12, 4.00, 3.41, 5.32, 1.82, 2.66, 3.26, 2.02, 3.12 |
+| 4 | 3.00 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | 2.80, 2.32, 1.89, 3.63, 3.92, 4.02, 2.97, 4.15, 3.28, 2.66, 2.29, 2.06 |
+| 5 | 3.20 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) | 3.00, 3.60, 3.46, 3.05, 3.83, 2.42, 2.78, 3.71, 3.44, 7.51, 2.74, 2.42 |
+| 6 | 3.20 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) | 2.47, 3.34, 4.09, 3.22, 4.29, 3.34, 2.23, 3.48, 2.55, DNF, 3.00, 1.99 |
+| 7 | 3.24 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | 4.40, 2.20, 6.16, 2.40, 2.96, 3.32, 4.16, 2.26, 3.61, 3.47, 2.32, 3.45 |
+| 8 | 3.38 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 3.78, 2.90, 3.17, 3.64, 3.91, 3.45, 3.68, 4.51, 3.24, 2.78, 2.59, 3.26 |
+| 9 | 3.41 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 3.30, 3.49, 3.13, 3.43, 2.44, 5.15, 3.77, 3.23, 2.93, 4.20, 4.12, 2.53 |
+| 10 | 3.50 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | 7.04, 2.86, 2.32, 1.79, 4.89, 2.52, DNF, 3.23, 4.33, 1.55, 3.69, 2.30 |
 
 ### Clock
 
 | # | Ao12 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 3.74 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | 4.86, 3.89, 3.44, 4.34, 4.54, 2.93, 3.24, 4.46, 2.88, 4.13, 3.32, 3.13 |
+| 1 | 3.50 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | 4.34, 4.54, 2.93, 3.24, 4.46, 2.88, 4.13, 3.32, 3.13, 2.75, 3.49, 3.03 |
 | 2 | 3.75 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2.75, 3.93, 3.38, 3.40, 3.38, DNF, 4.41, 3.37, 3.91, 3.50, 3.85, 4.41 |
-| 3 | 3.95 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 4.68, 3.70, 3.18, 3.48, 4.20, 3.28, 3.00, 7.65, 5.19, 4.03, 4.12, 3.65 |
+| 3 | 3.81 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 3.18, 3.48, 4.20, 3.28, 3.00, 7.65, 5.19, 4.03, 4.12, 3.65, 3.74, 3.18 |
 | 4 | 5.36 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) | 5.60, 5.63, 5.64, 5.20, 4.70, 4.67, 10.20, 5.88, 5.26, 5.51, 5.36, 4.84 |
 | 5 | 5.58 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) | 3.81, 6.23, 5.63, 5.67, 5.50, 8.79, 5.18, 4.16, 5.16, DNF, 5.17, 4.35 |
-| 6 | 6.25 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 6.20, 5.55, 6.90, 6.34, 5.71, 5.70, 7.23, DNF, 6.29, 6.16, 6.11, 5.86 |
-| 7 | 6.28 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) | 6.24, DNF, 6.03, 6.06, 5.40, 6.39, 6.96, 6.08, 8.03, 5.06, 5.71, 5.89 |
-| 8 | 6.81 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) | 6.19, 9.02, 6.83, 9.20, 5.43, 5.34, 5.88, 6.05, 5.29, 5.22, 8.90, 9.57 |
-| 9 | 7.88 | [Tạ Quang Dũng](https://www.worldcubeassociation.org/persons/2022DUNG05) | 11.01, 7.46, 5.44, 7.99, 5.84, 10.29, DNF, 5.96, 9.86, 7.93, 6.23, 6.23 |
-| 10 | 8.09 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 6.54, 8.78, 6.76, 10.16, 7.64, 8.21, 28.86, 7.47, 7.09, 9.80, 7.87, 7.10 |
+| 6 | 5.89 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) | DNF, 4.78, 4.32, 9.58, 7.61, 5.05, 8.17, 4.18, 4.61, 5.63, 4.51, 4.65 |
+| 7 | 6.07 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | 7.70, 4.55, 4.75, 4.83, DNF, 4.29, 6.02, 4.25, 9.81, 8.19, 4.85, 5.68 |
+| 8 | 6.25 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 6.20, 5.55, 6.90, 6.34, 5.71, 5.70, 7.23, DNF, 6.29, 6.16, 6.11, 5.86 |
+| 9 | 6.28 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) | 6.24, DNF, 6.03, 6.06, 5.40, 6.39, 6.96, 6.08, 8.03, 5.06, 5.71, 5.89 |
+| 10 | 7.59 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | 7.70, 7.15, 7.96, 11.16, 7.35, 6.24, 7.89, 7.33, 10.19, 7.03, 7.00, 6.29 |
 
 ### Skewb
 
@@ -171,7 +171,7 @@
 | 2 | 3.72 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | 1.94, 4.36, 4.02, 4.55, 2.91, 3.86, 2.64, 4.25, 4.61, 2.57, 4.09, 3.95 |
 | 3 | 3.81 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | 3.72, 2.68, 3.09, 4.16, 4.83, 4.55, 2.91, 1.79, 4.53, 6.61, 3.52, 4.11 |
 | 4 | 3.85 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 3.45, 3.61, 4.51, 4.83, 3.27, 3.68, 3.07, 5.07, 3.30, 4.63, 3.93, 3.26 |
-| 5 | 4.26 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) | 4.57, 4.69, 7.04, 5.47, 2.83, 4.40, 3.74, 4.68, 3.49, 3.22, 3.64, 4.72 |
+| 5 | 4.02 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) | 3.49, 3.22, 3.64, 4.72, 4.58, 4.02, 4.52, 4.46, 4.08, 3.53, 4.50, 3.35 |
 | 6 | 4.47 | [Hoàng Mạnh Cường](https://www.worldcubeassociation.org/persons/2022CUON01) | 4.31, 5.46, 3.76, 4.98, 3.84, 7.04, 3.58, 4.08, 4.19, 5.11, 5.38, 2.99 |
 | 7 | 4.57 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) | 4.83, 4.44, 4.35, 3.38, 3.82, 4.97, 3.70, 4.26, 7.45, 7.35, 3.46, 4.52 |
 | 8 | 4.60 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 3.79, 7.96, 5.92, 3.25, 5.20, 4.81, 3.91, 4.59, 5.80, 4.15, 3.67, 4.15 |

@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 3x3x3 Cube
@@ -175,16 +175,16 @@
 
 | # | Competitions | Person | First win |
 | ---: | ---: | :--- | :--- |
-| 1 | 3 | [Nghiêm Xuân Bách Khoa](https://www.worldcubeassociation.org/persons/2014KHOA02) | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 2 | 2 | [Trần Doãn Minh Nhật](https://www.worldcubeassociation.org/persons/2015NHAT01) | [CSP Open 2016](https://www.worldcubeassociation.org/competitions/CSPOpen2016) |
-| 3 | 2 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | [HCMC Summer Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSummerOpen2016) |
-| 4 | 2 | [Đoàn Trường Sơn](https://www.worldcubeassociation.org/persons/2015SOND02) | [Ho Chi Minh Spring Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhSpringOpen2018) |
-| 5 | 2 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) |
-| 6 | 2 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 7 | 2 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) |
-| 8 | 1 | [Nguyễn Giang Trung](https://www.worldcubeassociation.org/persons/2017TRUN08) | [Ha Noi Summer 2020](https://www.worldcubeassociation.org/competitions/HaNoiSummer2020) |
-| 9 | 1 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | [Ho Chi Minh Let's Cube 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhLetsCube2019) |
-| 10 | 1 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022) |
+| 1 | 11 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) |
+| 2 | 3 | [Nghiêm Xuân Bách Khoa](https://www.worldcubeassociation.org/persons/2014KHOA02) | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
+| 3 | 2 | [Trần Doãn Minh Nhật](https://www.worldcubeassociation.org/persons/2015NHAT01) | [CSP Open 2016](https://www.worldcubeassociation.org/competitions/CSPOpen2016) |
+| 4 | 2 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | [HCMC Summer Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSummerOpen2016) |
+| 5 | 2 | [Đoàn Trường Sơn](https://www.worldcubeassociation.org/persons/2015SOND02) | [Ho Chi Minh Spring Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhSpringOpen2018) |
+| 6 | 2 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) |
+| 7 | 2 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
+| 8 | 2 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) |
+| 9 | 1 | [Nguyễn Giang Trung](https://www.worldcubeassociation.org/persons/2017TRUN08) | [Ha Noi Summer 2020](https://www.worldcubeassociation.org/competitions/HaNoiSummer2020) |
+| 10 | 1 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | [Ho Chi Minh Let's Cube 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhLetsCube2019) |
 
 ### Square-1
 

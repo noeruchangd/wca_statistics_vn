@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 25 Competitions
@@ -32,14 +32,14 @@
 | 10 | 757 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
 | 11 | 757 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) |
 | 12 | 758 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
-| 13 | 785 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) |
-| 14 | 820 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
-| 15 | 883 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) |
-| 16 | 883 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) |
-| 17 | 1126 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
-| 18 | 1163 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) |
-| 19 | 1218 | [Trần Mạnh Quân](https://www.worldcubeassociation.org/persons/2014QUAN02) |
-| 20 | 1261 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) |
+| 13 | 765 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) |
+| 14 | 785 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) |
+| 15 | 820 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
+| 16 | 883 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) |
+| 17 | 883 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) |
+| 18 | 1126 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
+| 19 | 1163 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) |
+| 20 | 1218 | [Trần Mạnh Quân](https://www.worldcubeassociation.org/persons/2014QUAN02) |
 
 ### 5 Competitions
 

@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 3x3x3 Cube
@@ -113,8 +113,8 @@
 
 | # | First single | Person |
 | ---: | ---: | :--- |
-| 1 | 28 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
-| 2 | 28 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
+| 1 | 28 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
+| 2 | 28 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
 | 3 | 29 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
 | 4 | 30 | [Lê Thủy Triều](https://www.worldcubeassociation.org/persons/2018TRIE03) |
 | 5 | 31 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
@@ -173,16 +173,16 @@
 
 | # | First single | Person |
 | ---: | ---: | :--- |
-| 1 | 5.96 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) |
-| 2 | 6.03 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) |
-| 3 | 6.19 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) |
-| 4 | 6.19 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) |
-| 5 | 6.70 | [Tạ Quang Dũng](https://www.worldcubeassociation.org/persons/2022DUNG05) |
-| 6 | 7.46 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) |
-| 7 | 7.50 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
-| 8 | 7.50 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 9 | 7.55 | [Hoàng Văn Hoà](https://www.worldcubeassociation.org/persons/2022HOAH01) |
-| 10 | 7.73 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
+| 1 | 4.27 | [Nguyễn Trường Giang](https://www.worldcubeassociation.org/persons/2026GIAN02) |
+| 2 | 5.96 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) |
+| 3 | 6.03 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) |
+| 4 | 6.19 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) |
+| 5 | 6.19 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) |
+| 6 | 6.70 | [Tạ Quang Dũng](https://www.worldcubeassociation.org/persons/2022DUNG05) |
+| 7 | 7.46 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) |
+| 8 | 7.50 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
+| 9 | 7.50 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 10 | 7.55 | [Hoàng Văn Hoà](https://www.worldcubeassociation.org/persons/2022HOAH01) |
 
 ### Skewb
 

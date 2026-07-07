@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 3x3x3 Cube
@@ -174,13 +174,13 @@
 | 1 | 6.58 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) |
 | 2 | 7.06 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) |
 | 3 | 7.35 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) |
-| 4 | 7.61 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) |
-| 5 | 7.63 | [Tạ Quang Dũng](https://www.worldcubeassociation.org/persons/2022DUNG05) |
-| 6 | 7.83 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
-| 7 | 7.88 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
-| 8 | 7.91 | [Lê Ngọc Duy](https://www.worldcubeassociation.org/persons/2024DUYL02) |
-| 9 | 7.98 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
-| 10 | 8.21 | [Trần Tùng Quân](https://www.worldcubeassociation.org/persons/2025QUAN10) |
+| 4 | 7.35 | [Nguyễn Trường Giang](https://www.worldcubeassociation.org/persons/2026GIAN02) |
+| 5 | 7.61 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) |
+| 6 | 7.63 | [Tạ Quang Dũng](https://www.worldcubeassociation.org/persons/2022DUNG05) |
+| 7 | 7.83 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 8 | 7.88 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
+| 9 | 7.91 | [Lê Ngọc Duy](https://www.worldcubeassociation.org/persons/2024DUYL02) |
+| 10 | 7.98 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
 
 ### Skewb
 

@@ -1,7 +1,7 @@
 ## Average number of competitions of listed delegates at Vietnamese competitions by number of delegates
 
 *Note: Competitions are grouped by how many delegates they had. Each table shows the competitions with the highest average number of competitions that listed delegates had participated in up to and including the one they delegated.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 8 Delegates
@@ -41,15 +41,16 @@
 | # | Competition | Delegates | Average number of competitions of listed delegates |
 | ---: | :--- | :--- | ---: |
 | 1 | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | [Malte Oliver Bøgh Kjøller](https://www.worldcubeassociation.org/persons/2018KJOL01), [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 90.00 |
-| 2 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01), [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) | 84.00 |
-| 3 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01), [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 67.50 |
-| 4 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07), [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) | 43.50 |
-| 5 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07), [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) | 36.00 |
-| 6 | [Ho Chi Minh City 2011](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2011) | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01), [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 25.50 |
-| 7 | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01), [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 25.00 |
-| 8 | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019) | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02), [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
-| 9 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03), [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 9.00 |
-| 10 | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03), [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 8.00 |
+| 2 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07), [Wilson Alvis (陈智胜)](https://www.worldcubeassociation.org/persons/2011ALVI01) | 90.00 |
+| 3 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) | [Ivan Lew Yi Wen (刘义文)](https://www.worldcubeassociation.org/persons/2012WENI01), [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) | 84.00 |
+| 4 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | [Chan Tak Chuen (陳德泉)](https://www.worldcubeassociation.org/persons/2007CHUE01), [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 67.50 |
+| 5 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07), [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) | 43.50 |
+| 6 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07), [Tanai Chaikraveephand (ธนัย ชัยกระวีพันธ์)](https://www.worldcubeassociation.org/persons/2009CHAI01) | 36.00 |
+| 7 | [Ho Chi Minh City 2011](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2011) | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01), [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 25.50 |
+| 8 | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) | [Anders Larsson](https://www.worldcubeassociation.org/persons/2003LARS01), [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 25.00 |
+| 9 | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019) | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02), [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
+| 10 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03), [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 9.00 |
+| 11 | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03), [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 8.00 |
 
 ### 1 Delegate
 
@@ -69,11 +70,11 @@
 | 12 | [Ha Noi Cube Day 2019](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2019) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 17.00 |
 | 13 | [Ha Noi Open 2018](https://www.worldcubeassociation.org/competitions/HaNoiOpen2018) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 16.00 |
 | 14 | [Ha Noi Open 2017](https://www.worldcubeassociation.org/competitions/HaNoiOpen2017) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
-| 15 | [Ha Noi Cube Day 2017](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2017) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
-| 16 | [Ha Noi Open 2016](https://www.worldcubeassociation.org/competitions/HaNoiOpen2016) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
-| 17 | [Ha Noi Championship 2018](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2018) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
+| 15 | [Ha Noi Championship 2018](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2018) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
+| 16 | [Ha Noi Cube Day 2017](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2017) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
+| 17 | [CSP Open 2017](https://www.worldcubeassociation.org/competitions/CSPOpen2017) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
 | 18 | [CSP Open 2018](https://www.worldcubeassociation.org/competitions/CSPOpen2018) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
-| 19 | [CSP Open 2017](https://www.worldcubeassociation.org/competitions/CSPOpen2017) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
+| 19 | [Ha Noi Open 2016](https://www.worldcubeassociation.org/competitions/HaNoiOpen2016) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 15.00 |
 | 20 | [CSP Open 2016](https://www.worldcubeassociation.org/competitions/CSPOpen2016) | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 14.00 |
 
 

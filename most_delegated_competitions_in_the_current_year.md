@@ -1,11 +1,11 @@
 ## Most delegated competitions in the current year
 
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 | # | Delegated | Person | List on WCA |
 | ---: | ---: | :--- | :--: |
-| 1 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=42070) |
-| 2 | 2 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=115116) |
+| 1 | 3 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=115116) |
+| 2 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=42070) |
 | 3 | 1 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=300) |
 | 4 | 1 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=12694) |
 

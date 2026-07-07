@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### Competition
@@ -22,36 +22,36 @@
 | 13 | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019) | **2654** | 2733 |
 | 14 | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019) | **2647** | 2697 |
 | 15 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | **2539** | 2677 |
-| 16 | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) | **2446** | 2505 |
-| 17 | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) | **2335** | 2391 |
-| 18 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) | **2283** | 2356 |
-| 19 | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024) | **2223** | 2280 |
-| 20 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | **2182** | 2259 |
+| 16 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | **2492** | 2592 |
+| 17 | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) | **2446** | 2505 |
+| 18 | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) | **2335** | 2391 |
+| 19 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) | **2283** | 2356 |
+| 20 | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024) | **2223** | 2280 |
 
 ### Person
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
 | 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1794** | 1805 |
-| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1743** | 1842 |
+| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1768** | 1867 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
-| 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1452** | 1487 |
+| 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1482** | 1517 |
 | 5 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | **1223** | 1251 |
-| 6 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1083** | 1145 |
-| 7 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1053** | 1089 |
-| 8 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1036** | 1040 |
-| 9 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **961** | 988 |
-| 10 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **928** | 983 |
+| 6 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1131** | 1195 |
+| 7 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1076** | 1080 |
+| 8 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1053** | 1089 |
+| 9 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **978** | 1033 |
+| 10 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **961** | 988 |
 | 11 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **918** | 926 |
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **895** | 903 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **751** | 759 |
 | 15 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
-| 16 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
-| 17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
-| 18 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **690** | 717 |
-| 19 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **648** | 654 |
-| 20 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **645** | 666 |
+| 16 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **735** | 767 |
+| 17 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
+| 18 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
+| 19 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **669** | 691 |
+| 20 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **648** | 654 |
 
 ### Year
 
@@ -62,8 +62,8 @@
 | 3 | 2023 | **15710** | 16203 |
 | 4 | 2022 | **14897** | 15268 |
 | 5 | 2019 | **10283** | 10564 |
-| 6 | 2018 | **8470** | 8706 |
-| 7 | 2026 | **6925** | 7199 |
+| 6 | 2026 | **9417** | 9791 |
+| 7 | 2018 | **8470** | 8706 |
 | 8 | 2016 | **6126** | 6328 |
 | 9 | 2017 | **5989** | 6129 |
 | 10 | 2020 | **3791** | 3930 |
@@ -80,15 +80,15 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **46640** | 47566 |
-| 2 | 2x2x2 Cube | **23874** | 24476 |
-| 3 | 4x4x4 Cube | **14731** | 15130 |
-| 4 | 3x3x3 One-Handed | **13675** | 14041 |
-| 5 | Pyraminx | **8296** | 8509 |
+| 1 | 3x3x3 Cube | **47211** | 48151 |
+| 2 | 2x2x2 Cube | **24347** | 24966 |
+| 3 | 4x4x4 Cube | **14998** | 15408 |
+| 4 | 3x3x3 One-Handed | **14084** | 14462 |
+| 5 | Pyraminx | **8619** | 8843 |
 | 6 | 5x5x5 Cube | **7187** | 7356 |
-| 7 | Skewb | **5764** | 5923 |
-| 8 | Megaminx | **2208** | 2272 |
-| 9 | Clock | **2111** | 2447 |
+| 7 | Skewb | **6026** | 6195 |
+| 8 | Clock | **2298** | 2659 |
+| 9 | Megaminx | **2208** | 2272 |
 | 10 | Square-1 | **1560** | 1624 |
 | 11 | 6x6x6 Cube | **1487** | 1514 |
 | 12 | 7x7x7 Cube | **1170** | 1208 |

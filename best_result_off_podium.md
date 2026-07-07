@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Vietnamese competitions are taken into account.*
-*Updated on  4 July 2026*
+*Updated on  7 July 2026*
 
 
 ### 3x3x3 Cube
@@ -13,11 +13,11 @@
 | 3 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 5.64 | **6.81** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333_f) | 5 |
 | 4 | [Zijian Cai (蔡子健)](https://www.worldcubeassociation.org/persons/2017CAIZ03) | 5.80 | **6.83** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333_f) | 6 |
 | 5 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 6.09 | **6.87** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026/results/all#e333_f) | 5 |
-| 6 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 5.54 | **7.14** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333_f) | 4 |
-| 7 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 6.27 | **7.15** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333_f) | 7 |
-| 8 | [Yang Pin Xiu (楊品修)](https://www.worldcubeassociation.org/persons/2023XIUY01) | 6.79 | **7.18** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333_f) | 5 |
-| 9 | [Yiming Zhuang (庄轶茗)](https://www.worldcubeassociation.org/persons/2021ZHUA01) | 5.85 | **7.23** | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/all#e333_f) | 4 |
-| 10 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 6.60 | **7.25** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026/results/all#e333_f) | 4 |
+| 6 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) | 6.81 | **7.12** | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026/results/all#e333_f) | 4 |
+| 7 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 5.54 | **7.14** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333_f) | 4 |
+| 8 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 6.27 | **7.15** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333_f) | 7 |
+| 9 | [Yang Pin Xiu (楊品修)](https://www.worldcubeassociation.org/persons/2023XIUY01) | 6.79 | **7.18** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333_f) | 5 |
+| 10 | [Yiming Zhuang (庄轶茗)](https://www.worldcubeassociation.org/persons/2021ZHUA01) | 5.85 | **7.23** | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/all#e333_f) | 4 |
 
 ### 2x2x2 Cube
 
@@ -173,16 +173,16 @@
 
 | # | Person | Single | Average | Competition | Place |
 | ---: | :--- | ---: | ---: | :--- | :--: |
-| 1 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2.56 | **4.72** | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/all#eclock_f) | 4 |
-| 2 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | 4.25 | **5.05** | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/all#eclock_f) | 5 |
-| 3 | [Yanchen Long (龙彦辰)](https://www.worldcubeassociation.org/persons/2018LONG08) | 4.61 | **5.11** | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/all#eclock_f) | 6 |
-| 4 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 5.16 | **5.46** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#eclock_f) | 4 |
-| 5 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) | 5.06 | **5.89** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#eclock_c) | 4 |
-| 6 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 4.10 | **5.94** | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/all#eclock_f) | 4 |
-| 7 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | 4.47 | **5.94** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#eclock_f) | 5 |
-| 8 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 5.05 | **6.19** | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/all#eclock_f) | 5 |
-| 9 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 5.86 | **6.19** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#eclock_f) | 6 |
-| 10 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2.96 | **6.20** | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024/results/all#eclock_f) | 4 |
+| 1 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) | 4.18 | **4.59** | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026/results/all#eclock_c) | 4 |
+| 2 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2.56 | **4.72** | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/all#eclock_f) | 4 |
+| 3 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | 4.25 | **5.05** | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/all#eclock_f) | 5 |
+| 4 | [Yanchen Long (龙彦辰)](https://www.worldcubeassociation.org/persons/2018LONG08) | 4.61 | **5.11** | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/all#eclock_f) | 6 |
+| 5 | [Nguyễn Trường Giang](https://www.worldcubeassociation.org/persons/2026GIAN02) | 4.30 | **5.34** | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026/results/all#eclock_c) | 5 |
+| 6 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 5.16 | **5.46** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#eclock_f) | 4 |
+| 7 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) | 5.06 | **5.89** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#eclock_c) | 4 |
+| 8 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 4.10 | **5.94** | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/all#eclock_f) | 4 |
+| 9 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | 4.47 | **5.94** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#eclock_f) | 5 |
+| 10 | [Max Kwok U Sam (郭愉琛)](https://www.worldcubeassociation.org/persons/2018SAMK01) | 5.05 | **6.19** | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/all#eclock_f) | 5 |
 
 ### Skewb
 
