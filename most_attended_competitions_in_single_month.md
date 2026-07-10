@@ -1,6 +1,6 @@
 ## Most attended competitions in a single month
 
-*Updated on  7 July 2026*
+*Updated on 10 July 2026*
 
 | # | Competitions | Person | Month | Year | List |
 | ---: | ---: | :--- | :--- | :--- | :--- |
@@ -108,7 +108,7 @@
 | 102 | 2 | [Phan Thi Thu Trang](https://www.worldcubeassociation.org/persons/2014TRAN02) | July | 2016 | [Euro 2016](https://www.worldcubeassociation.org/competitions/Euro2016), [Czech Open 2016](https://www.worldcubeassociation.org/competitions/CzechOpen2016) |
 | 103 | 2 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | December | 2024 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024), [cubingHCM 3x3 Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCM3x3Winter2024) |
 | 104 | 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | January | 2023 | [SacCubing XIII 2023](https://www.worldcubeassociation.org/competitions/SacCubingXIII2023), [Berkeley Winter A 2023](https://www.worldcubeassociation.org/competitions/BerkeleyWinterA2023) |
-| 105 | 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | March | 2023 | [Bay Area Speedcubin' 42 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin422023), [FMC Anglo America 2023](https://www.worldcubeassociation.org/competitions/FMCAngloAmerica2023) |
+| 105 | 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | March | 2023 | [FMC Anglo America 2023](https://www.worldcubeassociation.org/competitions/FMCAngloAmerica2023), [Bay Area Speedcubin' 42 2023](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin422023) |
 | 106 | 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | June | 2024 | [Reno Side & Blind Summer 2024](https://www.worldcubeassociation.org/competitions/RenoSideBlindSummer2024), [Reno Summer 2024](https://www.worldcubeassociation.org/competitions/RenoSummer2024) |
 | 107 | 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | November | 2024 | [Cool Down Berkeley 2024](https://www.worldcubeassociation.org/competitions/CoolDownBerkeley2024), [BASC 66 - Belmont 2024](https://www.worldcubeassociation.org/competitions/BASC66Belmont2024) |
 | 108 | 2 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | September | 2024 | [BASC 64 LIVE - SSF 2024](https://www.worldcubeassociation.org/competitions/BASC64LIVESSF2024), [BASC 65 - Berkeley 2024](https://www.worldcubeassociation.org/competitions/BASC65Berkeley2024) |
