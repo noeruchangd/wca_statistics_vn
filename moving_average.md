@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 
 ### 3x3x3 Cube
@@ -414,7 +414,7 @@
 | 38 | 7.42 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 39 | 7.43 | [Nguyễn Mạnh Chí](https://www.worldcubeassociation.org/persons/2023CHIN09) |
 | 40 | 7.45 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
-| 41 | 7.55 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) |
+| 41 | 7.69 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) |
 | 42 | 7.70 | [Lưu Đăng Nguyên](https://www.worldcubeassociation.org/persons/2023NGUY39) |
 | 43 | 7.74 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) |
 | 44 | 7.86 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |

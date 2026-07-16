@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 
 ### 3x3x3 Cube
@@ -115,8 +115,8 @@
 | ---: | ---: | :--- |
 | 1 | 10 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
 | 2 | 4 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
-| 3 | 3 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
-| 4 | 3 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
+| 3 | 3 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
+| 4 | 3 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
 | 5 | 3 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
 | 6 | 3 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
 | 7 | 3 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) |
@@ -248,8 +248,8 @@
 | 6 | 2 | [Hồ Quang Tiến](https://www.worldcubeassociation.org/persons/2023TIEN01) |
 | 7 | 1 | [Anh H. Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY44) |
 | 8 | 1 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
-| 9 | 1 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
-| 10 | 1 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) |
+| 9 | 1 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) |
+| 10 | 1 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
 
 ### 3x3x3 With Feet
 

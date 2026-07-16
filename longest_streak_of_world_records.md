@@ -1,7 +1,7 @@
 ## Longest streak of world records of the same type in the given event
 
 *Note: There is currently no Vietnamese WR holder or former WR holder.*
-*Updated on 13 July 2026*
+*Updated on 16 July 2026*
 
 | # | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
