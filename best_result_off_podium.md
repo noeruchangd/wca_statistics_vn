@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Vietnamese competitions are taken into account.*
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 
 ### 3x3x3 Cube
@@ -256,7 +256,7 @@
 | 6 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) | **11/16 1:00:00** |  | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023/results/all#e333mbf_f) | 6 |
 | 7 | [Akatsuki Kitamura (北村曉)](https://www.worldcubeassociation.org/persons/2017KITA01) | **6/7 50:08** |  | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024/results/all#e333mbf_f) | 7 |
 | 8 | [Aolin Tang (唐奥林)](https://www.worldcubeassociation.org/persons/2017TANG19) | **5/6 49:51** |  | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333mbf_f) | 4 |
-| 9 | [Jacob Keh Zheng Xing (郭正兴)](https://www.worldcubeassociation.org/persons/2023XING02) | **10/16 55:34** |  | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333mbf_f) | 5 |
+| 9 | [Jacob Keh (郭正兴)](https://www.worldcubeassociation.org/persons/2023XING02) | **10/16 55:34** |  | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333mbf_f) | 5 |
 | 10 | [Eng Dickson (黄迪胜)](https://www.worldcubeassociation.org/persons/2016DICK03) | **8/12 58:33** |  | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023/results/all#e333mbf_f) | 4 |
 
 

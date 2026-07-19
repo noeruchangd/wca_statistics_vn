@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
@@ -25,7 +25,7 @@
 | 19 | 8 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) |
 | 20 | 8 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) |
 | 21 | 8 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
-| 22 | 7 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) |
+| 22 | 8 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) |
 | 23 | 6 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) |
 | 24 | 6 | [Minh Huynh](https://www.worldcubeassociation.org/persons/2023HUYN06) |
 | 25 | 5 | [Alex Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY04) |

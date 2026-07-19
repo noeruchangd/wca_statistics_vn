@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
@@ -158,7 +158,7 @@
 | 151 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) | 747 km |
 | 152 | [Đỗ Phương Thảo](https://www.worldcubeassociation.org/persons/2023THAO01) | 746 km |
 | 153 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 744 km |
-| 154 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) | 642 km |
+| 154 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) | 645 km |
 | 155 | [Phạm Thuý Huyền](https://www.worldcubeassociation.org/persons/2018HUYE01) | 624 km |
 | 156 | [Kiều Gia Thịnh](https://www.worldcubeassociation.org/persons/2018THIN02) | 620 km |
 | 157 | [Lưu Vũ Thái Linh](https://www.worldcubeassociation.org/persons/2018LINH11) | 614 km |

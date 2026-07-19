@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 16 July 2026*
+*Updated on 19 July 2026*
 
 | # | Count | Person | Event | Started at | Ended at |
 | ---: | ---: | :--- | :--- | :--- | :--- |
@@ -63,10 +63,10 @@
 | 56 | 4 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 3x3x3 Cube | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010) | [Wiscube 2016](https://www.worldcubeassociation.org/competitions/Wiscube2016) |
 | 57 | 4 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 4x4x4 Cube | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010) | [Cubetcha 2016](https://www.worldcubeassociation.org/competitions/Cubetcha2016) |
 | 58 | 4 | [Thanh Tuyen Nguyen](https://www.worldcubeassociation.org/persons/2010NGUY19) | 3x3x3 Blindfolded | [Ho Chi Minh City 2011](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2011) |  |
-| 59 | 4 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 6x6x6 Cube | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) |  |
-| 60 | 4 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 7x7x7 Cube | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) |  |
-| 61 | 4 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 4x4x4 Cube | [Ha Noi Cube Day 2014](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2014) |  |
-| 62 | 4 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | 6x6x6 Cube | [Ha Noi Cube Day 2014](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2014) | [Ha Noi Cube Day 2019](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2019) |
+| 59 | 4 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | 6x6x6 Cube | [Ha Noi Cube Day 2014](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2014) | [Ha Noi Cube Day 2019](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2019) |
+| 60 | 4 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 6x6x6 Cube | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) |  |
+| 61 | 4 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 7x7x7 Cube | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) |  |
+| 62 | 4 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 4x4x4 Cube | [Ha Noi Cube Day 2014](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2014) |  |
 | 63 | 4 | [Nguyễn Quang Trung](https://www.worldcubeassociation.org/persons/2011NGUY10) | 4x4x4 Cube | [Ha Noi Cube Day 2014](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2014) |  |
 | 64 | 4 | [Nguyễn Tấn Hưng](https://www.worldcubeassociation.org/persons/2011HANG01) | 3x3x3 Cube | [Ho Chi Minh 2013](https://www.worldcubeassociation.org/competitions/HoChiMinh2013) | [HCMC Summer Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSummerOpen2016) |
 | 65 | 4 | [Nghiêm Tuấn Hào](https://www.worldcubeassociation.org/persons/2012HAON01) | Pyraminx | [Ho Chi Minh 2012](https://www.worldcubeassociation.org/competitions/HoChiMinh2012) | [HCMC Spring Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSpringOpen2016) |
@@ -85,14 +85,14 @@
 | 78 | 4 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | Megaminx | [Pride in Long Beach 2023](https://www.worldcubeassociation.org/competitions/PrideInLongBeach2023) | [Fullerton Winter 2024](https://www.worldcubeassociation.org/competitions/FullertonWinter2024) |
 | 79 | 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 3x3x3 Cube | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019) |
 | 80 | 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 3x3x3 Cube | [Paradise Park NxNxN 2024](https://www.worldcubeassociation.org/competitions/ParadiseParkNxNxN2024) | [Malaysia Cube Championship 2024](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2024) |
-| 81 | 4 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 7x7x7 Cube | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
-| 82 | 4 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 7x7x7 Cube | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 81 | 4 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 7x7x7 Cube | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 82 | 4 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 7x7x7 Cube | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
 | 83 | 4 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 7x7x7 Cube | [Ha Noi Cube Day 2019](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2019) | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
 | 84 | 4 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 6x6x6 Cube | [Ha Noi Cube Day 2019](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2019) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 85 | 4 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 3x3x3 Cube | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
 | 86 | 4 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | Clock | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |  |
-| 87 | 4 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 2x2x2 Cube | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |  |
-| 88 | 4 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 3x3x3 One-Handed | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) |  |
+| 87 | 4 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 3x3x3 One-Handed | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) |  |
+| 88 | 4 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 2x2x2 Cube | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |  |
 | 89 | 4 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | Clock | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |  |
 | 90 | 4 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 3x3x3 One-Handed | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
 | 91 | 3 | [Tran Minh Tuyen](https://www.worldcubeassociation.org/persons/2010TUYE01) | 3x3x3 Blindfolded | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010) | [Ho Chi Minh Cubic 2014](https://www.worldcubeassociation.org/competitions/HoChiMinhCubic2014) |
