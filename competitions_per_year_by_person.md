@@ -4,102 +4,102 @@
 
 | # | Competitions per year | Competitions | Years | Person |
 | ---: | ---: | ---: | ---: | :--- |
-| 1 | 10.41 | 41 | 3.94 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
-| 2 | 6.82 | 24 | 3.52 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
-| 3 | 6.15 | 74 | 12.03 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) |
-| 4 | 5.52 | 23 | 4.17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) |
-| 5 | 4.70 | 16 | 3.41 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
-| 6 | 4.63 | 10 | 2.16 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) |
+| 1 | 10.40 | 41 | 3.94 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
+| 2 | 6.81 | 24 | 3.52 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
+| 3 | 6.15 | 74 | 12.04 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) |
+| 4 | 5.51 | 23 | 4.17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) |
+| 5 | 4.69 | 16 | 3.41 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
+| 6 | 4.62 | 10 | 2.16 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) |
 | 7 | 4.59 | 32 | 6.98 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 8 | 4.48 | 18 | 4.02 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
 | 9 | 4.42 | 11 | 2.49 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) |
 | 10 | 4.23 | 17 | 4.02 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
 | 11 | 4.15 | 10 | 2.41 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) |
 | 12 | 3.98 | 8 | 2.01 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) |
-| 13 | 3.93 | 37 | 9.42 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
-| 14 | 3.86 | 31 | 8.02 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
+| 13 | 3.93 | 37 | 9.43 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
+| 14 | 3.86 | 31 | 8.03 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
 | 15 | 3.73 | 15 | 4.02 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) |
 | 16 | 3.62 | 9 | 2.49 | [Vũ Đức Minh](https://www.worldcubeassociation.org/persons/2024MINH02) |
-| 17 | 3.31 | 5 | 1.51 | [Alex Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY04) |
+| 17 | 3.30 | 5 | 1.51 | [Alex Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY04) |
 | 18 | 3.28 | 14 | 4.27 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) |
 | 19 | 3.23 | 13 | 4.02 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
-| 20 | 3.23 | 4 | 1.24 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) |
-| 21 | 3.22 | 8 | 2.49 | [Đào Sơn Tùng](https://www.worldcubeassociation.org/persons/2024TUNG01) |
-| 22 | 3.12 | 5 | 1.60 | [Trần Nguyên Bách](https://www.worldcubeassociation.org/persons/2024BACH11) |
+| 20 | 3.22 | 4 | 1.24 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) |
+| 21 | 3.21 | 8 | 2.49 | [Đào Sơn Tùng](https://www.worldcubeassociation.org/persons/2024TUNG01) |
+| 22 | 3.11 | 5 | 1.61 | [Trần Nguyên Bách](https://www.worldcubeassociation.org/persons/2024BACH11) |
 | 23 | 3.08 | 6 | 1.95 | [Lê Việt Lâm](https://www.worldcubeassociation.org/persons/2024LAML02) |
-| 24 | 3.04 | 4 | 1.31 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) |
-| 25 | 3.01 | 24 | 7.96 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) |
+| 24 | 3.04 | 4 | 1.32 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) |
+| 25 | 3.01 | 24 | 7.97 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) |
 | 26 | 3.00 | 7 | 2.33 | [Hồ Thiện Minh](https://www.worldcubeassociation.org/persons/2024MINH05) |
 | 27 | 3.00 | 7 | 2.33 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) |
 | 28 | 2.99 | 12 | 4.02 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
 | 29 | 2.99 | 12 | 4.02 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
-| 30 | 2.99 | 12 | 4.02 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) |
-| 31 | 2.99 | 12 | 4.02 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) |
+| 30 | 2.98 | 12 | 4.02 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) |
+| 31 | 2.98 | 12 | 4.02 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) |
 | 32 | 2.90 | 19 | 6.55 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
 | 33 | 2.89 | 28 | 9.69 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) |
-| 34 | 2.89 | 23 | 7.96 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
-| 35 | 2.87 | 23 | 8.00 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) |
-| 36 | 2.78 | 6 | 2.16 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) |
+| 34 | 2.89 | 23 | 7.97 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
+| 35 | 2.87 | 23 | 8.01 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) |
+| 36 | 2.77 | 6 | 2.16 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) |
 | 37 | 2.74 | 11 | 4.02 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) |
 | 38 | 2.74 | 11 | 4.02 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) |
-| 39 | 2.73 | 5 | 1.83 | [Trần Lương Khai Trí](https://www.worldcubeassociation.org/persons/2024TRIT01) |
-| 40 | 2.73 | 5 | 1.83 | [Phạm Thái Bảo](https://www.worldcubeassociation.org/persons/2024BAOP02) |
-| 41 | 2.73 | 5 | 1.83 | [Nguyễn Việt Thành](https://www.worldcubeassociation.org/persons/2024THAN09) |
-| 42 | 2.73 | 5 | 1.83 | [Nguyễn Trần Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2024HIEU04) |
-| 43 | 2.73 | 5 | 1.83 | [Lê Hưng Long](https://www.worldcubeassociation.org/persons/2024LONG18) |
-| 44 | 2.71 | 10 | 3.69 | [Dang Tran](https://www.worldcubeassociation.org/persons/2022TRAN27) |
-| 45 | 2.67 | 20 | 7.50 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 39 | 2.72 | 5 | 1.84 | [Trần Lương Khai Trí](https://www.worldcubeassociation.org/persons/2024TRIT01) |
+| 40 | 2.72 | 5 | 1.84 | [Phạm Thái Bảo](https://www.worldcubeassociation.org/persons/2024BAOP02) |
+| 41 | 2.72 | 5 | 1.84 | [Nguyễn Việt Thành](https://www.worldcubeassociation.org/persons/2024THAN09) |
+| 42 | 2.72 | 5 | 1.84 | [Nguyễn Trần Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2024HIEU04) |
+| 43 | 2.72 | 5 | 1.84 | [Lê Hưng Long](https://www.worldcubeassociation.org/persons/2024LONG18) |
+| 44 | 2.71 | 10 | 3.70 | [Dang Tran](https://www.worldcubeassociation.org/persons/2022TRAN27) |
+| 45 | 2.66 | 20 | 7.51 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
 | 46 | 2.64 | 8 | 3.03 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) |
 | 47 | 2.64 | 8 | 3.03 | [Lý Bảo Lâm](https://www.worldcubeassociation.org/persons/2023LAML04) |
 | 48 | 2.64 | 8 | 3.03 | [Trương Anh Đức](https://www.worldcubeassociation.org/persons/2023DUCT01) |
-| 49 | 2.64 | 21 | 7.96 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
-| 50 | 2.62 | 6 | 2.29 | [Trần Mỹ Ngọc](https://www.worldcubeassociation.org/persons/2024NGOC01) |
-| 51 | 2.62 | 6 | 2.29 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) |
-| 52 | 2.60 | 10 | 3.84 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) |
-| 53 | 2.50 | 4 | 1.60 | [Lã Ngọc Minh Đức](https://www.worldcubeassociation.org/persons/2024DUCL04) |
-| 54 | 2.49 | 4 | 1.60 | [Nguyễn Hoàng Minh Khôi](https://www.worldcubeassociation.org/persons/2024KHOI06) |
+| 49 | 2.64 | 21 | 7.97 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
+| 50 | 2.61 | 6 | 2.30 | [Trần Mỹ Ngọc](https://www.worldcubeassociation.org/persons/2024NGOC01) |
+| 51 | 2.61 | 6 | 2.30 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) |
+| 52 | 2.60 | 10 | 3.85 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) |
+| 53 | 2.49 | 4 | 1.60 | [Lã Ngọc Minh Đức](https://www.worldcubeassociation.org/persons/2024DUCL04) |
+| 54 | 2.49 | 4 | 1.61 | [Nguyễn Hoàng Minh Khôi](https://www.worldcubeassociation.org/persons/2024KHOI06) |
 | 55 | 2.49 | 10 | 4.02 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
 | 56 | 2.49 | 10 | 4.02 | [Nguyễn Lê Hoàng](https://www.worldcubeassociation.org/persons/2022HOAN02) |
-| 57 | 2.49 | 5 | 2.01 | [Vũ Phúc Hưng](https://www.worldcubeassociation.org/persons/2024HUNG08) |
-| 58 | 2.49 | 5 | 2.01 | [Vũ Phúc Bảo Long](https://www.worldcubeassociation.org/persons/2024LONG11) |
+| 57 | 2.48 | 5 | 2.01 | [Vũ Phúc Hưng](https://www.worldcubeassociation.org/persons/2024HUNG08) |
+| 58 | 2.48 | 5 | 2.01 | [Vũ Phúc Bảo Long](https://www.worldcubeassociation.org/persons/2024LONG11) |
 | 59 | 2.46 | 9 | 3.66 | [Phạm Huy Phúc](https://www.worldcubeassociation.org/persons/2022PHUC12) |
 | 60 | 2.46 | 9 | 3.66 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) |
 | 61 | 2.46 | 9 | 3.66 | [Nguyễn Công Vinh](https://www.worldcubeassociation.org/persons/2022VINH05) |
 | 62 | 2.45 | 27 | 11.03 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
-| 63 | 2.42 | 3 | 1.24 | [Phí Việt Khoa](https://www.worldcubeassociation.org/persons/2025KHOA01) |
-| 64 | 2.42 | 3 | 1.24 | [Phan Hà Chi](https://www.worldcubeassociation.org/persons/2025CHIP02) |
-| 65 | 2.42 | 3 | 1.24 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) |
+| 63 | 2.41 | 3 | 1.24 | [Phí Việt Khoa](https://www.worldcubeassociation.org/persons/2025KHOA01) |
+| 64 | 2.41 | 3 | 1.24 | [Phan Hà Chi](https://www.worldcubeassociation.org/persons/2025CHIP02) |
+| 65 | 2.41 | 3 | 1.24 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) |
 | 66 | 2.41 | 6 | 2.49 | [Bùi Tiến Thịnh](https://www.worldcubeassociation.org/persons/2024THIN01) |
 | 67 | 2.41 | 6 | 2.49 | [Phan Minh Việt](https://www.worldcubeassociation.org/persons/2024VIET01) |
 | 68 | 2.35 | 8 | 3.41 | [Đào Viết Trọng Khánh](https://www.worldcubeassociation.org/persons/2023KHAN11) |
 | 69 | 2.35 | 8 | 3.41 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) |
 | 70 | 2.35 | 8 | 3.41 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) |
-| 71 | 2.35 | 3 | 1.28 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) |
-| 72 | 2.35 | 3 | 1.28 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) |
-| 73 | 2.33 | 7 | 3.00 | [Lê Thái Dương](https://www.worldcubeassociation.org/persons/2023DUON08) |
+| 71 | 2.34 | 3 | 1.28 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) |
+| 72 | 2.34 | 3 | 1.28 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) |
+| 73 | 2.33 | 7 | 3.01 | [Lê Thái Dương](https://www.worldcubeassociation.org/persons/2023DUON08) |
 | 74 | 2.31 | 7 | 3.03 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
-| 75 | 2.28 | 23 | 10.09 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |
-| 76 | 2.27 | 17 | 7.50 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) |
+| 75 | 2.28 | 23 | 10.10 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |
+| 76 | 2.26 | 17 | 7.51 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) |
 | 77 | 2.24 | 9 | 4.02 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2022DUCN02) |
 | 78 | 2.24 | 9 | 4.02 | [Trần Hoàng Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMT03) |
 | 79 | 2.24 | 9 | 4.02 | [Đinh Hữu Phúc](https://www.worldcubeassociation.org/persons/2022PHUC01) |
 | 80 | 2.24 | 9 | 4.02 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) |
 | 81 | 2.24 | 9 | 4.02 | [Nguyễn Anh Hào](https://www.worldcubeassociation.org/persons/2022HAON02) |
-| 82 | 2.19 | 27 | 12.31 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
+| 82 | 2.19 | 27 | 12.32 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
 | 83 | 2.19 | 8 | 3.66 | [Nguyễn Thế Lâm](https://www.worldcubeassociation.org/persons/2022LAMN03) |
-| 84 | 2.18 | 4 | 1.83 | [Trần Minh Thiên Lý](https://www.worldcubeassociation.org/persons/2024LYTR01) |
-| 85 | 2.18 | 4 | 1.83 | [Phan Trần Phương Thiên](https://www.worldcubeassociation.org/persons/2024THIE04) |
-| 86 | 2.18 | 4 | 1.83 | [Kha Võ Nguyễn Hoàng](https://www.worldcubeassociation.org/persons/2024HOAN10) |
-| 87 | 2.18 | 4 | 1.83 | [Đỗ Ngọc Thanh Trúc](https://www.worldcubeassociation.org/persons/2024TRUC01) |
-| 88 | 2.18 | 5 | 2.29 | [Lê Hoàng Duy](https://www.worldcubeassociation.org/persons/2024DUYL01) |
+| 84 | 2.18 | 4 | 1.84 | [Trần Minh Thiên Lý](https://www.worldcubeassociation.org/persons/2024LYTR01) |
+| 85 | 2.18 | 4 | 1.84 | [Phan Trần Phương Thiên](https://www.worldcubeassociation.org/persons/2024THIE04) |
+| 86 | 2.18 | 4 | 1.84 | [Kha Võ Nguyễn Hoàng](https://www.worldcubeassociation.org/persons/2024HOAN10) |
+| 87 | 2.18 | 4 | 1.84 | [Đỗ Ngọc Thanh Trúc](https://www.worldcubeassociation.org/persons/2024TRUC01) |
+| 88 | 2.18 | 5 | 2.30 | [Lê Hoàng Duy](https://www.worldcubeassociation.org/persons/2024DUYL01) |
 | 89 | 2.15 | 15 | 6.97 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) |
-| 90 | 2.15 | 5 | 2.33 | [Nguyễn Phước Bảo Châu](https://www.worldcubeassociation.org/persons/2024CHAU05) |
+| 90 | 2.14 | 5 | 2.33 | [Nguyễn Phước Bảo Châu](https://www.worldcubeassociation.org/persons/2024CHAU05) |
 | 91 | 2.14 | 14 | 6.55 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
 | 92 | 2.14 | 14 | 6.55 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) |
-| 93 | 2.13 | 17 | 7.96 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) |
-| 94 | 2.06 | 7 | 3.41 | [Hồ Quang Tiến](https://www.worldcubeassociation.org/persons/2023TIEN01) |
-| 95 | 2.06 | 7 | 3.41 | [Nguyễn Đức Minh](https://www.worldcubeassociation.org/persons/2023MINH09) |
-| 96 | 2.06 | 7 | 3.41 | [Nguyễn Lê An Hoàng](https://www.worldcubeassociation.org/persons/2023HOAN03) |
+| 93 | 2.13 | 17 | 7.97 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) |
+| 94 | 2.05 | 7 | 3.41 | [Hồ Quang Tiến](https://www.worldcubeassociation.org/persons/2023TIEN01) |
+| 95 | 2.05 | 7 | 3.41 | [Nguyễn Đức Minh](https://www.worldcubeassociation.org/persons/2023MINH09) |
+| 96 | 2.05 | 7 | 3.41 | [Nguyễn Lê An Hoàng](https://www.worldcubeassociation.org/persons/2023HOAN03) |
 | 97 | 2.02 | 18 | 8.93 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) |
 | 98 | 2.01 | 5 | 2.49 | [Minh Pham](https://www.worldcubeassociation.org/persons/2024PHAM01) |
 | 99 | 2.01 | 5 | 2.49 | [Vũ Hoàng Nhật Minh](https://www.worldcubeassociation.org/persons/2024MINH03) |
