@@ -1,6 +1,6 @@
 ## Longest competitions in Vietnam
 
-*Updated on 22 July 2026*
+*Updated on 25 July 2026*
 
 | # | Days | Competition |
 | ---: | ---: | :--- |
