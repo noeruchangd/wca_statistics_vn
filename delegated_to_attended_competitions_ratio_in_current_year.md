@@ -1,6 +1,6 @@
 ## Delegated to attended competition ratio in the current year (Vietnam)
 
-*Updated on 25 July 2026*
+*Updated on 28 July 2026*
 
 | # | Delegated | Attended | Ratio | Person | List on WCA |
 | ---: | ---: | ---: | ---: | :--- | :--: |
