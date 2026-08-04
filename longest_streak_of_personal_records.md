@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  1 August 2026*
+*Updated on  4 August 2026*
 
 | # | Competitions | Person | Started at | Ended at |
 | ---: | ---: | :--- | :--- | :--- |
