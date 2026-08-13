@@ -1,32 +1,32 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 
 ### 3x3x3 Blindfolded
 
 | # | Attempts | Person |
 | ---: | ---: | :--- |
-| 1 | 8 | [Nguyễn Tấn Hưng](https://www.worldcubeassociation.org/persons/2011HANG01) |
-| 2 | 7 | [Dương Minh Nguyên](https://www.worldcubeassociation.org/persons/2018NGUY33) |
-| 3 | 5 | [Trần Sơn Tùng](https://www.worldcubeassociation.org/persons/2010TRAN13) |
-| 4 | 5 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 5 | 5 | [Bùi Hữu Tuệ Minh](https://www.worldcubeassociation.org/persons/2023MINH01) |
-| 6 | 5 | [Nguyễn Khoa Bằng](https://www.worldcubeassociation.org/persons/2020BANG04) |
-| 7 | 4 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) |
-| 8 | 4 | [Nguyễn Hữu Hoàng Sơn](https://www.worldcubeassociation.org/persons/2012SANN01) |
-| 9 | 4 | [Ngô Tùng Dương](https://www.worldcubeassociation.org/persons/2015DUON01) |
-| 10 | 4 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) |
-| 11 | 3 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) |
-| 12 | 3 | [Lê Thái Duy](https://www.worldcubeassociation.org/persons/2016DUYL01) |
-| 13 | 3 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
-| 14 | 3 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
-| 15 | 3 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
-| 16 | 2 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) |
-| 17 | 2 | [Huy Hoang Do](https://www.worldcubeassociation.org/persons/2010DOHU01) |
-| 18 | 2 | [Tran Minh Tuyen](https://www.worldcubeassociation.org/persons/2010TUYE01) |
-| 19 | 2 | [Nguyễn Duy Cương](https://www.worldcubeassociation.org/persons/2010NGUY26) |
-| 20 | 2 | [Nguyễn Quang Trung](https://www.worldcubeassociation.org/persons/2011NGUY10) |
+| 1 | 14 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
+| 2 | 8 | [Nguyễn Tấn Hưng](https://www.worldcubeassociation.org/persons/2011HANG01) |
+| 3 | 7 | [Dương Minh Nguyên](https://www.worldcubeassociation.org/persons/2018NGUY33) |
+| 4 | 5 | [Trần Sơn Tùng](https://www.worldcubeassociation.org/persons/2010TRAN13) |
+| 5 | 5 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 6 | 5 | [Bùi Hữu Tuệ Minh](https://www.worldcubeassociation.org/persons/2023MINH01) |
+| 7 | 5 | [Nguyễn Khoa Bằng](https://www.worldcubeassociation.org/persons/2020BANG04) |
+| 8 | 4 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) |
+| 9 | 4 | [Nguyễn Hữu Hoàng Sơn](https://www.worldcubeassociation.org/persons/2012SANN01) |
+| 10 | 4 | [Ngô Tùng Dương](https://www.worldcubeassociation.org/persons/2015DUON01) |
+| 11 | 4 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) |
+| 12 | 3 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) |
+| 13 | 3 | [Lê Thái Duy](https://www.worldcubeassociation.org/persons/2016DUYL01) |
+| 14 | 3 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
+| 15 | 3 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
+| 16 | 3 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
+| 17 | 2 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) |
+| 18 | 2 | [Huy Hoang Do](https://www.worldcubeassociation.org/persons/2010DOHU01) |
+| 19 | 2 | [Tran Minh Tuyen](https://www.worldcubeassociation.org/persons/2010TUYE01) |
+| 20 | 2 | [Nguyễn Duy Cương](https://www.worldcubeassociation.org/persons/2010NGUY26) |
 
 ### 4x4x4 Blindfolded
 

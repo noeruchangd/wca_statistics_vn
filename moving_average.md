@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 August 2026*
+*Updated on 13 August 2026*
 
 
 ### 3x3x3 Cube
@@ -367,8 +367,9 @@
 | 16 | 1:30.84 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 17 | 1:30.98 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) |
 | 18 | 1:37.63 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
-| 19 | 1:51.74 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
-| 20 | 2:13.17 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) |
+| 19 | 1:38.89 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
+| 20 | 1:51.74 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
+| 21 | 2:13.17 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) |
 
 ### Pyraminx
 
@@ -448,8 +449,8 @@
 | 17 | 10.63 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
 | 18 | 10.70 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
 | 19 | 11.14 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) |
-| 20 | 12.04 | [Đào Sơn Tùng](https://www.worldcubeassociation.org/persons/2024TUNG01) |
-| 21 | 12.19 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
+| 20 | 11.45 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
+| 21 | 12.04 | [Đào Sơn Tùng](https://www.worldcubeassociation.org/persons/2024TUNG01) |
 | 22 | 12.34 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 23 | 12.83 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
 | 24 | 13.56 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) |
