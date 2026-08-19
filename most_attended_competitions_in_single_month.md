@@ -1,6 +1,6 @@
 ## Most attended competitions in a single month
 
-*Updated on 16 August 2026*
+*Updated on 19 August 2026*
 
 | # | Competitions | Person | Month | Year | List |
 | ---: | ---: | :--- | :--- | :--- | :--- |
