@@ -4,206 +4,206 @@
 
 | # | Person | SoR | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 444bf | 555bf | 333bf | 333fm | 333mbf |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 126 | 5 | 3 | 1 | 1 | 1 | 1 | 5 | 3 | 1 | 5 | 36 | 33 | 2 | 4 | 1 | 14 | 10 |
-| 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 337 | 15 | 1 | 34 | 26 | 18 | 21 | 41 | 30 | 30 | 18 | 35 | 25 | 7 | 4 | 18 | 2 | 12 |
-| 3 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 353 | 5 | 8 | 14 | 2 | 12 | 18 | 2 | 76 | 5 | 17 | 7 | 29 | 10 | 4 | 99 | 27 | 18 |
-| 4 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 358 | 4 | 6 | 4 | 11 | 16 | 19 | 11 | 6 | 11 | 21 | 17 | 36 | 10 | 4 | 99 | 65 | 18 |
-| 5 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 391 | 15 | 9 | 3 | 5 | 3 | 5 | 36 | 34 | 14 | 35 | 25 | 144 | 10 | 4 | 15 | 16 | 18 |
-| 6 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 420 | 1 | 49 | 12 | 13 | 8 | 6 | 14 | 12 | 27 | 55 | 9 | 100 | 10 | 4 | 70 | 12 | 18 |
-| 7 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | 526 | 66 | 4 | 143 | 41 | 39 | 33 | 89 | 11 | 26 | 7 | 10 | 23 | 3 | 4 | 11 | 7 | 9 |
-| 8 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | 532 | 30 | 37 | 31 | 30 | 13 | 20 | 34 | 53 | 41 | 18 | 8 | 21 | 10 | 4 | 99 | 65 | 18 |
-| 9 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 571 | 29 | 14 | 20 | 28 | 32 | 27 | 6 | 152 | 31 | 21 | 3 | 54 | 10 | 4 | 99 | 23 | 18 |
-| 10 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | 597 | 63 | 39 | 58 | 75 | 65 | 60 | 70 | 7 | 29 | 12 | 22 | 40 | 10 | 4 | 30 | 5 | 8 |
-| 11 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | 660 | 27 | 33 | 15 | 25 | 17 | 29 | 30 | 152 | 23 | 29 | 11 | 82 | 10 | 4 | 99 | 56 | 18 |
-| 12 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 803 | 74 | 1 | 88 | 168 | 127 | 109 | 48 | 2 | 16 | 1 | 5 | 1 | 10 | 4 | 99 | 32 | 18 |
-| 13 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 830 | 9 | 39 | 2 | 3 | 5 | 11 | 24 | 146 | 93 | 97 | 13 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 14 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 848 | 10 | 68 | 5 | 7 | 52 | 41 | 15 | 152 | 22 | 85 | 56 | 192 | 10 | 4 | 46 | 65 | 18 |
-| 15 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 869 | 18 | 22 | 9 | 22 | 21 | 34 | 86 | 150 | 20 | 33 | 134 | 133 | 10 | 4 | 99 | 56 | 18 |
-| 16 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) | 872 | 145 | 118 | 76 | 45 | 48 | 39 | 119 | 9 | 13 | 25 | 33 | 6 | 10 | 4 | 99 | 65 | 18 |
-| 17 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 877 | 19 | 236 | 30 | 10 | 15 | 12 | 43 | 89 | 38 | 32 | 36 | 121 | 10 | 4 | 99 | 65 | 18 |
-| 18 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) | 911 | 99 | 49 | 63 | 98 | 36 | 51 | 69 | 21 | 83 | 137 | 18 | 93 | 10 | 4 | 25 | 37 | 18 |
-| 19 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) | 932 | 36 | 25 | 6 | 23 | 33 | 133 | 12 | 152 | 49 | 94 | 142 | 31 | 10 | 4 | 99 | 65 | 18 |
-| 20 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | 953 | 42 | 67 | 31 | 97 | 141 | 133 | 23 | 52 | 193 | 6 | 27 | 9 | 10 | 4 | 35 | 65 | 18 |
-| 21 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) | 993 | 35 | 10 | 61 | 69 | 30 | 40 | 17 | 82 | 109 | 75 | 77 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 22 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 1103 | 13 | 36 | 11 | 14 | 35 | 133 | 19 | 152 | 36 | 16 | 250 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 23 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 1158 | 147 | 408 | 19 | 16 | 6 | 15 | 179 | 68 | 17 | 72 | 1 | 95 | 10 | 4 | 42 | 41 | 18 |
-| 24 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 1164 | 53 | 42 | 98 | 125 | 76 | 100 | 51 | 152 | 56 | 44 | 115 | 56 | 10 | 4 | 99 | 65 | 18 |
-| 25 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 1174 | 11 | 14 | 12 | 8 | 51 | 73 | 7 | 133 | 74 | 185 | 247 | 163 | 10 | 4 | 99 | 65 | 18 |
-| 26 | [Nguyễn Anh Hào](https://www.worldcubeassociation.org/persons/2022HAON02) | 1216 | 56 | 46 | 41 | 63 | 57 | 133 | 21 | 8 | 32 | 58 | 313 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 27 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 1228 | 69 | 31 | 45 | 81 | 101 | 133 | 199 | 36 | 104 | 49 | 34 | 150 | 10 | 4 | 99 | 65 | 18 |
-| 28 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 1233 | 23 | 35 | 22 | 55 | 172 | 133 | 17 | 84 | 238 | 14 | 70 | 174 | 10 | 4 | 99 | 65 | 18 |
-| 29 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) | 1238 | 52 | 59 | 18 | 18 | 172 | 133 | 35 | 152 | 9 | 15 | 187 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 30 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) | 1256 | 49 | 11 | 36 | 529 | 172 | 133 | 27 | 17 | 25 | 13 | 59 | 37 | 10 | 4 | 99 | 17 | 18 |
-| 31 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) | 1372 | 63 | 7 | 75 | 64 | 172 | 133 | 29 | 152 | 238 | 45 | 41 | 192 | 10 | 4 | 99 | 30 | 18 |
-| 32 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) | 1402 | 47 | 93 | 26 | 71 | 172 | 133 | 59 | 41 | 238 | 46 | 88 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 33 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) | 1403 | 15 | 25 | 55 | 104 | 158 | 133 | 25 | 152 | 238 | 71 | 39 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 34 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | 1415 | 244 | 32 | 215 | 225 | 118 | 102 | 46 | 49 | 106 | 93 | 56 | 20 | 10 | 4 | 56 | 21 | 18 |
-| 35 | [Nguyễn Phước Bảo Châu](https://www.worldcubeassociation.org/persons/2024CHAU05) | 1417 | 51 | 83 | 181 | 205 | 172 | 133 | 280 | 60 | 43 | 24 | 26 | 5 | 10 | 4 | 99 | 23 | 18 |
-| 36 | [Phan Trọng Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI04) | 1436 | 99 | 123 | 59 | 43 | 37 | 32 | 89 | 101 | 114 | 182 | 244 | 192 | 10 | 4 | 24 | 65 | 18 |
-| 37 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) | 1436 | 46 | 149 | 24 | 29 | 28 | 22 | 253 | 47 | 3 | 173 | 521 | 27 | 10 | 4 | 61 | 21 | 18 |
-| 38 | [Hoàng Gia Huy](https://www.worldcubeassociation.org/persons/2023HUYH01) | 1457 | 112 | 58 | 135 | 101 | 172 | 133 | 130 | 23 | 165 | 8 | 32 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 39 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) | 1500 | 130 | 17 | 211 | 135 | 70 | 72 | 382 | 59 | 86 | 94 | 82 | 39 | 10 | 4 | 64 | 27 | 18 |
-| 40 | [Nguyễn Hữu Thông](https://www.worldcubeassociation.org/persons/2017THON01) | 1527 | 82 | 39 | 21 | 42 | 172 | 133 | 72 | 152 | 238 | 112 | 76 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 41 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 1540 | 68 | 104 | 56 | 86 | 100 | 104 | 83 | 152 | 76 | 81 | 308 | 190 | 10 | 4 | 99 | 1 | 18 |
-| 42 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) | 1545 | 48 | 112 | 52 | 33 | 38 | 45 | 124 | 152 | 238 | 135 | 208 | 192 | 10 | 4 | 99 | 37 | 18 |
-| 43 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | 1553 | 28 | 18 | 10 | 6 | 14 | 10 | 16 | 152 | 238 | 152 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 44 | [Ngô Quốc Đạt](https://www.worldcubeassociation.org/persons/2022DATN01) | 1607 | 232 | 18 | 28 | 54 | 29 | 44 | 154 | 48 | 51 | 208 | 521 | 24 | 10 | 4 | 99 | 65 | 18 |
-| 45 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 1607 | 25 | 72 | 7 | 15 | 11 | 17 | 8 | 152 | 19 | 372 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 46 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 1635 | 278 | 51 | 99 | 226 | 133 | 133 | 240 | 16 | 142 | 57 | 42 | 104 | 10 | 4 | 59 | 27 | 14 |
-| 47 | [Lê Đại Vệ](https://www.worldcubeassociation.org/persons/2016VELE04) | 1651 | 183 | 189 | 90 | 57 | 53 | 24 | 193 | 152 | 124 | 67 | 131 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 48 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 1658 | 21 | 24 | 8 | 17 | 41 | 61 | 615 | 152 | 64 | 89 | 239 | 153 | 10 | 4 | 99 | 43 | 18 |
-| 49 | [Eu Yan Luong](https://www.worldcubeassociation.org/persons/2022LUON01) | 1658 | 248 | 149 | 105 | 146 | 110 | 133 | 109 | 64 | 59 | 83 | 218 | 38 | 10 | 4 | 99 | 65 | 18 |
-| 50 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 1667 | 95 | 116 | 28 | 9 | 4 | 3 | 85 | 152 | 159 | 155 | 521 | 192 | 10 | 4 | 99 | 17 | 18 |
-| 51 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) | 1674 | 74 | 137 | 27 | 36 | 22 | 25 | 13 | 152 | 141 | 194 | 521 | 192 | 10 | 4 | 43 | 65 | 18 |
-| 52 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | 1685 | 2 | 55 | 25 | 38 | 172 | 133 | 20 | 152 | 15 | 296 | 521 | 60 | 10 | 4 | 99 | 65 | 18 |
-| 53 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 1775 | 295 | 299 | 36 | 27 | 10 | 4 | 93 | 152 | 66 | 151 | 254 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 54 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2022THUY01) | 1775 | 83 | 325 | 69 | 92 | 172 | 133 | 169 | 4 | 73 | 137 | 130 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 55 | [Hoàng Đức Trí](https://www.worldcubeassociation.org/persons/2024TRIH01) | 1785 | 112 | 86 | 101 | 105 | 83 | 133 | 117 | 152 | 238 | 215 | 55 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 56 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | 1785 | 212 | 226 | 361 | 197 | 172 | 133 | 66 | 5 | 52 | 42 | 96 | 27 | 10 | 4 | 99 | 65 | 18 |
-| 57 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 1808 | 336 | 381 | 64 | 31 | 20 | 14 | 321 | 19 | 12 | 101 | 318 | 52 | 10 | 4 | 99 | 8 | 18 |
-| 58 | [Nguyễn Thế Lâm](https://www.worldcubeassociation.org/persons/2022LAMN03) | 1808 | 153 | 226 | 137 | 109 | 66 | 93 | 427 | 152 | 84 | 39 | 80 | 46 | 10 | 4 | 99 | 65 | 18 |
-| 59 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 1814 | 50 | 25 | 331 | 317 | 172 | 133 | 334 | 9 | 85 | 188 | 2 | 14 | 10 | 4 | 99 | 23 | 18 |
-| 60 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) | 1816 | 254 | 45 | 121 | 191 | 172 | 133 | 84 | 152 | 238 | 72 | 229 | 94 | 5 | 2 | 2 | 17 | 5 |
-| 61 | [Nguyễn Trần Khánh Dương](https://www.worldcubeassociation.org/persons/2016DUON02) | 1831 | 260 | 86 | 115 | 116 | 172 | 133 | 203 | 32 | 123 | 114 | 89 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 62 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2022DUCN02) | 1847 | 20 | 76 | 47 | 66 | 55 | 82 | 45 | 152 | 238 | 157 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 63 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) | 1848 | 55 | 61 | 89 | 88 | 85 | 133 | 26 | 73 | 98 | 728 | 205 | 71 | 10 | 4 | 99 | 5 | 18 |
-| 64 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 1876 | 121 | 47 | 72 | 39 | 25 | 9 | 137 | 152 | 55 | 728 | 103 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 65 | [Lê Đình Nguyên Khôi](https://www.worldcubeassociation.org/persons/2025KHOI02) | 1883 | 109 | 56 | 65 | 529 | 151 | 133 | 98 | 152 | 7 | 83 | 166 | 192 | 10 | 4 | 45 | 65 | 18 |
-| 66 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) | 1883 | 305 | 361 | 78 | 77 | 44 | 23 | 81 | 152 | 46 | 180 | 324 | 49 | 10 | 4 | 66 | 65 | 18 |
-| 67 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) | 1906 | 122 | 70 | 116 | 163 | 103 | 36 | 4 | 152 | 139 | 593 | 20 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 68 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 1952 | 179 | 254 | 169 | 58 | 40 | 55 | 214 | 152 | 129 | 301 | 163 | 42 | 10 | 4 | 99 | 65 | 18 |
-| 69 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) | 1955 | 418 | 201 | 223 | 151 | 172 | 133 | 102 | 152 | 34 | 50 | 125 | 11 | 10 | 4 | 99 | 52 | 18 |
-| 70 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 1996 | 332 | 375 | 126 | 61 | 45 | 133 | 123 | 45 | 238 | 330 | 6 | 3 | 10 | 4 | 99 | 48 | 18 |
-| 71 | [Đinh Phạm Thiên Ân](https://www.worldcubeassociation.org/persons/2022ANDI02) | 1998 | 375 | 274 | 178 | 132 | 88 | 133 | 225 | 83 | 110 | 79 | 84 | 41 | 10 | 4 | 99 | 65 | 18 |
-| 72 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | 2001 | 33 | 29 | 38 | 24 | 172 | 133 | 1 | 14 | 48 | 728 | 521 | 64 | 10 | 4 | 99 | 65 | 18 |
-| 73 | [Trần Duy Lợi](https://www.worldcubeassociation.org/persons/2017LOIT01) | 2019 | 138 | 97 | 91 | 52 | 34 | 28 | 55 | 129 | 82 | 503 | 518 | 179 | 10 | 4 | 73 | 8 | 18 |
-| 74 | [Ngô Anh Quân](https://www.worldcubeassociation.org/persons/2023QUAN08) | 2031 | 253 | 319 | 232 | 150 | 78 | 133 | 80 | 136 | 238 | 61 | 113 | 69 | 10 | 4 | 72 | 65 | 18 |
-| 75 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 2051 | 88 | 54 | 51 | 47 | 31 | 30 | 28 | 152 | 72 | 728 | 521 | 53 | 10 | 4 | 99 | 65 | 18 |
-| 76 | [Tạ Quang Dũng](https://www.worldcubeassociation.org/persons/2022DUNG05) | 2069 | 159 | 83 | 306 | 415 | 172 | 133 | 146 | 152 | 69 | 10 | 215 | 13 | 10 | 4 | 99 | 65 | 18 |
-| 77 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) | 2086 | 66 | 218 | 148 | 371 | 172 | 133 | 22 | 152 | 174 | 154 | 237 | 61 | 10 | 4 | 99 | 47 | 18 |
-| 78 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | 2127 | 174 | 251 | 281 | 321 | 172 | 133 | 92 | 152 | 63 | 2 | 98 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 79 | [Đoàn Trường Sơn](https://www.worldcubeassociation.org/persons/2015SOND02) | 2131 | 409 | 72 | 238 | 236 | 172 | 133 | 153 | 26 | 57 | 192 | 62 | 185 | 10 | 4 | 99 | 65 | 18 |
-| 80 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) | 2134 | 450 | 170 | 107 | 138 | 109 | 133 | 263 | 152 | 238 | 28 | 36 | 114 | 10 | 4 | 99 | 65 | 18 |
-| 81 | [Lê Mạnh Huy](https://www.worldcubeassociation.org/persons/2022HUYL01) | 2148 | 137 | 130 | 192 | 327 | 172 | 133 | 201 | 152 | 238 | 31 | 47 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 82 | [Nguyễn Thành Tài](https://www.worldcubeassociation.org/persons/2016TAIN01) | 2151 | 349 | 113 | 111 | 145 | 67 | 47 | 257 | 152 | 112 | 183 | 227 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 83 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 2186 | 86 | 289 | 16 | 20 | 9 | 8 | 732 | 33 | 99 | 446 | 81 | 171 | 10 | 4 | 99 | 65 | 18 |
-| 84 | [Nguyễn Việt Thành](https://www.worldcubeassociation.org/persons/2024THAN09) | 2206 | 116 | 208 | 67 | 65 | 60 | 50 | 237 | 152 | 162 | 206 | 495 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 85 | [Trương Quí Bảo](https://www.worldcubeassociation.org/persons/2019BAOT01) | 2209 | 271 | 107 | 42 | 83 | 172 | 133 | 456 | 152 | 175 | 223 | 15 | 184 | 10 | 4 | 99 | 65 | 18 |
-| 86 | [Trần Hoàng Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMT03) | 2246 | 3 | 86 | 43 | 529 | 172 | 133 | 385 | 152 | 101 | 161 | 237 | 48 | 10 | 4 | 99 | 65 | 18 |
-| 87 | [Phan Hà Vân Anh](https://www.worldcubeassociation.org/persons/2025ANHP01) | 2262 | 204 | 53 | 309 | 214 | 172 | 133 | 226 | 152 | 238 | 108 | 65 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 88 | [Kiều Gia Thịnh](https://www.worldcubeassociation.org/persons/2018THIN02) | 2278 | 167 | 179 | 160 | 91 | 80 | 71 | 232 | 152 | 238 | 297 | 223 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 89 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | 2298 | 487 | 238 | 287 | 196 | 91 | 68 | 186 | 37 | 68 | 174 | 196 | 77 | 10 | 4 | 96 | 65 | 18 |
-| 90 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) | 2302 | 287 | 446 | 108 | 324 | 138 | 133 | 78 | 152 | 102 | 82 | 301 | 7 | 10 | 4 | 52 | 65 | 13 |
-| 91 | [Vũ Hoàng Nhật Minh](https://www.worldcubeassociation.org/persons/2024MINH03) | 2324 | 267 | 381 | 164 | 251 | 172 | 133 | 128 | 152 | 33 | 205 | 50 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 92 | [Võ Nguyên Phát](https://www.worldcubeassociation.org/persons/2020PHAT02) | 2367 | 39 | 66 | 70 | 529 | 172 | 133 | 82 | 152 | 164 | 51 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 93 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) | 2379 | 92 | 137 | 499 | 456 | 172 | 133 | 106 | 152 | 238 | 62 | 14 | 122 | 10 | 4 | 99 | 65 | 18 |
-| 94 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | 2401 | 8 | 99 | 86 | 529 | 172 | 133 | 10 | 152 | 238 | 65 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 95 | [Nguyễn Khoa Điền](https://www.worldcubeassociation.org/persons/2022DIEN01) | 2433 | 31 | 167 | 60 | 192 | 172 | 133 | 3 | 152 | 238 | 728 | 169 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 96 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 2443 | 244 | 125 | 354 | 446 | 172 | 133 | 267 | 92 | 158 | 155 | 42 | 59 | 10 | 4 | 99 | 65 | 18 |
-| 97 | [Trần Hùng Xuân Thịnh](https://www.worldcubeassociation.org/persons/2016THIN01) | 2444 | 312 | 179 | 243 | 139 | 69 | 91 | 190 | 98 | 92 | 438 | 208 | 189 | 10 | 4 | 99 | 65 | 18 |
-| 98 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | 2456 | 171 | 431 | 100 | 278 | 172 | 133 | 156 | 93 | 238 | 168 | 213 | 192 | 10 | 4 | 14 | 65 | 18 |
-| 99 | [Đỗ Duy Dương](https://www.worldcubeassociation.org/persons/2019DUON06) | 2462 | 356 | 341 | 147 | 102 | 77 | 42 | 248 | 152 | 238 | 311 | 60 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 100 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | 2466 | 60 | 354 | 71 | 40 | 42 | 54 | 50 | 152 | 62 | 672 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 101 | [Đỗ Văn Bằng](https://www.worldcubeassociation.org/persons/2019BANG04) | 2470 | 54 | 533 | 179 | 71 | 54 | 84 | 53 | 152 | 238 | 279 | 385 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 102 | [Nguyễn Lê An Hoàng](https://www.worldcubeassociation.org/persons/2023HOAN03) | 2488 | 426 | 179 | 85 | 529 | 172 | 133 | 222 | 152 | 238 | 53 | 86 | 30 | 10 | 4 | 99 | 52 | 18 |
-| 103 | [Lê Phùng Nguyên Khang](https://www.worldcubeassociation.org/persons/2023KHAN41) | 2493 | 97 | 135 | 103 | 74 | 172 | 133 | 75 | 61 | 6 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 104 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 2507 | 346 | 157 | 273 | 211 | 172 | 133 | 116 | 152 | 211 | 238 | 175 | 192 | 10 | 4 | 34 | 65 | 18 |
-| 105 | [Bùi Gia Nguyễn](https://www.worldcubeassociation.org/persons/2024NGUY28) | 2520 | 460 | 238 | 401 | 141 | 130 | 133 | 288 | 79 | 80 | 228 | 158 | 19 | 10 | 4 | 99 | 34 | 18 |
-| 106 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) | 2521 | 79 | 115 | 108 | 128 | 172 | 133 | 345 | 152 | 238 | 257 | 406 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 107 | [Phan Trần Phương Thiên](https://www.worldcubeassociation.org/persons/2024THIE04) | 2526 | 62 | 42 | 443 | 529 | 172 | 133 | 68 | 152 | 238 | 170 | 129 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 108 | [Nguyễn Phúc Thịnh](https://www.worldcubeassociation.org/persons/2015THIN01) | 2543 | 445 | 386 | 53 | 34 | 26 | 16 | 527 | 81 | 156 | 126 | 305 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 109 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 2551 | 142 | 144 | 153 | 70 | 172 | 133 | 542 | 46 | 2 | 238 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 110 | [Hoàng Vũ Kiên](https://www.worldcubeassociation.org/persons/2022KIEN01) | 2568 | 95 | 114 | 54 | 529 | 172 | 133 | 137 | 152 | 35 | 728 | 31 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 111 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 2587 | 151 | 44 | 151 | 117 | 86 | 115 | 132 | 152 | 186 | 581 | 521 | 192 | 10 | 4 | 67 | 60 | 18 |
-| 112 | [Nguyễn Ngọc Huyền Anh](https://www.worldcubeassociation.org/persons/2019ANHN03) | 2601 | 58 | 94 | 81 | 82 | 172 | 133 | 160 | 152 | 238 | 522 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 113 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | 2611 | 343 | 111 | 214 | 158 | 117 | 96 | 418 | 152 | 58 | 464 | 404 | 55 | 4 | 1 | 6 | 8 | 2 |
-| 114 | [Nguyễn Minh Phúc Hưng](https://www.worldcubeassociation.org/persons/2022HUNG09) | 2618 | 187 | 118 | 139 | 175 | 99 | 94 | 336 | 51 | 238 | 368 | 521 | 117 | 10 | 4 | 99 | 44 | 18 |
-| 115 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 2619 | 12 | 80 | 112 | 529 | 172 | 133 | 9 | 152 | 238 | 273 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 116 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2018DATN04) | 2624 | 40 | 477 | 206 | 175 | 166 | 113 | 206 | 152 | 216 | 114 | 520 | 43 | 10 | 4 | 99 | 65 | 18 |
-| 117 | [Lương Minh Xuân Bách](https://www.worldcubeassociation.org/persons/2022BACH02) | 2630 | 119 | 314 | 168 | 529 | 172 | 133 | 100 | 117 | 238 | 195 | 157 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 118 | [Huỳnh Phong Nam](https://www.worldcubeassociation.org/persons/2017NAMH03) | 2649 | 548 | 190 | 191 | 159 | 108 | 112 | 348 | 108 | 18 | 301 | 178 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 119 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 2651 | 388 | 251 | 180 | 118 | 111 | 97 | 658 | 152 | 65 | 231 | 52 | 152 | 10 | 4 | 99 | 65 | 18 |
-| 120 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 2656 | 617 | 314 | 195 | 178 | 97 | 95 | 473 | 91 | 54 | 119 | 235 | 51 | 10 | 4 | 57 | 48 | 18 |
-| 121 | [Trần Ngọc Hoàng Phúc](https://www.worldcubeassociation.org/persons/2015PHUC02) | 2664 | 463 | 240 | 263 | 185 | 145 | 133 | 134 | 152 | 238 | 104 | 219 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 122 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 2673 | 317 | 82 | 141 | 326 | 172 | 133 | 275 | 152 | 152 | 186 | 349 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 123 | [Nguyễn Quang Sáng](https://www.worldcubeassociation.org/persons/2022SANG05) | 2675 | 223 | 605 | 182 | 124 | 172 | 133 | 71 | 152 | 238 | 371 | 16 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 124 | [Phạm Hoàng Khang](https://www.worldcubeassociation.org/persons/2022KHAN32) | 2677 | 162 | 118 | 95 | 529 | 79 | 78 | 113 | 152 | 238 | 728 | 50 | 139 | 10 | 4 | 99 | 65 | 18 |
-| 125 | [Vũ Đức Minh](https://www.worldcubeassociation.org/persons/2024MINH02) | 2682 | 73 | 18 | 192 | 529 | 172 | 133 | 272 | 152 | 238 | 234 | 281 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 126 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) | 2700 | 99 | 14 | 751 | 529 | 172 | 133 | 199 | 152 | 238 | 38 | 23 | 156 | 10 | 4 | 99 | 65 | 18 |
-| 127 | [Nguyễn Vũ Năng](https://www.worldcubeassociation.org/persons/2025NANG01) | 2727 | 545 | 61 | 233 | 282 | 172 | 133 | 133 | 152 | 238 | 144 | 246 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 128 | [Nguyễn Xuân Hiển](https://www.worldcubeassociation.org/persons/2022HIEN05) | 2732 | 434 | 985 | 167 | 111 | 49 | 46 | 42 | 152 | 53 | 147 | 158 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 129 | [Trần Thanh Phong](https://www.worldcubeassociation.org/persons/2016PHON03) | 2733 | 132 | 179 | 97 | 48 | 56 | 53 | 141 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 130 | [Ninh Nguyễn Phạm Tuân](https://www.worldcubeassociation.org/persons/2018TUAN03) | 2736 | 388 | 221 | 411 | 529 | 172 | 133 | 197 | 152 | 47 | 74 | 158 | 58 | 10 | 4 | 99 | 65 | 18 |
-| 131 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | 2743 | 214 | 436 | 74 | 53 | 172 | 133 | 920 | 152 | 28 | 23 | 150 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 132 | [Nguyễn Ngọc Phương](https://www.worldcubeassociation.org/persons/2016PHUO01) | 2744 | 510 | 320 | 122 | 80 | 46 | 133 | 227 | 38 | 90 | 269 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 133 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | 2756 | 92 | 51 | 102 | 90 | 172 | 133 | 89 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 134 | [Bùi Vĩnh An Tường](https://www.worldcubeassociation.org/persons/2023TUON02) | 2757 | 88 | 116 | 62 | 122 | 172 | 133 | 37 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 135 | [Trần Quang Anh](https://www.worldcubeassociation.org/persons/2024ANHT03) | 2772 | 278 | 107 | 127 | 335 | 172 | 133 | 261 | 152 | 238 | 312 | 383 | 78 | 10 | 4 | 99 | 65 | 18 |
-| 136 | [Nguyễn Ngọc Lê Hoàng](https://www.worldcubeassociation.org/persons/2018HOAN10) | 2777 | 223 | 289 | 131 | 99 | 172 | 133 | 175 | 152 | 238 | 728 | 49 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 137 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) | 2789 | 182 | 214 | 316 | 222 | 172 | 133 | 428 | 152 | 238 | 177 | 177 | 182 | 10 | 4 | 99 | 65 | 18 |
-| 138 | [Lê Hoàng Duy](https://www.worldcubeassociation.org/persons/2024DUYL01) | 2797 | 504 | 149 | 171 | 115 | 104 | 83 | 108 | 152 | 116 | 498 | 433 | 192 | 10 | 4 | 99 | 41 | 18 |
-| 139 | [Trang Bảo Minh](https://www.worldcubeassociation.org/persons/2018MINH22) | 2849 | 24 | 38 | 119 | 529 | 172 | 133 | 40 | 152 | 238 | 632 | 384 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 140 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2018DATN03) | 2855 | 590 | 99 | 286 | 242 | 95 | 67 | 487 | 126 | 168 | 309 | 66 | 183 | 10 | 4 | 40 | 65 | 18 |
-| 141 | [La Tường Phong](https://www.worldcubeassociation.org/persons/2023PHON03) | 2856 | 138 | 162 | 246 | 529 | 172 | 133 | 305 | 15 | 148 | 99 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 142 | [Nguyễn Hồng Anh Khoa](https://www.worldcubeassociation.org/persons/2017KHOA12) | 2860 | 290 | 188 | 210 | 295 | 172 | 133 | 920 | 57 | 67 | 40 | 100 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 143 | [Lý Bảo Lâm](https://www.worldcubeassociation.org/persons/2023LAML04) | 2875 | 343 | 146 | 468 | 389 | 172 | 133 | 397 | 105 | 91 | 250 | 110 | 75 | 10 | 4 | 99 | 65 | 18 |
-| 144 | [Ngô Ngọc Long](https://www.worldcubeassociation.org/persons/2020LONG03) | 2882 | 140 | 89 | 77 | 529 | 172 | 133 | 242 | 152 | 238 | 395 | 521 | 68 | 10 | 4 | 29 | 65 | 18 |
-| 145 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | 2885 | 158 | 23 | 454 | 259 | 172 | 133 | 156 | 152 | 238 | 260 | 492 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 146 | [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) | 2888 | 77 | 29 | 183 | 286 | 172 | 133 | 46 | 152 | 238 | 728 | 521 | 127 | 10 | 4 | 99 | 65 | 18 |
-| 147 | [Đỗ Ken](https://www.worldcubeassociation.org/persons/2026KEND03) | 2906 | 90 | 452 | 312 | 529 | 172 | 133 | 202 | 152 | 238 | 35 | 284 | 111 | 10 | 4 | 99 | 65 | 18 |
-| 148 | [Trần Hà Khang](https://www.worldcubeassociation.org/persons/2017KHAN46) | 2932 | 122 | 179 | 35 | 134 | 172 | 133 | 130 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 149 | [Phạm Thái Bảo](https://www.worldcubeassociation.org/persons/2024BAOP02) | 2935 | 276 | 122 | 473 | 529 | 172 | 133 | 109 | 152 | 238 | 163 | 355 | 17 | 10 | 4 | 99 | 65 | 18 |
-| 150 | [Huỳnh Bá Tùng](https://www.worldcubeassociation.org/persons/2015TUNG01) | 2936 | 832 | 320 | 254 | 195 | 102 | 81 | 493 | 88 | 40 | 134 | 82 | 119 | 10 | 4 | 99 | 65 | 18 |
-| 151 | [Trương Gia Tuấn](https://www.worldcubeassociation.org/persons/2022TUAN03) | 2937 | 260 | 325 | 289 | 250 | 172 | 133 | 230 | 152 | 238 | 77 | 423 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 152 | [Nguyễn Quang Thái](https://www.worldcubeassociation.org/persons/2023THAI03) | 2939 | 172 | 243 | 144 | 110 | 172 | 56 | 183 | 152 | 70 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 153 | [Lê Việt Lâm](https://www.worldcubeassociation.org/persons/2024LAML02) | 2943 | 44 | 131 | 159 | 174 | 172 | 133 | 103 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 154 | [Dương Minh Nguyên](https://www.worldcubeassociation.org/persons/2018NGUY33) | 2945 | 189 | 275 | 296 | 529 | 172 | 133 | 284 | 152 | 238 | 219 | 142 | 192 | 10 | 4 | 27 | 65 | 18 |
-| 155 | [Trần Đỗ Ngọc Thiên](https://www.worldcubeassociation.org/persons/2023THIE03) | 2958 | 329 | 131 | 401 | 529 | 172 | 133 | 327 | 152 | 238 | 113 | 45 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 156 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | 2961 | 402 | 197 | 404 | 529 | 172 | 133 | 581 | 77 | 77 | 128 | 63 | 2 | 10 | 4 | 99 | 65 | 18 |
-| 157 | [Đặng Nguyên Khang](https://www.worldcubeassociation.org/persons/2018KHAN06) | 2963 | 199 | 206 | 303 | 332 | 172 | 133 | 236 | 104 | 238 | 131 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 158 | [Trần Huy Hoàng](https://www.worldcubeassociation.org/persons/2024HOAN01) | 2985 | 478 | 123 | 310 | 350 | 172 | 133 | 198 | 152 | 238 | 509 | 102 | 84 | 10 | 4 | 39 | 65 | 18 |
-| 159 | [Nguyễn Tấn Gia Nguyên](https://www.worldcubeassociation.org/persons/2022NGUY26) | 2995 | 117 | 463 | 502 | 529 | 172 | 133 | 73 | 152 | 143 | 92 | 411 | 45 | 10 | 4 | 99 | 32 | 18 |
-| 160 | [Lê Anh Tú](https://www.worldcubeassociation.org/persons/2018TULE01) | 3010 | 87 | 334 | 46 | 100 | 172 | 133 | 111 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 161 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) | 3011 | 63 | 166 | 173 | 290 | 172 | 133 | 150 | 152 | 75 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 162 | [Hoàng Khang Minh](https://www.worldcubeassociation.org/persons/2018MINH16) | 3022 | 26 | 48 | 260 | 400 | 172 | 133 | 77 | 31 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 163 | [Đào Bách Nguyên](https://www.worldcubeassociation.org/persons/2019NGUY05) | 3027 | 356 | 262 | 368 | 529 | 172 | 133 | 327 | 152 | 238 | 27 | 75 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 164 | [Nguyen Duy Long](https://www.worldcubeassociation.org/persons/2025LONG17) | 3031 | 106 | 574 | 128 | 127 | 113 | 89 | 398 | 152 | 238 | 197 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 165 | [Hoàng Nhật Minh](https://www.worldcubeassociation.org/persons/2022MINH20) | 3039 | 254 | 361 | 133 | 129 | 172 | 133 | 258 | 152 | 238 | 728 | 184 | 101 | 10 | 4 | 99 | 65 | 18 |
-| 166 | [Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2019DANG13) | 3042 | 362 | 78 | 353 | 529 | 172 | 133 | 144 | 152 | 238 | 400 | 93 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 167 | [Nguyễn Trường Giang](https://www.worldcubeassociation.org/persons/2016GIAN08) | 3045 | 98 | 154 | 370 | 273 | 172 | 133 | 241 | 115 | 238 | 568 | 295 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 168 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) | 3068 | 110 | 158 | 124 | 421 | 172 | 133 | 74 | 152 | 238 | 690 | 477 | 123 | 10 | 4 | 99 | 65 | 18 |
-| 169 | [Biện Nguyễn Vinh Hiển](https://www.worldcubeassociation.org/persons/2022HIEN01) | 3075 | 122 | 104 | 134 | 173 | 172 | 133 | 210 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 170 | [Trần Ngọc Sang](https://www.worldcubeassociation.org/persons/2022SANG07) | 3079 | 172 | 170 | 96 | 140 | 172 | 133 | 169 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 171 | [Phạm Thuý Huyền](https://www.worldcubeassociation.org/persons/2018HUYE01) | 3095 | 402 | 75 | 220 | 180 | 139 | 133 | 920 | 152 | 103 | 319 | 73 | 192 | 10 | 4 | 99 | 56 | 18 |
-| 172 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) | 3107 | 94 | 563 | 66 | 21 | 172 | 133 | 920 | 152 | 89 | 56 | 521 | 124 | 10 | 4 | 99 | 65 | 18 |
-| 173 | [Nguyễn Đức Tài](https://www.worldcubeassociation.org/persons/2018TAIN01) | 3120 | 117 | 197 | 373 | 130 | 68 | 31 | 183 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 93 | 65 | 18 |
-| 174 | [Dương Tấn Phát](https://www.worldcubeassociation.org/persons/2023PHAT01) | 3132 | 164 | 167 | 57 | 529 | 172 | 133 | 203 | 152 | 238 | 408 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 175 | [Lê Văn Tuấn](https://www.worldcubeassociation.org/persons/2018TUAN01) | 3141 | 290 | 102 | 206 | 280 | 172 | 133 | 63 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 16 | 23 | 11 |
-| 176 | [Cao Viết Tùng](https://www.worldcubeassociation.org/persons/2022TUNG01) | 3150 | 42 | 68 | 125 | 529 | 172 | 133 | 54 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 177 | [Nguyễn Quốc Bính](https://www.worldcubeassociation.org/persons/2019BINH02) | 3151 | 471 | 194 | 630 | 372 | 172 | 133 | 304 | 152 | 138 | 90 | 154 | 145 | 10 | 4 | 99 | 65 | 18 |
-| 178 | [Nguyễn Hà My](https://www.worldcubeassociation.org/persons/2020MYNG01) | 3152 | 71 | 94 | 150 | 275 | 172 | 133 | 920 | 152 | 238 | 287 | 272 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 179 | [Nguyễn Tùng Dương](https://www.worldcubeassociation.org/persons/2022DUON06) | 3163 | 360 | 56 | 204 | 529 | 172 | 133 | 101 | 152 | 238 | 728 | 118 | 176 | 10 | 4 | 99 | 65 | 18 |
-| 180 | [Phong Hoang](https://www.worldcubeassociation.org/persons/2023HOAN07) | 3174 | 134 | 425 | 248 | 252 | 172 | 133 | 168 | 152 | 238 | 343 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 181 | [Hoàng Văn Hoà](https://www.worldcubeassociation.org/persons/2022HOAH01) | 3189 | 533 | 563 | 272 | 529 | 172 | 133 | 324 | 152 | 79 | 146 | 78 | 12 | 10 | 4 | 99 | 65 | 18 |
-| 182 | [Đặng Minh Quân](https://www.worldcubeassociation.org/persons/2023QUAN05) | 3196 | 511 | 89 | 617 | 425 | 172 | 133 | 438 | 96 | 172 | 109 | 172 | 66 | 10 | 4 | 99 | 65 | 18 |
-| 183 | [Nguyễn Công Vinh](https://www.worldcubeassociation.org/persons/2022VINH05) | 3199 | 306 | 201 | 522 | 529 | 172 | 133 | 205 | 152 | 238 | 447 | 58 | 129 | 10 | 4 | 10 | 65 | 18 |
-| 184 | [Võ Đăng Quang Kiệt](https://www.worldcubeassociation.org/persons/2018KIET07) | 3202 | 309 | 649 | 73 | 60 | 172 | 133 | 155 | 152 | 238 | 728 | 145 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 185 | [Minh Huynh](https://www.worldcubeassociation.org/persons/2023HUYN06) | 3206 | 533 | 598 | 166 | 169 | 172 | 133 | 292 | 152 | 238 | 227 | 138 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 186 | [Phan Đình Huy](https://www.worldcubeassociation.org/persons/2022HUYP01) | 3221 | 594 | 316 | 190 | 182 | 172 | 105 | 353 | 119 | 87 | 455 | 260 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 187 | [Nguyễn Mạnh Chí](https://www.worldcubeassociation.org/persons/2023CHIN09) | 3224 | 450 | 455 | 466 | 529 | 172 | 133 | 352 | 152 | 150 | 20 | 63 | 86 | 10 | 4 | 99 | 65 | 18 |
-| 188 | [Nguyễn Thiên Minh](https://www.worldcubeassociation.org/persons/2022MINH12) | 3225 | 498 | 251 | 117 | 96 | 43 | 63 | 606 | 152 | 183 | 552 | 276 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 189 | [Vũ Hồng Quang](https://www.worldcubeassociation.org/persons/2020QUAN03) | 3225 | 71 | 308 | 352 | 161 | 172 | 133 | 56 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 44 | 65 | 18 |
-| 190 | [Nguyễn Trần Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2024HIEU04) | 3229 | 142 | 262 | 409 | 529 | 172 | 133 | 31 | 152 | 238 | 252 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 191 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) | 3241 | 346 | 301 | 251 | 156 | 172 | 133 | 837 | 152 | 238 | 68 | 199 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 192 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) | 3252 | 164 | 18 | 186 | 529 | 172 | 133 | 44 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 44 | 18 |
-| 193 | [Nguyễn Lê Hoài Minh](https://www.worldcubeassociation.org/persons/2022MINH08) | 3254 | 356 | 229 | 279 | 529 | 172 | 133 | 38 | 152 | 238 | 728 | 12 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 194 | [Phan Minh Việt](https://www.worldcubeassociation.org/persons/2024VIET01) | 3255 | 481 | 59 | 482 | 449 | 172 | 133 | 228 | 152 | 238 | 337 | 226 | 102 | 10 | 4 | 99 | 65 | 18 |
-| 195 | [Phạm Hữu Nguyên Khang](https://www.worldcubeassociation.org/persons/2024KHAN43) | 3261 | 155 | 167 | 39 | 529 | 172 | 133 | 39 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 196 | [Nguyễn Xuân Nhàn](https://www.worldcubeassociation.org/persons/2023NHAN03) | 3268 | 197 | 325 | 129 | 529 | 172 | 133 | 920 | 56 | 238 | 158 | 165 | 50 | 10 | 4 | 99 | 65 | 18 |
-| 197 | [Bùi Phạm Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON09) | 3269 | 187 | 34 | 441 | 529 | 172 | 133 | 329 | 152 | 238 | 145 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 198 | [Mai Bảo Minh Quân](https://www.worldcubeassociation.org/persons/2023QUAN07) | 3296 | 142 | 256 | 93 | 217 | 172 | 133 | 256 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
-| 199 | [Nguyen Quang Huy](https://www.worldcubeassociation.org/persons/2017HUYN10) | 3303 | 338 | 131 | 136 | 142 | 172 | 133 | 252 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 71 | 65 | 18 |
-| 200 | [Nguyễn Minh Nhật](https://www.worldcubeassociation.org/persons/2022NHAT04) | 3306 | 22 | 152 | 131 | 529 | 172 | 133 | 140 | 152 | 238 | 728 | 521 | 192 | 10 | 4 | 99 | 65 | 18 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 138 | 5 | 3 | 1 | 1 | 1 | 1 | 6 | 4 | 1 | 10 | 37 | 34 | 2 | 4 | 2 | 14 | 12 |
+| 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 346 | 15 | 1 | 36 | 27 | 19 | 22 | 42 | 31 | 32 | 13 | 35 | 27 | 8 | 4 | 19 | 2 | 13 |
+| 3 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 376 | 5 | 8 | 14 | 3 | 12 | 18 | 3 | 83 | 5 | 25 | 7 | 30 | 11 | 4 | 100 | 27 | 21 |
+| 4 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 382 | 4 | 6 | 6 | 13 | 16 | 20 | 12 | 6 | 14 | 29 | 17 | 38 | 11 | 4 | 100 | 65 | 21 |
+| 5 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 407 | 15 | 9 | 3 | 6 | 3 | 6 | 25 | 36 | 17 | 41 | 25 | 156 | 11 | 4 | 13 | 16 | 21 |
+| 6 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 417 | 1 | 51 | 13 | 16 | 8 | 7 | 16 | 14 | 29 | 24 | 9 | 108 | 11 | 4 | 73 | 12 | 21 |
+| 7 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | 528 | 30 | 38 | 32 | 32 | 13 | 21 | 36 | 28 | 43 | 23 | 8 | 23 | 11 | 4 | 100 | 65 | 21 |
+| 8 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 539 | 29 | 14 | 21 | 29 | 35 | 23 | 2 | 123 | 33 | 12 | 3 | 56 | 11 | 4 | 100 | 23 | 21 |
+| 9 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | 562 | 67 | 4 | 148 | 43 | 43 | 36 | 93 | 12 | 28 | 14 | 10 | 25 | 3 | 4 | 15 | 7 | 10 |
+| 10 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | 634 | 64 | 40 | 61 | 78 | 72 | 64 | 74 | 7 | 31 | 18 | 22 | 42 | 11 | 4 | 32 | 5 | 9 |
+| 11 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | 654 | 27 | 33 | 15 | 26 | 17 | 31 | 32 | 159 | 18 | 5 | 11 | 88 | 11 | 4 | 100 | 56 | 21 |
+| 12 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 760 | 76 | 1 | 93 | 104 | 129 | 117 | 46 | 3 | 11 | 6 | 5 | 1 | 11 | 4 | 100 | 32 | 21 |
+| 13 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 849 | 10 | 70 | 5 | 9 | 57 | 44 | 13 | 159 | 9 | 66 | 57 | 201 | 11 | 4 | 48 | 65 | 21 |
+| 14 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 865 | 9 | 40 | 2 | 2 | 5 | 10 | 24 | 158 | 99 | 101 | 13 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 15 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 915 | 18 | 22 | 9 | 24 | 22 | 37 | 90 | 161 | 23 | 39 | 135 | 143 | 11 | 4 | 100 | 56 | 21 |
+| 16 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) | 926 | 151 | 125 | 81 | 47 | 54 | 42 | 126 | 10 | 16 | 32 | 33 | 8 | 11 | 4 | 100 | 65 | 21 |
+| 17 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 928 | 19 | 249 | 31 | 12 | 15 | 13 | 45 | 97 | 40 | 38 | 37 | 131 | 11 | 4 | 100 | 65 | 21 |
+| 18 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) | 962 | 103 | 51 | 68 | 100 | 39 | 56 | 73 | 22 | 87 | 143 | 18 | 103 | 11 | 4 | 26 | 37 | 21 |
+| 19 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) | 965 | 36 | 25 | 7 | 25 | 36 | 139 | 14 | 159 | 50 | 98 | 143 | 32 | 11 | 4 | 100 | 65 | 21 |
+| 20 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | 992 | 43 | 69 | 32 | 99 | 148 | 139 | 23 | 55 | 207 | 1 | 27 | 11 | 11 | 4 | 37 | 65 | 21 |
+| 21 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) | 1042 | 35 | 10 | 65 | 71 | 33 | 43 | 18 | 90 | 116 | 80 | 79 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 22 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 1089 | 13 | 37 | 11 | 18 | 38 | 74 | 20 | 159 | 38 | 22 | 257 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 23 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 1111 | 97 | 424 | 20 | 8 | 6 | 4 | 187 | 70 | 19 | 50 | 1 | 104 | 11 | 4 | 44 | 41 | 21 |
+| 24 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) | 1118 | 52 | 34 | 16 | 17 | 182 | 139 | 37 | 159 | 12 | 21 | 155 | 93 | 11 | 4 | 100 | 65 | 21 |
+| 25 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 1131 | 11 | 14 | 12 | 10 | 51 | 78 | 7 | 145 | 73 | 136 | 219 | 174 | 11 | 4 | 100 | 65 | 21 |
+| 26 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) | 1143 | 74 | 47 | 130 | 198 | 155 | 139 | 53 | 50 | 63 | 15 | 123 | 64 | 5 | 2 | 3 | 17 | 5 |
+| 27 | [Nguyễn Anh Hào](https://www.worldcubeassociation.org/persons/2022HAON02) | 1161 | 57 | 48 | 43 | 65 | 50 | 48 | 21 | 8 | 34 | 62 | 323 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 28 | [Hoàng Gia Huy](https://www.worldcubeassociation.org/persons/2023HUYH01) | 1179 | 79 | 59 | 82 | 85 | 182 | 139 | 137 | 24 | 97 | 3 | 32 | 59 | 11 | 4 | 100 | 65 | 21 |
+| 29 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 1216 | 53 | 44 | 103 | 130 | 83 | 106 | 55 | 159 | 60 | 48 | 116 | 58 | 11 | 4 | 100 | 65 | 21 |
+| 30 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 1285 | 70 | 31 | 46 | 83 | 106 | 139 | 209 | 39 | 111 | 54 | 34 | 162 | 11 | 4 | 100 | 65 | 21 |
+| 31 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 1294 | 23 | 36 | 23 | 58 | 182 | 139 | 18 | 92 | 246 | 20 | 71 | 185 | 11 | 4 | 100 | 65 | 21 |
+| 32 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) | 1302 | 49 | 11 | 39 | 537 | 182 | 139 | 29 | 19 | 26 | 19 | 60 | 39 | 11 | 4 | 100 | 17 | 21 |
+| 33 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 1388 | 339 | 153 | 128 | 30 | 18 | 29 | 64 | 37 | 246 | 151 | 6 | 3 | 11 | 4 | 100 | 48 | 21 |
+| 34 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) | 1432 | 64 | 7 | 80 | 66 | 182 | 139 | 31 | 159 | 246 | 49 | 42 | 201 | 11 | 4 | 100 | 30 | 21 |
+| 35 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) | 1458 | 47 | 95 | 27 | 73 | 182 | 139 | 62 | 44 | 246 | 50 | 91 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 36 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) | 1461 | 15 | 25 | 58 | 106 | 170 | 139 | 26 | 159 | 246 | 75 | 40 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 37 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | 1476 | 250 | 32 | 223 | 232 | 123 | 109 | 50 | 52 | 113 | 97 | 57 | 22 | 11 | 4 | 59 | 21 | 21 |
+| 38 | [Nguyễn Phước Bảo Châu](https://www.worldcubeassociation.org/persons/2024CHAU05) | 1479 | 51 | 85 | 187 | 212 | 182 | 139 | 294 | 62 | 46 | 31 | 26 | 5 | 11 | 4 | 100 | 23 | 21 |
+| 39 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) | 1492 | 46 | 158 | 26 | 31 | 31 | 24 | 268 | 49 | 3 | 179 | 527 | 29 | 11 | 4 | 64 | 21 | 21 |
+| 40 | [Phan Trọng Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI04) | 1508 | 103 | 130 | 62 | 45 | 40 | 35 | 93 | 109 | 122 | 189 | 253 | 201 | 11 | 4 | 25 | 65 | 21 |
+| 41 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | 1549 | 2 | 53 | 25 | 11 | 46 | 139 | 8 | 159 | 6 | 309 | 527 | 63 | 11 | 4 | 100 | 65 | 21 |
+| 42 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) | 1566 | 135 | 17 | 219 | 140 | 78 | 77 | 396 | 61 | 90 | 98 | 84 | 41 | 11 | 4 | 67 | 27 | 21 |
+| 43 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) | 1577 | 48 | 117 | 53 | 36 | 41 | 50 | 131 | 159 | 246 | 109 | 213 | 201 | 11 | 4 | 100 | 37 | 21 |
+| 44 | [Nguyễn Hữu Thông](https://www.worldcubeassociation.org/persons/2017THON01) | 1590 | 85 | 40 | 22 | 44 | 182 | 139 | 76 | 159 | 246 | 117 | 78 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 45 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | 1598 | 28 | 18 | 10 | 7 | 14 | 12 | 17 | 159 | 246 | 158 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 46 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 1608 | 69 | 106 | 59 | 89 | 105 | 112 | 88 | 159 | 80 | 87 | 316 | 201 | 11 | 4 | 100 | 1 | 21 |
+| 47 | [Ngô Quốc Đạt](https://www.worldcubeassociation.org/persons/2022DATN01) | 1651 | 236 | 18 | 29 | 57 | 32 | 47 | 160 | 51 | 52 | 215 | 527 | 26 | 11 | 4 | 100 | 65 | 21 |
+| 48 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 1662 | 25 | 74 | 8 | 19 | 11 | 17 | 8 | 159 | 22 | 390 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 49 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | 1667 | 214 | 187 | 369 | 205 | 182 | 139 | 63 | 1 | 54 | 11 | 35 | 6 | 11 | 4 | 100 | 65 | 21 |
+| 50 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 1702 | 21 | 24 | 4 | 20 | 47 | 65 | 633 | 159 | 69 | 93 | 248 | 140 | 11 | 4 | 100 | 43 | 21 |
+| 51 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 1711 | 284 | 53 | 104 | 233 | 140 | 139 | 254 | 18 | 150 | 61 | 43 | 112 | 11 | 4 | 62 | 27 | 16 |
+| 52 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 1721 | 99 | 121 | 29 | 5 | 4 | 3 | 89 | 159 | 170 | 161 | 527 | 201 | 11 | 4 | 100 | 17 | 21 |
+| 53 | [Eu Yan Luong](https://www.worldcubeassociation.org/persons/2022LUON01) | 1724 | 254 | 158 | 109 | 151 | 115 | 139 | 114 | 66 | 64 | 89 | 224 | 40 | 11 | 4 | 100 | 65 | 21 |
+| 54 | [Lê Đại Vệ](https://www.worldcubeassociation.org/persons/2016VELE04) | 1726 | 186 | 200 | 95 | 60 | 58 | 26 | 202 | 159 | 132 | 74 | 132 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 55 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) | 1731 | 306 | 350 | 83 | 77 | 30 | 25 | 86 | 78 | 48 | 187 | 240 | 51 | 11 | 4 | 69 | 65 | 21 |
+| 56 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) | 1737 | 76 | 146 | 28 | 39 | 23 | 27 | 15 | 159 | 149 | 201 | 527 | 201 | 11 | 4 | 45 | 65 | 21 |
+| 57 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 1792 | 50 | 25 | 248 | 328 | 182 | 139 | 349 | 10 | 89 | 195 | 2 | 16 | 11 | 4 | 100 | 23 | 21 |
+| 58 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 1848 | 304 | 316 | 39 | 28 | 10 | 5 | 96 | 159 | 71 | 157 | 261 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 59 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2022THUY01) | 1853 | 86 | 344 | 74 | 94 | 182 | 139 | 175 | 5 | 78 | 143 | 131 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 60 | [Hoàng Đức Trí](https://www.worldcubeassociation.org/persons/2024TRIH01) | 1854 | 116 | 88 | 106 | 107 | 89 | 139 | 124 | 159 | 246 | 222 | 56 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 61 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | 1863 | 125 | 420 | 105 | 170 | 73 | 139 | 118 | 71 | 98 | 140 | 198 | 102 | 7 | 4 | 11 | 65 | 17 |
+| 62 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 1876 | 347 | 399 | 69 | 33 | 21 | 15 | 336 | 9 | 15 | 106 | 328 | 54 | 11 | 4 | 100 | 8 | 21 |
+| 63 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | 1890 | 33 | 29 | 18 | 15 | 62 | 139 | 1 | 13 | 44 | 740 | 527 | 68 | 11 | 4 | 100 | 65 | 21 |
+| 64 | [Nguyễn Thế Lâm](https://www.worldcubeassociation.org/persons/2022LAMN03) | 1890 | 158 | 240 | 143 | 111 | 74 | 99 | 443 | 159 | 88 | 44 | 82 | 48 | 11 | 4 | 100 | 65 | 21 |
+| 65 | [Nguyễn Trần Khánh Dương](https://www.worldcubeassociation.org/persons/2016DUON02) | 1906 | 265 | 88 | 123 | 118 | 182 | 139 | 212 | 34 | 131 | 120 | 92 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 66 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2022DUCN02) | 1907 | 20 | 78 | 48 | 68 | 60 | 87 | 49 | 159 | 246 | 163 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 67 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) | 1911 | 56 | 62 | 94 | 91 | 92 | 139 | 27 | 79 | 104 | 740 | 210 | 76 | 11 | 4 | 100 | 5 | 21 |
+| 68 | [Nguyễn Lê An Hoàng](https://www.worldcubeassociation.org/persons/2023HOAN03) | 1932 | 442 | 190 | 90 | 162 | 153 | 139 | 231 | 100 | 59 | 58 | 89 | 31 | 11 | 4 | 100 | 52 | 21 |
+| 69 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 1935 | 124 | 49 | 77 | 41 | 26 | 11 | 144 | 159 | 58 | 740 | 104 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 70 | [Lê Đình Nguyên Khôi](https://www.worldcubeassociation.org/persons/2025KHOI02) | 1952 | 113 | 57 | 71 | 537 | 161 | 139 | 101 | 159 | 8 | 89 | 168 | 201 | 11 | 4 | 47 | 65 | 21 |
+| 71 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) | 1988 | 126 | 72 | 124 | 169 | 108 | 39 | 5 | 159 | 147 | 617 | 20 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 72 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 2034 | 183 | 269 | 175 | 61 | 44 | 59 | 223 | 159 | 137 | 314 | 165 | 44 | 11 | 4 | 100 | 65 | 21 |
+| 73 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) | 2036 | 434 | 213 | 231 | 156 | 182 | 139 | 105 | 159 | 36 | 55 | 126 | 12 | 11 | 4 | 100 | 52 | 21 |
+| 74 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) | 2041 | 96 | 146 | 253 | 295 | 182 | 139 | 111 | 159 | 246 | 67 | 14 | 132 | 11 | 4 | 100 | 65 | 21 |
+| 75 | [Trần Duy Lợi](https://www.worldcubeassociation.org/persons/2017LOIT01) | 2047 | 145 | 99 | 69 | 55 | 37 | 30 | 58 | 141 | 86 | 522 | 495 | 190 | 11 | 4 | 76 | 8 | 21 |
+| 76 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 2080 | 92 | 56 | 52 | 49 | 34 | 32 | 30 | 159 | 53 | 740 | 527 | 55 | 11 | 4 | 100 | 65 | 21 |
+| 77 | [Đinh Phạm Thiên Ân](https://www.worldcubeassociation.org/persons/2022ANDI02) | 2091 | 388 | 290 | 184 | 137 | 94 | 139 | 236 | 91 | 117 | 85 | 86 | 43 | 11 | 4 | 100 | 65 | 21 |
+| 78 | [Tạ Quang Dũng](https://www.worldcubeassociation.org/persons/2022DUNG05) | 2114 | 164 | 85 | 317 | 425 | 182 | 139 | 134 | 159 | 72 | 2 | 219 | 15 | 11 | 4 | 100 | 65 | 21 |
+| 79 | [Ngô Anh Quân](https://www.worldcubeassociation.org/persons/2023QUAN08) | 2123 | 259 | 338 | 240 | 155 | 85 | 139 | 85 | 148 | 246 | 65 | 114 | 73 | 11 | 4 | 75 | 65 | 21 |
+| 80 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) | 2138 | 395 | 180 | 114 | 126 | 114 | 139 | 276 | 159 | 246 | 35 | 37 | 116 | 11 | 4 | 100 | 65 | 21 |
+| 81 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) | 2175 | 67 | 232 | 153 | 380 | 182 | 139 | 22 | 159 | 187 | 160 | 246 | 65 | 11 | 4 | 100 | 47 | 21 |
+| 82 | [Đoàn Trường Sơn](https://www.worldcubeassociation.org/persons/2015SOND02) | 2213 | 424 | 74 | 245 | 243 | 182 | 139 | 159 | 27 | 61 | 199 | 63 | 196 | 11 | 4 | 100 | 65 | 21 |
+| 83 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | 2217 | 178 | 266 | 290 | 332 | 182 | 139 | 95 | 159 | 68 | 7 | 99 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 84 | [Lê Mạnh Huy](https://www.worldcubeassociation.org/persons/2022HUYL01) | 2241 | 144 | 137 | 198 | 338 | 182 | 139 | 211 | 159 | 246 | 37 | 48 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 85 | [Nguyễn Thành Tài](https://www.worldcubeassociation.org/persons/2016TAIN01) | 2252 | 361 | 118 | 118 | 150 | 75 | 52 | 272 | 159 | 120 | 191 | 234 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 86 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 2276 | 89 | 307 | 17 | 22 | 9 | 9 | 751 | 35 | 106 | 465 | 83 | 182 | 11 | 4 | 100 | 65 | 21 |
+| 87 | [Trương Quí Bảo](https://www.worldcubeassociation.org/persons/2019BAOT01) | 2289 | 276 | 110 | 34 | 86 | 182 | 139 | 472 | 159 | 188 | 232 | 15 | 195 | 11 | 4 | 100 | 65 | 21 |
+| 88 | [Nguyễn Việt Thành](https://www.worldcubeassociation.org/persons/2024THAN09) | 2308 | 119 | 221 | 72 | 67 | 66 | 55 | 251 | 159 | 173 | 213 | 510 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 89 | [Trần Hoàng Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMT03) | 2323 | 3 | 88 | 44 | 537 | 182 | 139 | 398 | 159 | 108 | 168 | 246 | 50 | 11 | 4 | 100 | 65 | 21 |
+| 90 | [Phan Hà Vân Anh](https://www.worldcubeassociation.org/persons/2025ANHP01) | 2345 | 206 | 55 | 320 | 220 | 182 | 139 | 237 | 159 | 246 | 113 | 66 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 91 | [Kiều Gia Thịnh](https://www.worldcubeassociation.org/persons/2018THIN02) | 2377 | 172 | 190 | 166 | 93 | 87 | 76 | 246 | 159 | 246 | 310 | 230 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 92 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | 2392 | 499 | 251 | 296 | 204 | 97 | 71 | 195 | 40 | 75 | 180 | 201 | 83 | 11 | 4 | 99 | 65 | 21 |
+| 93 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) | 2397 | 296 | 462 | 116 | 335 | 145 | 139 | 82 | 159 | 109 | 88 | 308 | 9 | 11 | 4 | 54 | 65 | 15 |
+| 94 | [Vũ Hoàng Nhật Minh](https://www.worldcubeassociation.org/persons/2024MINH03) | 2417 | 272 | 399 | 170 | 260 | 182 | 139 | 136 | 159 | 35 | 212 | 51 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 95 | [Đỗ Ken](https://www.worldcubeassociation.org/persons/2026KEND03) | 2428 | 54 | 143 | 323 | 461 | 182 | 139 | 109 | 159 | 246 | 27 | 264 | 120 | 11 | 4 | 100 | 65 | 21 |
+| 96 | [Võ Nguyên Phát](https://www.worldcubeassociation.org/persons/2020PHAT02) | 2448 | 40 | 68 | 75 | 537 | 182 | 139 | 87 | 159 | 176 | 56 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 97 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | 2473 | 95 | 43 | 67 | 70 | 182 | 139 | 28 | 159 | 21 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 98 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | 2474 | 8 | 101 | 91 | 537 | 182 | 139 | 11 | 159 | 246 | 71 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 99 | [Nguyen Duy Long](https://www.worldcubeassociation.org/persons/2025LONG17) | 2482 | 110 | 121 | 134 | 132 | 118 | 95 | 234 | 159 | 246 | 204 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 100 | [Nguyễn Khoa Điền](https://www.worldcubeassociation.org/persons/2022DIEN01) | 2513 | 31 | 177 | 63 | 199 | 182 | 139 | 4 | 159 | 246 | 740 | 171 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 101 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 2540 | 250 | 132 | 362 | 458 | 182 | 139 | 280 | 101 | 169 | 161 | 43 | 62 | 11 | 4 | 100 | 65 | 21 |
+| 102 | [Trần Hùng Xuân Thịnh](https://www.worldcubeassociation.org/persons/2016THIN01) | 2552 | 321 | 190 | 252 | 144 | 77 | 97 | 199 | 106 | 96 | 456 | 213 | 200 | 11 | 4 | 100 | 65 | 21 |
+| 103 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) | 2559 | 82 | 120 | 115 | 124 | 182 | 139 | 359 | 159 | 246 | 268 | 419 | 145 | 11 | 4 | 100 | 65 | 21 |
+| 104 | [Đỗ Văn Bằng](https://www.worldcubeassociation.org/persons/2019BANG04) | 2560 | 55 | 546 | 185 | 73 | 59 | 90 | 57 | 159 | 246 | 291 | 397 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 105 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | 2563 | 61 | 373 | 76 | 42 | 48 | 58 | 54 | 159 | 67 | 696 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 106 | [Đỗ Duy Dương](https://www.worldcubeassociation.org/persons/2019DUON06) | 2566 | 368 | 360 | 152 | 103 | 84 | 45 | 262 | 159 | 246 | 324 | 61 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 107 | [Lê Phùng Nguyên Khang](https://www.worldcubeassociation.org/persons/2023KHAN41) | 2567 | 101 | 143 | 107 | 76 | 182 | 139 | 80 | 63 | 7 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 108 | [Phan Trần Phương Thiên](https://www.worldcubeassociation.org/persons/2024THIE04) | 2602 | 63 | 44 | 452 | 537 | 182 | 139 | 72 | 159 | 246 | 176 | 130 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 109 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 2615 | 358 | 166 | 282 | 217 | 182 | 139 | 123 | 159 | 224 | 247 | 178 | 201 | 11 | 4 | 38 | 65 | 21 |
+| 110 | [Bùi Gia Nguyễn](https://www.worldcubeassociation.org/persons/2024NGUY28) | 2619 | 475 | 251 | 410 | 146 | 137 | 139 | 302 | 87 | 84 | 237 | 160 | 21 | 11 | 4 | 100 | 34 | 21 |
+| 111 | [Trần Quang Anh](https://www.worldcubeassociation.org/persons/2024ANHT03) | 2624 | 284 | 110 | 133 | 257 | 182 | 139 | 169 | 159 | 246 | 325 | 335 | 84 | 11 | 4 | 100 | 65 | 21 |
+| 112 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 2640 | 148 | 153 | 159 | 72 | 182 | 139 | 561 | 48 | 2 | 247 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 113 | [Hoàng Vũ Kiên](https://www.worldcubeassociation.org/persons/2022KIEN01) | 2646 | 99 | 119 | 57 | 537 | 182 | 139 | 144 | 159 | 37 | 740 | 31 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 114 | [Nguyễn Phúc Thịnh](https://www.worldcubeassociation.org/persons/2015THIN01) | 2650 | 461 | 404 | 55 | 37 | 27 | 16 | 546 | 89 | 167 | 133 | 313 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 115 | [Nguyễn Vũ Năng](https://www.worldcubeassociation.org/persons/2025NANG01) | 2667 | 499 | 62 | 206 | 282 | 182 | 139 | 140 | 159 | 246 | 129 | 221 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 116 | [Nguyễn Ngọc Huyền Anh](https://www.worldcubeassociation.org/persons/2019ANHN03) | 2685 | 59 | 96 | 86 | 84 | 182 | 139 | 165 | 159 | 246 | 540 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 117 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 2688 | 156 | 46 | 157 | 119 | 93 | 123 | 139 | 159 | 199 | 603 | 527 | 201 | 11 | 4 | 70 | 60 | 21 |
+| 118 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 2700 | 12 | 82 | 119 | 537 | 182 | 139 | 10 | 159 | 246 | 285 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 119 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | 2713 | 355 | 115 | 222 | 164 | 122 | 102 | 433 | 159 | 62 | 483 | 417 | 57 | 4 | 1 | 7 | 8 | 2 |
+| 120 | [Nguyễn Minh Phúc Hưng](https://www.worldcubeassociation.org/persons/2022HUNG09) | 2716 | 190 | 125 | 145 | 182 | 104 | 100 | 351 | 54 | 246 | 386 | 527 | 126 | 11 | 4 | 100 | 44 | 21 |
+| 121 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) | 2722 | 103 | 14 | 764 | 537 | 182 | 139 | 209 | 110 | 246 | 43 | 23 | 151 | 11 | 4 | 100 | 65 | 21 |
+| 122 | [Lương Minh Xuân Bách](https://www.worldcubeassociation.org/persons/2022BACH02) | 2726 | 122 | 333 | 174 | 537 | 182 | 139 | 103 | 127 | 246 | 202 | 159 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 123 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2018DATN04) | 2728 | 41 | 492 | 212 | 182 | 177 | 121 | 215 | 159 | 229 | 120 | 534 | 45 | 11 | 4 | 100 | 65 | 21 |
+| 124 | [Vũ Đức Minh](https://www.worldcubeassociation.org/persons/2024MINH02) | 2728 | 75 | 18 | 198 | 537 | 182 | 139 | 242 | 159 | 246 | 243 | 287 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 125 | [Huỳnh Phong Nam](https://www.worldcubeassociation.org/persons/2017NAMH03) | 2756 | 563 | 201 | 197 | 165 | 113 | 120 | 362 | 117 | 20 | 314 | 182 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 126 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 2759 | 403 | 266 | 186 | 121 | 116 | 103 | 677 | 159 | 70 | 240 | 53 | 164 | 11 | 4 | 100 | 65 | 21 |
+| 127 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 2761 | 629 | 333 | 201 | 185 | 102 | 101 | 489 | 99 | 56 | 125 | 244 | 53 | 11 | 4 | 60 | 48 | 21 |
+| 128 | [Phạm Hoàng Khang](https://www.worldcubeassociation.org/persons/2022KHAN32) | 2762 | 167 | 125 | 99 | 537 | 86 | 83 | 118 | 159 | 246 | 740 | 51 | 150 | 11 | 4 | 100 | 65 | 21 |
+| 129 | [Trần Ngọc Hoàng Phúc](https://www.worldcubeassociation.org/persons/2015PHUC02) | 2767 | 477 | 253 | 272 | 192 | 152 | 139 | 141 | 159 | 246 | 108 | 226 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 130 | [Nguyễn Quang Sáng](https://www.worldcubeassociation.org/persons/2022SANG05) | 2770 | 227 | 618 | 188 | 129 | 182 | 139 | 75 | 159 | 246 | 389 | 16 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 131 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 2777 | 328 | 84 | 146 | 337 | 182 | 139 | 283 | 159 | 163 | 193 | 361 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 132 | [Nguyễn Xuân Hiển](https://www.worldcubeassociation.org/persons/2022HIEN05) | 2815 | 450 | 1001 | 173 | 113 | 55 | 51 | 43 | 159 | 55 | 153 | 160 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 133 | [Trần Thanh Phong](https://www.worldcubeassociation.org/persons/2016PHON03) | 2820 | 138 | 190 | 102 | 50 | 61 | 57 | 148 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 134 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | 2829 | 216 | 453 | 79 | 56 | 182 | 139 | 932 | 159 | 30 | 30 | 151 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 135 | [Ninh Nguyễn Phạm Tuân](https://www.worldcubeassociation.org/persons/2018TUAN03) | 2831 | 403 | 235 | 419 | 537 | 182 | 139 | 207 | 159 | 49 | 79 | 160 | 61 | 11 | 4 | 100 | 65 | 21 |
+| 136 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | 2833 | 417 | 209 | 247 | 537 | 182 | 139 | 600 | 85 | 81 | 69 | 64 | 2 | 11 | 4 | 100 | 65 | 21 |
+| 137 | [Lê Việt Lâm](https://www.worldcubeassociation.org/persons/2024LAML02) | 2837 | 44 | 112 | 164 | 181 | 182 | 139 | 106 | 159 | 246 | 575 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 138 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | 2839 | 163 | 23 | 463 | 268 | 162 | 139 | 162 | 159 | 200 | 271 | 427 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 139 | [Bùi Vĩnh An Tường](https://www.worldcubeassociation.org/persons/2023TUON02) | 2839 | 92 | 121 | 66 | 127 | 182 | 139 | 38 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 140 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) | 2845 | 135 | 228 | 327 | 228 | 182 | 139 | 444 | 159 | 246 | 183 | 180 | 193 | 11 | 4 | 100 | 65 | 21 |
+| 141 | [Nguyễn Ngọc Phương](https://www.worldcubeassociation.org/persons/2016PHUO01) | 2851 | 525 | 339 | 131 | 82 | 52 | 139 | 238 | 41 | 94 | 281 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 142 | [Trần Huy Hoàng](https://www.worldcubeassociation.org/persons/2024HOAN01) | 2866 | 492 | 130 | 321 | 316 | 182 | 139 | 208 | 159 | 246 | 349 | 103 | 89 | 11 | 4 | 34 | 65 | 18 |
+| 143 | [Lê Mạnh Hải](https://www.worldcubeassociation.org/persons/2025HAIL01) | 2866 | 765 | 180 | 298 | 133 | 119 | 98 | 203 | 81 | 105 | 279 | 304 | 100 | 11 | 4 | 100 | 65 | 21 |
+| 144 | [Nguyễn Ngọc Lê Hoàng](https://www.worldcubeassociation.org/persons/2018HOAN10) | 2872 | 227 | 307 | 137 | 101 | 182 | 139 | 182 | 159 | 246 | 740 | 50 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 145 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) | 2887 | 97 | 576 | 37 | 23 | 29 | 19 | 932 | 159 | 93 | 60 | 527 | 134 | 11 | 4 | 100 | 65 | 21 |
+| 146 | [Lê Hoàng Duy](https://www.worldcubeassociation.org/persons/2024DUYL01) | 2908 | 519 | 158 | 177 | 117 | 109 | 89 | 113 | 159 | 124 | 516 | 449 | 201 | 11 | 4 | 100 | 41 | 21 |
+| 147 | [Nguyễn Hoàng Minh](https://www.worldcubeassociation.org/persons/2026MINH02) | 2922 | 321 | 397 | 217 | 276 | 134 | 107 | 481 | 159 | 160 | 225 | 120 | 124 | 11 | 4 | 100 | 65 | 21 |
+| 148 | [Ngô Ngọc Long](https://www.worldcubeassociation.org/persons/2020LONG03) | 2935 | 129 | 91 | 53 | 537 | 182 | 139 | 256 | 159 | 246 | 412 | 527 | 72 | 11 | 4 | 31 | 65 | 21 |
+| 149 | [Trang Bảo Minh](https://www.worldcubeassociation.org/persons/2018MINH22) | 2949 | 24 | 39 | 127 | 537 | 182 | 139 | 41 | 159 | 246 | 657 | 396 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 150 | [Nguyễn Hồng Anh Khoa](https://www.worldcubeassociation.org/persons/2017KHOA12) | 2953 | 299 | 199 | 216 | 305 | 182 | 139 | 932 | 59 | 74 | 45 | 101 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 151 | [La Tường Phong](https://www.worldcubeassociation.org/persons/2023PHON03) | 2956 | 145 | 172 | 256 | 537 | 182 | 139 | 320 | 16 | 156 | 104 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 152 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2018DATN03) | 2966 | 602 | 101 | 295 | 250 | 101 | 70 | 504 | 137 | 180 | 322 | 67 | 194 | 11 | 4 | 42 | 65 | 21 |
+| 153 | [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) | 2975 | 80 | 29 | 189 | 296 | 182 | 139 | 50 | 159 | 246 | 740 | 527 | 137 | 11 | 4 | 100 | 65 | 21 |
+| 154 | [Lý Bảo Lâm](https://www.worldcubeassociation.org/persons/2023LAML04) | 2980 | 355 | 156 | 477 | 398 | 182 | 139 | 411 | 114 | 95 | 261 | 111 | 80 | 11 | 4 | 100 | 65 | 21 |
+| 155 | [Trần Hà Khang](https://www.worldcubeassociation.org/persons/2017KHAN46) | 3025 | 126 | 190 | 38 | 139 | 182 | 139 | 137 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 156 | [Phạm Thái Bảo](https://www.worldcubeassociation.org/persons/2024BAOP02) | 3027 | 281 | 129 | 482 | 537 | 182 | 139 | 114 | 159 | 246 | 170 | 368 | 19 | 11 | 4 | 100 | 65 | 21 |
+| 157 | [Nguyễn Quang Thái](https://www.worldcubeassociation.org/persons/2023THAI03) | 3032 | 176 | 257 | 149 | 112 | 182 | 60 | 192 | 159 | 76 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 158 | [Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2019DANG13) | 3048 | 286 | 80 | 361 | 537 | 182 | 139 | 151 | 159 | 246 | 417 | 88 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 159 | [Dương Minh Nguyên](https://www.worldcubeassociation.org/persons/2018NGUY33) | 3052 | 192 | 291 | 306 | 537 | 182 | 139 | 298 | 159 | 246 | 228 | 143 | 201 | 11 | 4 | 29 | 65 | 21 |
+| 160 | [Huỳnh Bá Tùng](https://www.worldcubeassociation.org/persons/2015TUNG01) | 3057 | 855 | 339 | 263 | 203 | 107 | 86 | 510 | 96 | 42 | 142 | 84 | 129 | 11 | 4 | 100 | 65 | 21 |
+| 161 | [Trương Gia Tuấn](https://www.worldcubeassociation.org/persons/2022TUAN03) | 3057 | 265 | 344 | 299 | 259 | 182 | 139 | 241 | 159 | 246 | 83 | 438 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 162 | [Trần Đỗ Ngọc Thiên](https://www.worldcubeassociation.org/persons/2023THIE03) | 3061 | 341 | 139 | 410 | 537 | 182 | 139 | 342 | 159 | 246 | 118 | 46 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 163 | [Đặng Nguyên Khang](https://www.worldcubeassociation.org/persons/2018KHAN06) | 3074 | 202 | 219 | 313 | 343 | 182 | 139 | 250 | 113 | 246 | 138 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 164 | [Nguyễn Tấn Gia Nguyên](https://www.worldcubeassociation.org/persons/2022NGUY26) | 3090 | 120 | 478 | 511 | 537 | 182 | 139 | 78 | 159 | 151 | 96 | 424 | 47 | 11 | 4 | 100 | 32 | 21 |
+| 165 | [Lê Anh Tú](https://www.worldcubeassociation.org/persons/2018TULE01) | 3103 | 90 | 353 | 47 | 102 | 182 | 139 | 116 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 166 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) | 3103 | 64 | 176 | 179 | 300 | 182 | 139 | 156 | 159 | 79 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 167 | [Hoàng Khang Minh](https://www.worldcubeassociation.org/persons/2018MINH16) | 3103 | 26 | 50 | 269 | 409 | 182 | 139 | 81 | 32 | 246 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 168 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) | 3112 | 114 | 167 | 56 | 431 | 182 | 139 | 79 | 159 | 246 | 714 | 491 | 133 | 11 | 4 | 100 | 65 | 21 |
+| 169 | [Đào Bách Nguyên](https://www.worldcubeassociation.org/persons/2019NGUY05) | 3141 | 368 | 278 | 377 | 537 | 182 | 139 | 342 | 159 | 246 | 34 | 77 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 170 | [Hoàng Nhật Minh](https://www.worldcubeassociation.org/persons/2022MINH20) | 3151 | 260 | 380 | 139 | 134 | 182 | 139 | 273 | 159 | 246 | 740 | 189 | 109 | 11 | 4 | 100 | 65 | 21 |
+| 171 | [Biện Nguyễn Vinh Hiển](https://www.worldcubeassociation.org/persons/2022HIEN01) | 3167 | 126 | 106 | 141 | 180 | 182 | 139 | 219 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 172 | [Nguyễn Trường Giang](https://www.worldcubeassociation.org/persons/2016GIAN08) | 3168 | 102 | 163 | 379 | 284 | 182 | 139 | 255 | 125 | 246 | 590 | 301 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 173 | [Trần Ngọc Sang](https://www.worldcubeassociation.org/persons/2022SANG07) | 3172 | 176 | 180 | 101 | 145 | 182 | 139 | 175 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 174 | [Nguyễn Quốc Bính](https://www.worldcubeassociation.org/persons/2019BINH02) | 3180 | 485 | 206 | 642 | 381 | 182 | 139 | 233 | 159 | 146 | 94 | 155 | 157 | 11 | 4 | 100 | 65 | 21 |
+| 175 | [Cao Viết Tùng](https://www.worldcubeassociation.org/persons/2022TUNG01) | 3184 | 38 | 70 | 100 | 537 | 182 | 139 | 44 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 176 | [Phạm Thuý Huyền](https://www.worldcubeassociation.org/persons/2018HUYE01) | 3196 | 417 | 77 | 228 | 187 | 146 | 139 | 932 | 159 | 110 | 334 | 74 | 201 | 11 | 4 | 100 | 56 | 21 |
+| 177 | [Nguyễn Khoa Bằng](https://www.worldcubeassociation.org/persons/2020BANG04) | 3205 | 446 | 121 | 950 | 53 | 90 | 139 | 249 | 17 | 27 | 428 | 328 | 179 | 11 | 4 | 77 | 65 | 21 |
+| 178 | [Nguyễn Đức Tài](https://www.worldcubeassociation.org/persons/2018TAIN01) | 3218 | 120 | 209 | 383 | 135 | 76 | 33 | 192 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 96 | 65 | 21 |
+| 179 | [Phan Minh Việt](https://www.worldcubeassociation.org/persons/2024VIET01) | 3230 | 354 | 61 | 490 | 462 | 182 | 139 | 239 | 159 | 246 | 354 | 233 | 110 | 11 | 4 | 100 | 65 | 21 |
+| 180 | [Dương Tấn Phát](https://www.worldcubeassociation.org/persons/2023PHAT01) | 3235 | 169 | 177 | 60 | 537 | 182 | 139 | 212 | 159 | 246 | 425 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 181 | [Lê Văn Tuấn](https://www.worldcubeassociation.org/persons/2018TUAN01) | 3236 | 299 | 104 | 212 | 290 | 182 | 139 | 68 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 17 | 23 | 14 |
+| 182 | [Nguyễn Hà My](https://www.worldcubeassociation.org/persons/2020MYNG01) | 3248 | 72 | 96 | 156 | 286 | 182 | 139 | 932 | 159 | 246 | 300 | 278 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 183 | [Nguyễn Tùng Dương](https://www.worldcubeassociation.org/persons/2022DUON06) | 3252 | 372 | 57 | 210 | 537 | 182 | 139 | 104 | 159 | 246 | 740 | 118 | 187 | 11 | 4 | 100 | 65 | 21 |
+| 184 | [Hoàng Văn Hoà](https://www.worldcubeassociation.org/persons/2022HOAH01) | 3290 | 548 | 576 | 281 | 537 | 182 | 139 | 339 | 159 | 83 | 151 | 80 | 14 | 11 | 4 | 100 | 65 | 21 |
+| 185 | [Phong Hoang](https://www.worldcubeassociation.org/persons/2023HOAN07) | 3291 | 140 | 442 | 258 | 261 | 182 | 139 | 174 | 159 | 246 | 361 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 186 | [Võ Đăng Quang Kiệt](https://www.worldcubeassociation.org/persons/2018KIET07) | 3298 | 318 | 664 | 78 | 63 | 182 | 139 | 161 | 159 | 246 | 740 | 146 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 187 | [Đặng Minh Quân](https://www.worldcubeassociation.org/persons/2023QUAN05) | 3305 | 526 | 91 | 630 | 435 | 182 | 139 | 453 | 104 | 185 | 114 | 175 | 70 | 11 | 4 | 100 | 65 | 21 |
+| 188 | [Nguyễn Công Vinh](https://www.worldcubeassociation.org/persons/2022VINH05) | 3314 | 315 | 213 | 531 | 537 | 182 | 139 | 214 | 159 | 246 | 466 | 59 | 138 | 11 | 4 | 14 | 65 | 21 |
+| 189 | [Minh Huynh](https://www.worldcubeassociation.org/persons/2023HUYN06) | 3315 | 548 | 611 | 172 | 175 | 182 | 139 | 306 | 159 | 246 | 236 | 139 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 190 | [Vũ Hồng Quang](https://www.worldcubeassociation.org/persons/2020QUAN03) | 3324 | 72 | 325 | 360 | 167 | 182 | 139 | 59 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 46 | 65 | 21 |
+| 191 | [Nguyễn Trần Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2024HIEU04) | 3331 | 148 | 278 | 417 | 537 | 182 | 139 | 33 | 159 | 246 | 263 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 192 | [Nguyễn Mạnh Chí](https://www.worldcubeassociation.org/persons/2023CHIN09) | 3337 | 466 | 469 | 475 | 537 | 182 | 139 | 367 | 159 | 158 | 28 | 64 | 92 | 11 | 4 | 100 | 65 | 21 |
+| 193 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) | 3338 | 169 | 18 | 192 | 537 | 182 | 139 | 48 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 100 | 44 | 21 |
+| 194 | [Phạm Hữu Nguyên Khang](https://www.worldcubeassociation.org/persons/2024KHAN43) | 3350 | 160 | 177 | 41 | 537 | 182 | 139 | 40 | 159 | 246 | 740 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 195 | [Nguyễn Thiên Minh](https://www.worldcubeassociation.org/persons/2022MINH12) | 3352 | 511 | 266 | 125 | 98 | 49 | 67 | 625 | 159 | 195 | 573 | 282 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 196 | [Phan Đình Huy](https://www.worldcubeassociation.org/persons/2022HUYP01) | 3352 | 606 | 335 | 196 | 189 | 182 | 113 | 368 | 129 | 91 | 474 | 267 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 197 | [Nguyễn Lê Hoài Minh](https://www.worldcubeassociation.org/persons/2022MINH08) | 3354 | 368 | 242 | 288 | 537 | 182 | 139 | 39 | 159 | 246 | 740 | 12 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 198 | [Nguyễn Xuân Nhàn](https://www.worldcubeassociation.org/persons/2023NHAN03) | 3357 | 200 | 344 | 135 | 537 | 182 | 139 | 932 | 58 | 246 | 164 | 167 | 52 | 11 | 4 | 100 | 65 | 21 |
+| 199 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 3359 | 344 | 259 | 209 | 141 | 64 | 66 | 388 | 159 | 246 | 667 | 414 | 201 | 11 | 4 | 100 | 65 | 21 |
+| 200 | [Bùi Phạm Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON09) | 3360 | 190 | 34 | 450 | 537 | 182 | 139 | 344 | 159 | 246 | 150 | 527 | 201 | 11 | 4 | 100 | 65 | 21 |
 
 
 <a href="https://github.com/noeruchangd/wca_statistics_vn" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
