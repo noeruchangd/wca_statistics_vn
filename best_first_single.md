@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 19 August 2026*
+*Updated on 22 August 2026*
 
 
 ### 3x3x3 Cube
@@ -25,14 +25,14 @@
 | ---: | ---: | :--- |
 | 1 | 1.58 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 2 | 1.89 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
-| 3 | 2.02 | [Nguyễn Ngọc Bảo Minh](https://www.worldcubeassociation.org/persons/2024MINH16) |
-| 4 | 2.04 | [Lê Đức Duy Khoa](https://www.worldcubeassociation.org/persons/2023KHOA04) |
-| 5 | 2.15 | [Phạm Nguyễn Anh Quân](https://www.worldcubeassociation.org/persons/2022QUAN13) |
-| 6 | 2.25 | [Phan Tiến Thịnh](https://www.worldcubeassociation.org/persons/2022THIN03) |
-| 7 | 2.26 | [Biện Nguyễn Vinh Hiển](https://www.worldcubeassociation.org/persons/2022HIEN01) |
-| 8 | 2.39 | [Lâm Nguyên Minh Tấn](https://www.worldcubeassociation.org/persons/2019TANL01) |
-| 9 | 2.52 | [Lý Nhật Minh](https://www.worldcubeassociation.org/persons/2019MINH15) |
-| 10 | 2.55 | [Nguyễn Hoàng Lân](https://www.worldcubeassociation.org/persons/2022LANN01) |
+| 3 | 2.00 | [Vương Đình Minh Trung](https://www.worldcubeassociation.org/persons/2026TRUN03) |
+| 4 | 2.02 | [Nguyễn Ngọc Bảo Minh](https://www.worldcubeassociation.org/persons/2024MINH16) |
+| 5 | 2.04 | [Lê Đức Duy Khoa](https://www.worldcubeassociation.org/persons/2023KHOA04) |
+| 6 | 2.15 | [Phạm Nguyễn Anh Quân](https://www.worldcubeassociation.org/persons/2022QUAN13) |
+| 7 | 2.25 | [Phan Tiến Thịnh](https://www.worldcubeassociation.org/persons/2022THIN03) |
+| 8 | 2.26 | [Biện Nguyễn Vinh Hiển](https://www.worldcubeassociation.org/persons/2022HIEN01) |
+| 9 | 2.39 | [Lâm Nguyên Minh Tấn](https://www.worldcubeassociation.org/persons/2019TANL01) |
+| 10 | 2.52 | [Lý Nhật Minh](https://www.worldcubeassociation.org/persons/2019MINH15) |
 
 ### 4x4x4 Cube
 
@@ -54,15 +54,15 @@
 | # | First single | Person |
 | ---: | ---: | :--- |
 | 1 | 55.22 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 2 | 1:02.79 | [Hiếu Phạm](https://www.worldcubeassociation.org/persons/2022PHAM05) |
-| 3 | 1:02.97 | [Ngô Tùng Dương](https://www.worldcubeassociation.org/persons/2025DUON03) |
-| 4 | 1:05.34 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) |
-| 5 | 1:05.72 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
-| 6 | 1:07.51 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) |
-| 7 | 1:08.60 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
-| 8 | 1:09.38 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
-| 9 | 1:09.48 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
-| 10 | 1:09.71 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2023KHAN50) |
+| 2 | 59.52 | [Vương Đình Minh Trung](https://www.worldcubeassociation.org/persons/2026TRUN03) |
+| 3 | 1:02.79 | [Hiếu Phạm](https://www.worldcubeassociation.org/persons/2022PHAM05) |
+| 4 | 1:02.97 | [Ngô Tùng Dương](https://www.worldcubeassociation.org/persons/2025DUON03) |
+| 5 | 1:05.34 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) |
+| 6 | 1:05.72 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
+| 7 | 1:07.51 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) |
+| 8 | 1:08.60 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
+| 9 | 1:09.38 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
+| 10 | 1:09.48 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
 
 ### 6x6x6 Cube
 
@@ -73,48 +73,48 @@
 | 3 | 1:47.57 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) |
 | 4 | 1:58.31 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) |
 | 5 | 2:02.05 | [Đoàn Trần Phú Hưng](https://www.worldcubeassociation.org/persons/2023HUNG06) |
-| 6 | 2:05.08 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 7 | 2:07.59 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
-| 8 | 2:09.52 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
-| 9 | 2:12.91 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
-| 10 | 2:14.36 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) |
+| 6 | 2:02.78 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) |
+| 7 | 2:05.08 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 8 | 2:07.59 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
+| 9 | 2:09.52 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 10 | 2:12.91 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
 
 ### 7x7x7 Cube
 
 | # | First single | Person |
 | ---: | ---: | :--- |
 | 1 | 2:42.96 | [Tô Kim Thành](https://www.worldcubeassociation.org/persons/2023THAN15) |
-| 2 | 2:49.73 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
-| 3 | 2:59.47 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
-| 4 | 3:00.62 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
-| 5 | 3:02.05 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) |
-| 6 | 3:10.92 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) |
-| 7 | 3:15.47 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
-| 8 | 3:24.23 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) |
-| 9 | 3:24.75 | [Đoàn Trần Phú Hưng](https://www.worldcubeassociation.org/persons/2023HUNG06) |
-| 10 | 3:38.18 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 2 | 2:49.19 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) |
+| 3 | 2:49.73 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
+| 4 | 2:59.47 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
+| 5 | 3:00.62 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
+| 6 | 3:02.05 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) |
+| 7 | 3:10.92 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) |
+| 8 | 3:14.11 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) |
+| 9 | 3:15.47 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
+| 10 | 3:24.23 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) |
 
 ### 3x3x3 Blindfolded
 
 | # | First single | Person |
 | ---: | ---: | :--- |
-| 1 | 28.24 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
-| 2 | 33.64 | [Dương Công Tuyền](https://www.worldcubeassociation.org/persons/2022TUYE01) |
-| 3 | 42.66 | [Lê Thái Duy](https://www.worldcubeassociation.org/persons/2016DUYL01) |
-| 4 | 43.93 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
-| 5 | 58.02 | [Đỗ Anh Tuấn](https://www.worldcubeassociation.org/persons/2016TUAN07) |
-| 6 | 1:03.00 | [Nguyễn Đức Anh](https://www.worldcubeassociation.org/persons/2013ANHN01) |
-| 7 | 1:11.91 | [Nguyễn Công Vinh](https://www.worldcubeassociation.org/persons/2022VINH05) |
-| 8 | 1:16.18 | [Nguyễn Xuân Hồng](https://www.worldcubeassociation.org/persons/2013HNGN01) |
-| 9 | 1:16.86 | [Lê Hoàng Hiệp](https://www.worldcubeassociation.org/persons/2012HIAP01) |
-| 10 | 1:19.75 | [Đoàn Văn Danh](https://www.worldcubeassociation.org/persons/2015DANH01) |
+| 1 | 18.99 | [Nguyễn Tuấn Anh](https://www.worldcubeassociation.org/persons/2026ANHN06) |
+| 2 | 28.24 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
+| 3 | 33.64 | [Dương Công Tuyền](https://www.worldcubeassociation.org/persons/2022TUYE01) |
+| 4 | 42.66 | [Lê Thái Duy](https://www.worldcubeassociation.org/persons/2016DUYL01) |
+| 5 | 43.93 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
+| 6 | 58.02 | [Đỗ Anh Tuấn](https://www.worldcubeassociation.org/persons/2016TUAN07) |
+| 7 | 1:03.00 | [Nguyễn Đức Anh](https://www.worldcubeassociation.org/persons/2013ANHN01) |
+| 8 | 1:11.91 | [Nguyễn Công Vinh](https://www.worldcubeassociation.org/persons/2022VINH05) |
+| 9 | 1:16.18 | [Nguyễn Xuân Hồng](https://www.worldcubeassociation.org/persons/2013HNGN01) |
+| 10 | 1:16.86 | [Lê Hoàng Hiệp](https://www.worldcubeassociation.org/persons/2012HIAP01) |
 
 ### 3x3x3 Fewest Moves
 
 | # | First single | Person |
 | ---: | ---: | :--- |
-| 1 | 28 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
-| 2 | 28 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
+| 1 | 28 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
+| 2 | 28 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
 | 3 | 29 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
 | 4 | 30 | [Lê Thủy Triều](https://www.worldcubeassociation.org/persons/2018TRIE03) |
 | 5 | 31 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
@@ -149,40 +149,40 @@
 | 4 | 52.43 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 5 | 52.45 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) |
 | 6 | 54.10 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) |
-| 7 | 57.95 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
-| 8 | 1:00.45 | [Nguyễn Hoàng Thiên Vũ](https://www.worldcubeassociation.org/persons/2019VUNG02) |
-| 9 | 1:02.56 | [Hoàng Vũ Kiên](https://www.worldcubeassociation.org/persons/2022KIEN01) |
-| 10 | 1:05.86 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) |
+| 7 | 56.17 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) |
+| 8 | 57.95 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
+| 9 | 1:00.45 | [Nguyễn Hoàng Thiên Vũ](https://www.worldcubeassociation.org/persons/2019VUNG02) |
+| 10 | 1:02.56 | [Hoàng Vũ Kiên](https://www.worldcubeassociation.org/persons/2022KIEN01) |
 
 ### Pyraminx
 
 | # | First single | Person |
 | ---: | ---: | :--- |
 | 1 | 2.24 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) |
-| 2 | 3.00 | [Bùi Minh Đức](https://www.worldcubeassociation.org/persons/2020DUCB01) |
-| 3 | 3.00 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) |
-| 4 | 3.34 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) |
-| 5 | 3.49 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) |
-| 6 | 3.92 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) |
-| 7 | 3.96 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) |
-| 8 | 4.02 | [Lê Thị Thuý Vy](https://www.worldcubeassociation.org/persons/2023VYLE01) |
-| 9 | 4.13 | [Phùng Nam Khánh](https://www.worldcubeassociation.org/persons/2025KHAN03) |
-| 10 | 4.14 | [Hoàng Gia Ân](https://www.worldcubeassociation.org/persons/2019ANHO01) |
+| 2 | 2.72 | [Đàm Triệu Hồng Phúc](https://www.worldcubeassociation.org/persons/2026PHUC03) |
+| 3 | 3.00 | [Bùi Minh Đức](https://www.worldcubeassociation.org/persons/2020DUCB01) |
+| 4 | 3.00 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) |
+| 5 | 3.34 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) |
+| 6 | 3.49 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) |
+| 7 | 3.92 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) |
+| 8 | 3.96 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) |
+| 9 | 4.02 | [Lê Thị Thuý Vy](https://www.worldcubeassociation.org/persons/2023VYLE01) |
+| 10 | 4.13 | [Phùng Nam Khánh](https://www.worldcubeassociation.org/persons/2025KHAN03) |
 
 ### Clock
 
 | # | First single | Person |
 | ---: | ---: | :--- |
 | 1 | 4.27 | [Nguyễn Trường Giang](https://www.worldcubeassociation.org/persons/2026GIAN02) |
-| 2 | 5.96 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) |
-| 3 | 6.03 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) |
-| 4 | 6.19 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) |
-| 5 | 6.19 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) |
-| 6 | 6.70 | [Tạ Quang Dũng](https://www.worldcubeassociation.org/persons/2022DUNG05) |
-| 7 | 7.46 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) |
-| 8 | 7.50 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
-| 9 | 7.50 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 10 | 7.55 | [Hoàng Văn Hoà](https://www.worldcubeassociation.org/persons/2022HOAH01) |
+| 2 | 5.90 | [Cao Tấn Đạt](https://www.worldcubeassociation.org/persons/2026DATC01) |
+| 3 | 5.96 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) |
+| 4 | 6.03 | [Nguyễn Đức Thịnh](https://www.worldcubeassociation.org/persons/2024THIN02) |
+| 5 | 6.19 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) |
+| 6 | 6.19 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) |
+| 7 | 6.70 | [Tạ Quang Dũng](https://www.worldcubeassociation.org/persons/2022DUNG05) |
+| 8 | 7.46 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) |
+| 9 | 7.50 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
+| 10 | 7.50 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 
 ### Skewb
 
@@ -222,7 +222,9 @@
 | 2 | 4:17.96 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
 | 3 | 5:49.83 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
 | 4 | 8:00.76 | [Mai Tôn Nhật Khánh](https://www.worldcubeassociation.org/persons/2023KHAN43) |
-| 5 | 22:17.00 | [Hồ Quang Tiến](https://www.worldcubeassociation.org/persons/2023TIEN01) |
+| 5 | 8:59.60 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) |
+| 6 | 11:47.00 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) |
+| 7 | 22:17.00 | [Hồ Quang Tiến](https://www.worldcubeassociation.org/persons/2023TIEN01) |
 
 ### 5x5x5 Blindfolded
 
@@ -241,11 +243,11 @@
 | 3 | 15/20 53:13 | [Trần Đức Lương](https://www.worldcubeassociation.org/persons/2019LUON01) |
 | 4 | 12/16 59:16 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
 | 5 | 7/9 32:07 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) |
-| 6 | 4/4 17:58 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
-| 7 | 5/6 29:51 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
-| 8 | 3/3 6:54 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 9 | 4/5 45:27 | [Hồ Quang Tiến](https://www.worldcubeassociation.org/persons/2023TIEN01) |
-| 10 | 6/9 51:56 | [Lê Văn Tuấn](https://www.worldcubeassociation.org/persons/2018TUAN01) |
+| 6 | 6/7 51:27 | [Lê Tuấn Nghĩa](https://www.worldcubeassociation.org/persons/2026NGHI01) |
+| 7 | 4/4 17:58 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
+| 8 | 5/6 29:51 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
+| 9 | 7/10 59:22 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) |
+| 10 | 3/3 6:54 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 
 ### 3x3x3 With Feet
 

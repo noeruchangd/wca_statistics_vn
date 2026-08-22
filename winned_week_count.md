@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 August 2026*
+*Updated on 22 August 2026*
 
 
 ### 3x3x3 Cube
@@ -14,7 +14,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 6 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 7 |
 
 ### 5x5x5 Cube
 
@@ -45,11 +45,17 @@
 | ---: | :--- | ---: |
 | 1 | [Nguyễn Hoàng Thiên Vũ](https://www.worldcubeassociation.org/persons/2019VUNG02) | 1 |
 
+### Pyraminx
+
+| # | Person | Winned weeks |
+| ---: | :--- | ---: |
+| 1 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | 1 |
+
 ### Clock
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 1 |
+| 1 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2 |
 
 ### 3x3x3 Multi-Blind
 

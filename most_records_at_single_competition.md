@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 19 August 2026*
+*Updated on 22 August 2026*
 
 
 ### Continental
@@ -14,6 +14,7 @@
 | 5 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/by_person#2019HUNG16) |
 | 6 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2019HUNG16) |
 | 7 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026/results/by_person#2019HUNG16) |
+| 8 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2019HUNG16) |
 
 ### National
 

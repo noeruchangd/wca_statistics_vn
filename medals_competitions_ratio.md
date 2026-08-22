@@ -1,11 +1,11 @@
 ## Medals to competitions ratio
 
 *Note: Only Vietnamese competitors included*
-*Updated on 19 August 2026*
+*Updated on 22 August 2026*
 
 | # | Person | Medals | Competitions | Ratio |
 | ---: | :--- | ---: | ---: | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 120 | 32 | 3.75 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 127 | 33 | 3.85 |
 | 2 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 120 | 32 | 3.75 |
 | 3 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 28 | 9 | 3.11 |
 | 4 | [Trần Thanh Phong](https://www.worldcubeassociation.org/persons/2016PHON03) | 12 | 4 | 3.00 |
@@ -17,23 +17,23 @@
 | 10 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 38 | 16 | 2.38 |
 | 11 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 15 | 7 | 2.14 |
 | 12 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | 40 | 19 | 2.11 |
-| 13 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 16 | 8 | 2.00 |
-| 14 | [Tran Minh Tuyen](https://www.worldcubeassociation.org/persons/2010TUYE01) | 8 | 4 | 2.00 |
-| 15 | [Van Tien Trung Vu](https://www.worldcubeassociation.org/persons/2010VUVA01) | 6 | 3 | 2.00 |
-| 16 | [Le Huu Anh Tu](https://www.worldcubeassociation.org/persons/2016TULE01) | 4 | 2 | 2.00 |
-| 17 | [Minh Phuc Mai](https://www.worldcubeassociation.org/persons/2010MAIM01) | 4 | 2 | 2.00 |
-| 18 | [Trịnh Quốc Anh](https://www.worldcubeassociation.org/persons/2010TRIN03) | 4 | 2 | 2.00 |
-| 19 | [Bùi Minh Đức](https://www.worldcubeassociation.org/persons/2020DUCB01) | 2 | 1 | 2.00 |
-| 20 | [Hiếu Phạm](https://www.worldcubeassociation.org/persons/2022PHAM05) | 2 | 1 | 2.00 |
-| 21 | [Pham Thien Chinh Le](https://www.worldcubeassociation.org/persons/2010LEPH01) | 2 | 1 | 2.00 |
-| 22 | [Phạm Tuấn Hùng](https://www.worldcubeassociation.org/persons/2025HUNG05) | 2 | 1 | 2.00 |
-| 23 | [Đoàn Thanh Duy](https://www.worldcubeassociation.org/persons/2011DUYA01) | 13 | 7 | 1.86 |
-| 24 | [Lê Hoàng Công Thành](https://www.worldcubeassociation.org/persons/2010LEHO01) | 9 | 5 | 1.80 |
+| 13 | [Tran Minh Tuyen](https://www.worldcubeassociation.org/persons/2010TUYE01) | 8 | 4 | 2.00 |
+| 14 | [Van Tien Trung Vu](https://www.worldcubeassociation.org/persons/2010VUVA01) | 6 | 3 | 2.00 |
+| 15 | [Le Huu Anh Tu](https://www.worldcubeassociation.org/persons/2016TULE01) | 4 | 2 | 2.00 |
+| 16 | [Minh Phuc Mai](https://www.worldcubeassociation.org/persons/2010MAIM01) | 4 | 2 | 2.00 |
+| 17 | [Trịnh Quốc Anh](https://www.worldcubeassociation.org/persons/2010TRIN03) | 4 | 2 | 2.00 |
+| 18 | [Bùi Minh Đức](https://www.worldcubeassociation.org/persons/2020DUCB01) | 2 | 1 | 2.00 |
+| 19 | [Hiếu Phạm](https://www.worldcubeassociation.org/persons/2022PHAM05) | 2 | 1 | 2.00 |
+| 20 | [Pham Thien Chinh Le](https://www.worldcubeassociation.org/persons/2010LEPH01) | 2 | 1 | 2.00 |
+| 21 | [Phạm Tuấn Hùng](https://www.worldcubeassociation.org/persons/2025HUNG05) | 2 | 1 | 2.00 |
+| 22 | [Đoàn Thanh Duy](https://www.worldcubeassociation.org/persons/2011DUYA01) | 13 | 7 | 1.86 |
+| 23 | [Lê Hoàng Công Thành](https://www.worldcubeassociation.org/persons/2010LEHO01) | 9 | 5 | 1.80 |
+| 24 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 16 | 9 | 1.78 |
 | 25 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) | 23 | 13 | 1.77 |
-| 26 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) | 5 | 3 | 1.67 |
-| 27 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 23 | 14 | 1.64 |
+| 26 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 26 | 15 | 1.73 |
+| 27 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) | 5 | 3 | 1.67 |
 | 28 | [Đoàn Văn Danh](https://www.worldcubeassociation.org/persons/2015DANH01) | 11 | 7 | 1.57 |
-| 29 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 48 | 31 | 1.55 |
+| 29 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 49 | 32 | 1.53 |
 
 
 <a href="https://github.com/noeruchangd/wca_statistics_vn" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

@@ -1,6 +1,6 @@
 ## Biggest rounds in Vietnam
 
-*Updated on 19 August 2026*
+*Updated on 22 August 2026*
 
 
 ### 3x3x3 Cube
@@ -15,8 +15,8 @@
 | 6 | 215 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 7 | 212 | [Ho Chi Minh Warm Up 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhWarmUp2017) |
 | 8 | 201 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 9 | 176 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
-| 10 | 172 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
+| 9 | 197 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 10 | 176 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
 
 ### 2x2x2 Cube
 
@@ -25,13 +25,13 @@
 | 1 | 176 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
 | 2 | 171 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
 | 3 | 170 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
-| 4 | 154 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 5 | 125 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
-| 6 | 122 | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) |
-| 7 | 121 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
-| 8 | 101 | [Ho Chi Minh Warm Up 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhWarmUp2017) |
-| 9 | 99 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 10 | 92 | [Ha Noi Open 2018](https://www.worldcubeassociation.org/competitions/HaNoiOpen2018) |
+| 4 | 155 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 5 | 154 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 6 | 125 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
+| 7 | 122 | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) |
+| 8 | 121 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
+| 9 | 101 | [Ho Chi Minh Warm Up 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhWarmUp2017) |
+| 10 | 99 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
 
 ### 4x4x4 Cube
 
@@ -40,58 +40,58 @@
 | 1 | 146 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
 | 2 | 137 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
 | 3 | 121 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
-| 4 | 104 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 5 | 90 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 6 | 88 | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) |
-| 7 | 86 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
-| 8 | 83 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
-| 9 | 81 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 10 | 71 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
+| 4 | 111 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 5 | 104 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 6 | 90 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
+| 7 | 88 | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) |
+| 8 | 86 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
+| 9 | 83 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
+| 10 | 81 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
 
 ### 5x5x5 Cube
 
 | # | Number of competitors | Competition |
 | ---: | ---: | :--- |
 | 1 | 106 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
-| 2 | 73 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
-| 3 | 72 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
-| 4 | 52 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
-| 5 | 51 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 6 | 49 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
-| 7 | 48 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 8 | 48 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
-| 9 | 46 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
-| 10 | 45 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) |
+| 2 | 85 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 3 | 73 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
+| 4 | 72 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
+| 5 | 52 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
+| 6 | 51 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 7 | 49 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
+| 8 | 48 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
+| 9 | 48 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
+| 10 | 46 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
 
 ### 6x6x6 Cube
 
 | # | Number of competitors | Competition |
 | ---: | ---: | :--- |
 | 1 | 63 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
-| 2 | 38 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
-| 3 | 31 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
-| 4 | 30 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
-| 5 | 29 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 6 | 26 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
-| 7 | 25 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |
-| 8 | 25 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 9 | 23 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 10 | 23 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
+| 2 | 53 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 3 | 38 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
+| 4 | 31 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
+| 5 | 30 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
+| 6 | 29 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 7 | 26 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
+| 8 | 25 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |
+| 9 | 25 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
+| 10 | 23 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
 
 ### 7x7x7 Cube
 
 | # | Number of competitors | Competition |
 | ---: | ---: | :--- |
 | 1 | 55 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
-| 2 | 35 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
-| 3 | 32 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
-| 4 | 29 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
-| 5 | 27 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
-| 6 | 22 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |
-| 7 | 22 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 8 | 21 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 9 | 21 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
-| 10 | 19 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
+| 2 | 49 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 3 | 35 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
+| 4 | 32 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
+| 5 | 29 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
+| 6 | 27 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
+| 7 | 22 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |
+| 8 | 22 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 9 | 21 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
+| 10 | 21 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
 
 ### 3x3x3 Blindfolded
 
@@ -99,14 +99,14 @@
 | ---: | ---: | :--- |
 | 1 | 44 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 2 | 39 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
-| 3 | 23 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 4 | 23 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
-| 5 | 21 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 6 | 21 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 7 | 19 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |
-| 8 | 19 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
-| 9 | 18 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 10 | 18 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
+| 3 | 29 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 4 | 23 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 5 | 23 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
+| 6 | 21 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 7 | 21 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
+| 8 | 19 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |
+| 9 | 19 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
+| 10 | 18 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
 
 ### 3x3x3 Fewest Moves
 
@@ -128,29 +128,29 @@
 | ---: | ---: | :--- |
 | 1 | 135 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
 | 2 | 126 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
-| 3 | 118 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
-| 4 | 109 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 5 | 91 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 6 | 85 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
-| 7 | 79 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
-| 8 | 78 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
-| 9 | 75 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) |
-| 10 | 75 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 3 | 121 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 4 | 118 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
+| 5 | 109 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 6 | 91 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
+| 7 | 85 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
+| 8 | 79 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
+| 9 | 78 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
+| 10 | 77 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
 
 ### Megaminx
 
 | # | Number of competitors | Competition |
 | ---: | ---: | :--- |
 | 1 | 73 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
-| 2 | 46 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
-| 3 | 45 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
-| 4 | 33 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 5 | 33 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
-| 6 | 32 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 7 | 30 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
-| 8 | 24 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 9 | 22 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) |
-| 10 | 21 | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) |
+| 2 | 61 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 3 | 46 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
+| 4 | 45 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
+| 5 | 33 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 6 | 33 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
+| 7 | 32 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 8 | 30 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
+| 9 | 24 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
+| 10 | 22 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) |
 
 ### Pyraminx
 
@@ -158,14 +158,14 @@
 | ---: | ---: | :--- |
 | 1 | 110 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 2 | 106 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
-| 3 | 93 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
-| 4 | 75 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 5 | 65 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
-| 6 | 59 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) |
-| 7 | 58 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
-| 8 | 56 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) |
-| 9 | 53 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 10 | 51 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |
+| 3 | 99 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 4 | 93 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
+| 5 | 75 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 6 | 65 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
+| 7 | 59 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) |
+| 8 | 58 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
+| 9 | 56 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) |
+| 10 | 53 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
 
 ### Clock
 
@@ -174,13 +174,13 @@
 | 1 | 70 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 2 | 67 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
 | 3 | 52 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
-| 4 | 39 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
-| 5 | 38 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 6 | 35 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) |
-| 7 | 32 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 8 | 28 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) |
-| 9 | 22 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 10 | 22 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) |
+| 4 | 49 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 5 | 39 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
+| 6 | 38 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 7 | 35 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) |
+| 8 | 32 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 9 | 28 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) |
+| 10 | 22 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
 
 ### Skewb
 
@@ -188,29 +188,29 @@
 | ---: | ---: | :--- |
 | 1 | 88 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
 | 2 | 85 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
-| 3 | 68 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
-| 4 | 53 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 5 | 48 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 6 | 48 | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) |
-| 7 | 46 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) |
-| 8 | 45 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 9 | 44 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) |
-| 10 | 43 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
+| 3 | 79 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 4 | 68 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
+| 5 | 53 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 6 | 48 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 7 | 48 | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) |
+| 8 | 46 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) |
+| 9 | 45 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
+| 10 | 44 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) |
 
 ### Square-1
 
 | # | Number of competitors | Competition |
 | ---: | ---: | :--- |
 | 1 | 47 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
-| 2 | 40 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
-| 3 | 35 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
-| 4 | 30 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
-| 5 | 27 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 6 | 23 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 7 | 19 | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) |
-| 8 | 16 | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024) |
-| 9 | 16 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 10 | 16 | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) |
+| 2 | 43 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 3 | 40 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
+| 4 | 35 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
+| 5 | 30 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
+| 6 | 27 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 7 | 23 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 8 | 19 | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) |
+| 9 | 16 | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024) |
+| 10 | 16 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
 
 ### 4x4x4 Blindfolded
 
@@ -218,7 +218,8 @@
 | ---: | ---: | :--- |
 | 1 | 17 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 2 | 17 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
-| 3 | 11 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |
+| 3 | 13 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 4 | 11 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |
 
 ### 5x5x5 Blindfolded
 
@@ -226,7 +227,8 @@
 | ---: | ---: | :--- |
 | 1 | 15 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 2 | 13 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
-| 3 | 8 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |
+| 3 | 12 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 4 | 8 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |
 
 ### 3x3x3 Multi-Blind
 
@@ -234,10 +236,11 @@
 | ---: | ---: | :--- |
 | 1 | 25 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 2 | 15 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
-| 3 | 12 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |
-| 4 | 12 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
-| 5 | 11 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
-| 6 | 8 | [Don't DNF Hanoi 2024](https://www.worldcubeassociation.org/competitions/DontDNFHanoi2024) |
+| 3 | 14 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 4 | 12 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) |
+| 5 | 12 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 6 | 11 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
+| 7 | 8 | [Don't DNF Hanoi 2024](https://www.worldcubeassociation.org/competitions/DontDNFHanoi2024) |
 
 ### 3x3x3 With Feet
 
