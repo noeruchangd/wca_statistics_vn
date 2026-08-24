@@ -21,7 +21,7 @@ class LongestStandingRecords < GroupedStatistic
         event_id,
         continent.name continent
       FROM results result
-      JOIN persons person ON person.wca_id = person_id AND person.sub_id = 1 AND person.country_id = 'Vietnam'
+      JOIN persons person ON person.wca_id = person_id AND person.country_id = 'Vietnam'
       JOIN competitions competition ON competition.id = competition_id
       JOIN countries country ON country.id = result.country_id
       JOIN continents continent ON continent.id = country.continent_id
@@ -57,7 +57,7 @@ class LongestStandingRecords < GroupedStatistic
           end
         end
         .sort_by! { |event, type, days, *rest| -days }
-        .take(20)
+        .take(100)
         .map! { |event, type, days, *rest| [event, type, "**#{days}**", *rest] }
       [region, results]
     end
