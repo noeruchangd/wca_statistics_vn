@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 
 ### 3x3x3 Cube
@@ -44,8 +44,8 @@
 | 4 | 25 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
 | 5 | 24 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
 | 6 | 22 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
-| 7 | 22 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) |
-| 8 | 22 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
+| 7 | 22 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
+| 8 | 22 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) |
 | 9 | 22 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 10 | 21 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) |
 

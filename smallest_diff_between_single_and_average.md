@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 
 ### 3x3x3 Cube
@@ -89,10 +89,10 @@
 | 4 | 1.23 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 2:22.99 | 2:24.22 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2018PHON02) |
 | 5 | 1.33 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 4:19.29 | 4:20.62 | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019/results/by_person#2010PHAN03) |
 | 6 | 1.37 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 2:24.44 | 2:25.81 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2018PHON02) |
-| 7 | 1.48 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 2:24.52 | 2:26.00 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/by_person#2018PHON02) |
-| 8 | 1.48 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 3:39.56 | 3:41.04 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/by_person#2020LONG01) |
-| 9 | 1.49 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 3:03.13 | 3:04.62 | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019/results/by_person#2015LUON01) |
-| 10 | 1.66 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 2:08.20 | 2:09.86 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024/results/by_person#2018TUNG05) |
+| 7 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 2:56.02 | 2:57.42 | [Temecula Valley BTS 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleyBackToSchool2026/results/by_person#2022NGUY24) |
+| 8 | 1.48 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 2:24.52 | 2:26.00 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/by_person#2018PHON02) |
+| 9 | 1.48 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 3:39.56 | 3:41.04 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/by_person#2020LONG01) |
+| 10 | 1.49 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 3:03.13 | 3:04.62 | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019/results/by_person#2015LUON01) |
 
 ### 3x3x3 Blindfolded
 

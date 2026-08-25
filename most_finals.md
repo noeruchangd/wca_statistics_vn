@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 | # | Finals | Person |
 | ---: | ---: | :--- |
@@ -34,8 +34,8 @@
 | 28 | 56 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
 | 29 | 56 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
 | 30 | 55 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
-| 31 | 53 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) |
-| 32 | 51 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 31 | 55 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 32 | 53 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) |
 | 33 | 51 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
 | 34 | 50 | [Huỳnh Bá Tùng](https://www.worldcubeassociation.org/persons/2015TUNG01) |
 | 35 | 49 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) |

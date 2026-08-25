@@ -1,7 +1,7 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 August 2026*
+*Updated on 25 August 2026*
 
 
 ### 3x3x3 Cube
@@ -166,8 +166,8 @@
 | 6 | 4.80 | [Hoàng Mạnh Cường](https://www.worldcubeassociation.org/persons/2022CUON01) | 4.39, 4.88, 6.11, 3.40, 4.11, 4.08, 5.73, 4.02, 11.98, 4.31, 5.46, 3.76, 4.98, 3.84, 7.04, 3.58, 4.08, 4.19, 5.11, 5.38, 2.99, 6.30, 5.39, 7.12, 4.09 |
 | 7 | 4.87 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) | 4.40, 4.76, DNF, 4.88, 5.57, 5.21, 7.39, 4.83, 4.44, 4.35, 3.38, 3.82, 4.97, 3.70, 4.26, 7.45, 7.35, 3.46, 4.52, 3.33, 4.87, 5.04, 4.10, 6.02, 4.36 |
 | 8 | 4.87 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 4.62, 4.61, 4.28, 5.24, 4.56, 4.83, 3.00, 5.67, 5.14, 6.61, 4.82, 5.34, 7.00, 5.10, 4.11, 2.72, 14.84, 4.56, 3.80, 7.25, 4.45, 4.09, 4.73, 3.75, 4.88 |
-| 9 | 5.05 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 4.79, 6.80, 4.79, 4.64, 4.47, 5.29, 5.56, 3.56, 9.02, 3.93, 5.62, 4.61, 3.56, 6.95, 4.55, 6.25, 4.27, 1.47, 5.63, DNF, 5.60, 6.44, 4.71, 3.39, 4.00 |
-| 10 | 5.15 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4.06, 4.72, 5.45, 5.80, 5.07, 7.66, 5.68, 5.68, 5.65, 3.49, 7.39, 8.12, 3.83, 5.97, DNF, 5.32, 4.31, 4.94, 3.97, 6.50, 4.24, 4.33, 4.17, 3.48, 3.30 |
+| 9 | 4.90 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 2.44, 3.51, 5.40, 4.51, 3.85, 5.19, 3.63, 4.01, 6.18, 5.55, 5.46, 8.33, 4.20, 4.30, 4.70, 6.35, 5.43, 5.37, 5.11, 5.18, 4.76, 3.32, 6.66, 5.12, 5.16 |
+| 10 | 5.05 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 4.79, 6.80, 4.79, 4.64, 4.47, 5.29, 5.56, 3.56, 9.02, 3.93, 5.62, 4.61, 3.56, 6.95, 4.55, 6.25, 4.27, 1.47, 5.63, DNF, 5.60, 6.44, 4.71, 3.39, 4.00 |
 
 ### Square-1
 
