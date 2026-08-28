@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 3x3x3 Cube
@@ -62,7 +62,7 @@
 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 22 |
 | 3 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 19 |
 | 4 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 17 |
-| 5 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 14 |
+| 5 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 15 |
 | 6 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 10 |
 | 7 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 8 |
 | 8 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 7 |
@@ -86,8 +86,8 @@
 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 24 |
 | 2 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 14 |
 | 3 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 14 |
-| 4 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 12 |
-| 5 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 11 |
+| 4 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 12 |
+| 5 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 12 |
 | 6 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 9 |
 | 7 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 6 |
 | 8 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 6 |
@@ -109,7 +109,7 @@
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 16 |
-| 2 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 12 |
+| 2 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 13 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 11 |
 | 4 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 5 |
 | 5 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 5 |
@@ -134,18 +134,18 @@
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 15 |
-| 2 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 11 |
+| 2 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 12 |
 | 3 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 4 |
 | 4 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 4 |
 | 5 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 3 |
 | 6 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 3 |
 | 7 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 3 |
 | 8 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 3 |
-| 9 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 3 |
-| 10 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 3 |
-| 11 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) | 2 |
-| 12 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 2 |
-| 13 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2019PHAM02) | 2 |
+| 9 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 3 |
+| 10 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) | 2 |
+| 11 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 2 |
+| 12 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2019PHAM02) | 2 |
+| 13 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 2 |
 | 14 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 2 |
 | 15 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 2 |
 | 16 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 2 |

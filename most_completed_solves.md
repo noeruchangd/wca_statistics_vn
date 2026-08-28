@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### Competition
@@ -46,7 +46,7 @@
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **895** | 903 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **840** | 881 |
-| 15 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **751** | 759 |
+| 15 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **798** | 806 |
 | 16 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
 | 17 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
 | 18 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | ---: |
 | 1 | 2024 | **27794** | 28805 |
 | 2 | 2025 | **17349** | 18066 |
-| 3 | 2026 | **16075** | 16834 |
+| 3 | 2026 | **16122** | 16881 |
 | 4 | 2023 | **15710** | 16203 |
 | 5 | 2022 | **14897** | 15268 |
 | 6 | 2019 | **10283** | 10564 |
@@ -80,18 +80,18 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **49025** | 50011 |
+| 1 | 3x3x3 Cube | **49040** | 50026 |
 | 2 | 2x2x2 Cube | **25442** | 26098 |
-| 3 | 4x4x4 Cube | **15681** | 16120 |
+| 3 | 4x4x4 Cube | **15691** | 16130 |
 | 4 | 3x3x3 One-Handed | **14947** | 15344 |
 | 5 | Pyraminx | **9107** | 9347 |
-| 6 | 5x5x5 Cube | **7556** | 7737 |
+| 6 | 5x5x5 Cube | **7566** | 7747 |
 | 7 | Skewb | **6421** | 6606 |
 | 8 | Clock | **2508** | 2908 |
 | 9 | Megaminx | **2436** | 2515 |
 | 10 | Square-1 | **1761** | 1837 |
-| 11 | 6x6x6 Cube | **1630** | 1658 |
-| 12 | 7x7x7 Cube | **1284** | 1329 |
+| 11 | 6x6x6 Cube | **1636** | 1664 |
+| 12 | 7x7x7 Cube | **1290** | 1335 |
 | 13 | Magic | **544** | 618 |
 | 14 | 3x3x3 Blindfolded | **530** | 1535 |
 | 15 | 3x3x3 Fewest Moves | **208** | 302 |

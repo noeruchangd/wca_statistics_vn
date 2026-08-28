@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 3x3x3 Cube
@@ -144,7 +144,7 @@
 | 18 | 33.50 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) |
 | 19 | 33.51 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) |
 | 20 | 33.53 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) |
-| 21 | 33.59 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
+| 21 | 33.66 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
 | 22 | 34.20 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
 | 23 | 34.29 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
 | 24 | 34.37 | [Nguyễn Hữu Thông](https://www.worldcubeassociation.org/persons/2017THON01) |
@@ -197,7 +197,7 @@
 | 16 | 1:01.35 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
 | 17 | 1:01.81 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) |
 | 18 | 1:02.04 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) |
-| 19 | 1:02.06 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
+| 19 | 1:02.14 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
 | 20 | 1:02.29 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) |
 | 21 | 1:03.72 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
 | 22 | 1:04.04 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) |
@@ -241,7 +241,7 @@
 | 5 | 1:42.39 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
 | 6 | 1:51.98 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) |
 | 7 | 1:54.66 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
-| 8 | 1:57.12 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
+| 8 | 1:54.77 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
 | 9 | 1:57.57 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
 | 10 | 2:00.45 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
 | 11 | 2:02.24 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) |
@@ -275,9 +275,9 @@
 | 5 | 2:41.32 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
 | 6 | 2:47.10 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) |
 | 7 | 2:48.31 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
-| 8 | 3:01.11 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
-| 9 | 3:04.66 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
-| 10 | 3:04.93 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
+| 8 | 2:59.04 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
+| 9 | 3:01.11 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
+| 10 | 3:04.66 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
 | 11 | 3:04.94 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
 | 12 | 3:09.67 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
 | 13 | 3:09.68 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |

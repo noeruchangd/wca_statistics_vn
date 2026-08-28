@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 3x3x3 Cube
@@ -77,7 +77,7 @@
 | 7 | 1:46.83 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 1:41.29, 2:10.74, 1:45.74, 1:45.00, 1:41.16, 1:49.45, 1:57.18, 1:49.33, 1:50.79, 1:41.08, 1:43.40, 1:44.91 |
 | 8 | 1:48.84 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 2:04.61, 1:47.19, 1:48.00, 1:37.06, 1:45.88, DNF, 1:48.84, 1:46.29, 1:50.63, 1:50.41, 1:39.91, 1:46.61 |
 | 9 | 1:49.21 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 1:52.85, 2:00.59, 1:47.65, 1:52.44, 1:45.69, 2:00.61, 1:45.37, 1:41.04, 1:46.46, 1:43.66, 1:56.33, 1:38.66 |
-| 10 | 1:51.06 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 1:50.62, 1:54.65, 1:43.51, 1:54.92, 1:38.13, 2:00.35, 2:14.06, 1:48.66, 1:51.09, 1:46.06, 1:50.01, 1:50.69 |
+| 10 | 1:50.36 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 1:43.51, 1:54.92, 1:38.13, 2:00.35, 2:14.06, 1:48.66, 1:51.09, 1:46.06, 1:50.01, 1:50.69, 1:55.33, 1:42.96 |
 
 ### 7x7x7 Cube
 
@@ -90,9 +90,9 @@
 | 5 | 2:34.37 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 2:34.94, 2:30.40, 2:38.07, 2:33.43, 2:19.75, 2:36.51, 2:39.97, 2:35.65, 2:40.17, 2:55.72, 2:32.23, 2:22.34 |
 | 6 | 2:37.18 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 2:37.73, 2:32.44, 2:25.80, 2:38.94, 2:48.50, 2:38.03, 2:48.39, 2:36.40, 2:37.76, 2:27.77, 2:50.40, 2:21.57 |
 | 7 | 2:44.83 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 2:43.74, 2:50.52, 3:02.41, 3:11.89, 2:46.88, 2:57.40, 2:34.07, 2:14.37, 2:17.49, 2:57.81, 2:42.30, 2:35.67 |
-| 8 | 2:53.65 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 2:44.83, 2:52.70, 2:42.57, 2:50.26, 2:54.52, 2:53.27, 3:17.67, 2:54.76, 2:54.51, 2:58.27, 2:50.34, 3:03.07 |
-| 9 | 2:54.94 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 2:55.03, 2:48.66, 2:48.85, 3:25.78, 2:46.56, 2:54.76, 2:48.03, 3:00.53, 2:42.47, 3:38.72, 2:58.70, 2:41.39 |
-| 10 | 2:55.85 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 2:56.46, 3:05.78, 3:12.27, 2:47.75, 2:58.39, 3:07.08, 2:57.76, 2:51.23, 2:49.24, 2:37.67, 3:07.13, 2:32.95 |
+| 8 | 2:48.81 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 2:57.76, 2:51.23, 2:49.24, 2:37.67, 3:07.13, 2:32.95, 2:40.43, 2:49.56, 2:49.60, 2:42.63, 3:00.25, 2:49.70 |
+| 9 | 2:53.65 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 2:44.83, 2:52.70, 2:42.57, 2:50.26, 2:54.52, 2:53.27, 3:17.67, 2:54.76, 2:54.51, 2:58.27, 2:50.34, 3:03.07 |
+| 10 | 2:54.94 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 2:55.03, 2:48.66, 2:48.85, 3:25.78, 2:46.56, 2:54.76, 2:48.03, 3:00.53, 2:42.47, 3:38.72, 2:58.70, 2:41.39 |
 
 ### 3x3x3 Fewest Moves
 

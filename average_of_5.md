@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 3x3x3 Cube
@@ -77,7 +77,7 @@
 | 7 | 1:43.72 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 1:41.04, 1:46.46, 1:43.66, 1:56.33, 1:38.66 |
 | 8 | 1:44.01 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 1:41.29, 2:10.74, 1:45.74, 1:45.00, 1:41.16 |
 | 9 | 1:47.00 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 1:37.06, 1:45.88, DNF, 1:48.84, 1:46.29 |
-| 10 | 1:47.65 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | 1:46.50, 1:52.21, 1:44.42, 1:43.17, 1:52.04 |
+| 10 | 1:47.27 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 1:42.96, 1:50.44, 2:05.21, 1:41.18, 1:48.41 |
 
 ### 7x7x7 Cube
 
@@ -90,7 +90,7 @@
 | 5 | 2:29.94 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 2:38.89, 2:22.82, 2:35.16, 2:24.66, 2:30.01 |
 | 6 | 2:31.29 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 2:34.07, 2:14.37, 2:17.49, 2:57.81, 2:42.30 |
 | 7 | 2:33.98 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 2:36.40, 2:37.76, 2:27.77, 2:50.40, 2:21.57 |
-| 8 | 2:46.05 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 2:51.23, 2:49.24, 2:37.67, 3:07.13, 2:32.95 |
+| 8 | 2:42.45 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 2:49.24, 2:37.67, 3:07.13, 2:32.95, 2:40.43 |
 | 9 | 2:47.65 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 3:16.91, 2:45.64, 2:39.47, 2:46.04, 2:51.28 |
 | 10 | 2:49.26 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 3:21.73, 2:44.83, 2:52.70, 2:42.57, 2:50.26 |
 

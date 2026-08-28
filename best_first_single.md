@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on 25 August 2026*
+*Updated on 28 August 2026*
 
 
 ### 3x3x3 Cube
@@ -113,8 +113,8 @@
 
 | # | First single | Person |
 | ---: | ---: | :--- |
-| 1 | 28 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
-| 2 | 28 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
+| 1 | 28 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
+| 2 | 28 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
 | 3 | 29 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
 | 4 | 30 | [Lê Thủy Triều](https://www.worldcubeassociation.org/persons/2018TRIE03) |
 | 5 | 31 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
