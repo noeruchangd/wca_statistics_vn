@@ -1,6 +1,6 @@
 ## Most competitions together
 
-*Updated on 28 August 2026*
+*Updated on 30 August 2026*
 
 | # | Shared competitions | Pair |
 | ---: | ---: | :--- |
