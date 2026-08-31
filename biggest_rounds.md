@@ -1,6 +1,6 @@
 ## Biggest rounds in Vietnam
 
-*Updated on 30 August 2026*
+*Updated on 31 August 2026*
 
 
 ### 3x3x3 Cube
