@@ -1,6 +1,6 @@
 ## Kinch rankings of Vietnamese competitors
 
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 | # | Person | Kinch | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 333bf | 444bf | 555bf | 333fm | 333mbf |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -63,9 +63,9 @@
 | 57 | [Hoàng Gia Huy](https://www.worldcubeassociation.org/persons/2023HUYH01) | 27.35 | 65.90 | 52.31 | 55.11 | 44.95 | 0.00 | 0.00 | 55.14 | 39.15 | 0.00 | 77.32 | 43.14 | 31.87 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 58 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 27.30 | 63.43 | 43.11 | 50.92 | 39.78 | 36.59 | 29.50 | 58.25 | 0.00 | 43.27 | 45.40 | 24.84 | 29.02 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 59 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 26.86 | 56.33 | 47.73 | 55.38 | 52.62 | 56.66 | 64.83 | 52.21 | 0.00 | 40.26 | 0.00 | 30.60 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| 60 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) | 26.78 | 72.47 | 30.06 | 57.18 | 56.86 | 54.51 | 54.53 | 74.66 | 0.00 | 26.83 | 15.40 | 0.00 | 0.00 | 12.75 | 0.00 | 0.00 | 0.00 | 0.00 |
-| 61 | [Đoàn Trần Phú Hưng](https://www.worldcubeassociation.org/persons/2023HUNG06) | 26.74 | 45.41 | 22.48 | 47.99 | 51.68 | 56.50 | 63.85 | 42.54 | 0.00 | 39.52 | 13.07 | 9.29 | 11.08 | 0.00 | 0.00 | 0.00 | 51.16 | 0.00 |
-| 62 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 26.52 | 44.12 | 36.93 | 36.29 | 34.70 | 34.04 | 31.65 | 29.89 | 24.48 | 39.83 | 30.44 | 21.34 | 34.17 | 8.91 | 0.00 | 0.00 | 44.00 | 0.00 |
+| 60 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 26.85 | 44.12 | 36.93 | 36.29 | 34.70 | 35.80 | 31.65 | 33.71 | 24.48 | 39.83 | 30.44 | 21.34 | 34.17 | 8.91 | 0.00 | 0.00 | 44.00 | 0.00 |
+| 61 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) | 26.78 | 72.47 | 30.06 | 57.18 | 56.86 | 54.51 | 54.53 | 74.66 | 0.00 | 26.83 | 15.40 | 0.00 | 0.00 | 12.75 | 0.00 | 0.00 | 0.00 | 0.00 |
+| 62 | [Đoàn Trần Phú Hưng](https://www.worldcubeassociation.org/persons/2023HUNG06) | 26.74 | 45.41 | 22.48 | 47.99 | 51.68 | 56.50 | 63.85 | 42.54 | 0.00 | 39.52 | 13.07 | 9.29 | 11.08 | 0.00 | 0.00 | 0.00 | 51.16 | 0.00 |
 | 63 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 26.37 | 50.31 | 29.05 | 53.53 | 53.94 | 64.98 | 75.60 | 48.42 | 0.00 | 41.80 | 19.61 | 11.02 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 64 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) | 26.27 | 54.77 | 0.00 | 51.52 | 43.38 | 0.00 | 27.08 | 45.42 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 79.21 | 100.00 | 0.00 | 0.00 | 45.24 |
 | 65 | [Nguyễn Lê An Hoàng](https://www.worldcubeassociation.org/persons/2023HOAN03) | 26.15 | 52.18 | 44.14 | 47.16 | 38.50 | 0.00 | 0.00 | 48.40 | 14.49 | 38.09 | 46.10 | 36.43 | 35.90 | 0.00 | 0.00 | 0.00 | 43.14 | 0.00 |

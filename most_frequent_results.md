@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Updated on 31 August 2026*
+*Updated on  1 September 2026*
 
 
 ### 3x3x3 Cube
