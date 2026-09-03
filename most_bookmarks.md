@@ -1,6 +1,6 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 | # | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | ---: | :--- | :--- | :--- |
@@ -13,12 +13,12 @@
 | 7 | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024) | 23 | 120 | 0.19167 |
 | 8 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) | 57 | 300 | 0.19 |
 | 9 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) | 28 | 150 | 0.18667 |
-| 10 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 27 | 150 | 0.18 |
-| 11 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) | 27 | 150 | 0.18 |
-| 12 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | 22 | 125 | 0.176 |
-| 13 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) | 14 | 80 | 0.175 |
-| 14 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 21 | 130 | 0.16154 |
-| 15 | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026) | 8 | 50 | 0.16 |
+| 10 | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026) | 9 | 50 | 0.18 |
+| 11 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 27 | 150 | 0.18 |
+| 12 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) | 27 | 150 | 0.18 |
+| 13 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | 22 | 125 | 0.176 |
+| 14 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) | 14 | 80 | 0.175 |
+| 15 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 21 | 130 | 0.16154 |
 | 16 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) | 23 | 150 | 0.15333 |
 | 17 | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024) | 18 | 120 | 0.15 |
 | 18 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) | 30 | 200 | 0.15 |

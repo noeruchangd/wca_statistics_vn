@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 
 ### 3x3x3 Cube

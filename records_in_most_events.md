@@ -1,7 +1,7 @@
 ## Records in the highest number of events
 
 *Note: All historical records are taken into account (i.e. not only the current ones).*
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 
 ### Continental
@@ -22,16 +22,16 @@
 | 5 | 4 | [Hien Bui](https://www.worldcubeassociation.org/persons/2009BUIH01) | 3x3x3 Cube, 4x4x4 Cube, 5x5x5 Cube, 3x3x3 One-Handed |
 | 6 | 4 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 3x3x3 Cube, 2x2x2 Cube, 4x4x4 Cube, 3x3x3 Fewest Moves |
 | 7 | 4 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | Clock, Skewb, Square-1, 3x3x3 With Feet |
-| 8 | 3 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2x2x2 Cube, Clock, Pyraminx |
-| 9 | 3 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 2x2x2 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed |
-| 10 | 3 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 2x2x2 Cube, 3x3x3 Blindfolded, Square-1 |
+| 8 | 3 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 2x2x2 Cube, 3x3x3 Blindfolded, 3x3x3 One-Handed |
+| 9 | 3 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 2x2x2 Cube, 3x3x3 Blindfolded, Square-1 |
+| 10 | 3 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2x2x2 Cube, Clock, Pyraminx |
 | 11 | 3 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 4x4x4 Cube, 5x5x5 Cube, 6x6x6 Cube |
 | 12 | 3 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 4x4x4 Cube, 5x5x5 Cube, 7x7x7 Cube |
 | 13 | 3 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 5x5x5 Cube, 6x6x6 Cube, 7x7x7 Cube |
 | 14 | 3 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | 4x4x4 Blindfolded, 5x5x5 Blindfolded, 3x3x3 Multi-Blind |
 | 15 | 2 | [Hong Quan Nguyen](https://www.worldcubeassociation.org/persons/2010NGUY13) | 3x3x3 Cube, 2x2x2 Cube |
-| 16 | 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 2x2x2 Cube, 3x3x3 Fewest Moves |
-| 17 | 2 | [Pham Thien Chinh Le](https://www.worldcubeassociation.org/persons/2010LEPH01) | 2x2x2 Cube, 3x3x3 One-Handed |
+| 16 | 2 | [Pham Thien Chinh Le](https://www.worldcubeassociation.org/persons/2010LEPH01) | 2x2x2 Cube, 3x3x3 One-Handed |
+| 17 | 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 2x2x2 Cube, 3x3x3 Fewest Moves |
 | 18 | 2 | [Trịnh Quốc Anh](https://www.worldcubeassociation.org/persons/2010TRIN03) | 4x4x4 Cube, 3x3x3 One-Handed |
 | 19 | 2 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 6x6x6 Cube, 7x7x7 Cube |
 | 20 | 2 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 6x6x6 Cube, 7x7x7 Cube |

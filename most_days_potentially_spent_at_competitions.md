@@ -1,6 +1,6 @@
 ## Most days potentially spent at competitions
 
-*Updated on  1 September 2026*
+*Updated on  2 September 2026*
 
 | # | Days | Person | Competitions |
 | ---: | ---: | :--- | ---: |
@@ -24,13 +24,13 @@
 | 18 | 34 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) | 17 |
 | 19 | 34 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 21 |
 | 20 | 33 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) | 18 |
-| 21 | 32 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 18 |
-| 22 | 31 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 28 |
-| 23 | 31 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 22 |
-| 24 | 31 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) | 18 |
-| 25 | 30 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 16 |
-| 26 | 30 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | 18 |
-| 27 | 30 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 25 |
+| 21 | 32 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 26 |
+| 22 | 32 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 18 |
+| 23 | 31 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 28 |
+| 24 | 31 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 22 |
+| 25 | 31 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) | 18 |
+| 26 | 30 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 16 |
+| 27 | 30 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | 18 |
 | 28 | 28 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 16 |
 | 29 | 28 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 16 |
 | 30 | 27 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 15 |
