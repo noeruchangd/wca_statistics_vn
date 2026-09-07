@@ -1,6 +1,6 @@
 ## Longest streak of national records of the same type in the given event
 
-*Updated on  6 September 2026*
+*Updated on  7 September 2026*
 
 | # | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
@@ -22,7 +22,7 @@
 | 16 | 4 | 7x7x7 Cube | Single | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023) |  | 3.15 |
 | 17 | 4 | 7x7x7 Cube | Average | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) | [Skyline Open 2018](https://www.worldcubeassociation.org/competitions/SkylineOpen2018) | 6.03 |
 | 18 | 4 | Megaminx | Single | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | [Hanoi Open 2010](https://www.worldcubeassociation.org/competitions/HanoiOpen2010) | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) | 7.01 |
-| 19 | 4 | Skewb | Average | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  | 4.14 |
+| 19 | 4 | Skewb | Average | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  | 4.15 |
 | 20 | 4 | Square-1 | Single | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | [Thailand Championship 2016](https://www.worldcubeassociation.org/competitions/ThailandChampionship2016) | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) | 5.98 |
 | 21 | 4 | Square-1 | Average | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |  | 3.53 |
 | 22 | 3 | 3x3x3 Cube | Average | [Hien Bui](https://www.worldcubeassociation.org/persons/2009BUIH01) | [Chattahoochee Spring 2009](https://www.worldcubeassociation.org/competitions/ChattahoocheeSpring2009) | [French Open 2010](https://www.worldcubeassociation.org/competitions/FrenchOpen2010) | 0.94 |
@@ -33,7 +33,7 @@
 | 27 | 3 | 6x6x6 Cube | Average | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) | 5.59 |
 | 28 | 3 | 6x6x6 Cube | Average | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023) | 1.00 |
 | 29 | 3 | 3x3x3 One-Handed | Single | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) | [Ho Chi Minh Spring Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhSpringOpen2018) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) | 6.26 |
-| 30 | 3 | Megaminx | Single | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024) |  | 2.59 |
+| 30 | 3 | Megaminx | Single | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024) |  | 2.60 |
 | 31 | 3 | Megaminx | Average | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | [Hanoi Open 2010](https://www.worldcubeassociation.org/competitions/HanoiOpen2010) | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) | 7.01 |
 | 32 | 3 | Pyraminx | Average | [Lê Minh Cường](https://www.worldcubeassociation.org/persons/2011LEMI02) | [Ha Noi Open 2012](https://www.worldcubeassociation.org/competitions/HaNoi2012) |  | 14.09 |
 | 33 | 3 | Clock | Single | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) | 0.67 |
@@ -74,14 +74,14 @@
 | 68 | 2 | Megaminx | Single | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | [Pride in Long Beach 2023](https://www.worldcubeassociation.org/competitions/PrideInLongBeach2023) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024) | 0.65 |
 | 69 | 2 | Megaminx | Average | [Lê Quốc Khánh](https://www.worldcubeassociation.org/persons/2016KHAN14) | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019) | 1.90 |
 | 70 | 2 | Megaminx | Average | [Nguyễn Hoàng Thiên Vũ](https://www.worldcubeassociation.org/persons/2019VUNG02) | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) | 2.95 |
-| 71 | 2 | Megaminx | Average | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024) |  | 2.59 |
+| 71 | 2 | Megaminx | Average | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024) |  | 2.60 |
 | 72 | 2 | Clock | Average | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) | 0.67 |
 | 73 | 2 | Skewb | Average | [Trần Mạnh Quân](https://www.worldcubeassociation.org/persons/2014QUAN02) | [Ha Noi Cube Day 2015](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2015) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) | 7.43 |
 | 74 | 2 | Square-1 | Single | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 3.47 |
 | 75 | 2 | 4x4x4 Blindfolded | Single | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | [Ota Blind Winter 2022](https://www.worldcubeassociation.org/competitions/OtaBlindWinter2022) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) | 1.59 |
 | 76 | 2 | 5x5x5 Blindfolded | Single | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | [Ota Blind New Year 2024](https://www.worldcubeassociation.org/competitions/OtaBlindNewYear2024) |  | 2.63 |
 | 77 | 2 | 3x3x3 Multi-Blind | Single | [Đỗ Anh Tuấn](https://www.worldcubeassociation.org/persons/2016TUAN07) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |  | 3.13 |
-| 78 | 2 | 3x3x3 With Feet | Average | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) |  | 15.10 |
+| 78 | 2 | 3x3x3 With Feet | Average | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) |  | 15.11 |
 | 79 | 2 | Rubik's Magic | Single | [Van Tien Trung Vu](https://www.worldcubeassociation.org/persons/2010VUVA01) | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010) |  | 16.08 |
 
 
