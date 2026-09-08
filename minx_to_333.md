@@ -1,7 +1,7 @@
 ## Megaminx results compared to 3x3 (Vietnam)
 
 *Note: This statistic compares the best Megaminx average to the best 3x3 average for Vietnamese competitors.*
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | # | Person | Megaminx | 3x3 | Ratio |
 | ---: | :--- | ---: | ---: | ---: |

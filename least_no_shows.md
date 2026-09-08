@@ -1,16 +1,16 @@
 ## Competitions with the least number of no-shows in Vietnam
 
 *Note: This statistic shows the competitions in Vietnam with the least number of no-shows (registered but did not compete in any event of the comp).*
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | # | Competition | Total registered | Total competed | No-shows |
 | ---: | :--- | ---: | ---: | ---: |
 | 1 | [Don't DNF Hanoi 2024](https://www.worldcubeassociation.org/competitions/DontDNFHanoi2024) | 22 | 21 | 1 |
-| 2 | [Master Cube HCMC 2026](https://www.worldcubeassociation.org/competitions/MasterCubeHCMC2026) | 1 | 0 | 1 |
-| 3 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | 98 | 95 | 3 |
-| 4 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) | 34 | 31 | 3 |
-| 5 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) | 99 | 95 | 4 |
-| 6 | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 50 | 46 | 4 |
+| 2 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025) | 98 | 95 | 3 |
+| 3 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) | 34 | 31 | 3 |
+| 4 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) | 99 | 95 | 4 |
+| 5 | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 50 | 46 | 4 |
+| 6 | [Master Cube HCMC 2026](https://www.worldcubeassociation.org/competitions/MasterCubeHCMC2026) | 4 | 0 | 4 |
 | 7 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 128 | 123 | 5 |
 | 8 | [Hanoi COP Open 2024](https://www.worldcubeassociation.org/competitions/HanoiCOPOpen2024) | 94 | 89 | 5 |
 | 9 | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024) | 82 | 77 | 5 |

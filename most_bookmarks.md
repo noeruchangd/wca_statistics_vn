@@ -1,6 +1,6 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on  7 September 2026*
+*Updated on  8 September 2026*
 
 | # | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | ---: | :--- | :--- | :--- |
@@ -8,8 +8,8 @@
 | 2 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) | 19 | 50 | 0.38 |
 | 3 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 30 | 120 | 0.25 |
 | 4 | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 12 | 50 | 0.24 |
-| 5 | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 9 | 40 | 0.225 |
-| 6 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 57 | 275 | 0.20727 |
+| 5 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 57 | 275 | 0.20727 |
+| 6 | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 8 | 40 | 0.2 |
 | 7 | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026) | 10 | 50 | 0.2 |
 | 8 | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024) | 23 | 120 | 0.19167 |
 | 9 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) | 57 | 300 | 0.19 |
