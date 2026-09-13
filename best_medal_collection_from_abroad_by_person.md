@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |
@@ -25,8 +25,8 @@
 | 18 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | **0** | 1 | 4 | 5 |
 | 19 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | **0** | 1 | 0 | 1 |
 | 20 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) | **0** | 1 | 0 | 1 |
-| 21 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | **0** | 0 | 1 | 1 |
-| 22 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **0** | 0 | 1 | 1 |
+| 21 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **0** | 0 | 2 | 2 |
+| 22 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | **0** | 0 | 1 | 1 |
 | 23 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **0** | 0 | 1 | 1 |
 | 24 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | **0** | 0 | 1 | 1 |
 | 25 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **0** | 0 | 1 | 1 |

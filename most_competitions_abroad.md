@@ -1,6 +1,6 @@
 ## Most competitions abroad
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
@@ -16,15 +16,15 @@
 | 10 | 14 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) |
 | 11 | 13 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) |
 | 12 | 12 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
-| 13 | 11 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
-| 14 | 11 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) |
-| 15 | 9 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) |
-| 16 | 9 | [Dang Tran](https://www.worldcubeassociation.org/persons/2022TRAN27) |
-| 17 | 9 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) |
-| 18 | 8 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
-| 19 | 8 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) |
-| 20 | 8 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) |
-| 21 | 8 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
+| 13 | 11 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) |
+| 14 | 11 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
+| 15 | 9 | [Dang Tran](https://www.worldcubeassociation.org/persons/2022TRAN27) |
+| 16 | 9 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) |
+| 17 | 9 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 18 | 9 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) |
+| 19 | 8 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) |
+| 20 | 8 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
+| 21 | 8 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) |
 | 22 | 8 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) |
 | 23 | 6 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) |
 | 24 | 6 | [Minh Huynh](https://www.worldcubeassociation.org/persons/2023HUYN06) |

@@ -1,6 +1,6 @@
 ## Kinch rankings of Vietnamese competitors
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 | # | Person | Kinch | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 333bf | 444bf | 555bf | 333fm | 333mbf |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -69,7 +69,7 @@
 | 63 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 26.37 | 50.31 | 29.05 | 53.53 | 53.94 | 64.98 | 75.60 | 48.42 | 0.00 | 41.80 | 19.61 | 11.02 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 64 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) | 26.27 | 54.77 | 0.00 | 51.52 | 43.38 | 0.00 | 27.08 | 45.42 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 79.21 | 100.00 | 0.00 | 0.00 | 45.24 |
 | 65 | [Nguyễn Lê An Hoàng](https://www.worldcubeassociation.org/persons/2023HOAN03) | 26.15 | 52.18 | 44.14 | 47.16 | 38.50 | 0.00 | 0.00 | 48.40 | 14.49 | 38.09 | 46.10 | 36.43 | 35.90 | 0.00 | 0.00 | 0.00 | 43.14 | 0.00 |
-| 66 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 26.02 | 60.93 | 36.03 | 56.38 | 50.95 | 50.78 | 47.90 | 67.66 | 0.00 | 41.31 | 0.00 | 0.00 | 30.41 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| 66 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 26.14 | 60.93 | 36.03 | 58.33 | 50.95 | 50.78 | 47.90 | 67.66 | 0.00 | 41.31 | 0.00 | 0.00 | 30.41 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 67 | [Eu Yan Luong](https://www.worldcubeassociation.org/persons/2022LUON01) | 26.01 | 53.40 | 40.27 | 50.88 | 41.09 | 33.41 | 0.00 | 59.17 | 32.13 | 40.01 | 36.34 | 23.05 | 32.50 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 68 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) | 25.86 | 47.01 | 36.93 | 43.29 | 37.16 | 0.00 | 0.00 | 49.87 | 0.00 | 49.66 | 44.00 | 35.51 | 52.97 | 0.00 | 0.00 | 0.00 | 43.14 | 0.00 |
 | 69 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 25.78 | 74.35 | 0.00 | 70.57 | 73.16 | 86.78 | 90.57 | 42.88 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |

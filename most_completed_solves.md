@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 
 ### Competition
@@ -47,10 +47,10 @@
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **840** | 881 |
 | 15 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **798** | 806 |
-| 16 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
-| 17 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
-| 18 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
-| 19 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **728** | 752 |
+| 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **758** | 782 |
+| 17 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
+| 18 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
+| 19 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
 | 20 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **699** | 706 |
 
 ### Year
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | ---: |
 | 1 | 2024 | **27794** | 28805 |
 | 2 | 2025 | **17349** | 18066 |
-| 3 | 2026 | **16233** | 17004 |
+| 3 | 2026 | **16263** | 17034 |
 | 4 | 2023 | **15710** | 16203 |
 | 5 | 2022 | **14897** | 15268 |
 | 6 | 2019 | **10283** | 10564 |
@@ -80,15 +80,15 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **49079** | 50066 |
+| 1 | 3x3x3 Cube | **49089** | 50076 |
 | 2 | 2x2x2 Cube | **25461** | 26118 |
-| 3 | 4x4x4 Cube | **15693** | 16132 |
-| 4 | 3x3x3 One-Handed | **14952** | 15349 |
+| 3 | 4x4x4 Cube | **15703** | 16142 |
+| 4 | 3x3x3 One-Handed | **14957** | 15354 |
 | 5 | Pyraminx | **9121** | 9362 |
 | 6 | 5x5x5 Cube | **7570** | 7752 |
 | 7 | Skewb | **6436** | 6621 |
 | 8 | Clock | **2517** | 2920 |
-| 9 | Megaminx | **2437** | 2517 |
+| 9 | Megaminx | **2442** | 2522 |
 | 10 | Square-1 | **1761** | 1837 |
 | 11 | 6x6x6 Cube | **1639** | 1667 |
 | 12 | 7x7x7 Cube | **1290** | 1335 |

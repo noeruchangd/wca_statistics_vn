@@ -7,7 +7,7 @@
       Here we use α = 0.8, meaning that the average emphasizes last ~5 results
       (weight of results older than 5 is around 1/3 in total and decreases quickly for particular results).
       People with less than 5 averages are ignored (as there's not much data to base on).*
-*Updated on 10 September 2026*
+*Updated on 13 September 2026*
 
 
 ### 3x3x3 Cube
@@ -163,15 +163,15 @@
 | 37 | 37.86 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
 | 38 | 37.87 | [Trần Đức Nam](https://www.worldcubeassociation.org/persons/2022NAMT01) |
 | 39 | 38.11 | [Trần Hà Khang](https://www.worldcubeassociation.org/persons/2017KHAN46) |
-| 40 | 38.53 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) |
-| 41 | 38.57 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) |
-| 42 | 38.59 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
-| 43 | 38.79 | [Phan Trọng Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI04) |
-| 44 | 38.81 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) |
-| 45 | 38.86 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
-| 46 | 38.92 | [Trần Hoàng Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMT03) |
-| 47 | 39.28 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
-| 48 | 39.30 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 40 | 38.27 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 41 | 38.53 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) |
+| 42 | 38.57 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) |
+| 43 | 38.59 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
+| 44 | 38.79 | [Phan Trọng Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI04) |
+| 45 | 38.81 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) |
+| 46 | 38.86 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
+| 47 | 38.92 | [Trần Hoàng Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMT03) |
+| 48 | 39.28 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
 | 49 | 39.35 | [Nguyễn Ngọc Huyền Anh](https://www.worldcubeassociation.org/persons/2019ANHN03) |
 | 50 | 39.47 | [Trương Quí Bảo](https://www.worldcubeassociation.org/persons/2019BAOT01) |
 
@@ -337,10 +337,10 @@
 | 34 | 16.16 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) |
 | 35 | 16.33 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
 | 36 | 16.35 | [Nguyễn Minh Hiếu](https://www.worldcubeassociation.org/persons/2023HIEU03) |
-| 37 | 16.43 | [Võ Nguyên Phát](https://www.worldcubeassociation.org/persons/2020PHAT02) |
-| 38 | 16.55 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
-| 39 | 16.62 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2022DUCN02) |
-| 40 | 16.71 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 37 | 16.42 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 38 | 16.43 | [Võ Nguyên Phát](https://www.worldcubeassociation.org/persons/2020PHAT02) |
+| 39 | 16.55 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
+| 40 | 16.62 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2022DUCN02) |
 | 41 | 16.77 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) |
 | 42 | 16.86 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
 | 43 | 17.06 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
@@ -374,7 +374,7 @@
 | 16 | 1:26.39 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
 | 17 | 1:30.84 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 18 | 1:30.98 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) |
-| 19 | 1:34.50 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 19 | 1:33.56 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
 | 20 | 1:38.89 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
 | 21 | 1:51.74 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
 | 22 | 2:13.17 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) |
