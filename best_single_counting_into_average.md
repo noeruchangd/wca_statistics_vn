@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 September 2026*
+*Updated on 18 September 2026*
 
 
 ### 3x3x3 Cube
@@ -23,15 +23,15 @@
 | # | Counting | Peson | Competition |
 | ---: | ---: | :--- | :--- |
 | 1 | 1.13 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/by_person#2019HUNG16) |
-| 2 | 1.27 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2022DUYN02) |
-| 3 | 1.30 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2022DUYN02) |
-| 4 | 1.32 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2022DUYN02) |
-| 5 | 1.37 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Cubing in the Lion's Den 2023](https://www.worldcubeassociation.org/competitions/CubingintheLionsDen2023/results/by_person#2019HUNG16) |
-| 6 | 1.39 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026/results/by_person#2022NGUY24) |
-| 7 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [CubeChella 2024](https://www.worldcubeassociation.org/competitions/CubeChella2024/results/by_person#2022NGUY24) |
-| 8 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Simi Mini A 2026](https://www.worldcubeassociation.org/competitions/SimiMiniA2026/results/by_person#2022NGUY24) |
-| 9 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Cube Against Cancer - OC 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerOC2026/results/by_person#2022NGUY24) |
-| 10 | 1.41 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2022DUYN02) |
+| 2 | 1.22 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [Belgrave Open 2026](https://www.worldcubeassociation.org/competitions/BelgraveOpen2026/results/by_person#2017MINH15) |
+| 3 | 1.27 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2022DUYN02) |
+| 4 | 1.30 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2022DUYN02) |
+| 5 | 1.32 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2022DUYN02) |
+| 6 | 1.37 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Cubing in the Lion's Den 2023](https://www.worldcubeassociation.org/competitions/CubingintheLionsDen2023/results/by_person#2019HUNG16) |
+| 7 | 1.39 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026/results/by_person#2022NGUY24) |
+| 8 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [CubeChella 2024](https://www.worldcubeassociation.org/competitions/CubeChella2024/results/by_person#2022NGUY24) |
+| 9 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Simi Mini A 2026](https://www.worldcubeassociation.org/competitions/SimiMiniA2026/results/by_person#2022NGUY24) |
+| 10 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Cube Against Cancer - OC 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerOC2026/results/by_person#2022NGUY24) |
 
 ### 4x4x4 Cube
 

@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 September 2026*
+*Updated on 18 September 2026*
 
 
 ### 3x3x3 Cube
@@ -119,10 +119,10 @@
 | 4 | 0.14 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 14.16 | 14.30 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/by_person#2019DUNG04) |
 | 5 | 0.16 | [Nguyễn Hữu Thông](https://www.worldcubeassociation.org/persons/2017THON01) | 14.62 | 14.78 | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024/results/by_person#2017THON01) |
 | 6 | 0.17 | [Phạm Nguyễn Chí Duy](https://www.worldcubeassociation.org/persons/2023DUYP01) | 30.41 | 30.58 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026/results/by_person#2023DUYP01) |
-| 7 | 0.21 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 11.85 | 12.06 | [Nub Open Trabuco Hills Fall 2025](https://www.worldcubeassociation.org/competitions/NubOpenTrabucoHillsFall2025/results/by_person#2022NGUY24) |
-| 8 | 0.23 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 13.20 | 13.43 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026/results/by_person#2019ANHT01) |
-| 9 | 0.24 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 15.64 | 15.88 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023/results/by_person#2018TIEN05) |
-| 10 | 0.29 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 10.06 | 10.35 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026/results/by_person#2017PHON07) |
+| 7 | 0.19 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 17.36 | 17.55 | [Belgrave Open 2026](https://www.worldcubeassociation.org/competitions/BelgraveOpen2026/results/by_person#2017MINH15) |
+| 8 | 0.21 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 11.85 | 12.06 | [Nub Open Trabuco Hills Fall 2025](https://www.worldcubeassociation.org/competitions/NubOpenTrabucoHillsFall2025/results/by_person#2022NGUY24) |
+| 9 | 0.23 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 13.20 | 13.43 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026/results/by_person#2019ANHT01) |
+| 10 | 0.24 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 15.64 | 15.88 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023/results/by_person#2018TIEN05) |
 
 ### Megaminx
 

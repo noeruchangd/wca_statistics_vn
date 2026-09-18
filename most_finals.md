@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 16 September 2026*
+*Updated on 18 September 2026*
 
 | # | Finals | Person |
 | ---: | ---: | :--- |
@@ -10,8 +10,8 @@
 | 4 | 135 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
 | 5 | 131 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
 | 6 | 122 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
-| 7 | 115 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) |
-| 8 | 113 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
+| 7 | 116 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
+| 8 | 115 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) |
 | 9 | 111 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
 | 10 | 108 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
 | 11 | 100 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) |

@@ -1,6 +1,6 @@
 ## Kinch rankings of Vietnamese competitors
 
-*Updated on 16 September 2026*
+*Updated on 18 September 2026*
 
 | # | Person | Kinch | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 333bf | 444bf | 555bf | 333fm | 333mbf |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -75,8 +75,8 @@
 | 69 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 25.78 | 74.35 | 0.00 | 70.57 | 73.16 | 86.78 | 90.57 | 42.88 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 70 | [Nguyễn Phúc Thịnh](https://www.worldcubeassociation.org/persons/2015THIN01) | 25.41 | 47.05 | 36.57 | 51.27 | 52.67 | 54.64 | 61.76 | 29.02 | 22.85 | 22.73 | 35.12 | 18.22 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 71 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2022THUY01) | 25.40 | 61.39 | 36.57 | 53.24 | 41.82 | 0.00 | 0.00 | 52.26 | 80.90 | 38.31 | 38.11 | 29.22 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| 72 | [Vương Đình Minh Trung](https://www.worldcubeassociation.org/persons/2026TRUN03) | 24.98 | 54.67 | 58.57 | 60.14 | 55.92 | 0.00 | 0.00 | 60.18 | 27.80 | 41.94 | 27.98 | 28.42 | 0.00 | 9.01 | 0.00 | 0.00 | 0.00 | 0.00 |
-| 73 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 24.90 | 81.65 | 58.10 | 63.27 | 48.25 | 0.00 | 0.00 | 63.74 | 24.36 | 0.00 | 40.07 | 43.93 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| 72 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 25.11 | 81.65 | 61.51 | 63.27 | 48.25 | 0.00 | 0.00 | 63.74 | 24.36 | 0.00 | 40.07 | 43.93 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| 73 | [Vương Đình Minh Trung](https://www.worldcubeassociation.org/persons/2026TRUN03) | 24.98 | 54.67 | 58.57 | 60.14 | 55.92 | 0.00 | 0.00 | 60.18 | 27.80 | 41.94 | 27.98 | 28.42 | 0.00 | 9.01 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 74 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 24.88 | 55.95 | 31.01 | 43.91 | 48.18 | 47.70 | 42.37 | 43.20 | 0.00 | 27.70 | 20.02 | 27.69 | 35.25 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 75 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 24.87 | 47.24 | 24.50 | 50.66 | 46.15 | 45.54 | 45.23 | 45.88 | 15.69 | 23.84 | 13.66 | 17.56 | 0.00 | 0.00 | 0.00 | 0.00 | 46.81 | 0.00 |
 | 76 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) | 24.82 | 53.80 | 47.57 | 44.05 | 37.98 | 34.99 | 42.70 | 73.15 | 0.00 | 24.36 | 17.03 | 46.32 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |

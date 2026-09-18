@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 16 September 2026*
+*Updated on 18 September 2026*
 
 
 ### Competition
@@ -33,7 +33,7 @@
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1870** | 1985 |
-| 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1794** | 1805 |
+| 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1852** | 1865 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
 | 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1559** | 1594 |
 | 5 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1241** | 1317 |
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | ---: |
 | 1 | 2024 | **27794** | 28805 |
 | 2 | 2025 | **17349** | 18066 |
-| 3 | 2026 | **16263** | 17034 |
+| 3 | 2026 | **16352** | 17126 |
 | 4 | 2023 | **15710** | 16203 |
 | 5 | 2022 | **14897** | 15268 |
 | 6 | 2019 | **10283** | 10564 |
@@ -80,13 +80,13 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **49089** | 50076 |
-| 2 | 2x2x2 Cube | **25461** | 26118 |
-| 3 | 4x4x4 Cube | **15703** | 16142 |
-| 4 | 3x3x3 One-Handed | **14957** | 15354 |
-| 5 | Pyraminx | **9121** | 9362 |
-| 6 | 5x5x5 Cube | **7570** | 7752 |
-| 7 | Skewb | **6436** | 6621 |
+| 1 | 3x3x3 Cube | **49114** | 50101 |
+| 2 | 2x2x2 Cube | **25485** | 26143 |
+| 3 | 4x4x4 Cube | **15713** | 16152 |
+| 4 | 3x3x3 One-Handed | **14972** | 15369 |
+| 5 | Pyraminx | **9125** | 9367 |
+| 6 | 5x5x5 Cube | **7576** | 7759 |
+| 7 | Skewb | **6441** | 6626 |
 | 8 | Clock | **2517** | 2920 |
 | 9 | Megaminx | **2442** | 2522 |
 | 10 | Square-1 | **1761** | 1837 |
