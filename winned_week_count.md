@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 18 September 2026*
+*Updated on 19 September 2026*
 
 
 ### 3x3x3 Cube

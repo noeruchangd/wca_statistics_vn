@@ -1,7 +1,7 @@
 ## Vietnamese Championship records
 
 *Note: This is a list of the best results from all Vietnamese Championships. It corresponds to Olympic records for Olympic sports.*
-*Updated on 18 September 2026*
+*Updated on 19 September 2026*
 
 
 ### Single
