@@ -1,6 +1,6 @@
 ## Most records at a single competition
 
-*Updated on 21 September 2026*
+*Updated on 22 September 2026*
 
 
 ### Continental
