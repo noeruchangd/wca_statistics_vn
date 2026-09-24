@@ -1,6 +1,6 @@
 ## Most days potentially spent at competitions
 
-*Updated on 23 September 2026*
+*Updated on 24 September 2026*
 
 | # | Days | Person | Competitions |
 | ---: | ---: | :--- | ---: |
