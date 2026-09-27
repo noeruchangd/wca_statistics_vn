@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 
 ### 3x3x3 Cube
@@ -111,8 +111,8 @@
 | 1 | 1 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
 | 2 | 0 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | [Hanoi Open 2010](https://www.worldcubeassociation.org/competitions/HanoiOpen2010) |
 | 3 | 0 | [Lê Thủy Triều](https://www.worldcubeassociation.org/persons/2018TRIE03) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |
-| 4 | 0 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
-| 5 | 0 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
+| 4 | 0 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
+| 5 | 0 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
 | 6 | 0 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | [Don't DNF Hanoi 2024](https://www.worldcubeassociation.org/competitions/DontDNFHanoi2024) |
 
 ### 3x3x3 One-Handed

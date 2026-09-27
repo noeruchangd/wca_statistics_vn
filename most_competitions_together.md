@@ -1,6 +1,6 @@
 ## Most competitions together
 
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 | # | Shared competitions | Pair |
 | ---: | ---: | :--- |
@@ -34,23 +34,23 @@
 | 28 | 16 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) & [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
 | 29 | 16 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) & [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
 | 30 | 16 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) & [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) |
-| 31 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
-| 32 | 15 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) & [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
-| 33 | 15 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) & [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) |
-| 34 | 15 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) & [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) |
-| 35 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
-| 36 | 15 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) & [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
-| 37 | 15 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) & [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) |
-| 38 | 15 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) & [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
-| 39 | 15 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) & [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
-| 40 | 15 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) & [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
-| 41 | 15 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) & [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
-| 42 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) |
-| 43 | 15 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) & [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) |
-| 44 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) |
-| 45 | 15 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) & [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) |
-| 46 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) |
-| 47 | 15 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) & [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
+| 31 | 16 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) & [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
+| 32 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
+| 33 | 15 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) & [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
+| 34 | 15 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) & [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) |
+| 35 | 15 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) & [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) |
+| 36 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
+| 37 | 15 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) & [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
+| 38 | 15 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) & [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) |
+| 39 | 15 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) & [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
+| 40 | 15 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) & [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
+| 41 | 15 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) & [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
+| 42 | 15 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) & [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
+| 43 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) |
+| 44 | 15 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) & [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) |
+| 45 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) |
+| 46 | 15 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) & [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) |
+| 47 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) |
 | 48 | 14 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) & [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) |
 | 49 | 14 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
 | 50 | 14 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) & [Trương Quốc An](https://www.worldcubeassociation.org/persons/2019ANTR02) |

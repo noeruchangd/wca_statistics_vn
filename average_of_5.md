@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 
 ### 3x3x3 Cube
@@ -115,14 +115,14 @@
 | ---: | ---: | :--- | :--- |
 | 1 | 24.00 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 25, 24, 25, 22, 23 |
 | 2 | 24.00 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 23, 23, 24, 27, 25 |
-| 3 | 29.33 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | 27, 31, 33, 29, 28 |
-| 4 | 35.33 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | 35, DNF, 31, 40, 30 |
-| 5 | 37.33 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 36, 45, 36, 39, 37 |
-| 6 | 39.33 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) | 39, 41, 38, 34, 43 |
-| 7 | 39.33 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | 35, 37, 37, DNF, 44 |
-| 8 | 40.00 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 33, 43, 43, 42, 35 |
-| 9 | 40.67 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 46, 38, 30, 52, 38 |
-| 10 | 43.00 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 41, 44, 44, 40, 45 |
+| 3 | 28.00 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 32, 30, 24, 30, 24 |
+| 4 | 29.33 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | 27, 31, 33, 29, 28 |
+| 5 | 32.67 | [Trần Hoàng Việt](https://www.worldcubeassociation.org/persons/2026VIET01) | 27, 36, 33, DNF, 29 |
+| 6 | 35.33 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | 35, DNF, 31, 40, 30 |
+| 7 | 35.33 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | 28, 38, 34, 35, 37 |
+| 8 | 37.33 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 36, 45, 36, 39, 37 |
+| 9 | 39.33 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) | 39, 41, 38, 34, 43 |
+| 10 | 40.00 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 33, 43, 43, 42, 35 |
 
 ### 3x3x3 One-Handed
 

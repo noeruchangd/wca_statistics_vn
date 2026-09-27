@@ -1,7 +1,7 @@
 ## Worst result providing a podium
 
 *Note: Only finals are taken into account. Results where the main statistic is DNF are ignored.*
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 
 ### 3x3x3 Cube
@@ -119,9 +119,10 @@
 | 4 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 33 | **37.67** | [Don't DNF Hanoi 2024](https://www.worldcubeassociation.org/competitions/DontDNFHanoi2024/results/podiums#e333fm) | 1 |
 | 5 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) | 30 | **36.67** | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024/results/podiums#e333fm) | 2 |
 | 6 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 24 | **27.33** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/podiums#e333fm) | 2 |
-| 7 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 24 | **25.33** | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024/results/podiums#e333fm) | 1 |
-| 8 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 24 | **24.67** | [FMC East Melbourne 2025](https://www.worldcubeassociation.org/competitions/FMCEastMelbourne2025/results/podiums#e333fm) | 2 |
-| 9 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 23 | **24.33** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/podiums#e333fm) | 2 |
+| 7 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 24 | **25.67** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026/results/podiums#e333fm) | 3 |
+| 8 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 24 | **25.33** | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024/results/podiums#e333fm) | 1 |
+| 9 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 24 | **24.67** | [FMC East Melbourne 2025](https://www.worldcubeassociation.org/competitions/FMCEastMelbourne2025/results/podiums#e333fm) | 2 |
+| 10 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 23 | **24.33** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/podiums#e333fm) | 2 |
 
 ### 3x3x3 One-Handed
 

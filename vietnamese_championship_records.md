@@ -1,7 +1,7 @@
 ## Vietnamese Championship records
 
 *Note: This is a list of the best results from all Vietnamese Championships. It corresponds to Olympic records for Olympic sports.*
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 
 ### Single
@@ -15,7 +15,7 @@
 | 5 | 6x6x6 Cube | 1:04.05 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
 | 6 | 7x7x7 Cube | 1:48.62 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025) |
 | 7 | 3x3x3 Blindfolded | 18.99 | [Nguyễn Tuấn Anh](https://www.worldcubeassociation.org/persons/2026ANHN06) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
-| 8 | 3x3x3 Fewest Moves | 23 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
+| 8 | 3x3x3 Fewest Moves | 23 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) |
 | 9 | 3x3x3 One-Handed | 7.55 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
 | 10 | Megaminx | 31.77 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 11 | Pyraminx | 0.98 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
@@ -36,7 +36,7 @@
 | 5 | 6x6x6 Cube | 1:09.12 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
 | 6 | 7x7x7 Cube | 1:49.63 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
 | 7 | 3x3x3 Blindfolded | 29.10 | [Đỗ Anh Tuấn](https://www.worldcubeassociation.org/persons/2016TUAN07) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
-| 8 | 3x3x3 Fewest Moves | 24.33 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
+| 8 | 3x3x3 Fewest Moves | 24.33 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) |
 | 9 | 3x3x3 One-Handed | 9.99 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
 | 10 | Megaminx | 35.56 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 11 | Pyraminx | 2.56 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |

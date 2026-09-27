@@ -1,12 +1,12 @@
 ## Vietnamese Championship podiums by person
 
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |
 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **18** | 6 | 2 | 26 |
 | 2 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **5** | 2 | 3 | 10 |
-| 3 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **4** | 0 | 0 | 4 |
+| 3 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **5** | 0 | 0 | 5 |
 | 4 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **3** | 2 | 1 | 6 |
 | 5 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) | **3** | 1 | 1 | 5 |
 | 6 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | **3** | 0 | 1 | 4 |
@@ -43,19 +43,19 @@
 | 37 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | **0** | 1 | 2 | 3 |
 | 38 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | **0** | 1 | 2 | 3 |
 | 39 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) | **0** | 1 | 2 | 3 |
-| 40 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | **0** | 1 | 0 | 1 |
-| 41 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) | **0** | 1 | 0 | 1 |
-| 42 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | **0** | 1 | 0 | 1 |
-| 43 | [Nguyễn Hồng Anh Khoa](https://www.worldcubeassociation.org/persons/2017KHOA12) | **0** | 1 | 0 | 1 |
-| 44 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | **0** | 1 | 0 | 1 |
-| 45 | [Nguyễn Thanh Long](https://www.worldcubeassociation.org/persons/2022LONG09) | **0** | 1 | 0 | 1 |
-| 46 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) | **0** | 1 | 0 | 1 |
-| 47 | [Nguyễn Trường Giang](https://www.worldcubeassociation.org/persons/2026GIAN02) | **0** | 1 | 0 | 1 |
-| 48 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) | **0** | 1 | 0 | 1 |
-| 49 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **0** | 1 | 0 | 1 |
-| 50 | [Trần Thùy Duyên](https://www.worldcubeassociation.org/persons/2025DUYE01) | **0** | 1 | 0 | 1 |
-| 51 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | **0** | 0 | 2 | 2 |
-| 52 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **0** | 0 | 1 | 1 |
+| 40 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **0** | 1 | 1 | 2 |
+| 41 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | **0** | 1 | 1 | 2 |
+| 42 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) | **0** | 1 | 0 | 1 |
+| 43 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | **0** | 1 | 0 | 1 |
+| 44 | [Nguyễn Hồng Anh Khoa](https://www.worldcubeassociation.org/persons/2017KHOA12) | **0** | 1 | 0 | 1 |
+| 45 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | **0** | 1 | 0 | 1 |
+| 46 | [Nguyễn Thanh Long](https://www.worldcubeassociation.org/persons/2022LONG09) | **0** | 1 | 0 | 1 |
+| 47 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) | **0** | 1 | 0 | 1 |
+| 48 | [Nguyễn Trường Giang](https://www.worldcubeassociation.org/persons/2026GIAN02) | **0** | 1 | 0 | 1 |
+| 49 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) | **0** | 1 | 0 | 1 |
+| 50 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **0** | 1 | 0 | 1 |
+| 51 | [Trần Thùy Duyên](https://www.worldcubeassociation.org/persons/2025DUYE01) | **0** | 1 | 0 | 1 |
+| 52 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | **0** | 0 | 2 | 2 |
 | 53 | [Đoàn Trần Phú Hưng](https://www.worldcubeassociation.org/persons/2023HUNG06) | **0** | 0 | 1 | 1 |
 | 54 | [Hoàng Văn Hoà](https://www.worldcubeassociation.org/persons/2022HOAH01) | **0** | 0 | 1 | 1 |
 | 55 | [Lê Đình Nguyên Khôi](https://www.worldcubeassociation.org/persons/2025KHOI02) | **0** | 0 | 1 | 1 |

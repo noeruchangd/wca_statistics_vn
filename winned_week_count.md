@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 
 ### 3x3x3 Cube
@@ -47,9 +47,9 @@
 | 12 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 6 |
 | 13 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | 5 |
 | 14 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 5 |
-| 15 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 5 |
-| 16 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 4 |
-| 17 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 4 |
+| 15 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 5 |
+| 16 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 5 |
+| 17 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 4 |
 | 18 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) | 4 |
 | 19 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 4 |
 | 20 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 3 |
@@ -95,10 +95,10 @@
 | 10 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 4 |
 | 11 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 4 |
 | 12 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4 |
-| 13 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 4 |
-| 14 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 4 |
-| 15 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | 3 |
-| 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 3 |
+| 13 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 4 |
+| 14 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 4 |
+| 15 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 4 |
+| 16 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | 3 |
 | 17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 3 |
 | 18 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | 3 |
 | 19 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | 2 |
@@ -184,7 +184,7 @@
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
 | 1 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 8 |
-| 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 5 |
+| 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 6 |
 | 3 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 1 |
 | 4 | [Nguyễn Duy Cương](https://www.worldcubeassociation.org/persons/2010NGUY26) | 1 |
 | 5 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 1 |
@@ -277,8 +277,8 @@
 | 3 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 10 |
 | 4 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 8 |
 | 5 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 4 |
-| 6 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 4 |
-| 7 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 3 |
+| 6 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 4 |
+| 7 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 4 |
 | 8 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 3 |
 | 9 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | 3 |
 | 10 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | 2 |

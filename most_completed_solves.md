@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 
 ### Competition
@@ -40,14 +40,14 @@
 | 6 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | **1223** | 1251 |
 | 7 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1156** | 1160 |
 | 8 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1150** | 1186 |
-| 9 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1077** | 1146 |
+| 9 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1083** | 1152 |
 | 10 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **1029** | 1058 |
 | 11 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **1010** | 1022 |
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **895** | 903 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **840** | 881 |
 | 15 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **798** | 806 |
-| 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **758** | 782 |
+| 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **776** | 805 |
 | 17 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
 | 18 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
 | 19 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | ---: |
 | 1 | 2024 | **27794** | 28805 |
 | 2 | 2025 | **17349** | 18066 |
-| 3 | 2026 | **16377** | 17151 |
+| 3 | 2026 | **16455** | 17248 |
 | 4 | 2023 | **15710** | 16203 |
 | 5 | 2022 | **14897** | 15268 |
 | 6 | 2019 | **10283** | 10564 |
@@ -80,21 +80,21 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **49124** | 50111 |
-| 2 | 2x2x2 Cube | **25490** | 26148 |
+| 1 | 3x3x3 Cube | **49134** | 50121 |
+| 2 | 2x2x2 Cube | **25493** | 26153 |
 | 3 | 4x4x4 Cube | **15713** | 16152 |
 | 4 | 3x3x3 One-Handed | **14972** | 15369 |
 | 5 | Pyraminx | **9135** | 9377 |
-| 6 | 5x5x5 Cube | **7576** | 7759 |
+| 6 | 5x5x5 Cube | **7578** | 7762 |
 | 7 | Skewb | **6441** | 6626 |
-| 8 | Clock | **2517** | 2920 |
+| 8 | Clock | **2520** | 2925 |
 | 9 | Megaminx | **2442** | 2522 |
 | 10 | Square-1 | **1761** | 1837 |
 | 11 | 6x6x6 Cube | **1639** | 1667 |
 | 12 | 7x7x7 Cube | **1290** | 1335 |
 | 13 | Magic | **544** | 618 |
 | 14 | 3x3x3 Blindfolded | **530** | 1539 |
-| 15 | 3x3x3 Fewest Moves | **208** | 302 |
+| 15 | 3x3x3 Fewest Moves | **268** | 376 |
 | 16 | Master Magic | **143** | 150 |
 | 17 | 3x3x3 Multi-Blind | **40** | 65 |
 | 18 | 3x3x3 With Feet | **35** | 47 |

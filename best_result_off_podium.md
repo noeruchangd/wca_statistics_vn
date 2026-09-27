@@ -1,7 +1,7 @@
 ## Best result not providing a podium
 
 *Note: Only finals at Vietnamese competitions are taken into account.*
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 
 ### 3x3x3 Cube
@@ -113,16 +113,16 @@
 
 | # | Person | Single | Average | Competition | Place |
 | ---: | :--- | ---: | ---: | :--- | :--: |
-| 1 | [Andy Mok Man Cheuk (莫文卓)](https://www.worldcubeassociation.org/persons/2016CHEU04) | 27 | **28.67** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333fm_f) | 4 |
-| 2 | [Xiaotian Ma (马晓田)](https://www.worldcubeassociation.org/persons/2020MAXI01) | 30 | **34.67** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333fm_f) | 4 |
-| 3 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 31 | **35.00** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333fm_f) | 5 |
-| 4 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | 35 | **36.33** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333fm_f) | 5 |
-| 5 | [Chi Zhang (张弛)](https://www.worldcubeassociation.org/persons/2016ZHAC01) | 27 | **37.00** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333fm_f) | 6 |
-| 6 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 36 | **37.00** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333fm_f) | 6 |
-| 7 | [Châu Ngọc Thắng](https://www.worldcubeassociation.org/persons/2022THAN08) | 31 | **37.67** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333fm_f) | 7 |
-| 8 | [Weisheng Chen (陈伟胜)](https://www.worldcubeassociation.org/persons/2015CHEN52) | 36 | **38.67** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333fm_f) | 7 |
-| 9 | [Ming Zheng (郑鸣)](https://www.worldcubeassociation.org/persons/2009ZHEN11) | 36 | **39.00** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333fm_f) | 8 |
-| 10 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 36 | **39.33** | [Don't DNF Hanoi 2024](https://www.worldcubeassociation.org/competitions/DontDNFHanoi2024/results/all#e333fm_f) | 4 |
+| 1 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 24 | **26.00** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026/results/all#e333fm_f) | 4 |
+| 2 | [Takumi Tamura (田村匠)](https://www.worldcubeassociation.org/persons/2019TAMU01) | 26 | **28.67** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026/results/all#e333fm_f) | 5 |
+| 3 | [Andy Mok Man Cheuk (莫文卓)](https://www.worldcubeassociation.org/persons/2016CHEU04) | 27 | **28.67** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333fm_f) | 4 |
+| 4 | [Xiaotian Ma (马晓田)](https://www.worldcubeassociation.org/persons/2020MAXI01) | 30 | **34.67** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333fm_f) | 4 |
+| 5 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 31 | **35.00** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333fm_f) | 5 |
+| 6 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | 35 | **36.33** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333fm_f) | 5 |
+| 7 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | 35 | **36.33** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026/results/all#e333fm_f) | 6 |
+| 8 | [Chi Zhang (张弛)](https://www.worldcubeassociation.org/persons/2016ZHAC01) | 27 | **37.00** | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/all#e333fm_f) | 6 |
+| 9 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 36 | **37.00** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333fm_f) | 6 |
+| 10 | [Châu Ngọc Thắng](https://www.worldcubeassociation.org/persons/2022THAN08) | 31 | **37.67** | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/all#e333fm_f) | 7 |
 
 ### 3x3x3 One-Handed
 

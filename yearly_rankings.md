@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -214,12 +214,30 @@
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
 | 1 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **22** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 22, 23, 26 |
+| 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **23** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 23, 23, 27 |
+| 3 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **24** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 24, 30, 24 |
+| 4 | [Trần Hoàng Việt](https://www.worldcubeassociation.org/persons/2026VIET01) | **27** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 27, 36, 33 |
+| 5 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | **28** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 28, 38, 34 |
+| 6 | [Hà Minh Dũng](https://www.worldcubeassociation.org/persons/2026DUNG01) | **35** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 35, 45, DNF |
+| 7 | [Nguyễn Tuấn Kiên](https://www.worldcubeassociation.org/persons/2023KIEN04) | **41** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 41, 44, 45 |
+| 8 | [Nguyễn Vũ Năng](https://www.worldcubeassociation.org/persons/2025NANG01) | **41** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 41, 51, 45 |
+| 9 | [Nguyễn Hoàng Minh](https://www.worldcubeassociation.org/persons/2026MINH02) | **41** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 41, 41, 45 |
+| 10 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | **42** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 46, 42, 46 |
 
 ### 3x3x3 Fewest Moves - Average
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
 | 1 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **23.67** | [FMC World 2026](https://www.worldcubeassociation.org/competitions/FMCWorld2026) | 22, 23, 26 |
+| 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **24.33** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 23, 23, 27 |
+| 3 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **26.00** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 24, 30, 24 |
+| 4 | [Trần Hoàng Việt](https://www.worldcubeassociation.org/persons/2026VIET01) | **32.00** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 27, 36, 33 |
+| 5 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | **33.33** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 28, 38, 34 |
+| 6 | [Nguyễn Hoàng Minh](https://www.worldcubeassociation.org/persons/2026MINH02) | **42.33** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 41, 41, 45 |
+| 7 | [Nguyễn Tuấn Kiên](https://www.worldcubeassociation.org/persons/2023KIEN04) | **43.33** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 41, 44, 45 |
+| 8 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | **44.67** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 46, 42, 46 |
+| 9 | [Nguyễn Vũ Năng](https://www.worldcubeassociation.org/persons/2025NANG01) | **45.67** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 41, 51, 45 |
+| 10 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) | **50.33** | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 52, 48, 51 |
 
 ### 3x3x3 One-Handed - Single
 

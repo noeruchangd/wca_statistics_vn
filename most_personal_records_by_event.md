@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 
 ### 3x3x3 Cube
@@ -114,15 +114,15 @@
 | # | PRs | Person |
 | ---: | ---: | :--- |
 | 1 | 10 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
-| 2 | 4 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
-| 3 | 3 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
-| 4 | 3 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
-| 5 | 3 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
-| 6 | 3 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
-| 7 | 3 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) |
-| 8 | 3 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
-| 9 | 3 | [Đào Sơn Tùng](https://www.worldcubeassociation.org/persons/2024TUNG01) |
-| 10 | 3 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
+| 2 | 7 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
+| 3 | 7 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) |
+| 4 | 4 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
+| 5 | 4 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) |
+| 6 | 4 | [Nguyễn Hoàng Minh](https://www.worldcubeassociation.org/persons/2026MINH02) |
+| 7 | 3 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
+| 8 | 3 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
+| 9 | 3 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
+| 10 | 3 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
 
 ### 3x3x3 One-Handed
 

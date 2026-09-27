@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on 26 September 2026*
+*Updated on 27 September 2026*
 
 
 ### 3x3x3 Cube
@@ -112,15 +112,16 @@
 
 | # | First average | Person |
 | ---: | ---: | :--- |
-| 1 | 35.00 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
-| 2 | 36.33 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) |
-| 3 | 37.67 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
-| 4 | 37.67 | [Châu Ngọc Thắng](https://www.worldcubeassociation.org/persons/2022THAN08) |
-| 5 | 39.67 | [Lê Văn Tuấn](https://www.worldcubeassociation.org/persons/2018TUAN01) |
-| 6 | 42.00 | [Lê Anh](https://www.worldcubeassociation.org/persons/2023ANHL02) |
-| 7 | 45.00 | [Bùi Lưu Hoàng Long](https://www.worldcubeassociation.org/persons/2025LONG12) |
-| 8 | 54.33 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) |
-| 9 | 55.67 | [Phạm Thuý Huyền](https://www.worldcubeassociation.org/persons/2018HUYE01) |
+| 1 | 32.00 | [Trần Hoàng Việt](https://www.worldcubeassociation.org/persons/2026VIET01) |
+| 2 | 35.00 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
+| 3 | 36.33 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) |
+| 4 | 37.67 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
+| 5 | 37.67 | [Châu Ngọc Thắng](https://www.worldcubeassociation.org/persons/2022THAN08) |
+| 6 | 39.67 | [Lê Văn Tuấn](https://www.worldcubeassociation.org/persons/2018TUAN01) |
+| 7 | 42.00 | [Lê Anh](https://www.worldcubeassociation.org/persons/2023ANHL02) |
+| 8 | 43.33 | [Nguyễn Tuấn Kiên](https://www.worldcubeassociation.org/persons/2023KIEN04) |
+| 9 | 44.67 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) |
+| 10 | 45.00 | [Bùi Lưu Hoàng Long](https://www.worldcubeassociation.org/persons/2025LONG12) |
 
 ### 3x3x3 One-Handed
 
