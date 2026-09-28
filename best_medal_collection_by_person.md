@@ -1,11 +1,11 @@
 ## Best medal collection by person
 
 *Note: *
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **75** | 29 | 23 | 127 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **76** | 32 | 23 | 131 |
 | 2 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | **50** | 43 | 27 | 120 |
 | 3 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | **35** | 47 | 31 | 113 |
 | 4 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | **21** | 8 | 9 | 38 |
@@ -25,7 +25,7 @@
 | 18 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **7** | 2 | 7 | 16 |
 | 19 | [Đoàn Văn Danh](https://www.worldcubeassociation.org/persons/2015DANH01) | **7** | 1 | 3 | 11 |
 | 20 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | **7** | 1 | 1 | 9 |
-| 21 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **6** | 12 | 9 | 27 |
+| 21 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **6** | 12 | 11 | 29 |
 | 22 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **5** | 13 | 15 | 33 |
 | 23 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **5** | 5 | 10 | 20 |
 | 24 | [Đoàn Thanh Duy](https://www.worldcubeassociation.org/persons/2011DUYA01) | **5** | 5 | 3 | 13 |
@@ -76,7 +76,7 @@
 | 69 | [Lê Thái Duy](https://www.worldcubeassociation.org/persons/2016DUYL01) | **2** | 0 | 0 | 2 |
 | 70 | [Nguyễn Hoàng Thiên Vũ](https://www.worldcubeassociation.org/persons/2019VUNG02) | **2** | 0 | 0 | 2 |
 | 71 | [Nguyễn Khoa Điền](https://www.worldcubeassociation.org/persons/2022DIEN01) | **2** | 0 | 0 | 2 |
-| 72 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1** | 7 | 7 | 15 |
+| 72 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1** | 7 | 8 | 16 |
 | 73 | [Trần Văn Thanh Tùng](https://www.worldcubeassociation.org/persons/2011TRAN08) | **1** | 6 | 5 | 12 |
 | 74 | [Nguyễn Quang Trung](https://www.worldcubeassociation.org/persons/2011NGUY10) | **1** | 5 | 6 | 12 |
 | 75 | [Đoàn Trường Sơn](https://www.worldcubeassociation.org/persons/2015SOND02) | **1** | 5 | 2 | 8 |

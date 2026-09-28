@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 25 Competitions
@@ -14,9 +14,10 @@
 | 5 | 2527 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
 | 6 | 2563 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) |
 | 7 | 2932 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) |
-| 8 | 3691 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
-| 9 | 3738 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
-| 10 | 4312 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
+| 8 | 2976 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
+| 9 | 3691 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
+| 10 | 3738 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
+| 11 | 4312 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
 
 ### 10 Competitions
 

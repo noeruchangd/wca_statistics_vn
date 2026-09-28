@@ -1,10 +1,10 @@
 ## National records count by person
 
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 | # | NRs | Person |
 | ---: | ---: | :--- |
-| 1 | 81 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 1 | 83 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 2 | 48 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
 | 3 | 22 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) |
 | 4 | 18 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) |

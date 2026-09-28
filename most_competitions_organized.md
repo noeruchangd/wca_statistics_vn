@@ -1,21 +1,21 @@
 ## Most competitions organized
 
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 | # | Organized | Person |
 | ---: | ---: | :--- |
-| 1 | 17 | Hiệp hội Rubik Việt Nam |
+| 1 | 18 | Hiệp hội Rubik Việt Nam |
 | 2 | 16 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) |
-| 3 | 15 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
+| 3 | 16 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
 | 4 | 10 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) |
-| 5 | 8 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 5 | 9 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 6 | 8 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
-| 7 | 7 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) |
-| 8 | 7 | Zyorubik |
-| 9 | 7 | Cubing Hanoi |
+| 7 | 8 | Cubing Hanoi |
+| 8 | 7 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) |
+| 9 | 7 | Zyorubik |
 | 10 | 6 | [Nguyễn Lê Hoàng](https://www.worldcubeassociation.org/persons/2022HOAN02) |
-| 11 | 5 | Rubik Ocean |
-| 12 | 5 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) |
+| 11 | 6 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) |
+| 12 | 5 | Rubik Ocean |
 | 13 | 5 | cubingHCM |
 | 14 | 4 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) |
 | 15 | 4 | [Phạm Huy Phúc](https://www.worldcubeassociation.org/persons/2022PHUC12) |

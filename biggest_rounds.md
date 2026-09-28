@@ -1,6 +1,6 @@
 ## Biggest rounds in Vietnam
 
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
@@ -73,10 +73,10 @@
 | 4 | 31 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
 | 5 | 30 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
 | 6 | 29 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 7 | 26 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
-| 8 | 25 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |
-| 9 | 25 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 10 | 23 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 7 | 26 | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026) |
+| 8 | 26 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
+| 9 | 25 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |
+| 10 | 25 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
 
 ### 7x7x7 Cube
 
@@ -87,11 +87,11 @@
 | 3 | 35 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) |
 | 4 | 32 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 5 | 29 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
-| 6 | 27 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
-| 7 | 22 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |
-| 8 | 22 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
-| 9 | 21 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 10 | 21 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |
+| 6 | 27 | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026) |
+| 7 | 27 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
+| 8 | 22 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) |
+| 9 | 22 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) |
+| 10 | 21 | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
 
 ### 3x3x3 Blindfolded
 

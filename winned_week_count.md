@@ -1,14 +1,14 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 27 |
+| 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 28 |
 | 2 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 22 |
 | 3 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 16 |
 | 4 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 14 |
@@ -33,7 +33,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 24 |
+| 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 25 |
 | 2 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 14 |
 | 3 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 12 |
 | 4 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 12 |
@@ -47,9 +47,9 @@
 | 12 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 6 |
 | 13 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | 5 |
 | 14 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 5 |
-| 15 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 5 |
-| 16 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 5 |
-| 17 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 4 |
+| 15 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 5 |
+| 16 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 4 |
+| 17 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 4 |
 | 18 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) | 4 |
 | 19 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 4 |
 | 20 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 3 |
@@ -58,7 +58,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 23 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 24 |
 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 22 |
 | 3 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 19 |
 | 4 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 17 |
@@ -83,7 +83,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 24 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 25 |
 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 15 |
 | 3 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 14 |
 | 4 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 12 |
@@ -95,10 +95,10 @@
 | 10 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 4 |
 | 11 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 4 |
 | 12 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4 |
-| 13 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 4 |
-| 14 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 4 |
-| 15 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 4 |
-| 16 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | 3 |
+| 13 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 4 |
+| 14 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 4 |
+| 15 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | 3 |
+| 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 3 |
 | 17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 3 |
 | 18 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | 3 |
 | 19 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | 2 |
@@ -108,7 +108,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 16 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 17 |
 | 2 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 13 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 11 |
 | 4 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 5 |
@@ -133,7 +133,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 15 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 16 |
 | 2 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 12 |
 | 3 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 4 |
 | 4 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 4 |
@@ -297,7 +297,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 16 |
+| 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 17 |
 | 2 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 8 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 8 |
 | 4 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 6 |

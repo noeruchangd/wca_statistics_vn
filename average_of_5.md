@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
@@ -39,7 +39,7 @@
 | # | Ao5 | Person | Times |
 | ---: | ---: | :--- | :--- |
 | 1 | 19.74 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 20.48, 19.67, 21.48, 19.06, 18.98 |
-| 2 | 24.04 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 23.13, 23.73, 23.77, 36.39, 24.63 |
+| 2 | 23.08 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 20.40, 23.20, 22.08, 28.83, 23.97 |
 | 3 | 24.77 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 24.49, 25.76, 24.05, 31.72, 22.42 |
 | 4 | 25.53 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 24.83, 25.34, 28.23, 26.42, 24.62 |
 | 5 | 25.56 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 24.08, 25.15, 28.96, 26.55, 24.97 |
@@ -54,13 +54,13 @@
 | # | Ao5 | Person | Times |
 | ---: | ---: | :--- | :--- |
 | 1 | 34.76 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 31.95, 33.48, 41.16, 35.32, 35.49 |
-| 2 | 45.68 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 45.25, 44.81, 44.69, 54.25, 46.97 |
-| 3 | 46.55 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 44.83, 46.12, 45.19, 53.22, 48.34 |
+| 2 | 45.44 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 43.68, 54.37, 44.61, 41.82, 48.02 |
+| 3 | 46.15 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 43.79, 1:09.29, 45.44, 45.82, 47.18 |
 | 4 | 46.71 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 42.71, 43.59, 47.75, 50.94, 48.80 |
 | 5 | 47.08 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 1:01.18, 44.73, 47.53, 48.50, 45.20 |
 | 6 | 50.03 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 48.47, 50.47, 51.14, 1:03.59, 45.57 |
-| 7 | 51.60 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 52.24, 55.41, 52.27, 50.28, 48.50 |
-| 8 | 52.15 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 48.77, 46.77, 58.74, 54.09, 53.59 |
+| 7 | 50.89 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 53.55, 59.54, 49.87, 48.83, 49.24 |
+| 8 | 51.60 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 52.24, 55.41, 52.27, 50.28, 48.50 |
 | 9 | 52.20 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 52.40, 51.64, 50.45, 56.32, 52.55 |
 | 10 | 52.21 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | 58.61, 53.98, 50.35, 47.51, 52.30 |
 
@@ -83,11 +83,11 @@
 
 | # | Ao5 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 1:47.71 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:42.24, 1:44.26, 1:52.27, 1:51.95, 1:46.91 |
+| 1 | 1:40.41 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:43.30, 1:33.75, 1:42.25, 1:47.74, 1:35.68 |
 | 2 | 2:01.33 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 1:54.45, 2:08.28, 2:01.25, 2:09.44, 1:46.42 |
 | 3 | 2:17.54 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 2:30.98, 2:13.58, 2:09.11, 2:14.61, 2:24.44 |
-| 4 | 2:20.80 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 2:17.68, 2:16.67, 2:29.37, 2:22.97, 2:21.74 |
-| 5 | 2:29.94 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 2:38.89, 2:22.82, 2:35.16, 2:24.66, 2:30.01 |
+| 4 | 2:20.69 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 2:30.74, 2:22.10, 2:13.84, 2:13.97, 2:26.00 |
+| 5 | 2:20.80 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 2:17.68, 2:16.67, 2:29.37, 2:22.97, 2:21.74 |
 | 6 | 2:31.29 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 2:34.07, 2:14.37, 2:17.49, 2:57.81, 2:42.30 |
 | 7 | 2:33.98 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 2:36.40, 2:37.76, 2:27.77, 2:50.40, 2:21.57 |
 | 8 | 2:42.45 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 2:49.24, 2:37.67, 3:07.13, 2:32.95, 2:40.43 |

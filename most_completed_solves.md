@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 
 ### Competition
@@ -32,15 +32,15 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1870** | 1985 |
-| 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1852** | 1865 |
-| 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
-| 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1559** | 1594 |
-| 5 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1241** | 1317 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1910** | 2027 |
+| 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1867** | 1880 |
+| 3 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1597** | 1633 |
+| 4 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
+| 5 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1277** | 1354 |
 | 6 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | **1223** | 1251 |
-| 7 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1156** | 1160 |
+| 7 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1186** | 1190 |
 | 8 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1150** | 1186 |
-| 9 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1083** | 1152 |
+| 9 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1109** | 1178 |
 | 10 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **1029** | 1058 |
 | 11 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **1010** | 1022 |
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **895** | 903 |
@@ -49,9 +49,9 @@
 | 15 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **798** | 806 |
 | 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **776** | 805 |
 | 17 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
-| 18 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
-| 19 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
-| 20 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **699** | 706 |
+| 18 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **736** | 743 |
+| 19 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
+| 20 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
 
 ### Year
 
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | ---: |
 | 1 | 2024 | **27794** | 28805 |
 | 2 | 2025 | **17349** | 18066 |
-| 3 | 2026 | **16455** | 17248 |
+| 3 | 2026 | **16955** | 17761 |
 | 4 | 2023 | **15710** | 16203 |
 | 5 | 2022 | **14897** | 15268 |
 | 6 | 2019 | **10283** | 10564 |
@@ -80,18 +80,18 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **49134** | 50121 |
-| 2 | 2x2x2 Cube | **25493** | 26153 |
-| 3 | 4x4x4 Cube | **15713** | 16152 |
+| 1 | 3x3x3 Cube | **49139** | 50126 |
+| 2 | 2x2x2 Cube | **25498** | 26158 |
+| 3 | 4x4x4 Cube | **15894** | 16338 |
 | 4 | 3x3x3 One-Handed | **14972** | 15369 |
 | 5 | Pyraminx | **9135** | 9377 |
-| 6 | 5x5x5 Cube | **7578** | 7762 |
-| 7 | Skewb | **6441** | 6626 |
+| 6 | 5x5x5 Cube | **7767** | 7956 |
+| 7 | Skewb | **6446** | 6631 |
 | 8 | Clock | **2520** | 2925 |
 | 9 | Megaminx | **2442** | 2522 |
 | 10 | Square-1 | **1761** | 1837 |
-| 11 | 6x6x6 Cube | **1639** | 1667 |
-| 12 | 7x7x7 Cube | **1290** | 1335 |
+| 11 | 6x6x6 Cube | **1697** | 1726 |
+| 12 | 7x7x7 Cube | **1347** | 1394 |
 | 13 | Magic | **544** | 618 |
 | 14 | 3x3x3 Blindfolded | **530** | 1539 |
 | 15 | 3x3x3 Fewest Moves | **268** | 376 |

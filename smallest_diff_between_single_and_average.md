@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
@@ -72,12 +72,12 @@
 | 2 | 0.32 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 1:51.75 | 1:52.07 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2022GIAN02) |
 | 3 | 0.67 | [Đỗ Duy Dương](https://www.worldcubeassociation.org/persons/2019DUON06) | 2:46.61 | 2:47.28 | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019/results/by_person#2019DUON06) |
 | 4 | 0.69 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 1:49.84 | 1:50.53 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022/results/by_person#2018TUNG05) |
-| 5 | 0.82 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 1:34.69 | 1:35.51 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/by_person#2018PHON02) |
-| 6 | 0.84 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 2:16.26 | 2:17.10 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/by_person#2022DUYN02) |
-| 7 | 0.87 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 2:03.02 | 2:03.89 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025/results/by_person#2020LONG01) |
-| 8 | 0.90 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:16.56 | 1:17.46 | [Robinson Latkrabang Cubing 2024](https://www.worldcubeassociation.org/competitions/RobinsonLatkrabangCubing2024/results/by_person#2019HUNG16) |
-| 9 | 0.92 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) | 2:41.35 | 2:42.27 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022/results/by_person#2018SONT01) |
-| 10 | 0.94 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 1:33.18 | 1:34.12 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026/results/by_person#2020DIEN01) |
+| 5 | 0.75 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 1:38.00 | 1:38.75 | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026/results/by_person#2018PHON02) |
+| 6 | 0.82 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 1:34.69 | 1:35.51 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/by_person#2018PHON02) |
+| 7 | 0.84 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 2:16.26 | 2:17.10 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024/results/by_person#2022DUYN02) |
+| 8 | 0.87 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | 2:03.02 | 2:03.89 | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025/results/by_person#2020LONG01) |
+| 9 | 0.90 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:16.56 | 1:17.46 | [Robinson Latkrabang Cubing 2024](https://www.worldcubeassociation.org/competitions/RobinsonLatkrabangCubing2024/results/by_person#2019HUNG16) |
+| 10 | 0.92 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) | 2:41.35 | 2:42.27 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022/results/by_person#2018SONT01) |
 
 ### 7x7x7 Cube
 

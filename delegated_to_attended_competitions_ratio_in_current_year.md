@@ -1,11 +1,11 @@
 ## Delegated to attended competition ratio in the current year (Vietnam)
 
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 | # | Delegated | Attended | Ratio | Person | List on WCA |
 | ---: | ---: | ---: | ---: | :--- | :--: |
-| 1 | 5 | 4 | 1.25 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=115116) |
-| 2 | 3 | 3 | 1.00 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=42070) |
+| 1 | 6 | 5 | 1.20 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=115116) |
+| 2 | 4 | 4 | 1.00 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=42070) |
 | 3 | 1 | 1 | 1.00 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | [List](https://www.worldcubeassociation.org/competitions?year=all+years&state=past&delegate=12694) |
 
 

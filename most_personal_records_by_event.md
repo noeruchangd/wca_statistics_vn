@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
@@ -39,13 +39,13 @@
 | # | PRs | Person |
 | ---: | ---: | :--- |
 | 1 | 28 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) |
-| 2 | 26 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
-| 3 | 26 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
+| 2 | 27 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
+| 3 | 26 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
 | 4 | 25 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
 | 5 | 24 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
-| 6 | 22 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
-| 7 | 22 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
-| 8 | 22 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) |
+| 6 | 23 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) |
+| 7 | 22 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
+| 8 | 22 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
 | 9 | 22 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 10 | 21 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) |
 
@@ -53,7 +53,7 @@
 
 | # | PRs | Person |
 | ---: | ---: | :--- |
-| 1 | 27 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
+| 1 | 28 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
 | 2 | 25 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
 | 3 | 24 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 4 | 23 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
@@ -72,9 +72,9 @@
 | 2 | 19 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
 | 3 | 18 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
 | 4 | 17 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) |
-| 5 | 16 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
-| 6 | 16 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 7 | 15 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
+| 5 | 17 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
+| 6 | 16 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
+| 7 | 16 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 8 | 14 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
 | 9 | 14 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
 | 10 | 13 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
@@ -85,13 +85,13 @@
 | ---: | ---: | :--- |
 | 1 | 23 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
 | 2 | 23 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
-| 3 | 21 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 3 | 23 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 4 | 20 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
 | 5 | 18 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
 | 6 | 17 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
-| 7 | 15 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) |
-| 8 | 14 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) |
-| 9 | 14 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
+| 7 | 16 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
+| 8 | 15 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) |
+| 9 | 14 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) |
 | 10 | 13 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
 
 ### 3x3x3 Blindfolded

@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 
 ### 3x3x3 Cube
@@ -52,16 +52,16 @@
 
 | # | Counting | Peson | Competition |
 | ---: | ---: | :--- | :--- |
-| 1 | 33.48 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2019HUNG16) |
-| 2 | 34.73 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2019HUNG16) |
-| 3 | 36.46 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2019HUNG16) |
-| 4 | 36.57 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/by_person#2019HUNG16) |
-| 5 | 36.68 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025/results/by_person#2019HUNG16) |
-| 6 | 36.78 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Seattle Cube Cascade UW 2025](https://www.worldcubeassociation.org/competitions/SeattleCubeCascadeUW2025/results/by_person#2019HUNG16) |
-| 7 | 37.04 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026/results/by_person#2019HUNG16) |
-| 8 | 37.35 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019HUNG16) |
-| 9 | 37.38 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Lakewood Fall 2025](https://www.worldcubeassociation.org/competitions/LakewoodFall2025/results/by_person#2019HUNG16) |
-| 10 | 37.39 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Robinson Latkrabang Cubing 2024](https://www.worldcubeassociation.org/competitions/RobinsonLatkrabangCubing2024/results/by_person#2019HUNG16) |
+| 1 | 32.21 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026/results/by_person#2019HUNG16) |
+| 2 | 33.48 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2019HUNG16) |
+| 3 | 34.73 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2019HUNG16) |
+| 4 | 35.53 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi Big Cubes 2026](https://www.worldcubeassociation.org/competitions/HanoiBigCubes2026/results/by_person#2019HUNG16) |
+| 5 | 36.46 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2019HUNG16) |
+| 6 | 36.57 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/by_person#2019HUNG16) |
+| 7 | 36.68 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [NxN in Hanoi 2025](https://www.worldcubeassociation.org/competitions/NxNinHanoi2025/results/by_person#2019HUNG16) |
+| 8 | 36.78 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Seattle Cube Cascade UW 2025](https://www.worldcubeassociation.org/competitions/SeattleCubeCascadeUW2025/results/by_person#2019HUNG16) |
+| 9 | 37.04 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026/results/by_person#2019HUNG16) |
+| 10 | 37.35 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019HUNG16) |
 
 ### 3x3x3 One-Handed
 

@@ -1,7 +1,7 @@
 ## Most delegated competitions with another delegate
 
 *Note: Shows how many times each delegate has co-delegated with others. Only Vietnamese delegates are included, and only competitions that have taken place in Vietnam and have results posted are considered.*
-*Updated on 27 September 2026*
+*Updated on 28 September 2026*
 
 
 ### [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03)
@@ -13,7 +13,7 @@ _Total delegated competitions: 12 (12 in Vietnam)_
 | 2 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 2 |
 
 ### [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07)
-_Total delegated competitions: 9 (9 in Vietnam)_
+_Total delegated competitions: 10 (10 in Vietnam)_
 
 | # | Co-delegate | Count |
 | ---: | :--- | ---: |
