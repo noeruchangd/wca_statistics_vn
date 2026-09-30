@@ -1,6 +1,6 @@
 ## Longest streak of national records of the same type in the given event
 
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | # | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | ---: | :--- | :--- | :--- | :--- | :--- | ---: |

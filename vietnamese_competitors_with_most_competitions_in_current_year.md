@@ -1,6 +1,6 @@
 ## Vietnamese competitors with most competitions in the current year
 
-*Updated on 28 September 2026*
+*Updated on 30 September 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
