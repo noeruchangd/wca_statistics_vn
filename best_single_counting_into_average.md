@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 
 ### 3x3x3 Cube
@@ -142,8 +142,8 @@
 
 | # | Counting | Peson | Competition |
 | ---: | ---: | :--- | :--- |
-| 1 | 7.58 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024/results/by_person#2020QUAN01) |
-| 2 | 7.58 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2023DUON03) |
+| 1 | 6.32 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2023DUON03) |
+| 2 | 7.58 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024/results/by_person#2020QUAN01) |
 | 3 | 7.72 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023/results/by_person#2020QUAN01) |
 | 4 | 7.77 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2020QUAN01) |
 | 5 | 7.79 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024/results/by_person#2023DUON03) |

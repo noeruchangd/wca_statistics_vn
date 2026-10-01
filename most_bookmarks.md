@@ -1,6 +1,6 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 | # | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | ---: | :--- | :--- | :--- |

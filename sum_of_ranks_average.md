@@ -1,6 +1,6 @@
 ## Sum of national rankings (average)
 
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 | # | Person | SoR | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 444bf | 555bf | 333bf | 333fm |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -57,7 +57,7 @@
 | 51 | [Hoàng Đức Trí](https://www.worldcubeassociation.org/persons/2024TRIH01) | 1414 | 109 | 137 | 111 | 45 | 47 | 43 | 96 | 147 | 166 | 194 | 86 | 175 | 1 | 2 | 26 | 30 |
 | 52 | [Eu Yan Luong](https://www.worldcubeassociation.org/persons/2022LUON01) | 1428 | 294 | 112 | 106 | 110 | 114 | 116 | 75 | 54 | 67 | 79 | 199 | 44 | 1 | 2 | 26 | 30 |
 | 53 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) | 1430 | 118 | 218 | 89 | 139 | 66 | 116 | 140 | 58 | 166 | 82 | 112 | 93 | 1 | 2 | 10 | 21 |
-| 54 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | 1455 | 233 | 71 | 380 | 201 | 161 | 116 | 72 | 2 | 74 | 19 | 57 | 11 | 1 | 2 | 26 | 30 |
+| 54 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | 1454 | 233 | 71 | 380 | 201 | 161 | 116 | 72 | 1 | 74 | 19 | 57 | 11 | 1 | 2 | 26 | 30 |
 | 55 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 1520 | 225 | 18 | 157 | 218 | 141 | 116 | 242 | 15 | 132 | 59 | 42 | 100 | 1 | 2 | 23 | 30 |
 | 56 | [Nguyễn Lê An Hoàng](https://www.worldcubeassociation.org/persons/2023HOAN03) | 1582 | 336 | 79 | 142 | 145 | 161 | 116 | 191 | 125 | 79 | 45 | 68 | 37 | 1 | 2 | 26 | 30 |
 | 57 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 1586 | 90 | 147 | 14 | 8 | 5 | 3 | 126 | 147 | 135 | 162 | 516 | 175 | 1 | 2 | 26 | 30 |

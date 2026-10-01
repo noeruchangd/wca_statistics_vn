@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -393,7 +393,7 @@
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | **5.14** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 5.14, 10.51, 7.58, 8.32, 10.76 |
+| 1 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | **5.14** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 5.14, 10.51, 7.58, 6.32, 10.76 |
 | 2 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | **7.13** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 7.13, 8.14, 11.37, 8.75, 16.70 |
 | 3 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **7.88** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 11.69, 7.88, 11.15, 13.02, 12.15 |
 | 4 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **8.86** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 11.10, 17.58, 10.00, 8.86, 12.38 |
@@ -408,7 +408,7 @@
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | **8.80** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 5.14, 10.51, 7.58, 8.32, 10.76 |
+| 1 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | **8.14** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 5.14, 10.51, 7.58, 6.32, 10.76 |
 | 2 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | **9.42** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 7.13, 8.14, 11.37, 8.75, 16.70 |
 | 3 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **10.21** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 8.31, 9.64, 10.72, 13.53, 10.26 |
 | 4 | [Nguyễn Anh Hào](https://www.worldcubeassociation.org/persons/2022HAON02) | **11.15** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 10.99, 12.64, 11.77, 10.70, 10.47 |

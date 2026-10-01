@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on 30 September 2026*
+*Updated on  1 October 2026*
 
 
 ### 3x3x3 Cube
@@ -190,15 +190,16 @@
 
 | # | Competitions | Person | First win |
 | ---: | ---: | :--- | :--- |
-| 1 | 2 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019) |
-| 2 | 2 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) |
-| 3 | 1 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Ha Noi Cube Day 2014](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2014) |
-| 4 | 0 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) |
-| 5 | 0 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | [HCMC Spring Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSpringOpen2016) |
-| 6 | 0 | [Tô Thái Dương](https://www.worldcubeassociation.org/persons/2018DUON02) | [Ha Noi Cube Day 2019](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2019) |
-| 7 | 0 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 8 | 0 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2022THUY01) | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) |
-| 9 | 0 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [UCLA Summer 2025](https://www.worldcubeassociation.org/competitions/UCLASummer2025) |
+| 1 | 4 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) |
+| 2 | 2 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019) |
+| 3 | 2 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) |
+| 4 | 1 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Ha Noi Cube Day 2014](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2014) |
+| 5 | 0 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) |
+| 6 | 0 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | [HCMC Spring Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSpringOpen2016) |
+| 7 | 0 | [Tô Thái Dương](https://www.worldcubeassociation.org/persons/2018DUON02) | [Ha Noi Cube Day 2019](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2019) |
+| 8 | 0 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
+| 9 | 0 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2022THUY01) | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) |
+| 10 | 0 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [UCLA Summer 2025](https://www.worldcubeassociation.org/competitions/UCLASummer2025) |
 
 ### 4x4x4 Blindfolded
 
