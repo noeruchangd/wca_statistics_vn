@@ -1,7 +1,7 @@
 ## Best first single
 
 *Note: In other words, it's the best first time done when participating for the first time in the given event.*
-*Updated on  1 October 2026*
+*Updated on  4 October 2026*
 
 
 ### 3x3x3 Cube
@@ -114,13 +114,13 @@
 | # | First single | Person |
 | ---: | ---: | :--- |
 | 1 | 27 | [Trần Hoàng Việt](https://www.worldcubeassociation.org/persons/2026VIET01) |
-| 2 | 28 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
-| 3 | 28 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
+| 2 | 28 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
+| 3 | 28 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) |
 | 4 | 29 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
 | 5 | 30 | [Lê Thủy Triều](https://www.worldcubeassociation.org/persons/2018TRIE03) |
 | 6 | 31 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
-| 7 | 31 | [Châu Ngọc Thắng](https://www.worldcubeassociation.org/persons/2022THAN08) |
-| 8 | 31 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
+| 7 | 31 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
+| 8 | 31 | [Châu Ngọc Thắng](https://www.worldcubeassociation.org/persons/2022THAN08) |
 | 9 | 32 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 10 | 33 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
 
