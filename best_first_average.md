@@ -1,7 +1,7 @@
 ## Best first average
 
 *Note: In other words, it's the best average done when participating for the first time in the given event.*
-*Updated on  4 October 2026*
+*Updated on  6 October 2026*
 
 
 ### 3x3x3 Cube
@@ -31,8 +31,8 @@
 | 6 | 3.00 | [Cao Tấn Đạt](https://www.worldcubeassociation.org/persons/2026DATC01) |
 | 7 | 3.17 | [Phạm Hữu Nguyên Khang](https://www.worldcubeassociation.org/persons/2024KHAN43) |
 | 8 | 3.27 | [Biện Nguyễn Vinh Hiển](https://www.worldcubeassociation.org/persons/2022HIEN01) |
-| 9 | 3.33 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
-| 10 | 3.38 | [Lê Phùng Nguyên Khang](https://www.worldcubeassociation.org/persons/2023KHAN41) |
+| 9 | 3.32 | [Giovanni Le](https://www.worldcubeassociation.org/persons/2026LEGI01) |
+| 10 | 3.33 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
 
 ### 4x4x4 Cube
 

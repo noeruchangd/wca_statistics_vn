@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  4 October 2026*
+*Updated on  6 October 2026*
 
 
 ### 3x3x3 Cube
@@ -41,9 +41,9 @@
 | 6 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 9 |
 | 7 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 7 |
 | 8 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) | 7 |
-| 9 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 7 |
-| 10 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 6 |
-| 11 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 6 |
+| 9 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 7 |
+| 10 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 7 |
+| 11 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 6 |
 | 12 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 6 |
 | 13 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | 5 |
 | 14 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 5 |
@@ -69,8 +69,8 @@
 | 9 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) | 6 |
 | 10 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 6 |
 | 11 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 5 |
-| 12 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4 |
-| 13 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 4 |
+| 12 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 5 |
+| 13 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4 |
 | 14 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 4 |
 | 15 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 4 |
 | 16 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) | 3 |
@@ -108,7 +108,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 17 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 18 |
 | 2 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 13 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 11 |
 | 4 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 5 |
@@ -133,7 +133,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 16 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 17 |
 | 2 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 12 |
 | 3 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 4 |
 | 4 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 4 |
@@ -300,8 +300,8 @@
 | 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 17 |
 | 2 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 8 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 8 |
-| 4 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 6 |
-| 5 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 6 |
+| 4 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 7 |
+| 5 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 6 |
 | 6 | [Trần Mạnh Quân](https://www.worldcubeassociation.org/persons/2014QUAN02) | 5 |
 | 7 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 5 |
 | 8 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) | 5 |

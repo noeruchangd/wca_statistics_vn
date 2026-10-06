@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  4 October 2026*
+*Updated on  6 October 2026*
 
 
 ### Competition
@@ -32,7 +32,7 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1910** | 2027 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1922** | 2045 |
 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1867** | 1880 |
 | 3 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1597** | 1633 |
 | 4 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
@@ -46,12 +46,12 @@
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **895** | 903 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **840** | 881 |
-| 15 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **798** | 806 |
+| 15 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **810** | 818 |
 | 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **776** | 805 |
-| 17 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
-| 18 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **736** | 743 |
-| 19 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
-| 20 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **732** | 761 |
+| 17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **767** | 796 |
+| 18 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
+| 19 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **736** | 743 |
+| 20 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
 
 ### Year
 
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | ---: |
 | 1 | 2024 | **27794** | 28805 |
 | 2 | 2025 | **17349** | 18066 |
-| 3 | 2026 | **16984** | 17788 |
+| 3 | 2026 | **17079** | 17893 |
 | 4 | 2023 | **15710** | 16203 |
 | 5 | 2022 | **14897** | 15268 |
 | 6 | 2019 | **10283** | 10564 |
@@ -80,26 +80,26 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **49154** | 50141 |
-| 2 | 2x2x2 Cube | **25498** | 26158 |
-| 3 | 4x4x4 Cube | **15906** | 16348 |
+| 1 | 3x3x3 Cube | **49179** | 50166 |
+| 2 | 2x2x2 Cube | **25508** | 26168 |
+| 3 | 4x4x4 Cube | **15911** | 16353 |
 | 4 | 3x3x3 One-Handed | **14972** | 15369 |
 | 5 | Pyraminx | **9135** | 9377 |
 | 6 | 5x5x5 Cube | **7769** | 7958 |
-| 7 | Skewb | **6446** | 6631 |
-| 8 | Clock | **2520** | 2925 |
-| 9 | Megaminx | **2442** | 2522 |
-| 10 | Square-1 | **1761** | 1837 |
-| 11 | 6x6x6 Cube | **1697** | 1726 |
-| 12 | 7x7x7 Cube | **1347** | 1394 |
+| 7 | Skewb | **6451** | 6636 |
+| 8 | Clock | **2532** | 2940 |
+| 9 | Megaminx | **2447** | 2527 |
+| 10 | Square-1 | **1770** | 1847 |
+| 11 | 6x6x6 Cube | **1709** | 1738 |
+| 12 | 7x7x7 Cube | **1359** | 1406 |
 | 13 | Magic | **544** | 618 |
 | 14 | 3x3x3 Blindfolded | **530** | 1539 |
 | 15 | 3x3x3 Fewest Moves | **268** | 376 |
 | 16 | Master Magic | **143** | 150 |
 | 17 | 3x3x3 Multi-Blind | **40** | 65 |
 | 18 | 3x3x3 With Feet | **35** | 47 |
-| 19 | 4x4x4 Blindfolded | **21** | 101 |
-| 20 | 5x5x5 Blindfolded | **6** | 65 |
+| 19 | 4x4x4 Blindfolded | **21** | 104 |
+| 20 | 5x5x5 Blindfolded | **6** | 68 |
 
 
 <a href="https://github.com/noeruchangd/wca_statistics_vn" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

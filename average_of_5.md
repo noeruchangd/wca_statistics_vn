@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  4 October 2026*
+*Updated on  6 October 2026*
 
 
 ### 3x3x3 Cube
@@ -76,14 +76,14 @@
 | 6 | 1:40.04 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 1:58.47, 1:32.41, 1:43.49, 1:38.65, 1:37.97 |
 | 7 | 1:43.72 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 1:41.04, 1:46.46, 1:43.66, 1:56.33, 1:38.66 |
 | 8 | 1:44.01 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 1:41.29, 2:10.74, 1:45.74, 1:45.00, 1:41.16 |
-| 9 | 1:47.00 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 1:37.06, 1:45.88, DNF, 1:48.84, 1:46.29 |
-| 10 | 1:47.27 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 1:42.96, 1:50.44, 2:05.21, 1:41.18, 1:48.41 |
+| 9 | 1:44.93 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 1:41.18, 1:48.41, 2:04.22, 1:44.13, 1:42.24 |
+| 10 | 1:47.00 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 1:37.06, 1:45.88, DNF, 1:48.84, 1:46.29 |
 
 ### 7x7x7 Cube
 
 | # | Ao5 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 1:40.41 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:43.30, 1:33.75, 1:42.25, 1:47.74, 1:35.68 |
+| 1 | 1:40.22 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 1:33.75, 1:42.25, 1:47.74, 1:35.68, 1:42.74 |
 | 2 | 2:01.33 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 1:54.45, 2:08.28, 2:01.25, 2:09.44, 1:46.42 |
 | 3 | 2:17.54 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 2:30.98, 2:13.58, 2:09.11, 2:14.61, 2:24.44 |
 | 4 | 2:20.69 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 2:30.74, 2:22.10, 2:13.84, 2:13.97, 2:26.00 |

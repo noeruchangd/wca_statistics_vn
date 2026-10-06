@@ -1,17 +1,17 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  4 October 2026*
+*Updated on  6 October 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 112 588 km |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 123 580 km |
 | 2 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 69 030 km |
 | 3 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 55 790 km |
 | 4 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 52 791 km |
 | 5 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) | 51 298 km |
 | 6 | [Trần Mạnh Quân](https://www.worldcubeassociation.org/persons/2014QUAN02) | 47 199 km |
-| 7 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 37 673 km |
+| 7 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 37 981 km |
 | 8 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 36 045 km |
 | 9 | [Dang Tran](https://www.worldcubeassociation.org/persons/2022TRAN27) | 31 373 km |
 | 10 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 29 868 km |
@@ -128,8 +128,8 @@
 | 121 | [Ho Lam Le](https://www.worldcubeassociation.org/persons/2023LEHO01) | 1 765 km |
 | 122 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) | 1 639 km |
 | 123 | [Nguyễn Viết Duy](https://www.worldcubeassociation.org/persons/2018DUYN02) | 1 613 km |
-| 124 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 1 511 km |
-| 125 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 1 510 km |
+| 124 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 1 530 km |
+| 125 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 1 511 km |
 | 126 | [Ngô Minh Khang](https://www.worldcubeassociation.org/persons/2022KHAN72) | 1 481 km |
 | 127 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 1 306 km |
 | 128 | [Đinh Hữu Phúc](https://www.worldcubeassociation.org/persons/2022PHUC01) | 1 259 km |

@@ -1,11 +1,11 @@
 ## Medals to competitions ratio
 
 *Note: Only Vietnamese competitors included*
-*Updated on  4 October 2026*
+*Updated on  6 October 2026*
 
 | # | Person | Medals | Competitions | Ratio |
 | ---: | :--- | ---: | ---: | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 131 | 34 | 3.85 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 133 | 35 | 3.80 |
 | 2 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 120 | 32 | 3.75 |
 | 3 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 28 | 9 | 3.11 |
 | 4 | [Trần Thanh Phong](https://www.worldcubeassociation.org/persons/2016PHON03) | 12 | 4 | 3.00 |
