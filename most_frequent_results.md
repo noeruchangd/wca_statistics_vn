@@ -1,6 +1,6 @@
 ## Most frequent results
 
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 
 ### 3x3x3 Cube
@@ -8,7 +8,7 @@
 | # | Count | Result |
 | ---: | ---: | ---: |
 | 1 | 71 | 12.11 |
-| 2 | 64 | 11.43 |
+| 2 | 65 | 11.43 |
 | 3 | 62 | 11.30 |
 | 4 | 61 | 9.72 |
 | 5 | 60 | 9.64 |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 
 ### 3x3x3 Cube
@@ -69,8 +69,8 @@
 | 9 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) | 6 |
 | 10 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 6 |
 | 11 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 5 |
-| 12 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 5 |
-| 13 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4 |
+| 12 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4 |
+| 13 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 4 |
 | 14 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 4 |
 | 15 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 4 |
 | 16 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) | 3 |

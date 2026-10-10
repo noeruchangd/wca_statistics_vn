@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 October 2026*
+*Updated on 10 October 2026*
 
 
 ### 3x3x3 Cube
@@ -163,11 +163,11 @@
 | 3 | 0.24 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | 2.92 | 3.16 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026/results/by_person#2022NGHI01) |
 | 4 | 0.24 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 6.31 | 6.55 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024/results/by_person#2022KHAN31) |
 | 5 | 0.28 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) | 5.22 | 5.50 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/by_person#2024MINH04) |
-| 6 | 0.30 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 5.16 | 5.46 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2020HIEU01) |
-| 7 | 0.30 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) | 8.25 | 8.55 | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024/results/by_person#2023SOND02) |
-| 8 | 0.31 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 3.00 | 3.31 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/by_person#2020HIEU01) |
-| 9 | 0.32 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) | 5.26 | 5.58 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024/results/by_person#2019NAMN01) |
-| 10 | 0.33 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 5.86 | 6.19 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2022KHAN31) |
+| 6 | 0.28 | [Si Huy Tran](https://www.worldcubeassociation.org/persons/2026TRAN17) | 9.70 | 9.98 | [Nats Warm-Up Delmenhorst 2026](https://www.worldcubeassociation.org/competitions/NatsWarmUpDelmenhorst2026/results/by_person#2026TRAN17) |
+| 7 | 0.30 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 5.16 | 5.46 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2020HIEU01) |
+| 8 | 0.30 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) | 8.25 | 8.55 | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024/results/by_person#2023SOND02) |
+| 9 | 0.31 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) | 3.00 | 3.31 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/by_person#2020HIEU01) |
+| 10 | 0.32 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) | 5.26 | 5.58 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024/results/by_person#2019NAMN01) |
 
 ### Skewb
 
