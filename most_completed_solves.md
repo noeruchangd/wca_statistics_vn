@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### Competition
@@ -32,7 +32,7 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1922** | 2045 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1965** | 2090 |
 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1867** | 1880 |
 | 3 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1597** | 1633 |
 | 4 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | ---: |
 | 1 | 2024 | **27794** | 28805 |
 | 2 | 2025 | **17349** | 18066 |
-| 3 | 2026 | **17136** | 17953 |
+| 3 | 2026 | **17205** | 18025 |
 | 4 | 2023 | **15710** | 16203 |
 | 5 | 2022 | **14897** | 15268 |
 | 6 | 2019 | **10283** | 10564 |
@@ -80,20 +80,20 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **49194** | 50181 |
-| 2 | 2x2x2 Cube | **25512** | 26173 |
+| 1 | 3x3x3 Cube | **49228** | 50216 |
+| 2 | 2x2x2 Cube | **25527** | 26188 |
 | 3 | 4x4x4 Cube | **15916** | 16358 |
-| 4 | 3x3x3 One-Handed | **14977** | 15374 |
+| 4 | 3x3x3 One-Handed | **14982** | 15379 |
 | 5 | Pyraminx | **9135** | 9377 |
-| 6 | 5x5x5 Cube | **7771** | 7960 |
+| 6 | 5x5x5 Cube | **7773** | 7962 |
 | 7 | Skewb | **6461** | 6646 |
 | 8 | Clock | **2541** | 2950 |
-| 9 | Megaminx | **2449** | 2529 |
+| 9 | Megaminx | **2459** | 2539 |
 | 10 | Square-1 | **1775** | 1852 |
 | 11 | 6x6x6 Cube | **1709** | 1738 |
 | 12 | 7x7x7 Cube | **1359** | 1406 |
 | 13 | Magic | **544** | 618 |
-| 14 | 3x3x3 Blindfolded | **530** | 1539 |
+| 14 | 3x3x3 Blindfolded | **533** | 1544 |
 | 15 | 3x3x3 Fewest Moves | **268** | 377 |
 | 16 | Master Magic | **143** | 150 |
 | 17 | 3x3x3 Multi-Blind | **40** | 65 |

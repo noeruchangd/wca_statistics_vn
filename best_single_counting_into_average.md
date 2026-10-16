@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 
 ### 3x3x3 Cube
@@ -16,22 +16,22 @@
 | 7 | 5.57 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/by_person#2019HUNG16) |
 | 8 | 5.57 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Lakewood Spring 2026](https://www.worldcubeassociation.org/competitions/LakewoodSpring2026/results/by_person#2019HUNG16) |
 | 9 | 5.58 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2019HUNG16) |
-| 10 | 5.62 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Nub Open Trabuco Hills Fall 2025](https://www.worldcubeassociation.org/competitions/NubOpenTrabucoHillsFall2025/results/by_person#2022NGUY24) |
+| 10 | 5.59 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Tacoma Fall 2026](https://www.worldcubeassociation.org/competitions/TacomaFall2026/results/by_person#2019HUNG16) |
 
 ### 2x2x2 Cube
 
 | # | Counting | Peson | Competition |
 | ---: | ---: | :--- | :--- |
-| 1 | 1.13 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/by_person#2019HUNG16) |
-| 2 | 1.22 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [Belgrave Open 2026](https://www.worldcubeassociation.org/competitions/BelgraveOpen2026/results/by_person#2017MINH15) |
-| 3 | 1.27 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2022DUYN02) |
-| 4 | 1.30 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2022DUYN02) |
-| 5 | 1.32 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2022DUYN02) |
-| 6 | 1.37 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Cubing in the Lion's Den 2023](https://www.worldcubeassociation.org/competitions/CubingintheLionsDen2023/results/by_person#2019HUNG16) |
-| 7 | 1.39 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026/results/by_person#2022NGUY24) |
-| 8 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [CubeChella 2024](https://www.worldcubeassociation.org/competitions/CubeChella2024/results/by_person#2022NGUY24) |
-| 9 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Simi Mini A 2026](https://www.worldcubeassociation.org/competitions/SimiMiniA2026/results/by_person#2022NGUY24) |
-| 10 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Cube Against Cancer - OC 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerOC2026/results/by_person#2022NGUY24) |
+| 1 | 1.07 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Tacoma Fall 2026](https://www.worldcubeassociation.org/competitions/TacomaFall2026/results/by_person#2019HUNG16) |
+| 2 | 1.13 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/by_person#2019HUNG16) |
+| 3 | 1.22 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [Belgrave Open 2026](https://www.worldcubeassociation.org/competitions/BelgraveOpen2026/results/by_person#2017MINH15) |
+| 4 | 1.27 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2022DUYN02) |
+| 5 | 1.30 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024/results/by_person#2022DUYN02) |
+| 6 | 1.32 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2022DUYN02) |
+| 7 | 1.37 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Cubing in the Lion's Den 2023](https://www.worldcubeassociation.org/competitions/CubingintheLionsDen2023/results/by_person#2019HUNG16) |
+| 8 | 1.39 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026/results/by_person#2022NGUY24) |
+| 9 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [CubeChella 2024](https://www.worldcubeassociation.org/competitions/CubeChella2024/results/by_person#2022NGUY24) |
+| 10 | 1.40 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Simi Mini A 2026](https://www.worldcubeassociation.org/competitions/SimiMiniA2026/results/by_person#2022NGUY24) |
 
 ### 4x4x4 Cube
 

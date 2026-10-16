@@ -1,10 +1,10 @@
 ## Vietnamese competitors with most competitions in the current year
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
-| 1 | 7 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 1 | 8 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 2 | 7 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
 | 3 | 6 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
 | 4 | 6 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
@@ -193,242 +193,244 @@
 | 187 | 1 | [Hoàng Nhật Minh](https://www.worldcubeassociation.org/persons/2022MINH20) |
 | 188 | 1 | [Trần Hoàng Bảo Nam](https://www.worldcubeassociation.org/persons/2022NAMT03) |
 | 189 | 1 | [Nguyễn Tấn Gia Nguyên](https://www.worldcubeassociation.org/persons/2022NGUY26) |
-| 190 | 1 | [Đinh Hữu Phúc](https://www.worldcubeassociation.org/persons/2022PHUC01) |
-| 191 | 1 | [Phạm Huy Phúc](https://www.worldcubeassociation.org/persons/2022PHUC12) |
-| 192 | 1 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
-| 193 | 1 | [Nguyễn Quang Sáng](https://www.worldcubeassociation.org/persons/2022SANG05) |
-| 194 | 1 | [Nguyễn Hoàng Thông Thái](https://www.worldcubeassociation.org/persons/2022THAI04) |
-| 195 | 1 | [Châu Ngọc Thắng](https://www.worldcubeassociation.org/persons/2022THAN08) |
-| 196 | 1 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
-| 197 | 1 | [Trần Thanh Trường](https://www.worldcubeassociation.org/persons/2022TRUO05) |
-| 198 | 1 | [Bùi Khải Tú](https://www.worldcubeassociation.org/persons/2022TUBU01) |
-| 199 | 1 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
-| 200 | 1 | [Nguyễn Công Vinh](https://www.worldcubeassociation.org/persons/2022VINH05) |
-| 201 | 1 | [Nguyễn Quốc Anh](https://www.worldcubeassociation.org/persons/2023ANHN08) |
-| 202 | 1 | [Lê Duy Bách](https://www.worldcubeassociation.org/persons/2023BACH09) |
-| 203 | 1 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) |
-| 204 | 1 | [Phạm Nguyễn Chí Duy](https://www.worldcubeassociation.org/persons/2023DUYP01) |
-| 205 | 1 | [Nguyễn Ngọc Huy](https://www.worldcubeassociation.org/persons/2023HUYN11) |
-| 206 | 1 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
-| 207 | 1 | [Phan Duy Khang](https://www.worldcubeassociation.org/persons/2023KHAN51) |
-| 208 | 1 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) |
-| 209 | 1 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
-| 210 | 1 | [Nguyễn Việt Long](https://www.worldcubeassociation.org/persons/2023LONG08) |
-| 211 | 1 | [Nguyen Duc Minh](https://www.worldcubeassociation.org/persons/2023MINH22) |
-| 212 | 1 | [Lưu Đăng Nguyên](https://www.worldcubeassociation.org/persons/2023NGUY39) |
-| 213 | 1 | [Lào Vĩ Thiên Nhật](https://www.worldcubeassociation.org/persons/2023NHAT05) |
-| 214 | 1 | [Hieu Thanh Phan](https://www.worldcubeassociation.org/persons/2023PHAN09) |
-| 215 | 1 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2023PHON02) |
-| 216 | 1 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
-| 217 | 1 | [Đỗ Phương Thảo](https://www.worldcubeassociation.org/persons/2023THAO01) |
-| 218 | 1 | [Trần Đỗ Ngọc Thiên](https://www.worldcubeassociation.org/persons/2023THIE03) |
-| 219 | 1 | [Julian Tran](https://www.worldcubeassociation.org/persons/2023TRAN10) |
-| 220 | 1 | [Bùi Vĩnh An Tường](https://www.worldcubeassociation.org/persons/2023TUON02) |
-| 221 | 1 | [Phạm Phú Bảo Vương](https://www.worldcubeassociation.org/persons/2023VUON01) |
-| 222 | 1 | [Trần Huy Anh](https://www.worldcubeassociation.org/persons/2024ANHT02) |
-| 223 | 1 | [Trần Nguyên Bách](https://www.worldcubeassociation.org/persons/2024BACH11) |
-| 224 | 1 | [Phạm Thái Bảo](https://www.worldcubeassociation.org/persons/2024BAOP02) |
-| 225 | 1 | [Nguyễn Minh Châu](https://www.worldcubeassociation.org/persons/2024CHAU22) |
-| 226 | 1 | [Đỗ Thành Đạt](https://www.worldcubeassociation.org/persons/2024DATD01) |
-| 227 | 1 | [Lã Ngọc Minh Đức](https://www.worldcubeassociation.org/persons/2024DUCL04) |
-| 228 | 1 | [Anh Nguyen Tien Duy](https://www.worldcubeassociation.org/persons/2024DUYA01) |
-| 229 | 1 | [Lý Việt Hà](https://www.worldcubeassociation.org/persons/2024HALY01) |
-| 230 | 1 | [Nguyễn Trần Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2024HIEU04) |
-| 231 | 1 | [Trần Huy Hoàng](https://www.worldcubeassociation.org/persons/2024HOAN01) |
-| 232 | 1 | [Đặng Việt Hoàng](https://www.worldcubeassociation.org/persons/2024HOAN05) |
-| 233 | 1 | [Vũ Phúc Hưng](https://www.worldcubeassociation.org/persons/2024HUNG08) |
-| 234 | 1 | [Phạm Vĩnh Hưng](https://www.worldcubeassociation.org/persons/2024HUNG10) |
-| 235 | 1 | [Hoàng Quốc Huy](https://www.worldcubeassociation.org/persons/2024HUYH02) |
-| 236 | 1 | [Lê Trần Nguyên Khoa](https://www.worldcubeassociation.org/persons/2024KHOA01) |
-| 237 | 1 | [Phạm Nguyễn Thế Khôi](https://www.worldcubeassociation.org/persons/2024KHOI09) |
-| 238 | 1 | [Phan Phuc Long](https://www.worldcubeassociation.org/persons/2024LONG09) |
-| 239 | 1 | [Vũ Phúc Bảo Long](https://www.worldcubeassociation.org/persons/2024LONG11) |
-| 240 | 1 | [Lê Hưng Long](https://www.worldcubeassociation.org/persons/2024LONG18) |
-| 241 | 1 | [Hồ Thiện Minh](https://www.worldcubeassociation.org/persons/2024MINH05) |
-| 242 | 1 | [Phạm Tiến Minh](https://www.worldcubeassociation.org/persons/2024MINH13) |
-| 243 | 1 | [Trần Mỹ Ngọc](https://www.worldcubeassociation.org/persons/2024NGOC01) |
-| 244 | 1 | [Phạm Khôi Nguyên](https://www.worldcubeassociation.org/persons/2024NGUY43) |
-| 245 | 1 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) |
-| 246 | 1 | [Nguyen Phuong Pham](https://www.worldcubeassociation.org/persons/2024PHAM13) |
-| 247 | 1 | [Lê Tấn Phát](https://www.worldcubeassociation.org/persons/2024PHAT01) |
-| 248 | 1 | [Vũ Duy Phong](https://www.worldcubeassociation.org/persons/2024PHON08) |
-| 249 | 1 | [Ichinohe Thien Phu](https://www.worldcubeassociation.org/persons/2024PHUI01) |
-| 250 | 1 | [Nguyễn Thế Anh Quân](https://www.worldcubeassociation.org/persons/2024QUAN08) |
-| 251 | 1 | [Bùi Đặng Minh Sang](https://www.worldcubeassociation.org/persons/2024SANG07) |
-| 252 | 1 | [Trần Nhã San](https://www.worldcubeassociation.org/persons/2024SANT90) |
-| 253 | 1 | [Phan Trần Phương Thiên](https://www.worldcubeassociation.org/persons/2024THIE04) |
-| 254 | 1 | [Trần Quang Tùng](https://www.worldcubeassociation.org/persons/2024TUNG08) |
-| 255 | 1 | [Nguyễn Hoàng Bảo Xuyến](https://www.worldcubeassociation.org/persons/2024XUYE01) |
-| 256 | 1 | [Vương Ngọc Bách](https://www.worldcubeassociation.org/persons/2025BACH06) |
-| 257 | 1 | [Lê Minh Đăng](https://www.worldcubeassociation.org/persons/2025DANG07) |
-| 258 | 1 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) |
-| 259 | 1 | [Nguyễn Thế Huy](https://www.worldcubeassociation.org/persons/2025HUYN04) |
-| 260 | 1 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) |
-| 261 | 1 | [Lưu Anh Kiệt](https://www.worldcubeassociation.org/persons/2025KIET03) |
-| 262 | 1 | [Bùi Bảo Long](https://www.worldcubeassociation.org/persons/2025LONG11) |
-| 263 | 1 | [Cambier Louis](https://www.worldcubeassociation.org/persons/2025LOUI01) |
-| 264 | 1 | [Lucas Mai](https://www.worldcubeassociation.org/persons/2025MAIL02) |
-| 265 | 1 | [Nguyễn Đức Mạnh](https://www.worldcubeassociation.org/persons/2025MANH01) |
-| 266 | 1 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) |
-| 267 | 1 | [Trần Thiệu Phong](https://www.worldcubeassociation.org/persons/2025PHON05) |
-| 268 | 1 | [Nguyễn Duy Phúc](https://www.worldcubeassociation.org/persons/2025PHUC01) |
-| 269 | 1 | [Trần Tùng Quân](https://www.worldcubeassociation.org/persons/2025QUAN10) |
-| 270 | 1 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) |
-| 271 | 1 | [Đinh Trần Tiến](https://www.worldcubeassociation.org/persons/2025TIEN02) |
-| 272 | 1 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) |
-| 273 | 1 | [Trần Thảo Vân](https://www.worldcubeassociation.org/persons/2025VANT01) |
-| 274 | 1 | [Võ Gia Vinh](https://www.worldcubeassociation.org/persons/2025VINH02) |
-| 275 | 1 | [Đặng Nhật An](https://www.worldcubeassociation.org/persons/2026ANDA01) |
-| 276 | 1 | [Bùi Tất Lâm Anh](https://www.worldcubeassociation.org/persons/2026ANHB01) |
-| 277 | 1 | [Chử Nguyễn Việt Anh](https://www.worldcubeassociation.org/persons/2026ANHC01) |
-| 278 | 1 | [Hồ Hoài Anh](https://www.worldcubeassociation.org/persons/2026ANHH01) |
-| 279 | 1 | [Lại Kỳ Anh](https://www.worldcubeassociation.org/persons/2026ANHL01) |
-| 280 | 1 | [Lương Hoàng Anh](https://www.worldcubeassociation.org/persons/2026ANHL02) |
-| 281 | 1 | [Nhan Huỳnh Anh](https://www.worldcubeassociation.org/persons/2026ANHN01) |
-| 282 | 1 | [Nguyen Huu Anh](https://www.worldcubeassociation.org/persons/2026ANHN02) |
-| 283 | 1 | [Nguyễn Hoàng Nhật Anh](https://www.worldcubeassociation.org/persons/2026ANHN04) |
-| 284 | 1 | [Nguyễn Hoàng Anh](https://www.worldcubeassociation.org/persons/2026ANHN05) |
-| 285 | 1 | [Nguyễn Tuấn Anh](https://www.worldcubeassociation.org/persons/2026ANHN06) |
-| 286 | 1 | [Tran Duy Anh](https://www.worldcubeassociation.org/persons/2026ANHT01) |
-| 287 | 1 | [Trần Đức Anh](https://www.worldcubeassociation.org/persons/2026ANHT02) |
-| 288 | 1 | [Trần Khải Anh](https://www.worldcubeassociation.org/persons/2026ANHT03) |
-| 289 | 1 | [Trần Nguyễn Nam Anh](https://www.worldcubeassociation.org/persons/2026ANHT04) |
-| 290 | 1 | [Nguyen Do Phuc An](https://www.worldcubeassociation.org/persons/2026ANNG01) |
-| 291 | 1 | [Trần Hoàng Duy Ân](https://www.worldcubeassociation.org/persons/2026ANTR01) |
-| 292 | 1 | [Phan Hồ Hoàng Bách](https://www.worldcubeassociation.org/persons/2026BACH03) |
-| 293 | 1 | [Hồ Bân](https://www.worldcubeassociation.org/persons/2026BANH01) |
-| 294 | 1 | [Bùi Jonathan Gia Bảo](https://www.worldcubeassociation.org/persons/2026BAOB01) |
-| 295 | 1 | [Lê Gia Bảo](https://www.worldcubeassociation.org/persons/2026BAOL01) |
-| 296 | 1 | [Đào Thái Bình](https://www.worldcubeassociation.org/persons/2026BINH01) |
-| 297 | 1 | [Lê Hải Bình](https://www.worldcubeassociation.org/persons/2026BINH02) |
-| 298 | 1 | [Hoàng Minh Chính](https://www.worldcubeassociation.org/persons/2026CHIN15) |
-| 299 | 1 | [Nguyễn Võ Hoàng Đăng](https://www.worldcubeassociation.org/persons/2026DANG11) |
-| 300 | 1 | [Vũ Hải Đăng](https://www.worldcubeassociation.org/persons/2026DANG12) |
-| 301 | 1 | [Cao Tấn Đạt](https://www.worldcubeassociation.org/persons/2026DATC01) |
-| 302 | 1 | [Đinh Tiến Đạt](https://www.worldcubeassociation.org/persons/2026DATD01) |
-| 303 | 1 | [Đỗ Đức Đạt](https://www.worldcubeassociation.org/persons/2026DATD02) |
-| 304 | 1 | [Lê Trần Hữu Đạt](https://www.worldcubeassociation.org/persons/2026DATL01) |
-| 305 | 1 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2026DATN01) |
-| 306 | 1 | [Nguyễn Thái Đạt](https://www.worldcubeassociation.org/persons/2026DATN02) |
-| 307 | 1 | [Trần Khánh Đạt](https://www.worldcubeassociation.org/persons/2026DATT01) |
-| 308 | 1 | [Lê Hoài Đức](https://www.worldcubeassociation.org/persons/2026DUCL01) |
-| 309 | 1 | [Phạm Thanh Đức](https://www.worldcubeassociation.org/persons/2026DUCP01) |
-| 310 | 1 | [Phạm Anh Đức](https://www.worldcubeassociation.org/persons/2026DUCP02) |
-| 311 | 1 | [Tạ Khoa Hải Dương](https://www.worldcubeassociation.org/persons/2026DUON01) |
-| 312 | 1 | [Phạm Chí Dương](https://www.worldcubeassociation.org/persons/2026DUON03) |
-| 313 | 1 | [Le Hoang Duy](https://www.worldcubeassociation.org/persons/2026DUYL01) |
-| 314 | 1 | [Trương Đinh Ngọc Duy](https://www.worldcubeassociation.org/persons/2026DUYT01) |
-| 315 | 1 | [Mai Hoàng Hải](https://www.worldcubeassociation.org/persons/2026HAIM01) |
-| 316 | 1 | [Nguyễn Gia Hân](https://www.worldcubeassociation.org/persons/2026HANN07) |
-| 317 | 1 | [Ngô An Hiếu](https://www.worldcubeassociation.org/persons/2026HIEU01) |
-| 318 | 1 | [Vũ Lê Trọng Hiếu](https://www.worldcubeassociation.org/persons/2026HIEU02) |
-| 319 | 1 | [Trần Thái Hoàng](https://www.worldcubeassociation.org/persons/2026HOAN01) |
-| 320 | 1 | [Nguyễn Thế Hoàng](https://www.worldcubeassociation.org/persons/2026HOAN02) |
-| 321 | 1 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2026HOAN04) |
-| 322 | 1 | [Phạm Ngọc Hòa](https://www.worldcubeassociation.org/persons/2026HOAP01) |
-| 323 | 1 | [Nguyễn Như Hùng](https://www.worldcubeassociation.org/persons/2026HUNG03) |
-| 324 | 1 | [Lê Nguyễn Nam Hùng](https://www.worldcubeassociation.org/persons/2026HUNG08) |
-| 325 | 1 | [Đinh Gia Huy](https://www.worldcubeassociation.org/persons/2026HUYD01) |
-| 326 | 1 | [Ngô Gia Huy](https://www.worldcubeassociation.org/persons/2026HUYN09) |
-| 327 | 1 | [Tran Dinh Huy](https://www.worldcubeassociation.org/persons/2026HUYT01) |
-| 328 | 1 | [Vũ Hoàng Huy](https://www.worldcubeassociation.org/persons/2026HUYV01) |
-| 329 | 1 | [Đỗ Nguyễn Gia Khánh](https://www.worldcubeassociation.org/persons/2026KHAN06) |
-| 330 | 1 | [Lê Trần Đình Khang](https://www.worldcubeassociation.org/persons/2026KHAN09) |
-| 331 | 1 | [Nguyễn Phúc Khang](https://www.worldcubeassociation.org/persons/2026KHAN10) |
-| 332 | 1 | [Phạm Gia Khang](https://www.worldcubeassociation.org/persons/2026KHAN11) |
-| 333 | 1 | [Ho Nguyen Khang](https://www.worldcubeassociation.org/persons/2026KHAN13) |
-| 334 | 1 | [Nguyễn Đức Minh Khang](https://www.worldcubeassociation.org/persons/2026KHAN31) |
-| 335 | 1 | [Nguyễn Hữu Minh Khang](https://www.worldcubeassociation.org/persons/2026KHAN32) |
-| 336 | 1 | [Đoàn Minh Khang](https://www.worldcubeassociation.org/persons/2026KHAN33) |
-| 337 | 1 | [Nguyễn Khang](https://www.worldcubeassociation.org/persons/2026KHAN38) |
-| 338 | 1 | [Nguyễn Phúc Khang](https://www.worldcubeassociation.org/persons/2026KHAN39) |
-| 339 | 1 | [Vũ Trần Bảo Khánh](https://www.worldcubeassociation.org/persons/2026KHAN40) |
-| 340 | 1 | [Trần Đăng Khoa](https://www.worldcubeassociation.org/persons/2026KHOA02) |
-| 341 | 1 | [Nguyễn Đức Minh Khôi](https://www.worldcubeassociation.org/persons/2026KHOI01) |
-| 342 | 1 | [Phan Sỹ Kiên](https://www.worldcubeassociation.org/persons/2026KIEN01) |
-| 343 | 1 | [Đào Bá Kiên](https://www.worldcubeassociation.org/persons/2026KIEN02) |
-| 344 | 1 | [Đoàn Tấn Kiên](https://www.worldcubeassociation.org/persons/2026KIEN03) |
-| 345 | 1 | [Nguyễn Đức Kiên](https://www.worldcubeassociation.org/persons/2026KIEN05) |
-| 346 | 1 | [Nguyễn Tấn Kiệt](https://www.worldcubeassociation.org/persons/2026KIET01) |
-| 347 | 1 | [Trần Nguyễn Quốc Kiệt](https://www.worldcubeassociation.org/persons/2026KIET02) |
-| 348 | 1 | [Lâm Vũ Kỳ](https://www.worldcubeassociation.org/persons/2026KYLA02) |
-| 349 | 1 | [Thân Thái Kỳ](https://www.worldcubeassociation.org/persons/2026KYTH01) |
-| 350 | 1 | [Nguyễn Hoàng Lâm](https://www.worldcubeassociation.org/persons/2026LAMN01) |
-| 351 | 1 | [Nguyen Ba Lam](https://www.worldcubeassociation.org/persons/2026LAMN02) |
-| 352 | 1 | [Trần Ngọc Lâm](https://www.worldcubeassociation.org/persons/2026LAMT02) |
-| 353 | 1 | [Giovanni Le](https://www.worldcubeassociation.org/persons/2026LEGI01) |
-| 354 | 1 | [Phạm Phạm Tùng Linh](https://www.worldcubeassociation.org/persons/2026LINH06) |
-| 355 | 1 | [Huỳnh Gia Lộc](https://www.worldcubeassociation.org/persons/2026LOCH01) |
-| 356 | 1 | [Vũ Đức Long](https://www.worldcubeassociation.org/persons/2026LONG12) |
-| 357 | 1 | [Nguyễn Hoàng Minh](https://www.worldcubeassociation.org/persons/2026MINH03) |
-| 358 | 1 | [Nguyễn Công Minh](https://www.worldcubeassociation.org/persons/2026MINH05) |
-| 359 | 1 | [Đào Hoàng Minh](https://www.worldcubeassociation.org/persons/2026MINH06) |
-| 360 | 1 | [Nguyễn Giang Hải Minh](https://www.worldcubeassociation.org/persons/2026MINH09) |
-| 361 | 1 | [Trần Gia Minh](https://www.worldcubeassociation.org/persons/2026MINH10) |
-| 362 | 1 | [Hà Trần Thảo Minh](https://www.worldcubeassociation.org/persons/2026MINH12) |
-| 363 | 1 | [Hoàng Hà Minh](https://www.worldcubeassociation.org/persons/2026MINH13) |
-| 364 | 1 | [Nguyễn Tiến Hiểu Minh](https://www.worldcubeassociation.org/persons/2026MINH14) |
-| 365 | 1 | [Bùi Văn Nam](https://www.worldcubeassociation.org/persons/2026NAMB01) |
-| 366 | 1 | [Lê Ngọc Nhật Nam](https://www.worldcubeassociation.org/persons/2026NAML01) |
-| 367 | 1 | [Lường Lê Hải Nam](https://www.worldcubeassociation.org/persons/2026NAML02) |
-| 368 | 1 | [Phạm Thành Nam](https://www.worldcubeassociation.org/persons/2026NAMP01) |
-| 369 | 1 | [Trần Thanh Nam](https://www.worldcubeassociation.org/persons/2026NAMT01) |
-| 370 | 1 | [Vũ Bảo Nam](https://www.worldcubeassociation.org/persons/2026NAMV01) |
-| 371 | 1 | [Vũ Dương Nam](https://www.worldcubeassociation.org/persons/2026NAMV02) |
-| 372 | 1 | [Đặng Trung Nghĩa](https://www.worldcubeassociation.org/persons/2026NGHI02) |
-| 373 | 1 | [Sam Q. Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY06) |
-| 374 | 1 | [Trần Khôi Nguyên](https://www.worldcubeassociation.org/persons/2026NGUY26) |
-| 375 | 1 | [Bùi Như Ánh Nguyệt](https://www.worldcubeassociation.org/persons/2026NGUY29) |
-| 376 | 1 | [Nguyễn Hà Khôi Nguyên](https://www.worldcubeassociation.org/persons/2026NGUY30) |
-| 377 | 1 | [Nguyễn Khắc Khôi Nguyên](https://www.worldcubeassociation.org/persons/2026NGUY31) |
-| 378 | 1 | [Phạm Minh Nguyên](https://www.worldcubeassociation.org/persons/2026NGUY32) |
-| 379 | 1 | [Kai Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY34) |
-| 380 | 1 | [Nguyễn Thế Nhân](https://www.worldcubeassociation.org/persons/2026NHAN02) |
-| 381 | 1 | [Nguyễn Minh Nhật](https://www.worldcubeassociation.org/persons/2026NHAT02) |
-| 382 | 1 | [Hoàng Tấn Phát](https://www.worldcubeassociation.org/persons/2026PHAT02) |
-| 383 | 1 | [Nguyễn Hải Phong](https://www.worldcubeassociation.org/persons/2026PHON02) |
-| 384 | 1 | [Tống Hải Phong](https://www.worldcubeassociation.org/persons/2026PHON03) |
-| 385 | 1 | [Nguyễn Hoàng Phong](https://www.worldcubeassociation.org/persons/2026PHON04) |
-| 386 | 1 | [Bạch Đăng An Phú](https://www.worldcubeassociation.org/persons/2026PHUB01) |
-| 387 | 1 | [Chu Hoàng Phúc](https://www.worldcubeassociation.org/persons/2026PHUC01) |
-| 388 | 1 | [Bùi Văn Phúc](https://www.worldcubeassociation.org/persons/2026PHUC02) |
-| 389 | 1 | [Đàm Triệu Hồng Phúc](https://www.worldcubeassociation.org/persons/2026PHUC03) |
-| 390 | 1 | [Đào Đức Phúc](https://www.worldcubeassociation.org/persons/2026PHUC04) |
-| 391 | 1 | [Bùi Doãn Hà Phương](https://www.worldcubeassociation.org/persons/2026PHUO01) |
-| 392 | 1 | [Lê Ngọc Quang](https://www.worldcubeassociation.org/persons/2026QUAN03) |
-| 393 | 1 | [Nguyễn Anh Quân](https://www.worldcubeassociation.org/persons/2026QUAN04) |
-| 394 | 1 | [Đặng Trung Quân](https://www.worldcubeassociation.org/persons/2026QUAN06) |
-| 395 | 1 | [Đoàn Minh Quân](https://www.worldcubeassociation.org/persons/2026QUAN07) |
-| 396 | 1 | [Đỗ Quốc Quân](https://www.worldcubeassociation.org/persons/2026QUAN08) |
-| 397 | 1 | [Phạm Đức Quang](https://www.worldcubeassociation.org/persons/2026QUAN09) |
-| 398 | 1 | [Hoàng Minh Quang](https://www.worldcubeassociation.org/persons/2026QUAN11) |
-| 399 | 1 | [Trần Lê Đăng Quang](https://www.worldcubeassociation.org/persons/2026QUAN12) |
-| 400 | 1 | [Mai Hiếu Minh Sơn](https://www.worldcubeassociation.org/persons/2026SONM02) |
-| 401 | 1 | [Nguyễn Tri Sơn](https://www.worldcubeassociation.org/persons/2026SONN01) |
-| 402 | 1 | [Phan Quốc Sơn](https://www.worldcubeassociation.org/persons/2026SONP01) |
-| 403 | 1 | [Lew Nhất Sự](https://www.worldcubeassociation.org/persons/2026SULE01) |
-| 404 | 1 | [Huỳnh Năng Thành](https://www.worldcubeassociation.org/persons/2026THAN01) |
-| 405 | 1 | [Nguyễn Thành Thắng](https://www.worldcubeassociation.org/persons/2026THAN03) |
-| 406 | 1 | [Doãn Chí Thành](https://www.worldcubeassociation.org/persons/2026THAN04) |
-| 407 | 1 | [Nguyễn Minh Thành](https://www.worldcubeassociation.org/persons/2026THAN05) |
-| 408 | 1 | [Thái Lê Khương Thịnh](https://www.worldcubeassociation.org/persons/2026THIN02) |
-| 409 | 1 | [Ngô Trường Thịnh](https://www.worldcubeassociation.org/persons/2026THIN03) |
-| 410 | 1 | [Nguyễn Minh Thuận](https://www.worldcubeassociation.org/persons/2026THUA01) |
-| 411 | 1 | [Nguyễn Nam Tiến](https://www.worldcubeassociation.org/persons/2026TIEN01) |
-| 412 | 1 | [Grace Olivia Tran](https://www.worldcubeassociation.org/persons/2026TRAN14) |
-| 413 | 1 | [Khai Don Tran](https://www.worldcubeassociation.org/persons/2026TRAN26) |
-| 414 | 1 | [Vincent Tristan](https://www.worldcubeassociation.org/persons/2026TRIS02) |
-| 415 | 1 | [Bùi Hải Trung](https://www.worldcubeassociation.org/persons/2026TRUN02) |
-| 416 | 1 | [Vương Đình Minh Trung](https://www.worldcubeassociation.org/persons/2026TRUN03) |
-| 417 | 1 | [Phạm Thế Tuấn](https://www.worldcubeassociation.org/persons/2026TUAN01) |
-| 418 | 1 | [Nguyễn Anh Tuấn](https://www.worldcubeassociation.org/persons/2026TUAN02) |
-| 419 | 1 | [Nguyễn Tấn Danh Tùng](https://www.worldcubeassociation.org/persons/2026TUNG01) |
-| 420 | 1 | [Trần Hoàng Việt](https://www.worldcubeassociation.org/persons/2026VIET01) |
-| 421 | 1 | [Tham Fatt Vinh](https://www.worldcubeassociation.org/persons/2026VINH01) |
-| 422 | 1 | [Nguyễn Gia Vinh](https://www.worldcubeassociation.org/persons/2026VINH02) |
-| 423 | 1 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2026VINH03) |
-| 424 | 1 | [Nguyễn Mai Huy Vũ](https://www.worldcubeassociation.org/persons/2026VUNG01) |
-| 425 | 1 | [Phạm Phương Vy](https://www.worldcubeassociation.org/persons/2026VYPH01) |
+| 190 | 1 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) |
+| 191 | 1 | [Đinh Hữu Phúc](https://www.worldcubeassociation.org/persons/2022PHUC01) |
+| 192 | 1 | [Phạm Huy Phúc](https://www.worldcubeassociation.org/persons/2022PHUC12) |
+| 193 | 1 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
+| 194 | 1 | [Nguyễn Quang Sáng](https://www.worldcubeassociation.org/persons/2022SANG05) |
+| 195 | 1 | [Nguyễn Hoàng Thông Thái](https://www.worldcubeassociation.org/persons/2022THAI04) |
+| 196 | 1 | [Châu Ngọc Thắng](https://www.worldcubeassociation.org/persons/2022THAN08) |
+| 197 | 1 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
+| 198 | 1 | [Trần Thanh Trường](https://www.worldcubeassociation.org/persons/2022TRUO05) |
+| 199 | 1 | [Bùi Khải Tú](https://www.worldcubeassociation.org/persons/2022TUBU01) |
+| 200 | 1 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
+| 201 | 1 | [Nguyễn Công Vinh](https://www.worldcubeassociation.org/persons/2022VINH05) |
+| 202 | 1 | [Nguyễn Quốc Anh](https://www.worldcubeassociation.org/persons/2023ANHN08) |
+| 203 | 1 | [Lê Duy Bách](https://www.worldcubeassociation.org/persons/2023BACH09) |
+| 204 | 1 | [Nguyễn Thái Bình Dương](https://www.worldcubeassociation.org/persons/2023DUON03) |
+| 205 | 1 | [Phạm Nguyễn Chí Duy](https://www.worldcubeassociation.org/persons/2023DUYP01) |
+| 206 | 1 | [Nguyễn Ngọc Huy](https://www.worldcubeassociation.org/persons/2023HUYN11) |
+| 207 | 1 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) |
+| 208 | 1 | [Phan Duy Khang](https://www.worldcubeassociation.org/persons/2023KHAN51) |
+| 209 | 1 | [Huỳnh Hữu Anh Khoa](https://www.worldcubeassociation.org/persons/2023KHOA03) |
+| 210 | 1 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) |
+| 211 | 1 | [Nguyễn Việt Long](https://www.worldcubeassociation.org/persons/2023LONG08) |
+| 212 | 1 | [Nguyen Duc Minh](https://www.worldcubeassociation.org/persons/2023MINH22) |
+| 213 | 1 | [Lưu Đăng Nguyên](https://www.worldcubeassociation.org/persons/2023NGUY39) |
+| 214 | 1 | [Lào Vĩ Thiên Nhật](https://www.worldcubeassociation.org/persons/2023NHAT05) |
+| 215 | 1 | [Hieu Thanh Phan](https://www.worldcubeassociation.org/persons/2023PHAN09) |
+| 216 | 1 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2023PHON02) |
+| 217 | 1 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
+| 218 | 1 | [Đỗ Phương Thảo](https://www.worldcubeassociation.org/persons/2023THAO01) |
+| 219 | 1 | [Trần Đỗ Ngọc Thiên](https://www.worldcubeassociation.org/persons/2023THIE03) |
+| 220 | 1 | [Julian Tran](https://www.worldcubeassociation.org/persons/2023TRAN10) |
+| 221 | 1 | [Bùi Vĩnh An Tường](https://www.worldcubeassociation.org/persons/2023TUON02) |
+| 222 | 1 | [Phạm Phú Bảo Vương](https://www.worldcubeassociation.org/persons/2023VUON01) |
+| 223 | 1 | [Trần Huy Anh](https://www.worldcubeassociation.org/persons/2024ANHT02) |
+| 224 | 1 | [Trần Nguyên Bách](https://www.worldcubeassociation.org/persons/2024BACH11) |
+| 225 | 1 | [Phạm Thái Bảo](https://www.worldcubeassociation.org/persons/2024BAOP02) |
+| 226 | 1 | [Nguyễn Minh Châu](https://www.worldcubeassociation.org/persons/2024CHAU22) |
+| 227 | 1 | [Đỗ Thành Đạt](https://www.worldcubeassociation.org/persons/2024DATD01) |
+| 228 | 1 | [Lã Ngọc Minh Đức](https://www.worldcubeassociation.org/persons/2024DUCL04) |
+| 229 | 1 | [Anh Nguyen Tien Duy](https://www.worldcubeassociation.org/persons/2024DUYA01) |
+| 230 | 1 | [Lý Việt Hà](https://www.worldcubeassociation.org/persons/2024HALY01) |
+| 231 | 1 | [Nguyễn Trần Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2024HIEU04) |
+| 232 | 1 | [Trần Huy Hoàng](https://www.worldcubeassociation.org/persons/2024HOAN01) |
+| 233 | 1 | [Đặng Việt Hoàng](https://www.worldcubeassociation.org/persons/2024HOAN05) |
+| 234 | 1 | [Vũ Phúc Hưng](https://www.worldcubeassociation.org/persons/2024HUNG08) |
+| 235 | 1 | [Phạm Vĩnh Hưng](https://www.worldcubeassociation.org/persons/2024HUNG10) |
+| 236 | 1 | [Hoàng Quốc Huy](https://www.worldcubeassociation.org/persons/2024HUYH02) |
+| 237 | 1 | [Lê Trần Nguyên Khoa](https://www.worldcubeassociation.org/persons/2024KHOA01) |
+| 238 | 1 | [Phạm Nguyễn Thế Khôi](https://www.worldcubeassociation.org/persons/2024KHOI09) |
+| 239 | 1 | [Phan Phuc Long](https://www.worldcubeassociation.org/persons/2024LONG09) |
+| 240 | 1 | [Vũ Phúc Bảo Long](https://www.worldcubeassociation.org/persons/2024LONG11) |
+| 241 | 1 | [Lê Hưng Long](https://www.worldcubeassociation.org/persons/2024LONG18) |
+| 242 | 1 | [Hồ Thiện Minh](https://www.worldcubeassociation.org/persons/2024MINH05) |
+| 243 | 1 | [Phạm Tiến Minh](https://www.worldcubeassociation.org/persons/2024MINH13) |
+| 244 | 1 | [Trần Mỹ Ngọc](https://www.worldcubeassociation.org/persons/2024NGOC01) |
+| 245 | 1 | [Phạm Khôi Nguyên](https://www.worldcubeassociation.org/persons/2024NGUY43) |
+| 246 | 1 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) |
+| 247 | 1 | [Nguyen Phuong Pham](https://www.worldcubeassociation.org/persons/2024PHAM13) |
+| 248 | 1 | [Lê Tấn Phát](https://www.worldcubeassociation.org/persons/2024PHAT01) |
+| 249 | 1 | [Vũ Duy Phong](https://www.worldcubeassociation.org/persons/2024PHON08) |
+| 250 | 1 | [Ichinohe Thien Phu](https://www.worldcubeassociation.org/persons/2024PHUI01) |
+| 251 | 1 | [Nguyễn Thế Anh Quân](https://www.worldcubeassociation.org/persons/2024QUAN08) |
+| 252 | 1 | [Bùi Đặng Minh Sang](https://www.worldcubeassociation.org/persons/2024SANG07) |
+| 253 | 1 | [Trần Nhã San](https://www.worldcubeassociation.org/persons/2024SANT90) |
+| 254 | 1 | [Phan Trần Phương Thiên](https://www.worldcubeassociation.org/persons/2024THIE04) |
+| 255 | 1 | [Trần Quang Tùng](https://www.worldcubeassociation.org/persons/2024TUNG08) |
+| 256 | 1 | [Nguyễn Hoàng Bảo Xuyến](https://www.worldcubeassociation.org/persons/2024XUYE01) |
+| 257 | 1 | [Vương Ngọc Bách](https://www.worldcubeassociation.org/persons/2025BACH06) |
+| 258 | 1 | [Lê Minh Đăng](https://www.worldcubeassociation.org/persons/2025DANG07) |
+| 259 | 1 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) |
+| 260 | 1 | [Nguyễn Thế Huy](https://www.worldcubeassociation.org/persons/2025HUYN04) |
+| 261 | 1 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) |
+| 262 | 1 | [Lưu Anh Kiệt](https://www.worldcubeassociation.org/persons/2025KIET03) |
+| 263 | 1 | [Bùi Bảo Long](https://www.worldcubeassociation.org/persons/2025LONG11) |
+| 264 | 1 | [Cambier Louis](https://www.worldcubeassociation.org/persons/2025LOUI01) |
+| 265 | 1 | [Lucas Mai](https://www.worldcubeassociation.org/persons/2025MAIL02) |
+| 266 | 1 | [Nguyễn Đức Mạnh](https://www.worldcubeassociation.org/persons/2025MANH01) |
+| 267 | 1 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) |
+| 268 | 1 | [Trần Thiệu Phong](https://www.worldcubeassociation.org/persons/2025PHON05) |
+| 269 | 1 | [Nguyễn Duy Phúc](https://www.worldcubeassociation.org/persons/2025PHUC01) |
+| 270 | 1 | [Trần Tùng Quân](https://www.worldcubeassociation.org/persons/2025QUAN10) |
+| 271 | 1 | [Nguyễn Ngọc Thủy Tiên](https://www.worldcubeassociation.org/persons/2025TIEN01) |
+| 272 | 1 | [Đinh Trần Tiến](https://www.worldcubeassociation.org/persons/2025TIEN02) |
+| 273 | 1 | [Phú Khang Văn](https://www.worldcubeassociation.org/persons/2025VANP01) |
+| 274 | 1 | [Trần Thảo Vân](https://www.worldcubeassociation.org/persons/2025VANT01) |
+| 275 | 1 | [Võ Gia Vinh](https://www.worldcubeassociation.org/persons/2025VINH02) |
+| 276 | 1 | [Đặng Nhật An](https://www.worldcubeassociation.org/persons/2026ANDA01) |
+| 277 | 1 | [Bùi Tất Lâm Anh](https://www.worldcubeassociation.org/persons/2026ANHB01) |
+| 278 | 1 | [Chử Nguyễn Việt Anh](https://www.worldcubeassociation.org/persons/2026ANHC01) |
+| 279 | 1 | [Hồ Hoài Anh](https://www.worldcubeassociation.org/persons/2026ANHH01) |
+| 280 | 1 | [Lại Kỳ Anh](https://www.worldcubeassociation.org/persons/2026ANHL01) |
+| 281 | 1 | [Lương Hoàng Anh](https://www.worldcubeassociation.org/persons/2026ANHL02) |
+| 282 | 1 | [Nhan Huỳnh Anh](https://www.worldcubeassociation.org/persons/2026ANHN01) |
+| 283 | 1 | [Nguyen Huu Anh](https://www.worldcubeassociation.org/persons/2026ANHN02) |
+| 284 | 1 | [Nguyễn Hoàng Nhật Anh](https://www.worldcubeassociation.org/persons/2026ANHN04) |
+| 285 | 1 | [Nguyễn Hoàng Anh](https://www.worldcubeassociation.org/persons/2026ANHN05) |
+| 286 | 1 | [Nguyễn Tuấn Anh](https://www.worldcubeassociation.org/persons/2026ANHN06) |
+| 287 | 1 | [Tran Duy Anh](https://www.worldcubeassociation.org/persons/2026ANHT01) |
+| 288 | 1 | [Trần Đức Anh](https://www.worldcubeassociation.org/persons/2026ANHT02) |
+| 289 | 1 | [Trần Khải Anh](https://www.worldcubeassociation.org/persons/2026ANHT03) |
+| 290 | 1 | [Trần Nguyễn Nam Anh](https://www.worldcubeassociation.org/persons/2026ANHT04) |
+| 291 | 1 | [Nguyen Do Phuc An](https://www.worldcubeassociation.org/persons/2026ANNG01) |
+| 292 | 1 | [Trần Hoàng Duy Ân](https://www.worldcubeassociation.org/persons/2026ANTR01) |
+| 293 | 1 | [Phan Hồ Hoàng Bách](https://www.worldcubeassociation.org/persons/2026BACH03) |
+| 294 | 1 | [Hồ Bân](https://www.worldcubeassociation.org/persons/2026BANH01) |
+| 295 | 1 | [Bùi Jonathan Gia Bảo](https://www.worldcubeassociation.org/persons/2026BAOB01) |
+| 296 | 1 | [Lê Gia Bảo](https://www.worldcubeassociation.org/persons/2026BAOL01) |
+| 297 | 1 | [Đào Thái Bình](https://www.worldcubeassociation.org/persons/2026BINH01) |
+| 298 | 1 | [Lê Hải Bình](https://www.worldcubeassociation.org/persons/2026BINH02) |
+| 299 | 1 | [Hoàng Minh Chính](https://www.worldcubeassociation.org/persons/2026CHIN15) |
+| 300 | 1 | [Nguyễn Võ Hoàng Đăng](https://www.worldcubeassociation.org/persons/2026DANG11) |
+| 301 | 1 | [Vũ Hải Đăng](https://www.worldcubeassociation.org/persons/2026DANG12) |
+| 302 | 1 | [Cao Tấn Đạt](https://www.worldcubeassociation.org/persons/2026DATC01) |
+| 303 | 1 | [Đinh Tiến Đạt](https://www.worldcubeassociation.org/persons/2026DATD01) |
+| 304 | 1 | [Đỗ Đức Đạt](https://www.worldcubeassociation.org/persons/2026DATD02) |
+| 305 | 1 | [Lê Trần Hữu Đạt](https://www.worldcubeassociation.org/persons/2026DATL01) |
+| 306 | 1 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2026DATN01) |
+| 307 | 1 | [Nguyễn Thái Đạt](https://www.worldcubeassociation.org/persons/2026DATN02) |
+| 308 | 1 | [Trần Khánh Đạt](https://www.worldcubeassociation.org/persons/2026DATT01) |
+| 309 | 1 | [Lê Hoài Đức](https://www.worldcubeassociation.org/persons/2026DUCL01) |
+| 310 | 1 | [Phạm Thanh Đức](https://www.worldcubeassociation.org/persons/2026DUCP01) |
+| 311 | 1 | [Phạm Anh Đức](https://www.worldcubeassociation.org/persons/2026DUCP02) |
+| 312 | 1 | [Tạ Khoa Hải Dương](https://www.worldcubeassociation.org/persons/2026DUON01) |
+| 313 | 1 | [Phạm Chí Dương](https://www.worldcubeassociation.org/persons/2026DUON03) |
+| 314 | 1 | [Le Hoang Duy](https://www.worldcubeassociation.org/persons/2026DUYL01) |
+| 315 | 1 | [Trương Đinh Ngọc Duy](https://www.worldcubeassociation.org/persons/2026DUYT01) |
+| 316 | 1 | [Mai Hoàng Hải](https://www.worldcubeassociation.org/persons/2026HAIM01) |
+| 317 | 1 | [Nguyễn Gia Hân](https://www.worldcubeassociation.org/persons/2026HANN07) |
+| 318 | 1 | [Ngô An Hiếu](https://www.worldcubeassociation.org/persons/2026HIEU01) |
+| 319 | 1 | [Vũ Lê Trọng Hiếu](https://www.worldcubeassociation.org/persons/2026HIEU02) |
+| 320 | 1 | [Trần Thái Hoàng](https://www.worldcubeassociation.org/persons/2026HOAN01) |
+| 321 | 1 | [Nguyễn Thế Hoàng](https://www.worldcubeassociation.org/persons/2026HOAN02) |
+| 322 | 1 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2026HOAN04) |
+| 323 | 1 | [Phạm Ngọc Hòa](https://www.worldcubeassociation.org/persons/2026HOAP01) |
+| 324 | 1 | [Nguyễn Như Hùng](https://www.worldcubeassociation.org/persons/2026HUNG03) |
+| 325 | 1 | [Lê Nguyễn Nam Hùng](https://www.worldcubeassociation.org/persons/2026HUNG08) |
+| 326 | 1 | [Đinh Gia Huy](https://www.worldcubeassociation.org/persons/2026HUYD01) |
+| 327 | 1 | [Ngô Gia Huy](https://www.worldcubeassociation.org/persons/2026HUYN09) |
+| 328 | 1 | [Tran Dinh Huy](https://www.worldcubeassociation.org/persons/2026HUYT01) |
+| 329 | 1 | [Vũ Hoàng Huy](https://www.worldcubeassociation.org/persons/2026HUYV01) |
+| 330 | 1 | [Đỗ Nguyễn Gia Khánh](https://www.worldcubeassociation.org/persons/2026KHAN06) |
+| 331 | 1 | [Lê Trần Đình Khang](https://www.worldcubeassociation.org/persons/2026KHAN09) |
+| 332 | 1 | [Nguyễn Phúc Khang](https://www.worldcubeassociation.org/persons/2026KHAN10) |
+| 333 | 1 | [Phạm Gia Khang](https://www.worldcubeassociation.org/persons/2026KHAN11) |
+| 334 | 1 | [Ho Nguyen Khang](https://www.worldcubeassociation.org/persons/2026KHAN13) |
+| 335 | 1 | [Nguyễn Đức Minh Khang](https://www.worldcubeassociation.org/persons/2026KHAN31) |
+| 336 | 1 | [Nguyễn Hữu Minh Khang](https://www.worldcubeassociation.org/persons/2026KHAN32) |
+| 337 | 1 | [Đoàn Minh Khang](https://www.worldcubeassociation.org/persons/2026KHAN33) |
+| 338 | 1 | [Nguyễn Khang](https://www.worldcubeassociation.org/persons/2026KHAN38) |
+| 339 | 1 | [Nguyễn Phúc Khang](https://www.worldcubeassociation.org/persons/2026KHAN39) |
+| 340 | 1 | [Vũ Trần Bảo Khánh](https://www.worldcubeassociation.org/persons/2026KHAN40) |
+| 341 | 1 | [Trần Đăng Khoa](https://www.worldcubeassociation.org/persons/2026KHOA02) |
+| 342 | 1 | [Nguyễn Đức Minh Khôi](https://www.worldcubeassociation.org/persons/2026KHOI01) |
+| 343 | 1 | [Phan Sỹ Kiên](https://www.worldcubeassociation.org/persons/2026KIEN01) |
+| 344 | 1 | [Đào Bá Kiên](https://www.worldcubeassociation.org/persons/2026KIEN02) |
+| 345 | 1 | [Đoàn Tấn Kiên](https://www.worldcubeassociation.org/persons/2026KIEN03) |
+| 346 | 1 | [Nguyễn Đức Kiên](https://www.worldcubeassociation.org/persons/2026KIEN05) |
+| 347 | 1 | [Nguyễn Tấn Kiệt](https://www.worldcubeassociation.org/persons/2026KIET01) |
+| 348 | 1 | [Trần Nguyễn Quốc Kiệt](https://www.worldcubeassociation.org/persons/2026KIET02) |
+| 349 | 1 | [Lâm Vũ Kỳ](https://www.worldcubeassociation.org/persons/2026KYLA02) |
+| 350 | 1 | [Thân Thái Kỳ](https://www.worldcubeassociation.org/persons/2026KYTH01) |
+| 351 | 1 | [Nguyễn Hoàng Lâm](https://www.worldcubeassociation.org/persons/2026LAMN01) |
+| 352 | 1 | [Nguyen Ba Lam](https://www.worldcubeassociation.org/persons/2026LAMN02) |
+| 353 | 1 | [Trần Ngọc Lâm](https://www.worldcubeassociation.org/persons/2026LAMT02) |
+| 354 | 1 | [Giovanni Le](https://www.worldcubeassociation.org/persons/2026LEGI01) |
+| 355 | 1 | [Phạm Phạm Tùng Linh](https://www.worldcubeassociation.org/persons/2026LINH06) |
+| 356 | 1 | [Huỳnh Gia Lộc](https://www.worldcubeassociation.org/persons/2026LOCH01) |
+| 357 | 1 | [Vũ Đức Long](https://www.worldcubeassociation.org/persons/2026LONG12) |
+| 358 | 1 | [Nguyễn Hoàng Minh](https://www.worldcubeassociation.org/persons/2026MINH03) |
+| 359 | 1 | [Nguyễn Công Minh](https://www.worldcubeassociation.org/persons/2026MINH05) |
+| 360 | 1 | [Đào Hoàng Minh](https://www.worldcubeassociation.org/persons/2026MINH06) |
+| 361 | 1 | [Nguyễn Giang Hải Minh](https://www.worldcubeassociation.org/persons/2026MINH09) |
+| 362 | 1 | [Trần Gia Minh](https://www.worldcubeassociation.org/persons/2026MINH10) |
+| 363 | 1 | [Hà Trần Thảo Minh](https://www.worldcubeassociation.org/persons/2026MINH12) |
+| 364 | 1 | [Hoàng Hà Minh](https://www.worldcubeassociation.org/persons/2026MINH13) |
+| 365 | 1 | [Nguyễn Tiến Hiểu Minh](https://www.worldcubeassociation.org/persons/2026MINH14) |
+| 366 | 1 | [Bùi Văn Nam](https://www.worldcubeassociation.org/persons/2026NAMB01) |
+| 367 | 1 | [Lê Ngọc Nhật Nam](https://www.worldcubeassociation.org/persons/2026NAML01) |
+| 368 | 1 | [Lường Lê Hải Nam](https://www.worldcubeassociation.org/persons/2026NAML02) |
+| 369 | 1 | [Phạm Thành Nam](https://www.worldcubeassociation.org/persons/2026NAMP01) |
+| 370 | 1 | [Trần Thanh Nam](https://www.worldcubeassociation.org/persons/2026NAMT01) |
+| 371 | 1 | [Vũ Bảo Nam](https://www.worldcubeassociation.org/persons/2026NAMV01) |
+| 372 | 1 | [Vũ Dương Nam](https://www.worldcubeassociation.org/persons/2026NAMV02) |
+| 373 | 1 | [Đặng Trung Nghĩa](https://www.worldcubeassociation.org/persons/2026NGHI02) |
+| 374 | 1 | [Sam Q. Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY06) |
+| 375 | 1 | [Trần Khôi Nguyên](https://www.worldcubeassociation.org/persons/2026NGUY26) |
+| 376 | 1 | [Bùi Như Ánh Nguyệt](https://www.worldcubeassociation.org/persons/2026NGUY29) |
+| 377 | 1 | [Nguyễn Hà Khôi Nguyên](https://www.worldcubeassociation.org/persons/2026NGUY30) |
+| 378 | 1 | [Nguyễn Khắc Khôi Nguyên](https://www.worldcubeassociation.org/persons/2026NGUY31) |
+| 379 | 1 | [Phạm Minh Nguyên](https://www.worldcubeassociation.org/persons/2026NGUY32) |
+| 380 | 1 | [Kai Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY34) |
+| 381 | 1 | [Nguyễn Thế Nhân](https://www.worldcubeassociation.org/persons/2026NHAN02) |
+| 382 | 1 | [Nguyễn Minh Nhật](https://www.worldcubeassociation.org/persons/2026NHAT02) |
+| 383 | 1 | [Eric Pham](https://www.worldcubeassociation.org/persons/2026PHAM07) |
+| 384 | 1 | [Hoàng Tấn Phát](https://www.worldcubeassociation.org/persons/2026PHAT02) |
+| 385 | 1 | [Nguyễn Hải Phong](https://www.worldcubeassociation.org/persons/2026PHON02) |
+| 386 | 1 | [Tống Hải Phong](https://www.worldcubeassociation.org/persons/2026PHON03) |
+| 387 | 1 | [Nguyễn Hoàng Phong](https://www.worldcubeassociation.org/persons/2026PHON04) |
+| 388 | 1 | [Bạch Đăng An Phú](https://www.worldcubeassociation.org/persons/2026PHUB01) |
+| 389 | 1 | [Chu Hoàng Phúc](https://www.worldcubeassociation.org/persons/2026PHUC01) |
+| 390 | 1 | [Bùi Văn Phúc](https://www.worldcubeassociation.org/persons/2026PHUC02) |
+| 391 | 1 | [Đàm Triệu Hồng Phúc](https://www.worldcubeassociation.org/persons/2026PHUC03) |
+| 392 | 1 | [Đào Đức Phúc](https://www.worldcubeassociation.org/persons/2026PHUC04) |
+| 393 | 1 | [Bùi Doãn Hà Phương](https://www.worldcubeassociation.org/persons/2026PHUO01) |
+| 394 | 1 | [Lê Ngọc Quang](https://www.worldcubeassociation.org/persons/2026QUAN03) |
+| 395 | 1 | [Nguyễn Anh Quân](https://www.worldcubeassociation.org/persons/2026QUAN04) |
+| 396 | 1 | [Đặng Trung Quân](https://www.worldcubeassociation.org/persons/2026QUAN06) |
+| 397 | 1 | [Đoàn Minh Quân](https://www.worldcubeassociation.org/persons/2026QUAN07) |
+| 398 | 1 | [Đỗ Quốc Quân](https://www.worldcubeassociation.org/persons/2026QUAN08) |
+| 399 | 1 | [Phạm Đức Quang](https://www.worldcubeassociation.org/persons/2026QUAN09) |
+| 400 | 1 | [Hoàng Minh Quang](https://www.worldcubeassociation.org/persons/2026QUAN11) |
+| 401 | 1 | [Trần Lê Đăng Quang](https://www.worldcubeassociation.org/persons/2026QUAN12) |
+| 402 | 1 | [Mai Hiếu Minh Sơn](https://www.worldcubeassociation.org/persons/2026SONM02) |
+| 403 | 1 | [Nguyễn Tri Sơn](https://www.worldcubeassociation.org/persons/2026SONN01) |
+| 404 | 1 | [Phan Quốc Sơn](https://www.worldcubeassociation.org/persons/2026SONP01) |
+| 405 | 1 | [Lew Nhất Sự](https://www.worldcubeassociation.org/persons/2026SULE01) |
+| 406 | 1 | [Huỳnh Năng Thành](https://www.worldcubeassociation.org/persons/2026THAN01) |
+| 407 | 1 | [Nguyễn Thành Thắng](https://www.worldcubeassociation.org/persons/2026THAN03) |
+| 408 | 1 | [Doãn Chí Thành](https://www.worldcubeassociation.org/persons/2026THAN04) |
+| 409 | 1 | [Nguyễn Minh Thành](https://www.worldcubeassociation.org/persons/2026THAN05) |
+| 410 | 1 | [Thái Lê Khương Thịnh](https://www.worldcubeassociation.org/persons/2026THIN02) |
+| 411 | 1 | [Ngô Trường Thịnh](https://www.worldcubeassociation.org/persons/2026THIN03) |
+| 412 | 1 | [Nguyễn Minh Thuận](https://www.worldcubeassociation.org/persons/2026THUA01) |
+| 413 | 1 | [Nguyễn Nam Tiến](https://www.worldcubeassociation.org/persons/2026TIEN01) |
+| 414 | 1 | [Grace Olivia Tran](https://www.worldcubeassociation.org/persons/2026TRAN14) |
+| 415 | 1 | [Khai Don Tran](https://www.worldcubeassociation.org/persons/2026TRAN26) |
+| 416 | 1 | [Vincent Tristan](https://www.worldcubeassociation.org/persons/2026TRIS02) |
+| 417 | 1 | [Bùi Hải Trung](https://www.worldcubeassociation.org/persons/2026TRUN02) |
+| 418 | 1 | [Vương Đình Minh Trung](https://www.worldcubeassociation.org/persons/2026TRUN03) |
+| 419 | 1 | [Phạm Thế Tuấn](https://www.worldcubeassociation.org/persons/2026TUAN01) |
+| 420 | 1 | [Nguyễn Anh Tuấn](https://www.worldcubeassociation.org/persons/2026TUAN02) |
+| 421 | 1 | [Nguyễn Tấn Danh Tùng](https://www.worldcubeassociation.org/persons/2026TUNG01) |
+| 422 | 1 | [Trần Hoàng Việt](https://www.worldcubeassociation.org/persons/2026VIET01) |
+| 423 | 1 | [Tham Fatt Vinh](https://www.worldcubeassociation.org/persons/2026VINH01) |
+| 424 | 1 | [Nguyễn Gia Vinh](https://www.worldcubeassociation.org/persons/2026VINH02) |
+| 425 | 1 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2026VINH03) |
+| 426 | 1 | [Nguyễn Mai Huy Vũ](https://www.worldcubeassociation.org/persons/2026VUNG01) |
+| 427 | 1 | [Phạm Phương Vy](https://www.worldcubeassociation.org/persons/2026VYPH01) |
 
 
 <a href="https://github.com/noeruchangd/wca_statistics_vn" class="github-corner" aria-label="View source on Github"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>

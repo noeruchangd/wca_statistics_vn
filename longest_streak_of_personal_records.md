@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | # | Competitions | Person | Started at | Ended at |
 | ---: | ---: | :--- | :--- | :--- |
@@ -21,8 +21,8 @@
 | 15 | 15 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | [Ha Noi Open 2018](https://www.worldcubeassociation.org/competitions/HaNoiOpen2018) | [cubingHCM 3x3 Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCM3x3Winter2024) |
 | 16 | 15 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |  |
 | 17 | 15 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |  |
-| 18 | 14 | [Trần Duy Lợi](https://www.worldcubeassociation.org/persons/2017LOIT01) | [Ho Chi Minh Warm Up 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhWarmUp2017) |  |
-| 19 | 14 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | [Bay Area Speedcubin' 30 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin302022) |  |
+| 18 | 15 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | [Bay Area Speedcubin' 30 2022](https://www.worldcubeassociation.org/competitions/BayAreaSpeedcubin302022) |  |
+| 19 | 14 | [Trần Duy Lợi](https://www.worldcubeassociation.org/persons/2017LOIT01) | [Ho Chi Minh Warm Up 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhWarmUp2017) |  |
 | 20 | 13 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | [Ho Chi Minh Open 2015](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2015) | [HCMC Pro League 2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019) |
 | 21 | 13 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) | [HCMC Spring Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSpringOpen2016) |  |
 | 22 | 13 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | [HCMC Summer Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSummerOpen2016) | [cubingHCM 3x3 Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCM3x3Winter2024) |
@@ -44,7 +44,7 @@
 | 38 | 11 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) | [CSP Open 2014](https://www.worldcubeassociation.org/competitions/CSPOpen2014) | [Montreal Limited Winter 2019](https://www.worldcubeassociation.org/competitions/MontrealLimitedWinter2019) |
 | 39 | 11 | [Nghiêm Xuân Bách Khoa](https://www.worldcubeassociation.org/persons/2014KHOA02) | [Ha Noi Open 2014](https://www.worldcubeassociation.org/competitions/HaNoiOpen2014) |  |
 | 40 | 11 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) | [HCMC Summer Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSummerOpen2016) |  |
-| 41 | 11 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | [ AZCubing Summer 2016](https://www.worldcubeassociation.org/competitions/AZCubingSummer2016) |  |
+| 41 | 11 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | [AZCubing Summer 2016](https://www.worldcubeassociation.org/competitions/AZCubingSummer2016) |  |
 | 42 | 11 | [Nguyễn Hữu Thông](https://www.worldcubeassociation.org/persons/2017THON01) | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) |  |
 | 43 | 11 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | [Ha Noi Open 2018](https://www.worldcubeassociation.org/competitions/HaNoiOpen2018) | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) |
 | 44 | 11 | [Nguyễn Minh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG03) | [Ho Chi Minh Let's Cube 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhLetsCube2019) |  |

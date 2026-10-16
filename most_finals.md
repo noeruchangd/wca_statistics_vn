@@ -1,10 +1,10 @@
 ## Most finals
 
-*Updated on 13 October 2026*
+*Updated on 16 October 2026*
 
 | # | Finals | Person |
 | ---: | ---: | :--- |
-| 1 | 198 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 1 | 202 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 2 | 180 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
 | 3 | 160 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
 | 4 | 135 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
