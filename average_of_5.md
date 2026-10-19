@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### 3x3x3 Cube
@@ -147,12 +147,12 @@
 | 2 | 40.21 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) | 39.35, 36.89, 43.32, 49.78, 37.95 |
 | 3 | 42.90 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 38.73, 48.84, 46.19, 41.89, 40.62 |
 | 4 | 43.90 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 43.66, 43.92, 50.15, 44.11, 42.16 |
-| 5 | 44.29 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 52.80, 45.04, 41.84, 43.85, 43.98 |
-| 6 | 44.81 | [Lê Đình Nguyên Khôi](https://www.worldcubeassociation.org/persons/2025KHOI02) | 41.46, 47.24, 41.86, DNF, 45.32 |
-| 7 | 45.10 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) | 46.39, 42.44, 47.01, 46.47, 42.34 |
-| 8 | 45.13 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | 42.01, 47.32, 50.87, 46.05, 41.18 |
-| 9 | 45.96 | [Lê Phùng Nguyên Khang](https://www.worldcubeassociation.org/persons/2023KHAN41) | 46.34, 48.23, 47.35, 44.19, 41.30 |
-| 10 | 47.35 | [Nguyễn Hoàng Thiên Vũ](https://www.worldcubeassociation.org/persons/2019VUNG02) | 50.27, 48.86, 56.12, 42.93, 39.62 |
+| 5 | 44.16 | [Quan Lập Văn](https://www.worldcubeassociation.org/persons/2026VANQ01) | 38.61, 43.57, 50.30, 33.60, 51.66 |
+| 6 | 44.29 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 52.80, 45.04, 41.84, 43.85, 43.98 |
+| 7 | 44.81 | [Lê Đình Nguyên Khôi](https://www.worldcubeassociation.org/persons/2025KHOI02) | 41.46, 47.24, 41.86, DNF, 45.32 |
+| 8 | 45.10 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) | 46.39, 42.44, 47.01, 46.47, 42.34 |
+| 9 | 45.13 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | 42.01, 47.32, 50.87, 46.05, 41.18 |
+| 10 | 45.96 | [Lê Phùng Nguyên Khang](https://www.worldcubeassociation.org/persons/2023KHAN41) | 46.34, 48.23, 47.35, 44.19, 41.30 |
 
 ### Pyraminx
 

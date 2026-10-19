@@ -1,7 +1,7 @@
 ## Competitions with the least number of no-shows in Vietnam
 
 *Note: This statistic shows the competitions in Vietnam with the least number of no-shows (registered but did not compete in any event of the comp).*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 | # | Competition | Total registered | Total competed | No-shows |
 | ---: | :--- | ---: | ---: | ---: |
@@ -11,17 +11,17 @@
 | 4 | [Blind Till Nine in Vietnam 2024](https://www.worldcubeassociation.org/competitions/BlindTillNineinVietnam2024) | 34 | 31 | 3 |
 | 5 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024) | 99 | 95 | 4 |
 | 6 | [Cube Against Cancer Hanoi 2026](https://www.worldcubeassociation.org/competitions/CubeAgainstCancerHanoi2026) | 50 | 46 | 4 |
-| 7 | [Hanoi ChessNCube 2026](https://www.worldcubeassociation.org/competitions/HanoiChessNCube2026) | 4 | 0 | 4 |
-| 8 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 128 | 123 | 5 |
-| 9 | [Hanoi COP Open 2024](https://www.worldcubeassociation.org/competitions/HanoiCOPOpen2024) | 94 | 89 | 5 |
-| 10 | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024) | 82 | 77 | 5 |
-| 11 | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 31 | 26 | 5 |
-| 12 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 212 | 206 | 6 |
-| 13 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) | 125 | 119 | 6 |
-| 14 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) | 120 | 114 | 6 |
-| 15 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 121 | 114 | 7 |
-| 16 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 120 | 113 | 7 |
-| 17 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) | 138 | 130 | 8 |
+| 7 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 128 | 123 | 5 |
+| 8 | [Hanoi COP Open 2024](https://www.worldcubeassociation.org/competitions/HanoiCOPOpen2024) | 94 | 89 | 5 |
+| 9 | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024) | 82 | 77 | 5 |
+| 10 | [Vietnam FMC Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamFMCChampionship2026) | 31 | 26 | 5 |
+| 11 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 212 | 206 | 6 |
+| 12 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) | 125 | 119 | 6 |
+| 13 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) | 120 | 114 | 6 |
+| 14 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 121 | 114 | 7 |
+| 15 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 120 | 113 | 7 |
+| 16 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) | 138 | 130 | 8 |
+| 17 | [Hanoi ChessNCube 2026](https://www.worldcubeassociation.org/competitions/HanoiChessNCube2026) | 8 | 0 | 8 |
 | 18 | [Hanoi Open 2022](https://www.worldcubeassociation.org/competitions/HanoiOpen2022) | 144 | 135 | 9 |
 | 19 | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) | 118 | 109 | 9 |
 | 20 | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022) | 100 | 90 | 10 |

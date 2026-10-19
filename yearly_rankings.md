@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -273,16 +273,16 @@
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **35.27** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 41.83, 37.21, 48.11, 35.27, 39.91 |
-| 2 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **41.18** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 47.32, 50.87, 46.05, 41.18, 45.17 |
-| 3 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **42.16** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 50.15, 44.11, 42.16, 53.20, 48.46 |
-| 4 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **43.54** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 50.02, 49.32, 1:00.29, 48.89, 43.54 |
-| 5 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **46.28** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 47.59, 53.24, 1:00.34, 53.87 |
-| 6 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) | **46.28** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 49.92, 46.58, 47.36, 46.28, 48.69 |
-| 7 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **48.17** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 1:00.94, 57.71, 1:03.92, 48.17, 56.27 |
-| 8 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **48.55** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 49.77, 50.97, 48.55, 52.92, 51.55 |
-| 9 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **51.24** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 55.90, 54.56, 51.24, 51.39, 1:05.94 |
-| 10 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | **52.62** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 58.64, 52.62, 1:01.79, 1:12.46, 1:02.23 |
+| 1 | [Quan Lập Văn](https://www.worldcubeassociation.org/persons/2026VANQ01) | **33.60** | [Thirroul Beachside Twist 2026](https://www.worldcubeassociation.org/competitions/ThirroulBeachsideTwist2026) | 38.61, 43.57, 50.30, 33.60, 51.66 |
+| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **35.27** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 41.83, 37.21, 48.11, 35.27, 39.91 |
+| 3 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **41.18** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 47.32, 50.87, 46.05, 41.18, 45.17 |
+| 4 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **42.16** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 50.15, 44.11, 42.16, 53.20, 48.46 |
+| 5 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **43.54** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 50.02, 49.32, 1:00.29, 48.89, 43.54 |
+| 6 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **46.28** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 47.59, 53.24, 1:00.34, 53.87 |
+| 7 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) | **46.28** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 49.92, 46.58, 47.36, 46.28, 48.69 |
+| 8 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **48.17** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 1:00.94, 57.71, 1:03.92, 48.17, 56.27 |
+| 9 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **48.55** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 49.77, 50.97, 48.55, 52.92, 51.55 |
+| 10 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **51.24** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 55.90, 54.56, 51.24, 51.39, 1:05.94 |
 
 ### Megaminx - Average
 
@@ -290,14 +290,14 @@
 | ---: | :--- | ---: | :--- | :--- |
 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **39.65** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 41.83, 37.21, 48.11, 35.27, 39.91 |
 | 2 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **44.03** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 44.20, 51.06, 43.98, 43.66, 43.92 |
-| 3 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **45.84** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 42.77, 48.54, 51.24, 46.21, 42.01 |
-| 4 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) | **47.54** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 49.92, 46.58, 47.36, 46.28, 48.69 |
-| 5 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **49.41** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 50.02, 49.32, 1:00.29, 48.89, 43.54 |
-| 6 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **50.76** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 49.77, 50.97, 48.55, 52.92, 51.55 |
-| 7 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **51.57** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 47.59, 53.24, 1:00.34, 53.87 |
-| 8 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **53.95** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 55.90, 54.56, 51.24, 51.39, 1:05.94 |
-| 9 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **53.98** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 50.07, 49.91, 1:02.62, 1:00.90, 50.96 |
-| 10 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | **57.57** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 1:42.22, 1:03.20, 55.36, 53.86, 54.15 |
+| 3 | [Quan Lập Văn](https://www.worldcubeassociation.org/persons/2026VANQ01) | **44.16** | [Thirroul Beachside Twist 2026](https://www.worldcubeassociation.org/competitions/ThirroulBeachsideTwist2026) | 38.61, 43.57, 50.30, 33.60, 51.66 |
+| 4 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | **45.84** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 42.77, 48.54, 51.24, 46.21, 42.01 |
+| 5 | [Nguyễn Hoàng Hải](https://www.worldcubeassociation.org/persons/2022HAIN03) | **47.54** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 49.92, 46.58, 47.36, 46.28, 48.69 |
+| 6 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **49.41** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 50.02, 49.32, 1:00.29, 48.89, 43.54 |
+| 7 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **50.76** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 49.77, 50.97, 48.55, 52.92, 51.55 |
+| 8 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **51.57** | [Temecula Valley Spring 2026](https://www.worldcubeassociation.org/competitions/TemeculaValleySpring2026) | 46.28, 47.59, 53.24, 1:00.34, 53.87 |
+| 9 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **53.95** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 55.90, 54.56, 51.24, 51.39, 1:05.94 |
+| 10 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **53.98** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 50.07, 49.91, 1:02.62, 1:00.90, 50.96 |
 
 ### Pyraminx - Single
 

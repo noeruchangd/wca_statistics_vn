@@ -1,6 +1,6 @@
 ## Best single counting into an average of 5
 
-*Updated on 16 October 2026*
+*Updated on 19 October 2026*
 
 
 ### 3x3x3 Cube
@@ -88,10 +88,10 @@
 | 4 | 37.34 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2019HUNG16) |
 | 5 | 37.76 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Malaysia Cube Championship 2024](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2024/results/by_person#2019HUNG16) |
 | 6 | 37.95 | [Lưu Trần Khiết Quân](https://www.worldcubeassociation.org/persons/2023QUAN06) | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025/results/by_person#2023QUAN06) |
-| 7 | 38.65 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024/results/by_person#2019HUNG16) |
-| 8 | 38.73 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/by_person#2019HUNG16) |
-| 9 | 39.20 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019HUNG16) |
-| 10 | 39.41 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/by_person#2019HUNG16) |
+| 7 | 38.61 | [Quan Lập Văn](https://www.worldcubeassociation.org/persons/2026VANQ01) | [Thirroul Beachside Twist 2026](https://www.worldcubeassociation.org/competitions/ThirroulBeachsideTwist2026/results/by_person#2026VANQ01) |
+| 8 | 38.65 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024/results/by_person#2019HUNG16) |
+| 9 | 38.73 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [MYHM Singapore Championship 2024](https://www.worldcubeassociation.org/competitions/MYHMSingaporeChampionship2024/results/by_person#2019HUNG16) |
+| 10 | 39.20 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [WCA Asian Championship 2024](https://www.worldcubeassociation.org/competitions/RubiksWCAAsianChampionship2024/results/by_person#2019HUNG16) |
 
 ### Pyraminx
 
