@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 | # | Finals | Person |
 | ---: | ---: | :--- |
@@ -21,12 +21,12 @@
 | 15 | 82 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) |
 | 16 | 82 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
 | 17 | 75 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
-| 18 | 71 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) |
-| 19 | 70 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
-| 20 | 65 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) |
-| 21 | 64 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
-| 22 | 63 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) |
-| 23 | 63 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 18 | 72 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 19 | 71 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) |
+| 20 | 70 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) |
+| 21 | 65 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) |
+| 22 | 64 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
+| 23 | 63 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) |
 | 24 | 62 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) |
 | 25 | 60 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
 | 26 | 58 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |

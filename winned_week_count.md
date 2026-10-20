@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### 3x3x3 Cube
@@ -47,9 +47,9 @@
 | 12 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 6 |
 | 13 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | 5 |
 | 14 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 5 |
-| 15 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 5 |
-| 16 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 4 |
-| 17 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 4 |
+| 15 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 5 |
+| 16 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 5 |
+| 17 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 4 |
 | 18 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) | 4 |
 | 19 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 4 |
 | 20 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 3 |
@@ -66,9 +66,9 @@
 | 6 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 10 |
 | 7 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 8 |
 | 8 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 7 |
-| 9 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) | 6 |
-| 10 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 6 |
-| 11 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 5 |
+| 9 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 6 |
+| 10 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) | 6 |
+| 11 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 6 |
 | 12 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4 |
 | 13 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 4 |
 | 14 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 4 |
@@ -96,9 +96,9 @@
 | 11 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 4 |
 | 12 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 4 |
 | 13 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 4 |
-| 14 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 4 |
-| 15 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | 3 |
-| 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 3 |
+| 14 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 4 |
+| 15 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 4 |
+| 16 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | 3 |
 | 17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 3 |
 | 18 | [Bach Nguyen](https://www.worldcubeassociation.org/persons/2025NGUY39) | 3 |
 | 19 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | 2 |
@@ -120,10 +120,10 @@
 | 10 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 4 |
 | 11 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 4 |
 | 12 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | 3 |
-| 13 | [Dang Tran](https://www.worldcubeassociation.org/persons/2022TRAN27) | 3 |
-| 14 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 3 |
-| 15 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 2 |
-| 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 2 |
+| 13 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 3 |
+| 14 | [Dang Tran](https://www.worldcubeassociation.org/persons/2022TRAN27) | 3 |
+| 15 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 3 |
+| 16 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 2 |
 | 17 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 2 |
 | 18 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 2 |
 | 19 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 2 |
@@ -141,9 +141,9 @@
 | 6 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 3 |
 | 7 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 3 |
 | 8 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 3 |
-| 9 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 3 |
-| 10 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) | 2 |
-| 11 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 2 |
+| 9 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 3 |
+| 10 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 3 |
+| 11 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) | 2 |
 | 12 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2019PHAM02) | 2 |
 | 13 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 2 |
 | 14 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | 2 |
@@ -201,8 +201,8 @@
 | 2 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 15 |
 | 3 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 14 |
 | 4 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 12 |
-| 5 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 6 |
-| 6 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 6 |
+| 5 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 7 |
+| 6 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 6 |
 | 7 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 6 |
 | 8 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 5 |
 | 9 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 5 |
@@ -276,8 +276,8 @@
 | 2 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 10 |
 | 3 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 10 |
 | 4 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 8 |
-| 5 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 4 |
-| 6 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 4 |
+| 5 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 5 |
+| 6 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 4 |
 | 7 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 4 |
 | 8 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 3 |
 | 9 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | 3 |

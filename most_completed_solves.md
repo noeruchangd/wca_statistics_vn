@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### Competition
@@ -46,8 +46,8 @@
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **895** | 903 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **840** | 881 |
-| 15 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **810** | 818 |
-| 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **776** | 805 |
+| 15 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **820** | 853 |
+| 16 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **810** | 818 |
 | 17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **767** | 796 |
 | 18 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
 | 19 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **736** | 743 |
@@ -59,7 +59,7 @@
 | ---: | :--- | ---: | ---: |
 | 1 | 2024 | **27794** | 28805 |
 | 2 | 2025 | **17349** | 18066 |
-| 3 | 2026 | **17299** | 18124 |
+| 3 | 2026 | **17343** | 18172 |
 | 4 | 2023 | **15710** | 16203 |
 | 5 | 2022 | **14897** | 15268 |
 | 6 | 2019 | **10283** | 10564 |
@@ -80,18 +80,18 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **49268** | 50256 |
-| 2 | 2x2x2 Cube | **25539** | 26200 |
-| 3 | 4x4x4 Cube | **15926** | 16368 |
-| 4 | 3x3x3 One-Handed | **14982** | 15379 |
+| 1 | 3x3x3 Cube | **49277** | 50266 |
+| 2 | 2x2x2 Cube | **25544** | 26207 |
+| 3 | 4x4x4 Cube | **15931** | 16373 |
+| 4 | 3x3x3 One-Handed | **14987** | 15384 |
 | 5 | Pyraminx | **9147** | 9389 |
-| 6 | 5x5x5 Cube | **7777** | 7967 |
+| 6 | 5x5x5 Cube | **7781** | 7972 |
 | 7 | Skewb | **6471** | 6656 |
-| 8 | Clock | **2541** | 2950 |
-| 9 | Megaminx | **2464** | 2544 |
+| 8 | Clock | **2546** | 2955 |
+| 9 | Megaminx | **2469** | 2549 |
 | 10 | Square-1 | **1775** | 1852 |
-| 11 | 6x6x6 Cube | **1709** | 1738 |
-| 12 | 7x7x7 Cube | **1359** | 1406 |
+| 11 | 6x6x6 Cube | **1712** | 1741 |
+| 12 | 7x7x7 Cube | **1362** | 1409 |
 | 13 | Magic | **544** | 618 |
 | 14 | 3x3x3 Blindfolded | **534** | 1549 |
 | 15 | 3x3x3 Fewest Moves | **268** | 377 |

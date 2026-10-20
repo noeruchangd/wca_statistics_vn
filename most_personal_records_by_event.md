@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 
 ### 3x3x3 Cube
@@ -75,7 +75,7 @@
 | 5 | 17 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
 | 6 | 16 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
 | 7 | 16 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 8 | 14 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 8 | 15 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
 | 9 | 14 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
 | 10 | 13 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
 
@@ -177,8 +177,8 @@
 | 2 | 14 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
 | 3 | 14 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 4 | 13 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) |
-| 5 | 12 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
-| 6 | 12 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 5 | 13 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 6 | 12 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
 | 7 | 12 | [Ngô Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2020HIEU01) |
 | 8 | 11 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) |
 | 9 | 11 | [Ngô Quốc Đạt](https://www.worldcubeassociation.org/persons/2022DATN01) |
@@ -225,8 +225,8 @@
 | 5 | 1 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) |
 | 6 | 1 | [Hồ Quang Tiến](https://www.worldcubeassociation.org/persons/2023TIEN01) |
 | 7 | 1 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |
-| 8 | 1 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
-| 9 | 1 | [Mai Tôn Nhật Khánh](https://www.worldcubeassociation.org/persons/2023KHAN43) |
+| 8 | 1 | [Mai Tôn Nhật Khánh](https://www.worldcubeassociation.org/persons/2023KHAN43) |
+| 9 | 1 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
 | 10 | 1 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) |
 
 ### 5x5x5 Blindfolded

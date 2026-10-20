@@ -1,7 +1,7 @@
 ## Competitions with the least number of no-shows in Vietnam
 
 *Note: This statistic shows the competitions in Vietnam with the least number of no-shows (registered but did not compete in any event of the comp).*
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 | # | Competition | Total registered | Total competed | No-shows |
 | ---: | :--- | ---: | ---: | ---: |
@@ -21,9 +21,9 @@
 | 14 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 121 | 114 | 7 |
 | 15 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 120 | 113 | 7 |
 | 16 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) | 138 | 130 | 8 |
-| 17 | [Hanoi ChessNCube 2026](https://www.worldcubeassociation.org/competitions/HanoiChessNCube2026) | 8 | 0 | 8 |
-| 18 | [Hanoi Open 2022](https://www.worldcubeassociation.org/competitions/HanoiOpen2022) | 144 | 135 | 9 |
-| 19 | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) | 118 | 109 | 9 |
+| 17 | [Hanoi Open 2022](https://www.worldcubeassociation.org/competitions/HanoiOpen2022) | 144 | 135 | 9 |
+| 18 | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) | 118 | 109 | 9 |
+| 19 | [Hanoi ChessNCube 2026](https://www.worldcubeassociation.org/competitions/HanoiChessNCube2026) | 9 | 0 | 9 |
 | 20 | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022) | 100 | 90 | 10 |
 
 

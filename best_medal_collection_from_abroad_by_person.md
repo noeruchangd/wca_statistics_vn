@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 19 October 2026*
+*Updated on 20 October 2026*
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |
@@ -20,13 +20,13 @@
 | 13 | [Quan Lập Văn](https://www.worldcubeassociation.org/persons/2026VANQ01) | **1** | 0 | 0 | 1 |
 | 14 | [Trần Mạnh Quân](https://www.worldcubeassociation.org/persons/2014QUAN02) | **1** | 0 | 0 | 1 |
 | 15 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **0** | 7 | 4 | 11 |
-| 16 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | **0** | 2 | 2 | 4 |
-| 17 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **0** | 2 | 1 | 3 |
-| 18 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | **0** | 2 | 0 | 2 |
-| 19 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | **0** | 1 | 4 | 5 |
-| 20 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | **0** | 1 | 0 | 1 |
-| 21 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) | **0** | 1 | 0 | 1 |
-| 22 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **0** | 0 | 2 | 2 |
+| 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **0** | 4 | 5 | 9 |
+| 17 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | **0** | 2 | 2 | 4 |
+| 18 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **0** | 2 | 1 | 3 |
+| 19 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG01) | **0** | 2 | 0 | 2 |
+| 20 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | **0** | 1 | 4 | 5 |
+| 21 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | **0** | 1 | 0 | 1 |
+| 22 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) | **0** | 1 | 0 | 1 |
 | 23 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | **0** | 0 | 1 | 1 |
 | 24 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **0** | 0 | 1 | 1 |
 | 25 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | **0** | 0 | 1 | 1 |
