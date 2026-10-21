@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 20 October 2026*
+*Updated on 21 October 2026*
 
 
 ### 3x3x3 Cube
@@ -47,9 +47,9 @@
 | 12 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 6 |
 | 13 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | 5 |
 | 14 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 5 |
-| 15 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 5 |
-| 16 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 5 |
-| 17 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 4 |
+| 15 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 5 |
+| 16 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 4 |
+| 17 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 4 |
 | 18 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) | 4 |
 | 19 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 4 |
 | 20 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 3 |
@@ -307,9 +307,9 @@
 | 8 | [Viet Hoang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY14) | 5 |
 | 9 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 5 |
 | 10 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 4 |
-| 11 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 3 |
-| 12 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 3 |
-| 13 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | 3 |
+| 11 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | 4 |
+| 12 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 3 |
+| 13 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 3 |
 | 14 | [Nguyễn Khôi Nguyên](https://www.worldcubeassociation.org/persons/2020NGUY03) | 2 |
 | 15 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | 2 |
 | 16 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 2 |
@@ -334,14 +334,14 @@
 | 10 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 2 |
 | 11 | [Lê Phương Thùy](https://www.worldcubeassociation.org/persons/2022THUY01) | 2 |
 | 12 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 2 |
-| 13 | [Rico Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY24) | 2 |
-| 14 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | 1 |
-| 15 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 1 |
-| 16 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | 1 |
-| 17 | [Lê Xuân Việt](https://www.worldcubeassociation.org/persons/2017VIET03) | 1 |
-| 18 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 1 |
-| 19 | [Nguyễn Quân](https://www.worldcubeassociation.org/persons/2017QUAN21) | 1 |
-| 20 | [Tô Thái Dương](https://www.worldcubeassociation.org/persons/2018DUON02) | 1 |
+| 13 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | 2 |
+| 14 | [Rico Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY24) | 2 |
+| 15 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | 1 |
+| 16 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 1 |
+| 17 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | 1 |
+| 18 | [Lê Xuân Việt](https://www.worldcubeassociation.org/persons/2017VIET03) | 1 |
+| 19 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 1 |
+| 20 | [Nguyễn Quân](https://www.worldcubeassociation.org/persons/2017QUAN21) | 1 |
 
 ### 4x4x4 Blindfolded
 

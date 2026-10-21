@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on 20 October 2026*
+*Updated on 21 October 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
@@ -198,11 +198,11 @@
 | 191 | [Nguyễn Phúc Sơn](https://www.worldcubeassociation.org/persons/2018SONN04) | 266 km |
 | 192 | [Trần Minh Quân](https://www.worldcubeassociation.org/persons/2018QUAN18) | 266 km |
 | 193 | [Trần Tuấn Kiệt](https://www.worldcubeassociation.org/persons/2017KIET03) | 261 km |
-| 194 | [Si Huy Tran](https://www.worldcubeassociation.org/persons/2026TRAN17) | 222 km |
-| 195 | [Khuong Vu](https://www.worldcubeassociation.org/persons/2024VUKH01) | 206 km |
-| 196 | [Thanh Trinh](https://www.worldcubeassociation.org/persons/2026TRIN01) | 198 km |
-| 197 | [Tưởng Phi Anh](https://www.worldcubeassociation.org/persons/2018ANHT03) | 175 km |
-| 198 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | 161 km |
+| 194 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) | 231 km |
+| 195 | [Si Huy Tran](https://www.worldcubeassociation.org/persons/2026TRAN17) | 222 km |
+| 196 | [Khuong Vu](https://www.worldcubeassociation.org/persons/2024VUKH01) | 206 km |
+| 197 | [Thanh Trinh](https://www.worldcubeassociation.org/persons/2026TRIN01) | 198 km |
+| 198 | [Tưởng Phi Anh](https://www.worldcubeassociation.org/persons/2018ANHT03) | 175 km |
 | 199 | [Han-Elliot Phan](https://www.worldcubeassociation.org/persons/2024PHAN09) | 125 km |
 | 200 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) | 100 km |
 
