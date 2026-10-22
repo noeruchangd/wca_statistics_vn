@@ -1,17 +1,17 @@
 ## Longest streak of national records of the same type in the given event
 
-*Updated on 21 October 2026*
+*Updated on 22 October 2026*
 
 | # | Records | Event | Type | Person | Started at | Ended at | Years |
 | ---: | ---: | :--- | :--- | :--- | :--- | :--- | ---: |
 | 1 | 12 | 7x7x7 Cube | Average | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023) |  | 3.27 |
-| 2 | 11 | 5x5x5 Cube | Average | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) |  | 7.22 |
+| 2 | 11 | 5x5x5 Cube | Average | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) |  | 7.23 |
 | 3 | 9 | 4x4x4 Cube | Average | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | [Ha Noi Open 2013](https://www.worldcubeassociation.org/competitions/HaNoiOpen2013) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) | 6.01 |
 | 4 | 9 | 6x6x6 Cube | Single | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Singapore Max 2023](https://www.worldcubeassociation.org/competitions/SingaporeMax2023) |  | 3.27 |
-| 5 | 8 | 5x5x5 Cube | Single | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) |  | 7.22 |
-| 6 | 7 | 4x4x4 Cube | Average | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) |  | 7.22 |
+| 5 | 8 | 5x5x5 Cube | Single | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) |  | 7.23 |
+| 6 | 7 | 4x4x4 Cube | Average | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) |  | 7.23 |
 | 7 | 6 | 5x5x5 Cube | Single | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | [CSP Open 2014](https://www.worldcubeassociation.org/competitions/CSPOpen2014) | [CubingUSA Nationals 2019](https://www.worldcubeassociation.org/competitions/CubingUSANationals2019) | 5.34 |
-| 8 | 6 | Clock | Single | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |  | 3.65 |
+| 8 | 6 | Clock | Single | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |  | 3.66 |
 | 9 | 5 | 3x3x3 Cube | Average | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | [Ha Noi Open 2012](https://www.worldcubeassociation.org/competitions/HaNoi2012) | [Ho Chi Minh Spring Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhSpringOpen2018) | 5.69 |
 | 10 | 5 | 4x4x4 Cube | Single | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | [Ha Noi Cube Day 2014](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2014) | [Puget Sound Fall 2018](https://www.worldcubeassociation.org/competitions/PugetSoundFall2018) | 4.67 |
 | 11 | 5 | 4x4x4 Cube | Single | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [Hanoi Open 2022](https://www.worldcubeassociation.org/competitions/HanoiOpen2022) |  | 4.09 |
@@ -38,7 +38,7 @@
 | 32 | 3 | Pyraminx | Average | [Lê Minh Cường](https://www.worldcubeassociation.org/persons/2011LEMI02) | [Ha Noi Open 2012](https://www.worldcubeassociation.org/competitions/HaNoi2012) |  | 14.21 |
 | 33 | 3 | Clock | Single | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | [NZSIC 2022](https://www.worldcubeassociation.org/competitions/NZSouthIslandChampionship2022) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) | 0.67 |
 | 34 | 3 | Clock | Average | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019) | 7.55 |
-| 35 | 3 | Clock | Average | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |  | 3.65 |
+| 35 | 3 | Clock | Average | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |  | 3.66 |
 | 36 | 2 | 3x3x3 Cube | Single | [Hien Bui](https://www.worldcubeassociation.org/persons/2009BUIH01) | [Chattahoochee Spring 2009](https://www.worldcubeassociation.org/competitions/ChattahoocheeSpring2009) | [French Open 2010](https://www.worldcubeassociation.org/competitions/FrenchOpen2010) | 0.94 |
 | 37 | 2 | 3x3x3 Cube | Single | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | [French Open 2010](https://www.worldcubeassociation.org/competitions/FrenchOpen2010) | [CSP Open 2014](https://www.worldcubeassociation.org/competitions/CSPOpen2014) | 4.08 |
 | 38 | 2 | 3x3x3 Cube | Single | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | [CSP Open 2014](https://www.worldcubeassociation.org/competitions/CSPOpen2014) | [Techweek NZ 2017](https://www.worldcubeassociation.org/competitions/TechweekNZ2017) | 3.12 |
