@@ -1,7 +1,7 @@
 ## Fewest competitors contest
 
 *Note: Competitions with the least number of competitors participated.*
-*Updated on 22 October 2026*
+*Updated on 23 October 2026*
 
 | # | Competitors | Competition |
 | ---: | ---: | :--- |
