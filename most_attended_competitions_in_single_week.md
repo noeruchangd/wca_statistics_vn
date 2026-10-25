@@ -1,6 +1,6 @@
 ## Most attended competitions in a single week
 
-*Updated on 23 October 2026*
+*Updated on 25 October 2026*
 
 | # | Competitions | Person | Start date | End date | List |
 | ---: | ---: | :--- | :--- | :--- | :--- |
