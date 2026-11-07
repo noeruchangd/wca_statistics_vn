@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 
 ### 3x3x3 Cube
@@ -10,7 +10,7 @@
 | ---: | :--- | ---: |
 | 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 28 |
 | 2 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 22 |
-| 3 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 17 |
+| 3 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 19 |
 | 4 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | 14 |
 | 5 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 11 |
 | 6 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 11 |
@@ -83,7 +83,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 25 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 26 |
 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 15 |
 | 3 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 14 |
 | 4 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 12 |
@@ -322,7 +322,7 @@
 
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 7 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 8 |
 | 2 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 6 |
 | 3 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 5 |
 | 4 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 3 |

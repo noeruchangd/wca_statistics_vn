@@ -1,7 +1,7 @@
 ## Most personal records by event
 
 *Note: Counts how many personal records (single or average) a competitor achieved in each event.*
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 
 ### 3x3x3 Cube
@@ -56,9 +56,9 @@
 | 1 | 28 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) |
 | 2 | 25 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
 | 3 | 24 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 4 | 23 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
-| 5 | 23 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
-| 6 | 22 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
+| 4 | 23 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
+| 5 | 23 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) |
+| 6 | 23 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
 | 7 | 22 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) |
 | 8 | 22 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) |
 | 9 | 21 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
@@ -219,8 +219,8 @@
 | # | PRs | Person |
 | ---: | ---: | :--- |
 | 1 | 2 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
-| 2 | 2 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
-| 3 | 2 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) |
+| 2 | 2 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) |
+| 3 | 2 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
 | 4 | 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 5 | 1 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) |
 | 6 | 1 | [Hồ Quang Tiến](https://www.worldcubeassociation.org/persons/2023TIEN01) |
@@ -234,8 +234,8 @@
 | # | PRs | Person |
 | ---: | ---: | :--- |
 | 1 | 3 | [Nguyen Dao Quoc Anh](https://www.worldcubeassociation.org/persons/2016ANHN02) |
-| 2 | 1 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
-| 3 | 1 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) |
+| 2 | 1 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) |
+| 3 | 1 | [Hoàng Quang Khải](https://www.worldcubeassociation.org/persons/2022KHAI01) |
 
 ### 3x3x3 Multi-Blind
 

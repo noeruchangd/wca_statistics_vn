@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 
 ### Competition
@@ -32,7 +32,7 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1965** | 2090 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **1995** | 2120 |
 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1867** | 1880 |
 | 3 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1597** | 1633 |
 | 4 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
@@ -46,8 +46,8 @@
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **895** | 903 |
 | 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 14 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **840** | 881 |
-| 15 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **820** | 853 |
-| 16 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **810** | 818 |
+| 15 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **835** | 843 |
+| 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **820** | 853 |
 | 17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **767** | 796 |
 | 18 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
 | 19 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **736** | 743 |
@@ -58,7 +58,7 @@
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
 | 1 | 2024 | **27794** | 28805 |
-| 2 | 2026 | **17416** | 18246 |
+| 2 | 2026 | **17491** | 18321 |
 | 3 | 2025 | **17349** | 18066 |
 | 4 | 2023 | **15710** | 16203 |
 | 5 | 2022 | **14897** | 15268 |
@@ -80,16 +80,16 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **49302** | 50291 |
+| 1 | 3x3x3 Cube | **49337** | 50326 |
 | 2 | 2x2x2 Cube | **25558** | 26222 |
-| 3 | 4x4x4 Cube | **15936** | 16378 |
-| 4 | 3x3x3 One-Handed | **14992** | 15389 |
+| 3 | 4x4x4 Cube | **15941** | 16383 |
+| 4 | 3x3x3 One-Handed | **15002** | 15399 |
 | 5 | Pyraminx | **9157** | 9399 |
-| 6 | 5x5x5 Cube | **7781** | 7972 |
+| 6 | 5x5x5 Cube | **7801** | 7992 |
 | 7 | Skewb | **6481** | 6666 |
 | 8 | Clock | **2546** | 2955 |
 | 9 | Megaminx | **2471** | 2551 |
-| 10 | Square-1 | **1777** | 1854 |
+| 10 | Square-1 | **1782** | 1859 |
 | 11 | 6x6x6 Cube | **1712** | 1741 |
 | 12 | 7x7x7 Cube | **1362** | 1409 |
 | 13 | Magic | **544** | 618 |

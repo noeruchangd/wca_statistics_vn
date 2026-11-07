@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 | # | Competitions | Person | Started at | Ended at |
 | ---: | ---: | :--- | :--- | :--- |
@@ -54,7 +54,7 @@
 | 48 | 11 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | [Hanoi Open 2022](https://www.worldcubeassociation.org/competitions/HanoiOpen2022) |  |
 | 49 | 11 | [Nhâm Nguyễn Hải Đăng](https://www.worldcubeassociation.org/persons/2023DANG01) | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) |  |
 | 50 | 11 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | [Gros Jouets à Montréal 2024](https://www.worldcubeassociation.org/competitions/GrosJouetsaMontreal2024) |  |
-| 51 | 11 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024) |  |
+| 51 | 11 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) | [Aeon Mall Long Bien 2024](https://www.worldcubeassociation.org/competitions/AeonMallLongBien2024) | [WLS Listopad 2026](https://www.worldcubeassociation.org/competitions/WLSListopad2026) |
 | 52 | 10 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | [Hanoi Open 2010](https://www.worldcubeassociation.org/competitions/HanoiOpen2010) | [CSP Open 2015](https://www.worldcubeassociation.org/competitions/CSPOpen2015) |
 | 53 | 10 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | [Ho Chi Minh 2013](https://www.worldcubeassociation.org/competitions/HoChiMinh2013) | [Ho Chi Minh Spring Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhSpringOpen2018) |
 | 54 | 10 | [Trần Ngọc Hoàng Phúc](https://www.worldcubeassociation.org/persons/2015PHUC02) | [Ho Chi Minh Open 2015](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2015) | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |

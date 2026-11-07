@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  4 November 2026*
+*Updated on  7 November 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -24,7 +24,7 @@
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
 | 1 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **5.74** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.33, 6.19, 5.32, 6.01, 5.89 |
-| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **5.99** | [Lakewood Spring 2026](https://www.worldcubeassociation.org/competitions/LakewoodSpring2026) | 5.23, 6.68, 5.92, 5.36, 8.23 |
+| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **5.89** | [Seattle Mini B 2026](https://www.worldcubeassociation.org/competitions/SeattleMiniB2026) | 6.63, 6.42, 5.55, 5.40, 5.70 |
 | 3 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **6.44** | [Agoura Winter 2026](https://www.worldcubeassociation.org/competitions/AgouraWinter2026) | 6.17, 5.57, 6.94, 6.64, 6.51 |
 | 4 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **6.49** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 5.75, 5.90, 7.78, 6.38, 7.20 |
 | 5 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **6.57** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 7.52, 6.58, 6.43, 6.66, 6.47 |
@@ -415,8 +415,8 @@
 | 5 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) | **11.16** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 11.10, 17.58, 10.00, 8.86, 12.38 |
 | 6 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **11.44** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 9.50, 9.11, 15.71, 19.89, 8.99 |
 | 7 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | **12.05** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 13.04, 12.32, 10.79, 10.30, 13.38 |
-| 8 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | **12.49** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 13.50, 11.83, 12.14, 14.87, 9.76 |
-| 9 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **12.54** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 15.22, 8.90, 13.49, 11.62, 12.51 |
+| 8 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **12.43** | [Seattle Mini B 2026](https://www.worldcubeassociation.org/competitions/SeattleMiniB2026) | 17.12, 10.48, 11.77, 9.95, 15.03 |
+| 9 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | **12.49** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 13.50, 11.83, 12.14, 14.87, 9.76 |
 | 10 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **16.85** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 18.99, 14.03, 23.73, 13.96, 17.52 |
 
 ### 4x4x4 Blindfolded - Single
