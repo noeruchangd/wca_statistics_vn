@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 
 ### 3x3x3 Cube
@@ -44,10 +44,10 @@
 | 4 | 0.34 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 34.38 | 34.72 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025/results/by_person#2022PHAT01) |
 | 5 | 0.43 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 54.86 | 55.29 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026/results/by_person#2018DUON07) |
 | 6 | 0.44 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 33.49 | 33.93 | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019/results/by_person#2015LUON01) |
-| 7 | 0.46 | [Nguyễn Anh Hào](https://www.worldcubeassociation.org/persons/2022HAON02) | 38.11 | 38.57 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022/results/by_person#2022HAON02) |
-| 8 | 0.47 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) | 36.41 | 36.88 | [HCMC Pro League 2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019/results/by_person#2016DUYP01) |
-| 9 | 0.49 | [Trần Mỹ Ngọc](https://www.worldcubeassociation.org/persons/2024NGOC01) | 49.20 | 49.69 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024/results/by_person#2024NGOC01) |
-| 10 | 0.50 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 22.13 | 22.63 | [WCA World Championship 2023](https://www.worldcubeassociation.org/competitions/WC2023/results/by_person#2019HUNG16) |
+| 7 | 0.45 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) | 44.07 | 44.52 | [Tokyo 2026](https://www.worldcubeassociation.org/competitions/Tokyo2026/results/by_person#2018SONT03) |
+| 8 | 0.46 | [Nguyễn Anh Hào](https://www.worldcubeassociation.org/persons/2022HAON02) | 38.11 | 38.57 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022/results/by_person#2022HAON02) |
+| 9 | 0.47 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) | 36.41 | 36.88 | [HCMC Pro League 2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019/results/by_person#2016DUYP01) |
+| 10 | 0.49 | [Trần Mỹ Ngọc](https://www.worldcubeassociation.org/persons/2024NGOC01) | 49.20 | 49.69 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024/results/by_person#2024NGOC01) |
 
 ### 5x5x5 Cube
 

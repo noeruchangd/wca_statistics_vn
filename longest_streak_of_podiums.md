@@ -1,7 +1,7 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 | # | Count | Person | Event | Started at | Ended at |
 | ---: | ---: | :--- | :--- | :--- | :--- |
@@ -10,8 +10,8 @@
 | 3 | 19 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 5x5x5 Cube | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |  |
 | 4 | 16 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 5x5x5 Cube | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) | [Thailand Championship 2019](https://www.worldcubeassociation.org/competitions/ThailandChampionship2019) |
 | 5 | 14 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 3x3x3 Cube | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) | [HCMC Pro League 2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019) |
-| 6 | 12 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 3x3x3 One-Handed | [Ha Noi Open 2012](https://www.worldcubeassociation.org/competitions/HaNoi2012) | [HCMC Pro League 2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019) |
-| 7 | 12 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | Skewb | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
+| 6 | 13 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | Skewb | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
+| 7 | 12 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 3x3x3 One-Handed | [Ha Noi Open 2012](https://www.worldcubeassociation.org/competitions/HaNoi2012) | [HCMC Pro League 2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019) |
 | 8 | 11 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) | 2x2x2 Cube | [Ho Chi Minh Cubic 2014](https://www.worldcubeassociation.org/competitions/HoChiMinhCubic2014) | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) |
 | 9 | 9 | [Lê Trần Đức](https://www.worldcubeassociation.org/persons/2010LETR01) | 5x5x5 Cube | [Hanoi Open 2010](https://www.worldcubeassociation.org/competitions/HanoiOpen2010) |  |
 | 10 | 9 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) | 3x3x3 Cube | [Ho Chi Minh Warm Up 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhWarmUp2017) | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) |

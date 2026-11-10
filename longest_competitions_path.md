@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
@@ -48,56 +48,56 @@
 | 41 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 13 208 km |
 | 42 | [Thanh Minh Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY10) | 13 171 km |
 | 43 | [Phạm Hoàng Khang](https://www.worldcubeassociation.org/persons/2022KHAN32) | 12 602 km |
-| 44 | [Giang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY43) | 11 765 km |
-| 45 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 11 302 km |
-| 46 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2014QUAN05) | 10 209 km |
-| 47 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) | 10 145 km |
-| 48 | [Lý Việt Hà](https://www.worldcubeassociation.org/persons/2024HALY01) | 9 686 km |
-| 49 | [Phan Thi Thu Trang](https://www.worldcubeassociation.org/persons/2014TRAN02) | 9 371 km |
-| 50 | [Eu Yan Luong](https://www.worldcubeassociation.org/persons/2022LUON01) | 9 302 km |
-| 51 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) | 9 190 km |
-| 52 | [Phí Việt Khoa](https://www.worldcubeassociation.org/persons/2025KHOA01) | 9 112 km |
-| 53 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) | 9 074 km |
-| 54 | [Nguyễn Khôi Nguyên](https://www.worldcubeassociation.org/persons/2020NGUY03) | 9 038 km |
-| 55 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 8 981 km |
-| 56 | [Lê Trần Nguyên Khoa](https://www.worldcubeassociation.org/persons/2024KHOA01) | 8 961 km |
-| 57 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 8 095 km |
-| 58 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG05) | 7 472 km |
-| 59 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 7 356 km |
-| 60 | [Trương Anh Đức](https://www.worldcubeassociation.org/persons/2023DUCT01) | 7 262 km |
-| 61 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 6 935 km |
-| 62 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 6 911 km |
-| 63 | [Tran Minh Tue](https://www.worldcubeassociation.org/persons/2017TUET01) | 6 840 km |
-| 64 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | 6 735 km |
-| 65 | [Trần Nhã San](https://www.worldcubeassociation.org/persons/2024SANT90) | 6 722 km |
-| 66 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | 5 812 km |
-| 67 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) | 5 787 km |
-| 68 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) | 5 747 km |
-| 69 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 5 730 km |
-| 70 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | 5 728 km |
-| 71 | [Nguyễn Trần Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2024HIEU04) | 4 847 km |
-| 72 | [Le Duy Anh](https://www.worldcubeassociation.org/persons/2025ANHL01) | 4 839 km |
-| 73 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | 4 667 km |
-| 74 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | 4 612 km |
-| 75 | [Nguyễn Đức Trí](https://www.worldcubeassociation.org/persons/2019TRIN02) | 4 307 km |
-| 76 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 4 246 km |
-| 77 | [Trần Trí Minh](https://www.worldcubeassociation.org/persons/2011TRAN06) | 4 108 km |
-| 78 | [Lê Võ Trường Giang](https://www.worldcubeassociation.org/persons/2016GIAN05) | 4 098 km |
-| 79 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) | 3 809 km |
-| 80 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 3 570 km |
-| 81 | [Nguyễn Hoà Bình](https://www.worldcubeassociation.org/persons/2022BINH01) | 3 458 km |
-| 82 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 3 452 km |
-| 83 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | 3 447 km |
-| 84 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) | 3 444 km |
-| 85 | [Vuong Gia Khang Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY23) | 3 004 km |
-| 86 | [Rico Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY24) | 3 004 km |
-| 87 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 2 458 km |
-| 88 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2 386 km |
-| 89 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 2 375 km |
-| 90 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 2 374 km |
-| 91 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 2 374 km |
-| 92 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | 2 371 km |
-| 93 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2 363 km |
+| 44 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 11 960 km |
+| 45 | [Giang Nguyen](https://www.worldcubeassociation.org/persons/2019NGUY43) | 11 765 km |
+| 46 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 11 302 km |
+| 47 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2014QUAN05) | 10 209 km |
+| 48 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) | 10 145 km |
+| 49 | [Lý Việt Hà](https://www.worldcubeassociation.org/persons/2024HALY01) | 9 686 km |
+| 50 | [Phan Thi Thu Trang](https://www.worldcubeassociation.org/persons/2014TRAN02) | 9 371 km |
+| 51 | [Eu Yan Luong](https://www.worldcubeassociation.org/persons/2022LUON01) | 9 302 km |
+| 52 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) | 9 190 km |
+| 53 | [Phí Việt Khoa](https://www.worldcubeassociation.org/persons/2025KHOA01) | 9 112 km |
+| 54 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) | 9 074 km |
+| 55 | [Nguyễn Khôi Nguyên](https://www.worldcubeassociation.org/persons/2020NGUY03) | 9 038 km |
+| 56 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 8 981 km |
+| 57 | [Lê Trần Nguyên Khoa](https://www.worldcubeassociation.org/persons/2024KHOA01) | 8 961 km |
+| 58 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 8 095 km |
+| 59 | [Trịnh Quang Dũng](https://www.worldcubeassociation.org/persons/2019DUNG05) | 7 472 km |
+| 60 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | 7 356 km |
+| 61 | [Trương Anh Đức](https://www.worldcubeassociation.org/persons/2023DUCT01) | 7 262 km |
+| 62 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 6 935 km |
+| 63 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 6 911 km |
+| 64 | [Tran Minh Tue](https://www.worldcubeassociation.org/persons/2017TUET01) | 6 840 km |
+| 65 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | 6 735 km |
+| 66 | [Trần Nhã San](https://www.worldcubeassociation.org/persons/2024SANT90) | 6 722 km |
+| 67 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) | 5 812 km |
+| 68 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) | 5 787 km |
+| 69 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) | 5 747 km |
+| 70 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 5 730 km |
+| 71 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | 5 728 km |
+| 72 | [Nguyễn Trần Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2024HIEU04) | 4 847 km |
+| 73 | [Le Duy Anh](https://www.worldcubeassociation.org/persons/2025ANHL01) | 4 839 km |
+| 74 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | 4 667 km |
+| 75 | [Chu Tiến Đạt](https://www.worldcubeassociation.org/persons/2019DATC01) | 4 612 km |
+| 76 | [Nguyễn Đức Trí](https://www.worldcubeassociation.org/persons/2019TRIN02) | 4 307 km |
+| 77 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 4 246 km |
+| 78 | [Trần Trí Minh](https://www.worldcubeassociation.org/persons/2011TRAN06) | 4 108 km |
+| 79 | [Lê Võ Trường Giang](https://www.worldcubeassociation.org/persons/2016GIAN05) | 4 098 km |
+| 80 | [Trần Anh Sơn](https://www.worldcubeassociation.org/persons/2018SONT03) | 3 821 km |
+| 81 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) | 3 570 km |
+| 82 | [Nguyễn Hoà Bình](https://www.worldcubeassociation.org/persons/2022BINH01) | 3 458 km |
+| 83 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 3 452 km |
+| 84 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | 3 447 km |
+| 85 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) | 3 444 km |
+| 86 | [Vuong Gia Khang Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY23) | 3 004 km |
+| 87 | [Rico Nguyen](https://www.worldcubeassociation.org/persons/2026NGUY24) | 3 004 km |
+| 88 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 2 458 km |
+| 89 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 2 386 km |
+| 90 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 2 375 km |
+| 91 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 2 374 km |
+| 92 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 2 374 km |
+| 93 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | 2 371 km |
 | 94 | [Nguyễn Quốc Nam](https://www.worldcubeassociation.org/persons/2019NAMN01) | 2 354 km |
 | 95 | [Hồ Phú Nhật](https://www.worldcubeassociation.org/persons/2023NHAT01) | 2 345 km |
 | 96 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) | 2 342 km |
@@ -165,28 +165,28 @@
 | 158 | [Nguyễn Bá Thành](https://www.worldcubeassociation.org/persons/2026THAN02) | 1 138 km |
 | 159 | [Nguyễn Nguyên Hoàng](https://www.worldcubeassociation.org/persons/2024HOAN06) | 1 136 km |
 | 160 | [Đỗ Quang Minh](https://www.worldcubeassociation.org/persons/2020MINH12) | 973 km |
-| 161 | [Khanh Do](https://www.worldcubeassociation.org/persons/2022DOKH01) | 767 km |
-| 162 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) | 747 km |
-| 163 | [Đỗ Phương Thảo](https://www.worldcubeassociation.org/persons/2023THAO01) | 746 km |
-| 164 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 744 km |
-| 165 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) | 645 km |
-| 166 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 635 km |
-| 167 | [Phạm Thuý Huyền](https://www.worldcubeassociation.org/persons/2018HUYE01) | 624 km |
-| 168 | [Kiều Gia Thịnh](https://www.worldcubeassociation.org/persons/2018THIN02) | 620 km |
-| 169 | [Lưu Vũ Thái Linh](https://www.worldcubeassociation.org/persons/2018LINH11) | 614 km |
-| 170 | [Phan Lê Thanh Hùng](https://www.worldcubeassociation.org/persons/2019HUNG11) | 614 km |
-| 171 | [Trần Ngọc Sang](https://www.worldcubeassociation.org/persons/2022SANG07) | 614 km |
-| 172 | [Nguyễn Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN38) | 611 km |
-| 173 | [Đoàn Khánh Lâm](https://www.worldcubeassociation.org/persons/2022LAMD01) | 608 km |
-| 174 | [Trương Hoàng Chí Anh](https://www.worldcubeassociation.org/persons/2022ANHT01) | 608 km |
-| 175 | [Đỗ Thành Nhật Luân](https://www.worldcubeassociation.org/persons/2022LUAN01) | 607 km |
-| 176 | [Nguyễn Khoa Điền](https://www.worldcubeassociation.org/persons/2022DIEN01) | 606 km |
-| 177 | [Nguyễn Văn Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI02) | 603 km |
-| 178 | [Nguyễn Tăng Phát](https://www.worldcubeassociation.org/persons/2018PHAT01) | 540 km |
-| 179 | [Nguyen Quang Huy](https://www.worldcubeassociation.org/persons/2017HUYN10) | 535 km |
-| 180 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) | 516 km |
-| 181 | [Hung Lam Tran](https://www.worldcubeassociation.org/persons/2026TRAN07) | 452 km |
-| 182 | [Phong Hoang](https://www.worldcubeassociation.org/persons/2023HOAN07) | 450 km |
+| 161 | [Phong Hoang](https://www.worldcubeassociation.org/persons/2023HOAN07) | 894 km |
+| 162 | [Khanh Do](https://www.worldcubeassociation.org/persons/2022DOKH01) | 767 km |
+| 163 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) | 747 km |
+| 164 | [Đỗ Phương Thảo](https://www.worldcubeassociation.org/persons/2023THAO01) | 746 km |
+| 165 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 744 km |
+| 166 | [Shin Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY44) | 645 km |
+| 167 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 635 km |
+| 168 | [Phạm Thuý Huyền](https://www.worldcubeassociation.org/persons/2018HUYE01) | 624 km |
+| 169 | [Kiều Gia Thịnh](https://www.worldcubeassociation.org/persons/2018THIN02) | 620 km |
+| 170 | [Lưu Vũ Thái Linh](https://www.worldcubeassociation.org/persons/2018LINH11) | 614 km |
+| 171 | [Phan Lê Thanh Hùng](https://www.worldcubeassociation.org/persons/2019HUNG11) | 614 km |
+| 172 | [Trần Ngọc Sang](https://www.worldcubeassociation.org/persons/2022SANG07) | 614 km |
+| 173 | [Nguyễn Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN38) | 611 km |
+| 174 | [Đoàn Khánh Lâm](https://www.worldcubeassociation.org/persons/2022LAMD01) | 608 km |
+| 175 | [Trương Hoàng Chí Anh](https://www.worldcubeassociation.org/persons/2022ANHT01) | 608 km |
+| 176 | [Đỗ Thành Nhật Luân](https://www.worldcubeassociation.org/persons/2022LUAN01) | 607 km |
+| 177 | [Nguyễn Khoa Điền](https://www.worldcubeassociation.org/persons/2022DIEN01) | 606 km |
+| 178 | [Nguyễn Văn Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI02) | 603 km |
+| 179 | [Nguyễn Tăng Phát](https://www.worldcubeassociation.org/persons/2018PHAT01) | 540 km |
+| 180 | [Nguyen Quang Huy](https://www.worldcubeassociation.org/persons/2017HUYN10) | 535 km |
+| 181 | [Vo Nhu Vinh Khang](https://www.worldcubeassociation.org/persons/2022KHAN03) | 516 km |
+| 182 | [Hung Lam Tran](https://www.worldcubeassociation.org/persons/2026TRAN07) | 452 km |
 | 183 | [Quan Tran](https://www.worldcubeassociation.org/persons/2025TRAN02) | 393 km |
 | 184 | [Minh Phuc Anh Martin Tran](https://www.worldcubeassociation.org/persons/2023TRAN32) | 358 km |
 | 185 | [Vu Nguyen](https://www.worldcubeassociation.org/persons/2024NGUY45) | 357 km |

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 
 ### 3x3x3 Cube
@@ -212,11 +212,11 @@
 | 13 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 5 |
 | 14 | [Phan Thi Thu Trang](https://www.worldcubeassociation.org/persons/2014TRAN02) | 4 |
 | 15 | [Ngô Việt Kiên](https://www.worldcubeassociation.org/persons/2018KIEN02) | 4 |
-| 16 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) | 3 |
-| 17 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) | 3 |
-| 18 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | 3 |
-| 19 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 3 |
-| 20 | [Phong Hoang](https://www.worldcubeassociation.org/persons/2023HOAN07) | 3 |
+| 16 | [Phong Hoang](https://www.worldcubeassociation.org/persons/2023HOAN07) | 4 |
+| 17 | [Phạm Anh Khoa](https://www.worldcubeassociation.org/persons/2014KHOA01) | 3 |
+| 18 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) | 3 |
+| 19 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | 3 |
+| 20 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 3 |
 
 ### Megaminx
 
@@ -298,7 +298,7 @@
 | # | Person | Winned weeks |
 | ---: | :--- | ---: |
 | 1 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 17 |
-| 2 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 8 |
+| 2 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 9 |
 | 3 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 8 |
 | 4 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 7 |
 | 5 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 6 |

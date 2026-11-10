@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 | # | Finals | Person |
 | ---: | ---: | :--- |
@@ -45,11 +45,11 @@
 | 39 | 47 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) |
 | 40 | 47 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) |
 | 41 | 45 | [Bùi Hải Long](https://www.worldcubeassociation.org/persons/2020LONG01) |
-| 42 | 45 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) |
-| 43 | 45 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) |
-| 44 | 44 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) |
-| 45 | 43 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) |
-| 46 | 42 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
+| 42 | 45 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) |
+| 43 | 45 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) |
+| 44 | 45 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) |
+| 45 | 44 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) |
+| 46 | 43 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) |
 | 47 | 42 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) |
 | 48 | 41 | [Nguyễn Phúc Thịnh](https://www.worldcubeassociation.org/persons/2015THIN01) |
 | 49 | 41 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) |

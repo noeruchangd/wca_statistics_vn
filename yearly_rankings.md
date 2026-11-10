@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on  7 November 2026*
+*Updated on  9 November 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -371,8 +371,8 @@
 | 6 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | **2.13** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 7.60, 6.16, 5.07, 2.13, 5.67 |
 | 7 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) | **2.15** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.93, 5.61, 5.54, 2.15, 4.57 |
 | 8 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **2.26** | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 4.79, 3.03, 2.26, 3.65, 2.94 |
-| 9 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) | **2.33** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 9.67, 16.18, 17.81, 2.33, 9.29 |
-| 10 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | **2.35** | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 2.35, 2.56, 2.35, 3.89, 2.99 |
+| 9 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | **2.26** | [FranCUBstein de Beutre 2026](https://www.worldcubeassociation.org/competitions/FranCUBsteindeBeutre2026) | 3.21, 2.26, 3.31, 2.81, 2.67 |
+| 10 | [Đậu Thế Khoa](https://www.worldcubeassociation.org/persons/2023KHOA01) | **2.33** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 9.67, 16.18, 17.81, 2.33, 9.29 |
 
 ### Skewb - Average
 
