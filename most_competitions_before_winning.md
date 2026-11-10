@@ -1,7 +1,7 @@
 ## Most competitions before winning
 
 *Note: Only those competitions count, which held the given event.*
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 
 ### 3x3x3 Cube
@@ -9,15 +9,15 @@
 | # | Competitions | Person | First win |
 | ---: | ---: | :--- | :--- |
 | 1 | 19 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | [St Oliver's Speedy Saturday 2023](https://www.worldcubeassociation.org/competitions/StOliversSpeedySaturday2023) |
-| 2 | 12 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
-| 3 | 10 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | [SA State Championship 2021](https://www.worldcubeassociation.org/competitions/SAStateChampionship2021) |
-| 4 | 9 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | [A Sunday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/ASundayinAshfield2024) |
-| 5 | 7 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
-| 6 | 5 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
-| 7 | 4 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022) |
-| 8 | 3 | [Nguyễn Quang Trung](https://www.worldcubeassociation.org/persons/2011NGUY10) | [Ha Noi Open 2014](https://www.worldcubeassociation.org/competitions/HaNoiOpen2014) |
-| 9 | 3 | [Nguyễn Tấn Hưng](https://www.worldcubeassociation.org/persons/2011HANG01) | [Ho Chi Minh Cubic 2014](https://www.worldcubeassociation.org/competitions/HoChiMinhCubic2014) |
-| 10 | 3 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) |
+| 2 | 13 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | [Rowland Heights Fall B 2026](https://www.worldcubeassociation.org/competitions/RowlandHeightsFallB2026) |
+| 3 | 12 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) |
+| 4 | 10 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | [SA State Championship 2021](https://www.worldcubeassociation.org/competitions/SAStateChampionship2021) |
+| 5 | 9 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | [A Sunday in Ashfield 2024](https://www.worldcubeassociation.org/competitions/ASundayinAshfield2024) |
+| 6 | 7 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
+| 7 | 5 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |
+| 8 | 4 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022) |
+| 9 | 3 | [Nguyễn Quang Trung](https://www.worldcubeassociation.org/persons/2011NGUY10) | [Ha Noi Open 2014](https://www.worldcubeassociation.org/competitions/HaNoiOpen2014) |
+| 10 | 3 | [Nguyễn Tấn Hưng](https://www.worldcubeassociation.org/persons/2011HANG01) | [Ho Chi Minh Cubic 2014](https://www.worldcubeassociation.org/competitions/HoChiMinhCubic2014) |
 
 ### 2x2x2 Cube
 

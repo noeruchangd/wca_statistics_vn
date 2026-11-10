@@ -1,7 +1,7 @@
 ## Longest competitions path
 
 *Note: Calculated as the sum of direct distance between subsequent competitions.*
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | # | Person | Distance |
 | ---: | :--- | ---: |
@@ -40,7 +40,7 @@
 | 33 | [Tony Nguyen](https://www.worldcubeassociation.org/persons/2020NGUY11) | 15 551 km |
 | 34 | [Duc Trung Mai](https://www.worldcubeassociation.org/persons/2010MAID01) | 15 543 km |
 | 35 | [James Trương](https://www.worldcubeassociation.org/persons/2018MINH14) | 14 958 km |
-| 36 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 14 173 km |
+| 36 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 14 254 km |
 | 37 | [Nguyễn Việt Quang](https://www.worldcubeassociation.org/persons/2017QUAN11) | 13 903 km |
 | 38 | [Ryan Le (Lê Đức Bình)](https://www.worldcubeassociation.org/persons/2022LEDU01) | 13 649 km |
 | 39 | [Nguyễn Trọng Bách](https://www.worldcubeassociation.org/persons/2017BACH05) | 13 642 km |

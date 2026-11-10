@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | # | Finals | Person |
 | ---: | ---: | :--- |
@@ -29,12 +29,12 @@
 | 23 | 63 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) |
 | 24 | 62 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) |
 | 25 | 60 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
-| 26 | 58 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |
-| 27 | 57 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |
-| 28 | 56 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
+| 26 | 58 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 27 | 58 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |
+| 28 | 57 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |
 | 29 | 56 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
-| 30 | 55 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
-| 31 | 55 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 30 | 56 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |
+| 31 | 55 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
 | 32 | 53 | [Trần Ngọc Sơn](https://www.worldcubeassociation.org/persons/2018SONT01) |
 | 33 | 51 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) |
 | 34 | 50 | [Huỳnh Bá Tùng](https://www.worldcubeassociation.org/persons/2015TUNG01) |
@@ -53,8 +53,8 @@
 | 47 | 42 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) |
 | 48 | 41 | [Nguyễn Phúc Thịnh](https://www.worldcubeassociation.org/persons/2015THIN01) |
 | 49 | 41 | [Nguyễn Huy Hoàng](https://www.worldcubeassociation.org/persons/2016HOAN12) |
-| 50 | 40 | [Trần Hùng Xuân Thịnh](https://www.worldcubeassociation.org/persons/2016THIN01) |
-| 51 | 40 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
+| 50 | 40 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
+| 51 | 40 | [Trần Hùng Xuân Thịnh](https://www.worldcubeassociation.org/persons/2016THIN01) |
 | 52 | 40 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) |
 | 53 | 40 | [Phan Trọng Nghĩa](https://www.worldcubeassociation.org/persons/2018NGHI04) |
 | 54 | 40 | [Vương Thiện Trung](https://www.worldcubeassociation.org/persons/2014TRUN01) |

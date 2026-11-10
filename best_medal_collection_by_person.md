@@ -1,7 +1,7 @@
 ## Best medal collection by person
 
 *Note: *
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |
@@ -26,14 +26,14 @@
 | 19 | [Đoàn Văn Danh](https://www.worldcubeassociation.org/persons/2015DANH01) | **7** | 1 | 3 | 11 |
 | 20 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | **7** | 1 | 1 | 9 |
 | 21 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **6** | 12 | 11 | 29 |
-| 22 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **5** | 13 | 15 | 33 |
-| 23 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **5** | 5 | 10 | 20 |
-| 24 | [Đoàn Thanh Duy](https://www.worldcubeassociation.org/persons/2011DUYA01) | **5** | 5 | 3 | 13 |
-| 25 | [Trần Hưng Nghiêm](https://www.worldcubeassociation.org/persons/2012NGHI01) | **5** | 4 | 1 | 10 |
-| 26 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | **5** | 2 | 4 | 11 |
-| 27 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | **5** | 0 | 1 | 6 |
-| 28 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) | **5** | 0 | 0 | 5 |
-| 29 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **4** | 8 | 5 | 17 |
+| 22 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **6** | 9 | 5 | 20 |
+| 23 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **5** | 13 | 15 | 33 |
+| 24 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **5** | 5 | 10 | 20 |
+| 25 | [Đoàn Thanh Duy](https://www.worldcubeassociation.org/persons/2011DUYA01) | **5** | 5 | 3 | 13 |
+| 26 | [Trần Hưng Nghiêm](https://www.worldcubeassociation.org/persons/2012NGHI01) | **5** | 4 | 1 | 10 |
+| 27 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | **5** | 2 | 4 | 11 |
+| 28 | [Phạm Anh Quân](https://www.worldcubeassociation.org/persons/2020QUAN01) | **5** | 0 | 1 | 6 |
+| 29 | [Nguyễn Hùng Khánh](https://www.worldcubeassociation.org/persons/2018KHAN34) | **5** | 0 | 0 | 5 |
 | 30 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | **4** | 6 | 3 | 13 |
 | 31 | [Trần Thanh Phong](https://www.worldcubeassociation.org/persons/2016PHON03) | **4** | 5 | 3 | 12 |
 | 32 | [Đỗ Anh Tuấn](https://www.worldcubeassociation.org/persons/2016TUAN07) | **4** | 5 | 1 | 10 |

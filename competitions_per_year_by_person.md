@@ -1,6 +1,6 @@
 ## Competitions per year by person
 
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | # | Competitions per year | Competitions | Years | Person |
 | ---: | ---: | ---: | ---: | :--- |
@@ -30,14 +30,14 @@
 | 24 | 3.28 | 15 | 4.57 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) |
 | 25 | 3.24 | 5 | 1.54 | [Vũ Minh Duy](https://www.worldcubeassociation.org/persons/2025DUYV01) |
 | 26 | 3.24 | 5 | 1.54 | [Lê Nguyễn Nhật Minh](https://www.worldcubeassociation.org/persons/2025MINH02) |
-| 27 | 3.24 | 4 | 1.23 | [Mai Nam Viet](https://www.worldcubeassociation.org/persons/2025VIET01) |
-| 28 | 3.15 | 26 | 8.27 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) |
-| 29 | 3.14 | 4 | 1.28 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) |
-| 30 | 3.07 | 24 | 7.81 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
-| 31 | 3.07 | 21 | 6.85 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
-| 32 | 3.04 | 8 | 2.63 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) |
-| 33 | 3.02 | 25 | 8.27 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
-| 34 | 3.01 | 13 | 4.32 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 27 | 3.24 | 14 | 4.32 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 28 | 3.24 | 4 | 1.23 | [Mai Nam Viet](https://www.worldcubeassociation.org/persons/2025VIET01) |
+| 29 | 3.15 | 26 | 8.27 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) |
+| 30 | 3.14 | 4 | 1.28 | [Duc Do](https://www.worldcubeassociation.org/persons/2025DODU01) |
+| 31 | 3.07 | 24 | 7.81 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
+| 32 | 3.07 | 21 | 6.85 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
+| 33 | 3.04 | 8 | 2.63 | [Bùi Thúc Minh](https://www.worldcubeassociation.org/persons/2024MINH04) |
+| 34 | 3.02 | 25 | 8.27 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
 | 35 | 3.01 | 13 | 4.32 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
 | 36 | 3.01 | 13 | 4.32 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) |
 | 37 | 3.01 | 13 | 4.32 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) |

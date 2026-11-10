@@ -1,14 +1,14 @@
 ## Kinch rankings of Vietnamese competitors
 
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | # | Person | Kinch | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 333bf | 444bf | 555bf | 333fm | 333mbf |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 77.14 | 99.48 | 96.08 | 100.00 | 100.00 | 100.00 | 100.00 | 94.87 | 84.53 | 100.00 | 52.84 | 55.58 | 36.41 | 100.00 | 98.55 | 0.00 | 68.75 | 24.28 |
 | 2 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 53.48 | 69.66 | 97.35 | 59.74 | 54.93 | 59.23 | 55.36 | 68.79 | 51.00 | 54.54 | 57.48 | 55.07 | 40.84 | 27.61 | 39.40 | 0.00 | 97.29 | 20.91 |
 | 3 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | 52.48 | 66.13 | 55.47 | 51.06 | 51.03 | 48.67 | 45.64 | 59.96 | 63.99 | 52.02 | 92.72 | 42.53 | 37.91 | 32.37 | 88.67 | 0.00 | 75.86 | 28.14 |
-| 4 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 49.97 | 100.00 | 69.34 | 75.63 | 71.77 | 63.68 | 56.89 | 96.27 | 24.79 | 80.29 | 79.34 | 40.17 | 31.87 | 0.00 | 0.00 | 0.00 | 59.46 | 0.00 |
-| 5 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 49.78 | 89.13 | 100.00 | 73.04 | 64.14 | 60.39 | 57.81 | 81.34 | 85.77 | 68.95 | 65.41 | 60.35 | 39.90 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| 4 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 50.22 | 91.26 | 100.00 | 73.04 | 64.14 | 60.39 | 57.81 | 81.34 | 91.15 | 68.95 | 65.41 | 60.35 | 39.90 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
+| 5 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 49.97 | 100.00 | 69.34 | 75.63 | 71.77 | 63.68 | 56.89 | 96.27 | 24.79 | 80.29 | 79.34 | 40.17 | 31.87 | 0.00 | 0.00 | 0.00 | 59.46 | 0.00 |
 | 6 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 48.25 | 79.06 | 55.26 | 79.19 | 75.32 | 75.72 | 71.22 | 78.35 | 41.07 | 66.24 | 45.66 | 40.51 | 11.33 | 34.60 | 0.00 | 0.00 | 66.67 | 0.00 |
 | 7 | [Nguyễn Duy Sơn](https://www.worldcubeassociation.org/persons/2020SONN01) | 46.74 | 70.43 | 76.17 | 51.72 | 44.19 | 41.43 | 37.56 | 57.23 | 67.89 | 55.59 | 83.74 | 47.51 | 34.48 | 18.73 | 0.00 | 0.00 | 78.57 | 29.38 |
 | 8 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 45.92 | 63.08 | 56.32 | 52.56 | 36.49 | 31.64 | 0.00 | 67.56 | 71.15 | 71.97 | 100.00 | 74.45 | 100.00 | 0.00 | 0.00 | 0.00 | 55.47 | 0.00 |

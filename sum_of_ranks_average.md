@@ -1,11 +1,11 @@
 ## Sum of national rankings (average)
 
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 | # | Person | SoR | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 444bf | 555bf | 333bf | 333fm |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 113 | 2 | 3 | 1 | 1 | 1 | 1 | 4 | 4 | 1 | 32 | 9 | 36 | 1 | 2 | 1 | 15 |
-| 2 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 208 | 5 | 1 | 10 | 15 | 17 | 17 | 16 | 3 | 18 | 17 | 6 | 25 | 1 | 2 | 26 | 30 |
+| 2 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 207 | 4 | 1 | 10 | 15 | 17 | 17 | 16 | 3 | 18 | 17 | 6 | 25 | 1 | 2 | 26 | 30 |
 | 3 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 309 | 1 | 12 | 6 | 5 | 11 | 20 | 3 | 77 | 6 | 8 | 53 | 49 | 1 | 2 | 26 | 30 |
 | 4 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 330 | 52 | 2 | 36 | 34 | 20 | 22 | 38 | 21 | 29 | 25 | 11 | 23 | 1 | 2 | 13 | 2 |
 | 5 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 410 | 20 | 40 | 18 | 13 | 8 | 7 | 13 | 13 | 31 | 57 | 54 | 101 | 1 | 2 | 26 | 7 |
@@ -25,7 +25,7 @@
 | 19 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 857 | 6 | 4 | 8 | 16 | 15 | 41 | 2 | 149 | 62 | 133 | 197 | 166 | 1 | 2 | 26 | 30 |
 | 20 | [Đàm Cao Thanh Tùng](https://www.worldcubeassociation.org/persons/2022TUNG03) | 874 | 32 | 61 | 33 | 89 | 150 | 116 | 60 | 61 | 168 | 3 | 36 | 7 | 1 | 2 | 26 | 30 |
 | 21 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 887 | 3 | 30 | 2 | 2 | 4 | 9 | 27 | 149 | 168 | 226 | 32 | 177 | 1 | 2 | 26 | 30 |
-| 22 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 895 | 4 | 14 | 11 | 12 | 39 | 72 | 10 | 149 | 52 | 21 | 276 | 177 | 1 | 2 | 26 | 30 |
+| 22 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 896 | 5 | 14 | 11 | 12 | 39 | 72 | 10 | 149 | 52 | 21 | 276 | 177 | 1 | 2 | 26 | 30 |
 | 23 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 901 | 114 | 224 | 26 | 6 | 7 | 4 | 217 | 69 | 20 | 42 | 18 | 96 | 1 | 2 | 26 | 30 |
 | 24 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 965 | 34 | 100 | 20 | 25 | 30 | 32 | 84 | 148 | 24 | 41 | 237 | 132 | 1 | 2 | 26 | 30 |
 | 25 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) | 985 | 31 | 46 | 51 | 54 | 37 | 39 | 17 | 95 | 168 | 73 | 139 | 177 | 1 | 2 | 26 | 30 |

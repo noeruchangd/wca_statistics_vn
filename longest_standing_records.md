@@ -1,6 +1,6 @@
 ## Longest standing records
 
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 
 ### Vietnam

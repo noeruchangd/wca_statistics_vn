@@ -1,7 +1,7 @@
 ## Average of 5
 
 *Note: 5 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 
 ### 3x3x3 Cube
@@ -12,8 +12,8 @@
 | 2 | 5.73 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 5.84, 5.33, 6.19, 5.32, 6.01 |
 | 3 | 6.19 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 5.55, 7.92, 6.34, 5.90, 6.32 |
 | 4 | 6.21 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 6.36, 5.75, 5.90, 7.78, 6.38 |
-| 5 | 6.32 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 5.67, 9.66, 6.05, 6.46, 6.44 |
-| 6 | 6.34 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 6.38, 7.24, 6.08, 6.06, 6.55 |
+| 5 | 6.24 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 6.43, 6.25, 7.46, 4.87, 6.04 |
+| 6 | 6.32 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 5.67, 9.66, 6.05, 6.46, 6.44 |
 | 7 | 6.53 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 6.73, 6.61, 6.25, 7.87, 5.77 |
 | 8 | 6.60 | [Nguyễn Anh Khôi](https://www.worldcubeassociation.org/persons/2020KHOI01) | 6.84, 11.81, 5.98, 6.07, 6.88 |
 | 9 | 6.75 | [Phạm Đăng Khoa](https://www.worldcubeassociation.org/persons/2022KHOA09) | 9.26, 5.81, 7.79, 5.84, 6.63 |

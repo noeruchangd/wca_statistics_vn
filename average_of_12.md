@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on  9 November 2026*
+*Updated on 10 November 2026*
 
 
 ### 3x3x3 Cube
@@ -10,9 +10,9 @@
 | ---: | ---: | :--- | :--- |
 | 1 | 5.99 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 5.50, 5.42, 6.47, 5.22, 6.38, 5.52, 6.47, 5.82, 7.07, 6.72, 4.88, 6.35 |
 | 2 | 6.03 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 6.96, 6.16, 6.14, 6.23, 5.59, 8.16, 5.84, 5.33, 6.19, 5.32, 6.01, 5.89 |
-| 3 | 6.69 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 5.75, 6.84, 7.18, 7.19, 6.52, 6.83, 7.02, 7.08, 7.00, 6.24, 5.74, 6.47 |
-| 4 | 6.72 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 6.44, 6.09, 7.35, 6.94, 7.14, 8.40, 5.67, 9.66, 6.05, 6.46, 6.44, 5.86 |
-| 5 | 6.74 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 6.47, 6.96, 8.30, 6.57, 7.20, 7.53, 4.82, 7.24, 5.62, 6.79, 7.06, 5.94 |
+| 3 | 6.49 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 6.92, 5.75, 7.00, 6.27, 8.06, 6.43, 6.25, 7.46, 4.87, 6.04, 6.58, 6.24 |
+| 4 | 6.69 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 5.75, 6.84, 7.18, 7.19, 6.52, 6.83, 7.02, 7.08, 7.00, 6.24, 5.74, 6.47 |
+| 5 | 6.72 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 6.44, 6.09, 7.35, 6.94, 7.14, 8.40, 5.67, 9.66, 6.05, 6.46, 6.44, 5.86 |
 | 6 | 6.79 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 6.61, 7.12, 6.73, 6.61, 6.25, 7.87, 5.77, 8.39, 6.98, 6.92, 6.59, 6.21 |
 | 7 | 6.79 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 6.36, 5.75, 5.90, 7.78, 6.38, 7.20, 6.99, 6.84, 7.00, 7.30, 7.31, 6.65 |
 | 8 | 7.23 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | 7.18, 7.13, 7.05, 8.76, 7.15, 7.33, 6.48, 7.20, 7.34, 7.02, 8.06, 6.79 |
