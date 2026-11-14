@@ -1,10 +1,10 @@
 ## Vietnamese competitors with most competitions in the current year
 
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 | # | Competitions | Person |
 | ---: | ---: | :--- |
-| 1 | 9 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
+| 1 | 10 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
 | 2 | 8 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) |
 | 3 | 7 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
 | 4 | 6 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) |

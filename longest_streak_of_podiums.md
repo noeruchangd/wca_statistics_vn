@@ -1,13 +1,13 @@
 ## Longest streak of podiums
 
 *Note: All competitions that did not hold the given event are ignored. Results without any completed attempt are not eligible for podium. Only finals are taken into account.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 | # | Count | Person | Event | Started at | Ended at |
 | ---: | ---: | :--- | :--- | :--- | :--- |
-| 1 | 24 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 4x4x4 Cube | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |  |
+| 1 | 25 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 4x4x4 Cube | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) |  |
 | 2 | 20 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 4x4x4 Cube | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) | [Thailand Championship 2019](https://www.worldcubeassociation.org/competitions/ThailandChampionship2019) |
-| 3 | 19 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 5x5x5 Cube | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |  |
+| 3 | 20 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 5x5x5 Cube | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |  |
 | 4 | 16 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 5x5x5 Cube | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012) | [Thailand Championship 2019](https://www.worldcubeassociation.org/competitions/ThailandChampionship2019) |
 | 5 | 14 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 3x3x3 Cube | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011) | [HCMC Pro League 2019](https://www.worldcubeassociation.org/competitions/HCMCProLeague2019) |
 | 6 | 13 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | Skewb | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
@@ -86,8 +86,8 @@
 | 79 | 4 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | Megaminx | [Pride in Long Beach 2023](https://www.worldcubeassociation.org/competitions/PrideInLongBeach2023) | [Fullerton Winter 2024](https://www.worldcubeassociation.org/competitions/FullertonWinter2024) |
 | 80 | 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 3x3x3 Cube | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019) |
 | 81 | 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 3x3x3 Cube | [Paradise Park NxNxN 2024](https://www.worldcubeassociation.org/competitions/ParadiseParkNxNxN2024) | [Malaysia Cube Championship 2024](https://www.worldcubeassociation.org/competitions/MalaysiaCubeChampionship2024) |
-| 82 | 4 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 7x7x7 Cube | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
-| 83 | 4 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 7x7x7 Cube | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 82 | 4 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 7x7x7 Cube | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |
+| 83 | 4 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 7x7x7 Cube | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) |
 | 84 | 4 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 7x7x7 Cube | [Ha Noi Cube Day 2019](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2019) | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |
 | 85 | 4 | [Nguyễn Thành Thái](https://www.worldcubeassociation.org/persons/2019THAI01) | 6x6x6 Cube | [Ha Noi Cube Day 2019](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2019) | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) |
 | 86 | 4 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 3x3x3 Cube | [Ha Noi Cube Day 2020](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2020) | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) |

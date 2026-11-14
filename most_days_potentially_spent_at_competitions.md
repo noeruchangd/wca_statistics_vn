@@ -1,11 +1,11 @@
 ## Most days potentially spent at competitions
 
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 | # | Days | Person | Competitions |
 | ---: | ---: | :--- | ---: |
 | 1 | 69 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 39 |
-| 2 | 65 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 37 |
+| 2 | 66 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 38 |
 | 3 | 63 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 41 |
 | 4 | 63 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 33 |
 | 5 | 52 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 32 |

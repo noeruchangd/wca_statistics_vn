@@ -1,15 +1,15 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 
 ### 3x3x3 Cube - Single
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **4.87** | [Rowland Heights Fall B 2026](https://www.worldcubeassociation.org/competitions/RowlandHeightsFallB2026) | 7.46, 4.87, 6.04, 6.58, 6.24 |
-| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **4.88** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 4.88, 6.35, 6.79, 5.15, 8.16 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **3.58** | [Kent Fall 2026](https://www.worldcubeassociation.org/competitions/KentFall2026) | 6.53, 5.40, 5.96, 5.40, 3.58 |
+| 2 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **4.87** | [Rowland Heights Fall B 2026](https://www.worldcubeassociation.org/competitions/RowlandHeightsFallB2026) | 7.46, 4.87, 6.04, 6.58, 6.24 |
 | 3 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | **4.93** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 8.98, 8.49, 8.53, 4.93, 14.05 |
 | 4 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **5.02** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.02, 7.90, 6.63, 6.96, 6.16 |
 | 5 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **5.30** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 5.30, 8.02, 7.01, 9.03, 9.71 |
@@ -23,8 +23,8 @@
 
 | # | Person | Result | Competition | Details |
 | ---: | :--- | ---: | :--- | :--- |
-| 1 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **5.74** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.33, 6.19, 5.32, 6.01, 5.89 |
-| 2 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **5.89** | [Seattle Mini B 2026](https://www.worldcubeassociation.org/competitions/SeattleMiniB2026) | 6.63, 6.42, 5.55, 5.40, 5.70 |
+| 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **5.59** | [Kent Fall 2026](https://www.worldcubeassociation.org/competitions/KentFall2026) | 6.53, 5.40, 5.96, 5.40, 3.58 |
+| 2 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **5.74** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 5.33, 6.19, 5.32, 6.01, 5.89 |
 | 3 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **6.29** | [Rowland Heights Fall B 2026](https://www.worldcubeassociation.org/competitions/RowlandHeightsFallB2026) | 7.46, 4.87, 6.04, 6.58, 6.24 |
 | 4 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | **6.49** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 5.75, 5.90, 7.78, 6.38, 7.20 |
 | 5 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **6.57** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 7.52, 6.58, 6.43, 6.66, 6.47 |

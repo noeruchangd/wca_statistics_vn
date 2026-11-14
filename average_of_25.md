@@ -1,14 +1,14 @@
 ## Average of 25
 
 *Note: 25 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 13 November 2026*
+*Updated on 14 November 2026*
 
 
 ### 3x3x3 Cube
 
 | # | Ao25 | Person | Times |
 | ---: | ---: | :--- | :--- |
-| 1 | 6.24 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 5.50, 5.42, 6.47, 5.22, 6.38, 5.52, 6.47, 5.82, 7.07, 6.72, 4.88, 6.35, 6.79, 5.15, 8.16, 5.75, 8.66, 5.37, 6.12, 6.31, 7.67, 5.43, 8.63, 5.57, 6.93 |
+| 1 | 6.12 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 6.63, 6.42, 5.55, 5.40, 5.70, 8.07, 5.11, 5.40, 7.57, 6.92, 7.86, 5.97, 6.47, 6.25, 5.38, 5.56, 6.87, 6.53, 5.89, 6.74, 6.53, 5.40, 5.96, 5.40, 3.58 |
 | 2 | 6.35 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 6.49, 7.19, 7.75, 5.66, 6.27, 6.75, 6.30, 6.35, 6.74, 6.80, 5.02, 7.90, 6.63, 6.96, 6.16, 6.14, 6.23, 5.59, 8.16, 5.84, 5.33, 6.19, 5.32, 6.01, 5.89 |
 | 3 | 6.79 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 7.19, 6.52, 6.83, 7.02, 7.08, 7.00, 6.24, 5.74, 6.47, 7.19, 6.94, 7.68, 7.12, 6.72, 7.08, 6.93, 6.36, 6.13, 7.60, DNF, 5.55, 7.92, 6.34, 5.90, 6.32 |
 | 4 | 6.92 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 6.99, 6.96, 7.68, 6.17, 5.57, 6.94, 6.64, 6.51, 7.25, 6.96, 9.79, 7.10, 6.44, 7.27, 6.69, 7.18, 6.98, 7.52, 8.35, 7.89, 6.38, 7.24, 6.08, 6.06, 6.55 |
