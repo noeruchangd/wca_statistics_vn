@@ -4,16 +4,16 @@
 
 | # | Organized | Person |
 | ---: | ---: | :--- |
-| 1 | 18 | Hiệp hội Rubik Việt Nam |
-| 2 | 16 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) |
-| 3 | 16 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
+| 1 | 19 | Hiệp hội Rubik Việt Nam |
+| 2 | 17 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
+| 3 | 16 | [Toan Do Cong](https://www.worldcubeassociation.org/persons/2010CONG02) |
 | 4 | 10 | [Nguyễn Mạnh Hưng](https://www.worldcubeassociation.org/persons/2018HUNG11) |
 | 5 | 9 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) |
-| 6 | 8 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
-| 7 | 8 | Cubing Hanoi |
+| 6 | 9 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
+| 7 | 9 | Cubing Hanoi |
 | 8 | 7 | [Lê Trần Đăng Quỳnh](https://www.worldcubeassociation.org/persons/2017QUYN03) |
-| 9 | 7 | Zyorubik |
-| 10 | 6 | [Nguyễn Lê Hoàng](https://www.worldcubeassociation.org/persons/2022HOAN02) |
+| 9 | 7 | [Nguyễn Lê Hoàng](https://www.worldcubeassociation.org/persons/2022HOAN02) |
+| 10 | 7 | Zyorubik |
 | 11 | 6 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) |
 | 12 | 5 | Rubik Ocean |
 | 13 | 5 | cubingHCM |
