@@ -1,6 +1,6 @@
 ## Kinch rankings of Vietnamese competitors
 
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | # | Person | Kinch | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 333bf | 444bf | 555bf | 333fm | 333mbf |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -62,7 +62,7 @@
 | 56 | [Nguyễn Hoàng Ân](https://www.worldcubeassociation.org/persons/2017ANNG03) | 27.52 | 69.01 | 74.24 | 53.83 | 48.39 | 0.00 | 0.00 | 84.94 | 0.00 | 0.00 | 37.40 | 43.69 | 0.00 | 0.00 | 0.00 | 0.00 | 56.41 | 0.00 |
 | 57 | [Hoàng Gia Huy](https://www.worldcubeassociation.org/persons/2023HUYH01) | 27.20 | 64.18 | 52.31 | 55.11 | 44.95 | 0.00 | 0.00 | 55.14 | 38.40 | 0.00 | 77.32 | 43.14 | 31.87 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 58 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 27.10 | 61.77 | 43.11 | 50.92 | 39.78 | 36.59 | 27.71 | 58.25 | 0.00 | 43.27 | 45.40 | 24.84 | 29.02 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
-| 59 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 26.64 | 42.97 | 36.93 | 36.29 | 34.70 | 35.80 | 29.73 | 33.71 | 24.00 | 39.83 | 30.44 | 21.34 | 34.17 | 8.91 | 0.00 | 0.00 | 44.00 | 0.00 |
+| 59 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 26.82 | 42.97 | 36.93 | 36.29 | 34.70 | 35.80 | 29.73 | 33.71 | 24.00 | 39.83 | 30.44 | 24.36 | 34.17 | 8.91 | 0.00 | 0.00 | 44.00 | 0.00 |
 | 60 | [Nguyễn Hồ Nam](https://www.worldcubeassociation.org/persons/2017NAMN03) | 26.54 | 54.86 | 47.73 | 55.38 | 52.62 | 56.66 | 60.90 | 52.21 | 0.00 | 40.26 | 0.00 | 30.60 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 61 | [Phạm Nguyễn Hoàng Duy](https://www.worldcubeassociation.org/persons/2016DUYP01) | 26.48 | 70.58 | 30.06 | 57.18 | 56.86 | 54.51 | 51.23 | 74.66 | 0.00 | 26.83 | 15.40 | 0.00 | 0.00 | 12.75 | 0.00 | 0.00 | 0.00 | 0.00 |
 | 62 | [Đoàn Trần Phú Hưng](https://www.worldcubeassociation.org/persons/2023HUNG06) | 26.44 | 44.22 | 22.48 | 47.99 | 51.68 | 56.50 | 59.98 | 42.54 | 0.00 | 39.52 | 13.07 | 9.29 | 11.08 | 0.00 | 0.00 | 0.00 | 51.16 | 0.00 |

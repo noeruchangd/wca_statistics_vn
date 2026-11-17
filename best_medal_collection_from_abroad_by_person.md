@@ -1,7 +1,7 @@
 ## Best medal collection from abroad by person
 
 *Note: Only medals got abroad are taken into account.*
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | # | Person | Gold | Silver | Bronze | Total |
 | ---: | :--- | :--: | :--: | :--: | :--: |
@@ -20,7 +20,7 @@
 | 13 | [Nguyễn Trần Ngọc Hiếu](https://www.worldcubeassociation.org/persons/2024HIEU04) | **1** | 0 | 0 | 1 |
 | 14 | [Quan Lập Văn](https://www.worldcubeassociation.org/persons/2026VANQ01) | **1** | 0 | 0 | 1 |
 | 15 | [Trần Mạnh Quân](https://www.worldcubeassociation.org/persons/2014QUAN02) | **1** | 0 | 0 | 1 |
-| 16 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **0** | 7 | 4 | 11 |
+| 16 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **0** | 7 | 6 | 13 |
 | 17 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **0** | 4 | 5 | 9 |
 | 18 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | **0** | 2 | 2 | 4 |
 | 19 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **0** | 2 | 1 | 3 |

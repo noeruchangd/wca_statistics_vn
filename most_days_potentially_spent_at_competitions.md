@@ -1,10 +1,10 @@
 ## Most days potentially spent at competitions
 
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | # | Days | Person | Competitions |
 | ---: | ---: | :--- | ---: |
-| 1 | 69 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 39 |
+| 1 | 71 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 40 |
 | 2 | 66 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 38 |
 | 3 | 63 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | 41 |
 | 4 | 63 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 33 |
@@ -14,7 +14,7 @@
 | 8 | 48 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 26 |
 | 9 | 44 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) | 25 |
 | 10 | 42 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 23 |
-| 11 | 40 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 27 |
+| 11 | 41 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 28 |
 | 12 | 38 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | 24 |
 | 13 | 37 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 21 |
 | 14 | 37 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 24 |
@@ -25,7 +25,7 @@
 | 19 | 34 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | 19 |
 | 20 | 33 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 19 |
 | 21 | 33 | [Nguyễn Xuân Đức](https://www.worldcubeassociation.org/persons/2017DUCN01) | 18 |
-| 22 | 32 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 26 |
+| 22 | 33 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 27 |
 | 23 | 31 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 17 |
 | 24 | 31 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 28 |
 | 25 | 31 | [Trịnh Nguyên Anh](https://www.worldcubeassociation.org/persons/2010TRIN02) | 22 |

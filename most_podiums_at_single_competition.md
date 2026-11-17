@@ -1,6 +1,6 @@
 ## Most podiums at a single competition
 
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | # | Podiums | Person |
 | ---: | ---: | :--- |
@@ -81,11 +81,11 @@
 | 75 | 4 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Ha Noi Cube Day 2015](https://www.worldcubeassociation.org/competitions/HaNoiCubeDay2015/results/podiums) |
 | 76 | 4 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | [Da Nang Open 2022](https://www.worldcubeassociation.org/competitions/DaNangOpen2022/results/podiums) |
 | 77 | 4 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011/results/podiums) |
-| 78 | 4 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010/results/podiums) |
-| 79 | 4 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | [Ho Chi Minh 2013](https://www.worldcubeassociation.org/competitions/HoChiMinh2013/results/podiums) |
-| 80 | 4 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | [West Seattle Favorites 2019](https://www.worldcubeassociation.org/competitions/WestSeattleFavorites2019/results/podiums) |
+| 78 | 4 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | [Ho Chi Minh 2013](https://www.worldcubeassociation.org/competitions/HoChiMinh2013/results/podiums) |
+| 79 | 4 | [Phan Tu Nghi](https://www.worldcubeassociation.org/persons/2010PHAN03) | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010/results/podiums) |
+| 80 | 4 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026/results/podiums) |
 | 81 | 4 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019/results/podiums) |
-| 82 | 4 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | [McMinnville Favorites 2026](https://www.worldcubeassociation.org/competitions/McMinnvilleFavorites2026/results/podiums) |
+| 82 | 4 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | [West Seattle Favorites 2019](https://www.worldcubeassociation.org/competitions/WestSeattleFavorites2019/results/podiums) |
 | 83 | 4 | [Trần Thanh Phong](https://www.worldcubeassociation.org/persons/2016PHON03) | [Ho Chi Minh Spring Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhSpringOpen2018/results/podiums) |
 | 84 | 4 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | [Adelaide Summer 2023](https://www.worldcubeassociation.org/competitions/AdelaideSummer2023/results/podiums) |
 | 85 | 4 | [Tuan Nghia Duong](https://www.worldcubeassociation.org/persons/2010DUON01) | [Puy de Dome Open 2010](https://www.worldcubeassociation.org/competitions/PuyDeDomeOpen2010/results/podiums) |

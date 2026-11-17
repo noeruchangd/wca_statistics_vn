@@ -1,6 +1,6 @@
 ## Longest streak of competitions with a personal record done
 
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 | # | Competitions | Person | Started at | Ended at |
 | ---: | ---: | :--- | :--- | :--- |
@@ -27,10 +27,10 @@
 | 21 | 13 | [Nguyễn Hoàng Quân](https://www.worldcubeassociation.org/persons/2016QUAN01) | [HCMC Spring Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSpringOpen2016) |  |
 | 22 | 13 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | [HCMC Summer Open 2016](https://www.worldcubeassociation.org/competitions/HCMCSummerOpen2016) | [cubingHCM 3x3 Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCM3x3Winter2024) |
 | 23 | 13 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | [Ho Chi Minh Warm Up 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhWarmUp2017) | [All Welcome Adelaide 2024](https://www.worldcubeassociation.org/competitions/AllWelcomeAdelaide2024) |
-| 24 | 13 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
-| 25 | 13 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
-| 26 | 13 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
-| 27 | 13 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
+| 24 | 13 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
+| 25 | 13 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
+| 26 | 13 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
+| 27 | 13 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) |  |
 | 28 | 13 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) |  |
 | 29 | 12 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | [Hanoi Open 2010](https://www.worldcubeassociation.org/competitions/HanoiOpen2010) |  |
 | 30 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | [Ho Chi Minh Cubic 2014](https://www.worldcubeassociation.org/competitions/HoChiMinhCubic2014) | [Australian Nationals FMC 2023](https://www.worldcubeassociation.org/competitions/AustralianNationalsFMC2023) |

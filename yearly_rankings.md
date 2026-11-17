@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 14 November 2026*
+*Updated on 16 November 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -386,8 +386,8 @@
 | 6 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **4.50** | [Puzzling Parramatta 2026](https://www.worldcubeassociation.org/competitions/PuzzlingParramatta2026) | 4.94, 3.97, 6.50, 4.24, 4.33 |
 | 7 | [Hồ Đức Minh](https://www.worldcubeassociation.org/persons/2022MINH04) | **4.57** | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 6.81, 5.02, 4.70, 3.99, 3.74 |
 | 8 | [Tăng Đức Bảo Minh](https://www.worldcubeassociation.org/persons/2022MINH16) | **4.67** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 3.33, 4.87, 5.04, 4.10, 6.02 |
-| 9 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | **4.79** | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 5.35, 5.50, 3.55, 5.01, 4.02 |
-| 10 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | **4.82** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 4.55, 6.25, 4.27, 1.47, 5.63 |
+| 9 | [Phạm Hoàng Khang](https://www.worldcubeassociation.org/persons/2022KHAN32) | **4.73** | [Dublin CA Squared 2026](https://www.worldcubeassociation.org/competitions/DublinCASquared2026) | 4.20, 6.86, 5.18, 4.14, 4.80 |
+| 10 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) | **4.79** | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 5.35, 5.50, 3.55, 5.01, 4.02 |
 
 ### Square-1 - Single
 
