@@ -76,7 +76,7 @@
 | 7 | 9.47 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024/results/by_person#2017PHON07) |
 | 8 | 9.48 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | [cubingHCM 3x3 Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCM3x3Winter2024/results/by_person#2022PHUN01) |
 | 9 | 9.60 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2017PHON07) |
-| 10 | 9.90 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/by_person#2019ANHT01) |
+| 10 | 9.90 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2017PHON07) |
 
 ### Megaminx
 
@@ -105,8 +105,8 @@
 | 6 | 2.22 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026/results/by_person#2020HOAM01) |
 | 7 | 2.29 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024/results/by_person#2022THON01) |
 | 8 | 2.30 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026/results/by_person#2022HUYB01) |
-| 9 | 2.32 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024/results/by_person#2022THON01) |
-| 10 | 2.32 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025/results/by_person#2022THON01) |
+| 9 | 2.32 | [Bùi Gia Huy](https://www.worldcubeassociation.org/persons/2022HUYB01) | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2022HUYB01) |
+| 10 | 2.32 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024/results/by_person#2022THON01) |
 
 ### Clock
 
@@ -167,8 +167,8 @@
 | 2 | 1.08 | [Van Tien Trung Vu](https://www.worldcubeassociation.org/persons/2010VUVA01) | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010/results/by_person#2010VUVA01) |
 | 3 | 1.09 | [Tran Minh Tuyen](https://www.worldcubeassociation.org/persons/2010TUYE01) | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010/results/by_person#2010TUYE01) |
 | 4 | 1.11 | [Van Tien Trung Vu](https://www.worldcubeassociation.org/persons/2010VUVA01) | [Ho Chi Minh City 2011](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2011/results/by_person#2010VUVA01) |
-| 5 | 1.18 | [Tran Minh Tuyen](https://www.worldcubeassociation.org/persons/2010TUYE01) | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010/results/by_person#2010TUYE01) |
-| 6 | 1.18 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012/results/by_person#2010NGUY44) |
+| 5 | 1.18 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Ha Noi Big Cube 2012](https://www.worldcubeassociation.org/competitions/HaNoiBigCube2012/results/by_person#2010NGUY44) |
+| 6 | 1.18 | [Tran Minh Tuyen](https://www.worldcubeassociation.org/persons/2010TUYE01) | [Ho Chi Minh Open 2010](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2010/results/by_person#2010TUYE01) |
 | 7 | 1.21 | [Phạm Ngọc Tú](https://www.worldcubeassociation.org/persons/2011PHAM03) | [Hanoi Open 2011](https://www.worldcubeassociation.org/competitions/HaNoiOpen2011/results/by_person#2011PHAM03) |
 | 8 | 1.22 | [Hoang Son Nguyen](https://www.worldcubeassociation.org/persons/2010NGUY29) | [Hanoi Open 2010](https://www.worldcubeassociation.org/competitions/HanoiOpen2010/results/by_person#2010NGUY29) |
 | 9 | 1.25 | [Nguyễn Việt Hoàng](https://www.worldcubeassociation.org/persons/2010NGUY44) | [Ha Noi Open 2012](https://www.worldcubeassociation.org/competitions/HaNoi2012/results/by_person#2010NGUY44) |

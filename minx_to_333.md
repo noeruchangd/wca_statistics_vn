@@ -17,7 +17,7 @@
 | 10 | [Đào Duy Phát](https://www.worldcubeassociation.org/persons/2025PHAT01) | 1:11.22 | 14.39 | 4.95 |
 | 11 | [Lưu Tuấn Sơn](https://www.worldcubeassociation.org/persons/2022SONL01) | 45.10 | 8.72 | 5.17 |
 | 12 | [Lê Quốc Khánh](https://www.worldcubeassociation.org/persons/2016KHAN14) | 1:04.55 | 11.97 | 5.39 |
-| 13 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 49.41 | 9.10 | 5.43 |
+| 13 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 49.41 | 8.94 | 5.53 |
 | 14 | [Nguyễn Khoa Bằng](https://www.worldcubeassociation.org/persons/2020BANG04) | 1:05.56 | 11.61 | 5.65 |
 | 15 | [Nguyễn Tường Lâm](https://www.worldcubeassociation.org/persons/2023LAMN03) | 50.84 | 8.96 | 5.67 |
 | 16 | [Trần Nguyễn Nhật Cường](https://www.worldcubeassociation.org/persons/2019CUON02) | 1:10.90 | 12.09 | 5.86 |
