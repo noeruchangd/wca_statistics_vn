@@ -1,7 +1,7 @@
 ## Smallest difference between a single and an average
 
 *Note: FMC is ignored because values are integers, thus it's likely to get the same single and average.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 3x3x3 Cube
@@ -174,15 +174,15 @@
 | # | Diff | Person | Single | Average | Results |
 | ---: | ---: | :--- | ---: | ---: | :--- |
 | 1 | 0.16 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.69 | 2.85 | [Hanoi Winter 2024](https://www.worldcubeassociation.org/competitions/HanoiWinter2024/results/by_person#2022KHAN31) |
-| 2 | 0.17 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 4.50 | 4.67 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/by_person#2022DUYN02) |
-| 3 | 0.18 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) | 6.55 | 6.73 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2024BINH01) |
-| 4 | 0.22 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 5.11 | 5.33 | [Western Championship 2026](https://www.worldcubeassociation.org/competitions/WesternChampionship2026/results/by_person#2022NGUY24) |
-| 5 | 0.23 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.44 | 2.67 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2022KHAN31) |
-| 6 | 0.26 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.43 | 2.69 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2022KHAN31) |
-| 7 | 0.26 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.54 | 2.80 | [Hanoi Open 2022](https://www.worldcubeassociation.org/competitions/HanoiOpen2022/results/by_person#2022KHAN31) |
-| 8 | 0.28 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.35 | 2.63 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026/results/by_person#2022KHAN31) |
-| 9 | 0.28 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.56 | 2.84 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023/results/by_person#2022KHAN31) |
-| 10 | 0.30 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 4.64 | 4.94 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025/results/by_person#2022PHAT01) |
+| 2 | 0.17 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | 2.78 | 2.95 | [Hanoi Winter 2026](https://www.worldcubeassociation.org/competitions/HanoiWinter2026/results/by_person#2020DATN02) |
+| 3 | 0.17 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | 4.50 | 4.67 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025/results/by_person#2022DUYN02) |
+| 4 | 0.18 | [Phạm An Bình](https://www.worldcubeassociation.org/persons/2024BINH01) | 6.55 | 6.73 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2024BINH01) |
+| 5 | 0.22 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 5.11 | 5.33 | [Western Championship 2026](https://www.worldcubeassociation.org/competitions/WesternChampionship2026/results/by_person#2022NGUY24) |
+| 6 | 0.23 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.44 | 2.67 | [Vietnam Championship 2025](https://www.worldcubeassociation.org/competitions/VietnamChampionship2025/results/by_person#2022KHAN31) |
+| 7 | 0.26 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.43 | 2.69 | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026/results/by_person#2022KHAN31) |
+| 8 | 0.26 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.54 | 2.80 | [Hanoi Open 2022](https://www.worldcubeassociation.org/competitions/HanoiOpen2022/results/by_person#2022KHAN31) |
+| 9 | 0.28 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.35 | 2.63 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026/results/by_person#2022KHAN31) |
+| 10 | 0.28 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 2.56 | 2.84 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023/results/by_person#2022KHAN31) |
 
 ### Square-1
 

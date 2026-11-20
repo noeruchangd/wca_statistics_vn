@@ -1,6 +1,6 @@
 ## Shortest amount of time to reach a milestone in competitions count
 
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 25 Competitions
@@ -15,9 +15,10 @@
 | 6 | 2563 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) |
 | 7 | 2932 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) |
 | 8 | 2976 | [Nguyễn Hải Dương](https://www.worldcubeassociation.org/persons/2018DUON07) |
-| 9 | 3691 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
-| 10 | 3738 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
-| 11 | 4312 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
+| 9 | 3038 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) |
+| 10 | 3691 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) |
+| 11 | 3738 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) |
+| 12 | 4312 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) |
 
 ### 10 Competitions
 
@@ -38,11 +39,11 @@
 | 13 | 765 | [Nguyễn Phúc Đạt](https://www.worldcubeassociation.org/persons/2024DATN01) |
 | 14 | 785 | [Nguyễn Nam Phong](https://www.worldcubeassociation.org/persons/2024PHON03) |
 | 15 | 820 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) |
-| 16 | 883 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) |
-| 17 | 883 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) |
-| 18 | 931 | [Vũ Đức Minh](https://www.worldcubeassociation.org/persons/2024MINH02) |
-| 19 | 1126 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
-| 20 | 1163 | [Đặng Minh Hà](https://www.worldcubeassociation.org/persons/2022HADA01) |
+| 16 | 826 | [Lê Việt Lâm](https://www.worldcubeassociation.org/persons/2024LAML02) |
+| 17 | 883 | [Mai Đức Nghĩa](https://www.worldcubeassociation.org/persons/2022NGHI01) |
+| 18 | 883 | [Nguyễn Đức Dương](https://www.worldcubeassociation.org/persons/2022DUON05) |
+| 19 | 931 | [Vũ Đức Minh](https://www.worldcubeassociation.org/persons/2024MINH02) |
+| 20 | 1126 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) |
 
 ### 5 Competitions
 

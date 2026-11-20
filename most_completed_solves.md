@@ -1,6 +1,6 @@
 ## Most completed solves
 
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### Competition
@@ -12,21 +12,21 @@
 | 3 | [Vietnam Championship 2024](https://www.worldcubeassociation.org/competitions/VietnamChampionship2024) | **5419** | 5679 |
 | 4 | [Vietnam Championship 2023](https://www.worldcubeassociation.org/competitions/VietnamChampionship2023) | **4915** | 5017 |
 | 5 | [HCMC Cubing Autumn 2024](https://www.worldcubeassociation.org/competitions/HCMCCubingAutumn2024) | **4476** | 4625 |
-| 6 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) | **4103** | 4219 |
-| 7 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) | **4044** | 4208 |
-| 8 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) | **3439** | 3595 |
-| 9 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) | **3401** | 3531 |
-| 10 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) | **2964** | 3032 |
-| 11 | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) | **2865** | 2912 |
-| 12 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) | **2849** | 2965 |
-| 13 | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) | **2769** | 2842 |
-| 14 | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019) | **2654** | 2733 |
-| 15 | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019) | **2647** | 2697 |
-| 16 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | **2539** | 2677 |
-| 17 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | **2492** | 2592 |
-| 18 | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) | **2446** | 2505 |
-| 19 | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) | **2335** | 2391 |
-| 20 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) | **2283** | 2356 |
+| 6 | [Hanoi Winter 2026](https://www.worldcubeassociation.org/competitions/HanoiWinter2026) | **4234** | 4386 |
+| 7 | [Ha Noi Summer 2022](https://www.worldcubeassociation.org/competitions/HaNoiSummer2022) | **4103** | 4219 |
+| 8 | [Hanoi Summer 2023](https://www.worldcubeassociation.org/competitions/HanoiSummer2023) | **4044** | 4208 |
+| 9 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) | **3439** | 3595 |
+| 10 | [Hanoi Super Brain Zyo 2023](https://www.worldcubeassociation.org/competitions/HanoiSuperBrainZyo2023) | **3401** | 3531 |
+| 11 | [Ho Chi Minh Open 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2022) | **2964** | 3032 |
+| 12 | [Ho Chi Minh City Warm Up 2022](https://www.worldcubeassociation.org/competitions/HoChiMinhCityWarmUp2022) | **2865** | 2912 |
+| 13 | [HCMC VNC Warm Up 2025](https://www.worldcubeassociation.org/competitions/HCMCVNCWarmUp2025) | **2849** | 2965 |
+| 14 | [Ho Chi Minh Open 2018](https://www.worldcubeassociation.org/competitions/HoChiMinhOpen2018) | **2769** | 2842 |
+| 15 | [Ha Noi Championship 2019](https://www.worldcubeassociation.org/competitions/HaNoiChampionship2019) | **2654** | 2733 |
+| 16 | [Ho Chi Minh City Open 2019](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2019) | **2647** | 2697 |
+| 17 | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | **2539** | 2677 |
+| 18 | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | **2492** | 2592 |
+| 19 | [HCM Open 2017](https://www.worldcubeassociation.org/competitions/HoChiMinhCityOpen2017) | **2446** | 2505 |
+| 20 | [Ho Chi Minh Spring 2024](https://www.worldcubeassociation.org/competitions/HoChiMinhSpring2024) | **2335** | 2391 |
 
 ### Person
 
@@ -34,31 +34,31 @@
 | ---: | :--- | ---: | ---: |
 | 1 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **2024** | 2150 |
 | 2 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | **1917** | 1930 |
-| 3 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1597** | 1633 |
+| 3 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | **1612** | 1648 |
 | 4 | [Alex Pham](https://www.worldcubeassociation.org/persons/2022PHAM08) | **1593** | 1641 |
-| 5 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1277** | 1354 |
-| 6 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | **1223** | 1251 |
-| 7 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1186** | 1190 |
-| 8 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1150** | 1186 |
-| 9 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1109** | 1178 |
-| 10 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **1029** | 1058 |
-| 11 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **1010** | 1022 |
+| 5 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | **1338** | 1419 |
+| 6 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | **1261** | 1265 |
+| 7 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | **1223** | 1251 |
+| 8 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **1215** | 1251 |
+| 9 | [Nông Quốc Duy](https://www.worldcubeassociation.org/persons/2022DUYN02) | **1193** | 1263 |
+| 10 | [Lê Hà Phong](https://www.worldcubeassociation.org/persons/2017PHON07) | **1085** | 1097 |
+| 11 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | **1077** | 1108 |
 | 12 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | **930** | 938 |
-| 13 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
-| 14 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **840** | 881 |
+| 13 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | **860** | 901 |
+| 14 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) | **844** | 860 |
 | 15 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | **835** | 843 |
 | 16 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | **820** | 853 |
 | 17 | [Nguyen Canh Tien Vinh](https://www.worldcubeassociation.org/persons/2022VINH01) | **767** | 796 |
-| 18 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
-| 19 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **736** | 743 |
-| 20 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | **734** | 739 |
+| 18 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | **766** | 773 |
+| 19 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | **764** | 774 |
+| 20 | [Trung Tran](https://www.worldcubeassociation.org/persons/2017TRUN05) | **747** | 755 |
 
 ### Year
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
 | 1 | 2024 | **27794** | 28805 |
-| 2 | 2026 | **17846** | 18683 |
+| 2 | 2026 | **22100** | 23089 |
 | 3 | 2025 | **17349** | 18066 |
 | 4 | 2023 | **15710** | 16203 |
 | 5 | 2022 | **14897** | 15268 |
@@ -80,20 +80,20 @@
 
 | # |  | Solves | Attempts |
 | ---: | :--- | ---: | ---: |
-| 1 | 3x3x3 Cube | **49489** | 50481 |
-| 2 | 2x2x2 Cube | **25623** | 26287 |
-| 3 | 4x4x4 Cube | **15978** | 16420 |
-| 4 | 3x3x3 One-Handed | **15037** | 15434 |
-| 5 | Pyraminx | **9167** | 9409 |
-| 6 | 5x5x5 Cube | **7829** | 8022 |
-| 7 | Skewb | **6501** | 6686 |
+| 1 | 3x3x3 Cube | **50906** | 51926 |
+| 2 | 2x2x2 Cube | **26671** | 27372 |
+| 3 | 4x4x4 Cube | **16382** | 16835 |
+| 4 | 3x3x3 One-Handed | **15495** | 15897 |
+| 5 | Pyraminx | **9510** | 9763 |
+| 6 | 5x5x5 Cube | **8101** | 8297 |
+| 7 | Skewb | **6788** | 6981 |
 | 8 | Clock | **2549** | 2960 |
 | 9 | Megaminx | **2471** | 2551 |
 | 10 | Square-1 | **1787** | 1864 |
 | 11 | 6x6x6 Cube | **1712** | 1741 |
 | 12 | 7x7x7 Cube | **1362** | 1409 |
-| 13 | Magic | **544** | 618 |
-| 14 | 3x3x3 Blindfolded | **534** | 1549 |
+| 13 | 3x3x3 Blindfolded | **559** | 1623 |
+| 14 | Magic | **544** | 618 |
 | 15 | 3x3x3 Fewest Moves | **268** | 377 |
 | 16 | Master Magic | **143** | 150 |
 | 17 | 3x3x3 Multi-Blind | **40** | 65 |

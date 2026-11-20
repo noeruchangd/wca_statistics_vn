@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 16 November 2026*
+*Updated on 19 November 2026*
 
 
 ### 3x3x3 Cube
@@ -43,10 +43,10 @@
 | 3 | 26.04 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 26.37, 27.49, 25.51, 28.31, 26.73, 24.82, 22.83, 29.22, 27.12, 21.08, 25.90, 25.28 |
 | 4 | 27.03 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 27.48, 24.83, 25.34, 28.23, 26.42, 24.62, 27.20, 27.72, 31.05, 27.49, 29.48, 26.07 |
 | 5 | 27.13 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 29.38, 24.72, 27.64, 29.74, 25.45, 30.96, 25.98, 28.61, 26.65, 25.55, 27.22, 25.04 |
-| 6 | 27.47 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | 27.80, 27.05, 42.06, 26.09, 28.82, 27.85, 25.83, 28.87, 25.80, 30.72, 25.84, 24.92 |
-| 7 | 27.66 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 24.08, 25.15, 28.96, 26.55, 24.97, 25.99, 33.85, 32.27, 27.04, 28.05, 28.35, 29.25 |
-| 8 | 27.97 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 28.52, 28.76, 29.06, 27.64, 29.92, 31.24, 25.70, 25.25, 22.94, 30.63, 34.94, 22.58 |
-| 9 | 28.28 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 28.76, 25.06, 33.33, 30.16, 28.97, 26.78, 28.85, 24.45, 32.95, 26.15, 27.70, 27.44 |
+| 6 | 27.16 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 28.97, 24.92, 28.16, 27.30, 29.93, 26.02, 26.24, 27.83, 29.31, 28.30, 24.52, 23.34 |
+| 7 | 27.25 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) | 25.89, 27.95, 31.21, 27.44, 36.61, 25.28, 27.49, 31.53, 27.53, 23.23, 24.26, 23.92 |
+| 8 | 27.47 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | 27.80, 27.05, 42.06, 26.09, 28.82, 27.85, 25.83, 28.87, 25.80, 30.72, 25.84, 24.92 |
+| 9 | 27.66 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 24.08, 25.15, 28.96, 26.55, 24.97, 25.99, 33.85, 32.27, 27.04, 28.05, 28.35, 29.25 |
 | 10 | 28.83 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 25.84, 30.95, 28.93, 29.99, 30.87, 32.86, 26.95, 31.89, 22.93, 24.31, 29.18, 29.36 |
 
 ### 5x5x5 Cube
@@ -54,15 +54,15 @@
 | # | Ao12 | Person | Times |
 | ---: | ---: | :--- | :--- |
 | 1 | 36.15 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 32.88, 37.37, 38.40, 38.33, 35.53, 34.80, 35.84, 38.22, 32.21, DNF, 32.19, 37.93 |
-| 2 | 46.30 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 44.61, 41.82, 48.02, 44.33, 47.97, 50.10, 46.88, 49.66, 48.65, 41.97, 43.09, 47.79 |
-| 3 | 48.57 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 44.83, 46.12, 45.19, 53.22, 48.34, 50.92, 47.98, 48.22, 48.38, 51.80, 48.31, 50.39 |
+| 2 | 45.37 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 46.88, 49.66, 48.65, 41.97, 43.09, 47.79, 52.60, 47.56, 42.54, 41.18, 42.60, 42.99 |
+| 3 | 48.20 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) | 48.54, 43.79, 1:09.29, 45.44, 45.82, 47.18, 45.36, 45.58, 55.56, 49.77, 51.72, 47.00 |
 | 4 | 48.67 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) | 50.46, 47.48, 51.37, DNF, 46.94, 44.14, 47.33, 49.20, 51.46, 46.02, 47.76, 48.69 |
 | 5 | 49.83 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | 51.07, 50.69, 51.80, 55.07, 53.47, 51.43, 42.71, 43.59, 47.75, 50.94, 48.80, 48.74 |
 | 6 | 52.41 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 52.27, 50.28, 48.50, 59.06, 53.84, 55.36, 50.99, 55.52, 52.14, 48.00, 57.19, 44.13 |
 | 7 | 52.65 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 53.78, 54.54, 48.47, 50.47, 51.14, 1:03.59, 45.57, 50.03, 50.64, 58.73, 52.56, 56.15 |
-| 8 | 53.82 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 51.12, 54.87, 53.07, 54.67, 54.48, 51.03, 49.75, 56.16, 1:01.68, 1:00.75, 50.83, 51.19 |
-| 9 | 53.82 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 50.91, 54.35, 1:05.78, 54.24, 50.66, 56.36, 56.79, 57.44, 52.61, 53.30, 51.46, 50.75 |
-| 10 | 54.62 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 54.08, 56.63, 52.40, 51.64, 50.45, 56.32, 52.55, 54.61, 50.85, 1:01.22, 1:03.12, 55.86 |
+| 8 | 53.21 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 49.87, 48.83, 49.24, 55.48, 55.78, 59.60, 54.91, 51.30, 57.74, 53.73, 53.37, 50.63 |
+| 9 | 53.70 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 51.96, 53.30, 53.00, 1:03.84, 54.62, 55.71, 54.54, 56.35, 57.73, 49.74, 50.01, 48.05 |
+| 10 | 53.91 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 51.02, 57.46, 57.10, 47.97, 54.11, 59.85, 55.50, 59.61, 44.22, 47.47, 1:04.69, 49.01 |
 
 ### 6x6x6 Cube
 
@@ -115,10 +115,10 @@
 | 4 | 10.95 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 9.73, 10.66, 11.44, 10.79, 9.24, 10.73, 12.98, 10.34, 12.70, 9.79, 14.14, 10.37 |
 | 5 | 11.20 | [Nguyễn Văn Khánh](https://www.worldcubeassociation.org/persons/2022KHAN29) | 11.02, 8.49, 10.06, 10.66, 9.44, 12.54, 12.68, 14.65, 11.25, 12.69, 10.67, 10.99 |
 | 6 | 11.40 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | 10.54, 11.00, 10.84, 12.19, 13.09, 9.99, 11.19, 9.15, 15.18, 12.99, 12.82, 9.38 |
-| 7 | 11.63 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) | 11.62, 13.13, 12.01, 13.63, 11.10, 13.36, 10.51, 10.13, 10.50, 12.53, 11.45, 9.48 |
-| 8 | 11.89 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 10.87, 12.75, 10.03, 11.38, 13.39, 14.73, 12.60, 11.45, 9.85, 12.22, 12.35, 11.82 |
-| 9 | 12.11 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 11.95, 11.52, 11.81, 10.26, 12.14, 13.20, 12.75, 12.22, 11.68, 12.74, 14.89, 11.05 |
-| 10 | 12.21 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 11.48, 11.63, 13.56, 13.55, 12.96, 11.09, 11.97, 12.51, 11.87, 12.19, 11.85, 12.13 |
+| 7 | 11.60 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 9.60, 10.72, 9.67, 11.29, 11.75, 12.97, 15.56, 12.95, 14.43, 10.58, 11.81, 9.87 |
+| 8 | 11.63 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) | 11.62, 13.13, 12.01, 13.63, 11.10, 13.36, 10.51, 10.13, 10.50, 12.53, 11.45, 9.48 |
+| 9 | 11.89 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 10.87, 12.75, 10.03, 11.38, 13.39, 14.73, 12.60, 11.45, 9.85, 12.22, 12.35, 11.82 |
+| 10 | 12.11 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) | 12.68, 11.78, 12.72, 10.76, 13.33, 11.89, 14.12, 7.52, 11.80, 12.43, 12.55, 11.14 |
 
 ### Megaminx
 
@@ -170,7 +170,7 @@
 | # | Ao12 | Person | Times |
 | ---: | ---: | :--- | :--- |
 | 1 | 2.65 | [Nông Quốc Khánh](https://www.worldcubeassociation.org/persons/2022KHAN31) | 1.49, 3.15, 2.39, 2.54, 2.56, 2.70, 3.04, 2.49, 3.51, 3.47, 2.03, 2.16 |
-| 2 | 3.72 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | 1.94, 4.36, 4.02, 4.55, 2.91, 3.86, 2.64, 4.25, 4.61, 2.57, 4.09, 3.95 |
+| 2 | 3.18 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) | 3.44, 5.41, 4.56, 2.95, 2.84, 2.78, 3.06, 2.94, 2.66, 3.08, 3.16, 2.94 |
 | 3 | 3.80 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) | 4.79, 3.03, 2.26, 3.65, 2.94, 4.99, 4.64, 4.15, 3.73, 3.16, 5.34, 2.91 |
 | 4 | 3.81 | [Tomáš Nguyen](https://www.worldcubeassociation.org/persons/2014QUYN02) | 3.72, 2.68, 3.09, 4.16, 4.83, 4.55, 2.91, 1.79, 4.53, 6.61, 3.52, 4.11 |
 | 5 | 3.93 | [Nguyễn Ngọc Đức](https://www.worldcubeassociation.org/persons/2024DUCN03) | 4.08, 3.53, 4.50, 3.35, 3.55, 2.68, 5.45, 4.87, 5.11, 3.75, 3.69, 2.86 |
