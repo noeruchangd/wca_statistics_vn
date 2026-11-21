@@ -1,6 +1,6 @@
 ## Most bookmarks compared to competitor limit
 
-*Updated on 19 November 2026*
+*Updated on 21 November 2026*
 
 | # | Competition | Bookmarks | Competitor limit | Ratio |
 | ---: | ---: | :--- | :--- | :--- |
@@ -20,9 +20,9 @@
 | 14 | [cubingHCM Big Cube Winter 2024](https://www.worldcubeassociation.org/competitions/cubingHCMBigCubeWinter2024) | 14 | 80 | 0.175 |
 | 15 | [Hanoi ChessNCube 2026](https://www.worldcubeassociation.org/competitions/HanoiChessNCube2026) | 12 | 70 | 0.17143 |
 | 16 | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 21 | 130 | 0.16154 |
-| 17 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) | 23 | 150 | 0.15333 |
-| 18 | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024) | 18 | 120 | 0.15 |
-| 19 | [Hanoi New Year 2027](https://www.worldcubeassociation.org/competitions/HanoiNewYear2027) | 15 | 100 | 0.15 |
+| 17 | [Hanoi New Year 2027](https://www.worldcubeassociation.org/competitions/HanoiNewYear2027) | 16 | 100 | 0.16 |
+| 18 | [Hanoi Summer 2025](https://www.worldcubeassociation.org/competitions/HanoiSummer2025) | 23 | 150 | 0.15333 |
+| 19 | [Hanoi Side Events 2024](https://www.worldcubeassociation.org/competitions/HanoiSideEvents2024) | 18 | 120 | 0.15 |
 | 20 | [NxN in Hanoi 2024](https://www.worldcubeassociation.org/competitions/NxNinHanoi2024) | 30 | 200 | 0.15 |
 
 

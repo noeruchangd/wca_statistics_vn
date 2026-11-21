@@ -1,6 +1,6 @@
 ## Competitions per year by person
 
-*Updated on 19 November 2026*
+*Updated on 21 November 2026*
 
 | # | Competitions per year | Competitions | Years | Person |
 | ---: | ---: | ---: | ---: | :--- |
