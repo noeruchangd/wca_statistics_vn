@@ -1,7 +1,7 @@
 ## Yearly rankings
 
 *Note: By definition these rankings include only results from the current year.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### 3x3x3 Cube - Single
@@ -265,11 +265,11 @@
 | 3 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) | **10.84** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 10.25, 12.28, 11.23, 10.91, 10.38 |
 | 4 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | **10.99** | [Hanoi CSP Open 2026](https://www.worldcubeassociation.org/competitions/HanoiCSPOpen2026) | 10.39, 10.51, 11.69, 10.79, 11.67 |
 | 5 | [Hà Lâm Kiệt](https://www.worldcubeassociation.org/persons/2025KIET02) | **11.18** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 11.83, 11.64, 9.34, 10.07, 15.99 |
-| 6 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | **11.34** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 11.00, 10.84, 12.19, 13.09, 9.99 |
-| 7 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | **11.60** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 12.49, 10.81, 11.50, 9.76, 14.45 |
-| 8 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **11.67** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 13.54, 10.87, 12.75, 10.03, 11.38 |
-| 9 | [Bùi Vĩnh An Tường](https://www.worldcubeassociation.org/persons/2023TUON02) | **11.73** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.28, 11.42, 12.31, 11.47, 11.42 |
-| 10 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | **11.78** | [Hanoi Winter 2026](https://www.worldcubeassociation.org/competitions/HanoiWinter2026) | 12.95, 14.43, 10.58, 11.81, 9.87 |
+| 6 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | **11.33** | [CSU San Marcos Cubing Open 2026](https://www.worldcubeassociation.org/competitions/CSUSanMarcosCubingOpen2026) | 10.74, 11.04, 12.10, 11.15, 11.81 |
+| 7 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | **11.34** | [Vietnam Championship 2026](https://www.worldcubeassociation.org/competitions/VietnamChampionship2026) | 11.00, 10.84, 12.19, 13.09, 9.99 |
+| 8 | [Trần Quốc Huy](https://www.worldcubeassociation.org/persons/2023HUYT01) | **11.60** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 12.49, 10.81, 11.50, 9.76, 14.45 |
+| 9 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | **11.67** | [MYHM HaNxNoi 2026](https://www.worldcubeassociation.org/competitions/MYHMHaNxNoi2026) | 13.54, 10.87, 12.75, 10.03, 11.38 |
+| 10 | [Bùi Vĩnh An Tường](https://www.worldcubeassociation.org/persons/2023TUON02) | **11.73** | [Arena HCMC Spring 2026](https://www.worldcubeassociation.org/competitions/ArenaHCMCSpring2026) | 13.28, 11.42, 12.31, 11.47, 11.42 |
 
 ### Megaminx - Single
 

@@ -1,7 +1,7 @@
 ## Winned week count
 
 *Note: In other words it's the number of weeks when the given person got the fastest single in the given event.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### 3x3x3 Cube
@@ -15,8 +15,8 @@
 | 5 | [Quan Trần Thanh Lương](https://www.worldcubeassociation.org/persons/2015LUON01) | 11 |
 | 6 | [Phạm Đức Phước](https://www.worldcubeassociation.org/persons/2018PHUO05) | 11 |
 | 7 | [Novaleigh Bui](https://www.worldcubeassociation.org/persons/2017NGHI11) | 10 |
-| 8 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 9 |
-| 9 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 9 |
+| 8 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 10 |
+| 9 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 9 |
 | 10 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 8 |
 | 11 | [Khang Tran](https://www.worldcubeassociation.org/persons/2016TRAN09) | 7 |
 | 12 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) | 7 |
@@ -202,9 +202,9 @@
 | 3 | [Nguyễn Khang Minh](https://www.worldcubeassociation.org/persons/2017MINH15) | 14 |
 | 4 | [Đỗ Quang Hưng](https://www.worldcubeassociation.org/persons/2019HUNG16) | 12 |
 | 5 | [Lê Thành Vinh](https://www.worldcubeassociation.org/persons/2019VINH01) | 7 |
-| 6 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 6 |
-| 7 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 6 |
-| 8 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 6 |
+| 6 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 7 |
+| 7 | [Trần Đăng Quang](https://www.worldcubeassociation.org/persons/2014QUAN03) | 6 |
+| 8 | [Nguyen Pham](https://www.worldcubeassociation.org/persons/2022PHAM02) | 6 |
 | 9 | [Nguyễn Ngọc Thịnh](https://www.worldcubeassociation.org/persons/2010NGUY33) | 5 |
 | 10 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) | 5 |
 | 11 | [Đoàn Thanh Duy](https://www.worldcubeassociation.org/persons/2011DUYA01) | 5 |

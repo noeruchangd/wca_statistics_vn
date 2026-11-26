@@ -1,6 +1,6 @@
 ## Most finals
 
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 | # | Finals | Person |
 | ---: | ---: | :--- |
@@ -28,10 +28,10 @@
 | 22 | 67 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) |
 | 23 | 65 | [Ngan Tran](https://www.worldcubeassociation.org/persons/2016TRAN11) |
 | 24 | 63 | [Nguyễn Thị Kim Nhã](https://www.worldcubeassociation.org/persons/2022NHAN01) |
-| 25 | 60 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
+| 25 | 61 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
 | 26 | 60 | [Nguyễn Thành Đạt](https://www.worldcubeassociation.org/persons/2020DATN02) |
-| 27 | 58 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |
-| 28 | 58 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 27 | 60 | [Nguyễn Đỗ Hoàng Giang](https://www.worldcubeassociation.org/persons/2022GIAN02) |
+| 28 | 58 | [Nguyễn Tài Đức](https://www.worldcubeassociation.org/persons/2010NGUY38) |
 | 29 | 57 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |
 | 30 | 56 | [Nguyễn Hoàng Thiên Phú](https://www.worldcubeassociation.org/persons/2022PHUN01) |
 | 31 | 56 | [Nguyễn Đặng Minh Thọ](https://www.worldcubeassociation.org/persons/2022THON01) |

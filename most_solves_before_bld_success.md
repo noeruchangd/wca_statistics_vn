@@ -1,6 +1,6 @@
 ## Most solves before getting a successful BLD attempt
 
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### 3x3x3 Blindfolded
@@ -26,7 +26,7 @@
 | 17 | 3 | [Đặng Trần Diễn](https://www.worldcubeassociation.org/persons/2020DIEN01) |
 | 18 | 3 | [Đặng Hoàng Sơn](https://www.worldcubeassociation.org/persons/2023SOND02) |
 | 19 | 3 | [Si Huy Tran](https://www.worldcubeassociation.org/persons/2026TRAN17) |
-| 20 | 3 | [Nguyễn Hoàng Nhật Anh](https://www.worldcubeassociation.org/persons/2026ANHN04) |
+| 20 | 3 | [Phùng Quốc Việt](https://www.worldcubeassociation.org/persons/2026VIET02) |
 
 ### 4x4x4 Blindfolded
 

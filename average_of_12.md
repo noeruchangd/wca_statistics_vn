@@ -1,7 +1,7 @@
 ## Average of 12
 
 *Note: 12 consecutive official attempts are considered. Only people from top 200 single are taken into account.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 
 ### 3x3x3 Cube
@@ -61,8 +61,8 @@
 | 6 | 52.41 | [Nguyễn An Phong](https://www.worldcubeassociation.org/persons/2018PHON02) | 52.27, 50.28, 48.50, 59.06, 53.84, 55.36, 50.99, 55.52, 52.14, 48.00, 57.19, 44.13 |
 | 7 | 52.65 | [Phạm Trương Phát](https://www.worldcubeassociation.org/persons/2022PHAT01) | 53.78, 54.54, 48.47, 50.47, 51.14, 1:03.59, 45.57, 50.03, 50.64, 58.73, 52.56, 56.15 |
 | 8 | 53.21 | [Hoàng Hà Thủy Tiên](https://www.worldcubeassociation.org/persons/2018TIEN05) | 49.87, 48.83, 49.24, 55.48, 55.78, 59.60, 54.91, 51.30, 57.74, 53.73, 53.37, 50.63 |
-| 9 | 53.70 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 51.96, 53.30, 53.00, 1:03.84, 54.62, 55.71, 54.54, 56.35, 57.73, 49.74, 50.01, 48.05 |
-| 10 | 53.91 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) | 51.02, 57.46, 57.10, 47.97, 54.11, 59.85, 55.50, 59.61, 44.22, 47.47, 1:04.69, 49.01 |
+| 9 | 53.59 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 49.20, 53.30, 58.93, 52.88, 55.14, 52.17, 57.56, 53.75, 50.52, 53.24, 57.66, 49.66 |
+| 10 | 53.70 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 51.96, 53.30, 53.00, 1:03.84, 54.62, 55.71, 54.54, 56.35, 57.73, 49.74, 50.01, 48.05 |
 
 ### 6x6x6 Cube
 
@@ -117,8 +117,8 @@
 | 6 | 11.40 | [Bùi Trương Nhật Huy](https://www.worldcubeassociation.org/persons/2022HUYB02) | 10.54, 11.00, 10.84, 12.19, 13.09, 9.99, 11.19, 9.15, 15.18, 12.99, 12.82, 9.38 |
 | 7 | 11.60 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) | 9.60, 10.72, 9.67, 11.29, 11.75, 12.97, 15.56, 12.95, 14.43, 10.58, 11.81, 9.87 |
 | 8 | 11.63 | [Nguyễn Thiện Nhân](https://www.worldcubeassociation.org/persons/2022NHAN05) | 11.62, 13.13, 12.01, 13.63, 11.10, 13.36, 10.51, 10.13, 10.50, 12.53, 11.45, 9.48 |
-| 9 | 11.89 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 10.87, 12.75, 10.03, 11.38, 13.39, 14.73, 12.60, 11.45, 9.85, 12.22, 12.35, 11.82 |
-| 10 | 12.11 | [Nguyễn Hoàng Phúc Vinh](https://www.worldcubeassociation.org/persons/2022VINH03) | 12.68, 11.78, 12.72, 10.76, 13.33, 11.89, 14.12, 7.52, 11.80, 12.43, 12.55, 11.14 |
+| 9 | 11.74 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) | 12.22, 12.38, 10.74, 11.04, 12.10, 11.15, 11.81, 12.40, 10.76, 14.62, 11.73, 11.85 |
+| 10 | 11.89 | [Nguyễn Tuấn Công](https://www.worldcubeassociation.org/persons/2016CONG01) | 10.87, 12.75, 10.03, 11.38, 13.39, 14.73, 12.60, 11.45, 9.85, 12.22, 12.35, 11.82 |
 
 ### Megaminx
 

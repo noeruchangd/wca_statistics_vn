@@ -1,7 +1,7 @@
 ## Most 4th places
 
 *Note: Only finals are taken into account.*
-*Updated on 22 November 2026*
+*Updated on 25 November 2026*
 
 | # | 4th places | Person |
 | ---: | ---: | :--- |
@@ -20,10 +20,10 @@
 | 13 | 10 | [Dương Hữu Khang](https://www.worldcubeassociation.org/persons/2013KHAN06) |
 | 14 | 10 | [Đoàn Anh Dũng](https://www.worldcubeassociation.org/persons/2019DUNG04) |
 | 15 | 9 | [Tu Pham](https://www.worldcubeassociation.org/persons/2016PHAM06) |
-| 16 | 8 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
-| 17 | 7 | [Nguyễn Quang Trung](https://www.worldcubeassociation.org/persons/2011NGUY10) |
-| 18 | 7 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
-| 19 | 7 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 16 | 9 | [Khôi Minh Nguyễn](https://www.worldcubeassociation.org/persons/2022NGUY24) |
+| 17 | 8 | [Mai Đức Hòa](https://www.worldcubeassociation.org/persons/2020HOAM01) |
+| 18 | 7 | [Nguyễn Quang Trung](https://www.worldcubeassociation.org/persons/2011NGUY10) |
+| 19 | 7 | [Trần Đình Anh](https://www.worldcubeassociation.org/persons/2019ANHT01) |
 | 20 | 6 | [Trần Minh Quân](https://www.worldcubeassociation.org/persons/2010TRAN11) |
 | 21 | 6 | [Trương Khánh Tùng](https://www.worldcubeassociation.org/persons/2018TUNG05) |
 | 22 | 6 | [Trần Anh Quân](https://www.worldcubeassociation.org/persons/2018QUAN17) |
