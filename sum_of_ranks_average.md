@@ -1,6 +1,6 @@
 ## Sum of national rankings (average)
 
-*Updated on 25 November 2026*
+*Updated on 27 November 2026*
 
 | # | Person | SoR | 333 | 222 | 444 | 555 | 666 | 777 | 333oh | sq1 | minx | pyram | skewb | clock | 444bf | 555bf | 333bf | 333fm |
 | ---: | :--- | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
@@ -150,8 +150,8 @@
 | 144 | [Thomas Đặng Hoàng Thịnh](https://www.worldcubeassociation.org/persons/2023THIN01) | 2633 | 652 | 171 | 367 | 217 | 96 | 98 | 475 | 82 | 70 | 125 | 178 | 43 | 1 | 2 | 27 | 30 |
 | 145 | [Ngô Minh Đức](https://www.worldcubeassociation.org/persons/2019DUCN01) | 2642 | 282 | 52 | 240 | 407 | 161 | 116 | 296 | 150 | 168 | 139 | 394 | 178 | 1 | 2 | 27 | 30 |
 | 146 | [Nguyễn Bảo Ngân](https://www.worldcubeassociation.org/persons/2014NGAN01) | 2655 | 242 | 516 | 68 | 72 | 161 | 116 | 914 | 150 | 41 | 36 | 102 | 178 | 1 | 2 | 27 | 30 |
-| 147 | [Trần Hà Khang](https://www.worldcubeassociation.org/persons/2017KHAN46) | 2669 | 133 | 106 | 60 | 139 | 161 | 116 | 111 | 150 | 168 | 755 | 533 | 178 | 1 | 2 | 27 | 30 |
-| 148 | [Trần Đỗ Ngọc Thiên](https://www.worldcubeassociation.org/persons/2023THIE03) | 2669 | 308 | 63 | 460 | 407 | 161 | 116 | 404 | 150 | 168 | 106 | 89 | 178 | 1 | 2 | 27 | 30 |
+| 147 | [Trần Đỗ Ngọc Thiên](https://www.worldcubeassociation.org/persons/2023THIE03) | 2669 | 308 | 63 | 460 | 407 | 161 | 116 | 404 | 150 | 168 | 106 | 89 | 178 | 1 | 2 | 27 | 30 |
+| 148 | [Trần Hà Khang](https://www.worldcubeassociation.org/persons/2017KHAN46) | 2669 | 133 | 106 | 60 | 139 | 161 | 116 | 111 | 150 | 168 | 755 | 533 | 178 | 1 | 2 | 27 | 30 |
 | 149 | [Phạm Thế Quyền](https://www.worldcubeassociation.org/persons/2010PHAM08) | 2670 | 170 | 163 | 184 | 108 | 86 | 116 | 118 | 150 | 166 | 639 | 533 | 178 | 1 | 2 | 27 | 30 |
 | 150 | [Nguyễn Ngọc Phương](https://www.worldcubeassociation.org/persons/2016PHUO01) | 2696 | 598 | 219 | 111 | 118 | 62 | 116 | 261 | 44 | 89 | 308 | 533 | 178 | 1 | 2 | 27 | 30 |
 | 151 | [Nguyen Duy Long](https://www.worldcubeassociation.org/persons/2025LONG17) | 2708 | 121 | 389 | 122 | 150 | 112 | 95 | 220 | 150 | 168 | 411 | 533 | 178 | 1 | 2 | 27 | 30 |
